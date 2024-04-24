@@ -10,10 +10,11 @@ let package = Package(
         .library(
             name: "ReportKit",
             targets: ["ReportKit"]),
+        
     ],
     targets: [
       //.binaryTarget(name: "ReportKit", path: "./Sources/ReportKit.xcframework")
-      .binaryTarget(name: "ReportKit", url: "https://localhost/Frameworks/ReportKit.xcframework.zip", checksum: "5f3ec40a27bf624567f7c7d0051bfa8f0d84a807ef48c0ad0faa059a4c4abfce")
+      .binaryTarget(name: "ReportKit", url: "https://localhost/Frameworks/ReportKit.xcframework.zip", checksum: "30989aabb7d3e1c897daababd4f47b64a176c346f2d82ff59c9037db2edb61db")
     ]
     
     //LOOK AT DGCHARTSPACKAGE. I THINK WE'RE MESSING UP THE TARGET. IS IT REALLY A TARGET (THE OUTPUT)? WHAT IS THIS REALLY BUILDING? IS THIS SUPPLEMENTAL TO THE XCFRAMEWORK MENTIONED HERE - DO WE NEED TO DISTRIBUTE THEM TOGETHER SOMEHOW?
