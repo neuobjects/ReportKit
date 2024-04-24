@@ -12,12 +12,11 @@ let package = Package(
             targets: ["ReportKit"]),
     ],
     targets: [
-        // Targets are the basic building blocks of a package, defining a module or a test suite.
-        // Targets can depend on other targets in this package and products from dependencies.
-        .target(
-            name: "ReportKit"),
-        .testTarget(
-            name: "ReportKitTests",
-            dependencies: ["ReportKit"]),
+      //.binaryTarget(name: "ReportKit", path: "./Sources/ReportKit.xcframework")
+      .binaryTarget(name: "ReportKit", url: "https://localhost/Frameworks/ReportKit.xcframework.zip", checksum: "f669a4522ed2b6feeb483db9751fdedc326989e9edeca27a21bfd93bcd40307f")
     ]
+    
+    //LOOK AT DGCHARTSPACKAGE. I THINK WE'RE MESSING UP THE TARGET. IS IT REALLY A TARGET (THE OUTPUT)? WHAT IS THIS REALLY BUILDING? IS THIS SUPPLEMENTAL TO THE XCFRAMEWORK MENTIONED HERE - DO WE NEED TO DISTRIBUTE THEM TOGETHER SOMEHOW?
+    // SEE THE APPCODA ARTICLE
+     //WE SHOULD ALSO USE THE LOCAL XCFRAMEWORK (VS NEEDING A CHECKSUM). WE CAN COPY IT IN OUR BUILD-FRAMEWORK.SH SCRIPT.
 )
