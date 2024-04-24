@@ -10,6 +10,7 @@
 @class RKValueFormattingOptions;
 @protocol ChartAxisValueFormatter;
 @protocol ChartValueFormatter;
+//@import DGChartsPackage;
 
 NS_ASSUME_NONNULL_BEGIN
 /**
