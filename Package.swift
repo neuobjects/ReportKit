@@ -14,4 +14,4 @@ let package = Package(
       .binaryTarget(name: "ReportKit", path: "./Sources/ReportKit.xcframework")
     ]
     
-)
+)  
