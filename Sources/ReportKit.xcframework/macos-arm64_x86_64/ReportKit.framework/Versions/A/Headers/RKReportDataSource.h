@@ -23,14 +23,22 @@
 
 @protocol RKReportDataSource <NSObject>
 
-/**
+/* *
  Provide a dictionary of values that are available report-wide.
  @param pageTemplate The design-time page template of the report getting produced.
  @return the number of records that will be printed for this report.
  
  @discussion TODO - FINISH
  */
--(NSInteger) numberOfReportEntitiesForPageTemplate:(RKPageTemplate *) pageTemplate;//CONSIDER renaming to numberOfRecordsForPageTemplate (PrimaryRecords?)
+/*!
+ Return the number of records for the given page template
+ @param pageTemplate The design-time page template of the report getting produced.
+ @return The number of records that will be printed for this report.
+ @discussion A report is driven off a primary record. The report can then include additional information relataed to this record. For example, an invoice for a single customer will have 1 primary record. That invoice may have a number of line items. When generating several invoices, you have a couple options: By specifying the number of invoices to this method, you will end up with a single invoice report that contains all invoices. Alternatively, you can specify 1 as the number of primary records and generate the report once for each invoice you would like to generate.
+ 
+ When a report has 0 primary records, the report will still generate with the Report and Page header and footer bands.
+ */
+-(NSInteger) numberOfPrimaryRecordsForPageTemplate:(RKPageTemplate *) pageTemplate;//CONSIDER renaming to numberOfRecordsForPageTemplate (PrimaryRecords?)
 /**
  Provide the number of group rows that will be generated for this group.
  @param report The report getting generated.
@@ -63,13 +71,13 @@ numberOfDetailRowsInGroup:(RKReportGroup *) group;
  */
 -(NSDictionary<NSString *, NSObject *> *) valuesForReport:(RKGeneratedReport *) report;
 /**
- Provide a dictionary of values that are available for the report entity at the given index.
+ Provide a dictionary of values that are available for the primary record at the given index.
  @param report The report getting generated.
- @param entityIndex The index of the entity that is being generated.
- @return a dictionary of values that can be mapped to the report components associated with this entity.
+ @param recordIndex The index of the primary record that is being generated.
+ @return a dictionary of values that can be mapped to the report components associated with this record.
  */
 -(NSDictionary<NSString *, NSObject *> *) report:(RKGeneratedReport *) report
-                    valuesForReportEntityAtIndex:(NSInteger) entityIndex;
+                   valuesForPrimaryRecordAtIndex:(NSInteger) recordIndex;
 /**
  Provide a dictionary of values that are available for the report header band.
  @param report The report getting generated.
@@ -146,7 +154,7 @@ numberOfDetailRowsInGroup:(RKReportGroup *) group;
  Provide a dictionary of values that are available for the page header band.
  @param report The report getting generated.
  @param group The group that's getting generated.
- @param entityIndex The index of the entity getting generated.
+ @param recordIndex The index of the primary record getting generated.
  @param groupRow The row number for the group
  
  @discussion This method is called when a group is about to get generated. The `RKReportGroup` as two properties you can associate data with - `groupObject` and `groupContentObjects`. The `groupObject` is typically a single record or dictionary that's associated with this group. The `groupContentObjects` should be an array of objects. When it's time for the the reporting engine to map values into the band components, you can refer to these properties in the datasource methods that asks for them. These properties are especially useful for reports having multiple groups.
@@ -154,7 +162,7 @@ numberOfDetailRowsInGroup:(RKReportGroup *) group;
  */
 -(void) report:(RKGeneratedReport *) report
 loadDataIntoGroup:(RKReportGroup *) group
-forReportEntityAtIndex:(NSInteger) entityIndex
+forPrimaryRecordAtIndex:(NSInteger) recordIndex
       groupRow:(NSInteger) groupRow;//the section row allows us to have multiple bands for the same group (not separate groups) so most times, this will be 0.
 /**
  Asks the datasource for the custom view for a given component
