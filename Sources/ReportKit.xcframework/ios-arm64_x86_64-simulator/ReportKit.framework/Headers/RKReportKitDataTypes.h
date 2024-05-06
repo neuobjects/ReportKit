@@ -459,6 +459,12 @@ typedef enum RKScatterShape : NSInteger
   RKScatterShapeChevronUp = 5,
   RKScatterShapeChevronDown = 6,
 } RKScatterShape;
+
+typedef enum RKErrorType : NSInteger
+{
+  RKErrorTypeWarning = 0,
+  RKErrorTypeError = 1,
+} RKErrorType;
 /*
 @protocol ChartAxisValueFormatter
 @end

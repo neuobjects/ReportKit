@@ -37,6 +37,7 @@ NS_ASSUME_NONNULL_BEGIN
 /**
  An array of component objects on the page. These components contain the design-time properties of the components as well as the generated NS/UIView of the component.
  */
+//REFACTOR THIS - NSArray
 @property (readonly, nonatomic, strong) NSMutableArray<RKComponent *> *components;
 /*
  The generated NS/UIView of the band.

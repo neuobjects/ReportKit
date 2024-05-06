@@ -37,7 +37,8 @@
  @param group The group that contains the detail rows.
  @return the number of group rows for the given group
 
- @discussion TODO - FINISH
+ @discussion TODO - FINISH This is called before valuesForGroupHeader: is called and BEFORE loadDataIntoGroup
+ TODO - I think we really need to have the report row here - NO?, this is the number of group rows
  */
 -(NSInteger) report:(RKGeneratedReport *) report
 numberOfGroupRowsInGroup:(RKReportGroup *) group;
@@ -57,6 +58,8 @@ numberOfDetailRowsInGroup:(RKReportGroup *) group;
  Provide a dictionary of values that are available report-wide.
  @param report The report to provide values for.
  @return a dictionary of values that can be mapped to the report components on any band.
+ 
+ TODO: review this - rename? the name suggests we're providing all the report data
  */
 -(NSDictionary<NSString *, NSObject *> *) valuesForReport:(RKGeneratedReport *) report;
 /**

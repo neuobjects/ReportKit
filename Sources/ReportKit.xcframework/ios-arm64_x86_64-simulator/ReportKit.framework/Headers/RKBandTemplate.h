@@ -64,6 +64,7 @@
 /**
  An array of components that are included on the band.
  */
+//REFACTOR: change to an array!
 @property (readonly, nonatomic, strong) NSMutableArray<RKComponentTemplate *> <RKComponentTemplate> *components;
 /**
  The group identifier for the band. The group identifier is helpful when implementing the `RKReportDataSource` delegate methods.

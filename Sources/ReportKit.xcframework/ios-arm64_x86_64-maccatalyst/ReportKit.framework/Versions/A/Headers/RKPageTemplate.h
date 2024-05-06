@@ -96,6 +96,7 @@ NS_ASSUME_NONNULL_BEGIN
 /**
  The array of bands used in the report.
  */
+//REFACTOR - MAKE THIS AN NSARRAY
 @property (readonly, nonatomic, strong) NSMutableArray<RKBandTemplate *> <RKBandTemplate> *bands;
 /**
  The number of groups defined for the report.

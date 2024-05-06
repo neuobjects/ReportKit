@@ -9,6 +9,7 @@
 #import <PDFKit/PDFKit.h>
 @class RKReportProperties;
 @class RKGeneratedPage;
+@class RKGenerationError;
 /**
  `RKGeneratedReport` is the object that contains the generated report. This object is passed to most of the methods in the `RKReportDelegate` and `RKDataReportSource` delegates.
  */
@@ -29,7 +30,7 @@
  Converts the report to a PDF.
  @return The PDF for the generated report
  */
--(PDFDocument *) pdf;
+-(PDFDocument *) generatePdf;
 /**
  Converts the report to a subreport PDF.
  @return The PDF of the subreport, This is similar to the `pdf` method, but this call limits to PDF to just the first page.
@@ -52,4 +53,5 @@
  @return the properties of the report. These correspond to the title, subject, author, creator and keywords properties that are added to the generated PDF document.
  */
 //-(RKReportProperties *) reportProperties;
+-(NSArray<RKGenerationError *> *) generationErrors;
 @end
