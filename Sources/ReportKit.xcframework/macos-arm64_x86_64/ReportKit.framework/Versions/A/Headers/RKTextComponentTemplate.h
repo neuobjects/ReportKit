@@ -91,7 +91,7 @@ NS_ASSUME_NONNULL_BEGIN
 /**
  A platform-independent container for the font information.
  */
-@property (readonly, nonatomic, strong) RKFontInformation *font;
+@property (readonly, nonatomic, strong) RKFontInformation *fontInformation;
 /**
  The background color for the component.
  */

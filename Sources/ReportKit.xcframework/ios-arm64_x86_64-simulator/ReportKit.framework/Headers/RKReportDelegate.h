@@ -35,24 +35,24 @@
  */
 -(void) didPrepareReport:(RKGeneratedReport *) report;//called from generateReport and subreportToPdf
 /**
- Called when each report has finished generating the report for a given entity.
- @param entityIndex The index of the entity that's been prepared.
+ Called when each report has finished generating the report for a given primary record.
+ @param recordIndex The index of the primary record that's been prepared.
  
- A report can be generated for one or more entities. An entity is the object we're reporting on. For example, if we're generating a report for a list of customers, the customer is considered the entity.
+ A report can be generated for one or more primary records. A primary record is the object we're reporting on. For example, if we're generating a report for a list of customers, the customer is considered the primary record.
  */
 -(void) didPrepareReport:(RKGeneratedReport *) report
-          forEntityIndex:(NSInteger) entityIndex;//when to call this - after all reports are generated (and the PDFs are generated) or as they've been prepared?
+ forPrimaryRecordAtIndex:(NSInteger) recordIndex;//when to call this - after all reports are generated (and the PDFs are generated) or as they've been prepared?
 
 /**
- Called when the reporting engine is about to prepare a new page for the given entity.
+ Called when the reporting engine is about to prepare a new page for the given record.
  @param report The report that is getting prepared.
- @param entityIndex The index of the entity that's being reported on.
+ @param recordIndex The index of the primary record that's being reported on.
  @param page The page that is about to be prepared.
  
  The `page` parameter contains minimal information since the page has not yet been generated. The `pageNumber` and `recordPageNumber` properties are available at this point in the process.
  */
 -(void) report:(RKGeneratedReport *) report
-forEntityIndex:(NSInteger) entityIndex
+forPrimaryRecordAtIndex:(NSInteger) recordIndex
 willPreparePage:(RKGeneratedPage *) page;//pass 2
 
 /**
@@ -152,15 +152,15 @@ didPrepareComponent:(RKComponent *) component;//pass 2
           band:(RKGeneratedBand *) band
 shouldFormatValueForComponent:(RKComponent *) component;
 /**
- Called when the reporting engine is is finished preparing a page for the given entity.
+ Called when the reporting engine is is finished preparing a page for the given record.
  @param report The report that is getting prepared.
- @param entityIndex The index of the entity that's being reported on.
+ @param recordIndex The index of the primary record that's being reported on.
  @param page The page that is about to be prepared.
  
  The `page` parameter is the complete, generated page for the report.
  */
 -(void) report:(RKGeneratedReport *) report
-forEntityIndex:(NSInteger) entityIndex
+primaryRecordIndex:(NSInteger) recordIndex
 didPreparePage:(RKGeneratedPage *) page;//pass 2
 /**
  Called when the given group is about to be prepared.
@@ -195,7 +195,7 @@ didApplyChartProperties:(RKComponent *) component;
  @param band The band that is getting positioned
  @param proposedPage The page the band is getting positioned on.
  @param group The group the band belongs to.
- @param entityIndex The index of the entity that's being processed.
+ @param recordIndex The index of the primary record that's being processed.
 
  At this point in the process, the reporting engine is about to position the band on a page. If there's not enough room on the page, the band will get postioned on a new page. In this instance, the proposedPage will differ from the actual page it's positioned on.
  */
@@ -203,21 +203,21 @@ didApplyChartProperties:(RKComponent *) component;
 willPositionBand:(RKGeneratedBand *) band
 onProposedPage:(RKGeneratedPage *) proposedPage
          group:(RKReportGroup *) group
-   entityIndex:(NSInteger) entityIndex;
+primaryRecordIndex:(NSInteger) recordIndex;
 /**
  Tells the delegate the band has been positioned on the report.
  @param report The report that is getting generated.
  @param band The band that is getting positioned
  @param page The page the band is getting positioned on.
  @param group The group the band belongs to.
- @param entityIndex The index of the entity that's being processed.
+ @param recordIndex The index of the primary record that's being processed.
 
  */
 -(void) report:(RKGeneratedReport *) report
 didPositionBand:(RKGeneratedBand *) band
         onPage:(RKGeneratedPage *) page
          group:(RKReportGroup *) group
-   entityIndex:(NSInteger) entityIndex;
+primaryRecordIndex:(NSInteger) recordIndex;
 /**
  Tells the delegate that the given band has been prepared.
  @param report The report that is currently getting generated.
