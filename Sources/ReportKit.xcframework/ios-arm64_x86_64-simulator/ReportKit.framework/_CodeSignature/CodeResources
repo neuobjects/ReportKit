@@ -72,10 +72,6 @@
 		<data>
 		kJhvwrFb0jkEXkEgqydSDFi0bjk=
 		</data>
-		<key>Headers/RKBaseReportController.h</key>
-		<data>
-		uAZfORLJFnmldF7IAtNkvjFLMCo=
-		</data>
 		<key>Headers/RKBasicChartComponentTemplate.h</key>
 		<data>
 		Slrxu1IUZEOOagKuMshHlbM4aUo=
@@ -186,7 +182,7 @@
 		</data>
 		<key>Headers/RKGeneratedReport.h</key>
 		<data>
-		xr13KCviVjJS4ylVDlKvsz/CQKA=
+		xqk21RAeBSca03YKsqUi/rYo7ro=
 		</data>
 		<key>Headers/RKGlobalDefinitions.h</key>
 		<data>
@@ -308,6 +304,10 @@
 		<data>
 		VPUB7PDuGBRpMsK/ZqJl0FBPq3w=
 		</data>
+		<key>Headers/RKReportController.h</key>
+		<data>
+		iTuzB817X26Z2IkMz3PxvvBCQQg=
+		</data>
 		<key>Headers/RKReportDataSource.h</key>
 		<data>
 		QEor1JtXiltiJFN8Kbuk+RcQYMQ=
@@ -322,7 +322,7 @@
 		</data>
 		<key>Headers/RKReportKitDataTypes.h</key>
 		<data>
-		hCUlGGLF4x2qkkVVyWTztNJXnBo=
+		Iw2b4XF1PVFu9qj6Hha/tavDmKw=
 		</data>
 		<key>Headers/RKReportProperties.h</key>
 		<data>
@@ -402,11 +402,11 @@
 		</data>
 		<key>Headers/ReportKit.h</key>
 		<data>
-		HKdbA+A24WeE6+1pT/SCy6RHTK8=
+		EgRHF4gCShnFI7f1F/9y7BaCqts=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		4k/iHVKHIEdPFICviLQskNgKpvU=
+		KkEB5cysElC7tREIXOCFxow41HU=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -532,13 +532,6 @@
 			<key>hash2</key>
 			<data>
 			11AqFGmzso8idXQWO4lhgrk6neYmlW4v7umpAc1bISw=
-			</data>
-		</dict>
-		<key>Headers/RKBaseReportController.h</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			fwXeYqjoFtR+UbgwY2vWr0UaOg7jSzQyOhtC5GHDa8s=
 			</data>
 		</dict>
 		<key>Headers/RKBasicChartComponentTemplate.h</key>
@@ -734,7 +727,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			B1M/Vm7/RaFbWg6ej4786c81uAKc6dK2Xo5ayVTckcM=
+			Xa94rfbZ6QBlz6Ig17JKPa53TfuguD/cLnZGAlC2vDs=
 			</data>
 		</dict>
 		<key>Headers/RKGlobalDefinitions.h</key>
@@ -947,6 +940,13 @@
 			AcVvU5PwXjlr5Y8XKhh7Tfg6crkZQlsTSS8m1WsmF9k=
 			</data>
 		</dict>
+		<key>Headers/RKReportController.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			PA/3kTcRDIW/mZ8qZmRk9T66bZbWOllouRok8qzFEZw=
+			</data>
+		</dict>
 		<key>Headers/RKReportDataSource.h</key>
 		<dict>
 			<key>hash2</key>
@@ -972,7 +972,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			TQWKNiSqVKwQP/cw+grdVrEYwgmMZq8O2qVnCQLDrxM=
+			fclh0iTnqKBTEgI5GW7mFGjdwCrdKuKKi+FjxG43XuE=
 			</data>
 		</dict>
 		<key>Headers/RKReportProperties.h</key>
@@ -1112,7 +1112,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			YYlA5lSSRAOnKYlFU+FRec9bM+vKw0vpyKjP3Z+3Leo=
+			lrnLTVmyQegbGNl4+YfaTd5oG2ZruV9AAE1M4z7+h4I=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

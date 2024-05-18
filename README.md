@@ -5,3 +5,5 @@
 1.0.8. cleaned up logging.
 
 1.0.9. swift package issue?
+
+1.0.10 capture generation errors (barcode issues). Fixed Vertical line drawing error. 

@@ -1,5 +1,5 @@
 //
-//  RBBaseReportController.h
+//  RBReportController.h
 //  ReportBuilderPrototypeApp
 //
 //  Created by Brian Lazarz on 7/21/22.
@@ -25,7 +25,7 @@
  */
 NS_ASSUME_NONNULL_BEGIN
 
-@interface RKBaseReportController : NSObject <RKReportDelegate, RKReportDataSource>
+@interface RKReportController : NSObject <RKReportDelegate, RKReportDataSource>
 
 
 -(instancetype) initWithProjectModel:(RKReportBuilderProjectModel *) projectModel

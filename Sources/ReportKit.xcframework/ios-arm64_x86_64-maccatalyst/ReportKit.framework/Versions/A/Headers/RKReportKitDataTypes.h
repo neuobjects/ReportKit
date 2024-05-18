@@ -366,6 +366,8 @@ typedef enum RKFontType : NSInteger
   //LATER RKFontTypeSystem,
   RKFontTypeCustom,
   RKFontTypeProject
+  //RKFontTypeLater1,
+  //RKFontTypeLater2,
 } RKFontType;
 
 typedef enum RKChartType : NSInteger

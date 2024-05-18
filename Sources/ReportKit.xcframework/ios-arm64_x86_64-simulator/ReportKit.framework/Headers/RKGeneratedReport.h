@@ -22,10 +22,10 @@
 @property (readonly, nonatomic, strong) RKReportProperties *reportProperties;
 
 /**
- As the report is being gererated, this method can be used to retrieve the index of the given report. This is especially useful when combining multiple instances of a report into a single PDF
- @return the index of the report
+ As the report is being gererated, this method can be used to retrieve the index of the given primary record. This is especially useful when combining multiple instances of a report into a single PDF
+ @return the index of the primary record
 */
--(NSInteger) currentReportIndex;
+-(NSInteger) currentPrimaryRecordIndex;
 /**
  Converts the report to a PDF.
  @return The PDF for the generated report
@@ -48,10 +48,19 @@
  */
 -(void) appendPagesFromReport:(RKGeneratedReport *) report
                 renumberPages:(BOOL) renumber;
-/**
+/*
  The report properties for the generated PDF document.
  @return the properties of the report. These correspond to the title, subject, author, creator and keywords properties that are added to the generated PDF document.
  */
 //-(RKReportProperties *) reportProperties;
+/**
+  Preparation errors occur when the pages are getting generation. These errors become available after calling prepareReport or prepareSubreport
+  @return An array of errors that occurred while preparing the report.
+ */
+-(NSArray<RKGenerationError *> *) preparationErrors;
+/**
+ Generation errors occur when the report is getting turned into NS/UIView objects. These errors become available after calling generateReport or generateSubreport
+ @return An array of errors that occurred while generating the report.
+ */
 -(NSArray<RKGenerationError *> *) generationErrors;
 @end
