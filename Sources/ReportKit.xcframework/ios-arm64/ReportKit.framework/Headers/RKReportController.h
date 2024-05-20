@@ -41,14 +41,14 @@ NS_ASSUME_NONNULL_BEGIN
  
  When a report is prepared, the page views are assembled into the RKGeneratedReport object. Once prepared, the report will be ready to be sent to a PDF via generatePdf.
  */
--(RKGeneratedReport *) prepareReport;
+-(RKReport *) prepareReport;
 /**
  Generate the report.
  @param properties The report properties assigned at design time. This includes the title, subject, author, creator and keywords.
  
  Upon completion of this method, the report will be generated.
  */
--(RKGeneratedReport *) prepareReportWithDocumentProperties:(RKReportProperties *) properties;
+-(RKReport *) prepareReportWithDocumentProperties:(RKReportProperties *) properties;
 
 /**
  Generates the subreport.

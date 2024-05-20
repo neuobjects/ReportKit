@@ -1,5 +1,5 @@
 //
-//  RKGeneratedBand.h
+//  RKBand.h
 //  ReportBuilderTestApp
 //
 //  Created by Brian Lazarz on 12/13/21.
@@ -13,7 +13,7 @@
 //@class RKReportGroup;
 NS_ASSUME_NONNULL_BEGIN
 
-@interface RKGeneratedBand : NSObject
+@interface RKBand : NSObject
 /*
  START HERE: FIGURE OUT WHICH OF THESE PROPERTIES CAN BE SET. WE SET THE FRAME AND SKIPBEFORE* in the willPositionBand method. whatever we do here may have to be done at the component level too
  NOTE: This is only an object. we need to review when these values are getting set and where the user can update them. if we make them read/write, we'll have to document when they can and cannot update the values. Leave this exercise for V2

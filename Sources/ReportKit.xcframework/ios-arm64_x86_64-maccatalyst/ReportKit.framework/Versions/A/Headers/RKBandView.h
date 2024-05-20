@@ -12,7 +12,7 @@
   #import <UIKit/UIKit.h>
 #endif
 #import <ReportKit/ReportKit.h>
-@class RKGeneratedBand;
+@class RKBand;
 @class RKComponent;
 
 NS_ASSUME_NONNULL_BEGIN

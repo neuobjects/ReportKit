@@ -110,9 +110,9 @@ FOUNDATION_EXPORT const unsigned char ReportKitVersionString[];
 #import <ReportKit/RKPageableTextContainer.h>//
 #import <ReportKit/RKReportGroup.h>// revisit
 #import <ReportKit/RKGroupTemplate.h>// revisit
-#import <ReportKit/RKGeneratedBand.h>// revisit
-#import <ReportKit/RKGeneratedPage.h>// revisit
-#import <ReportKit/RKGeneratedReport.h>//
+#import <ReportKit/RKBand.h>// revisit
+#import <ReportKit/RKPage.h>// revisit
+#import <ReportKit/RKReport.h>//
 #import <ReportKit/RKReportProperties.h>//
 #import <ReportKit/RKReportController.h>//
 

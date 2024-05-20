@@ -1,5 +1,5 @@
 //
-//  RKGeneratedReport.h
+//  RKPage.h
 //  ReportBuilderPrototypeApp
 //
 //  Created by Brian Lazarz on 2/3/22.
@@ -7,10 +7,10 @@
 
 #import <Foundation/Foundation.h>
 #import <ReportKit/ReportKit.h>
-@class RKGeneratedBand;
+@class RKBand;
 @class RKPageView;
 
-@interface RKGeneratedPage : NSObject
+@interface RKPage : NSObject
 
 @property (readonly, nonatomic) CGRect frame;
 @property (readonly, nonatomic) RKPageOrientation orientation;
@@ -55,7 +55,7 @@
 /**
  An array of generated bands that make up the page.
  */
-@property (readonly, nonatomic, strong) NSMutableArray<RKGeneratedBand *> *reportBands;
+@property (readonly, nonatomic, strong) NSMutableArray<RKBand *> *reportBands;
 
 //@property (readonly, nonatomic) CGFloat overflowY; //easier for us to assign it from the engine
 /**

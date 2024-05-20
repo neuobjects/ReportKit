@@ -12,7 +12,7 @@
 #endif
 #import <ReportKit/ReportKit.h>
 //#import "RBPageTemplate.h"
-@class RKGeneratedPage;
+@class RKPage;
 NS_ASSUME_NONNULL_BEGIN
 
 /**

@@ -1,5 +1,5 @@
 //
-//  RKGeneratedContentReport.h
+//  RKReport.h
 //  ReportBuilderPrototypeApp
 //
 //  Created by Brian Lazarz on 4/13/22.
@@ -8,13 +8,13 @@
 #import <Foundation/Foundation.h>
 #import <PDFKit/PDFKit.h>
 @class RKReportProperties;
-@class RKGeneratedPage;
+@class RKPage;
 @class RKGenerationError;
 /**
- `RKGeneratedReport` is the object that contains the generated report. This object is passed to most of the methods in the `RKReportDelegate` and `RKDataReportSource` delegates.
+ `RKReport` is the object that contains the final report. This object is passed to most of the methods in the `RKReportDelegate` and `RKDataReportSource` delegates.
  */
 
-@interface RKGeneratedReport : NSObject
+@interface RKReport : NSObject
 
 /**
  The report properties are initialized from the Report Builder IDE. They can be updated prior to calling generateReport from the Report Controller.
@@ -38,15 +38,15 @@
 -(PDFDocument *) subreportPdf;
 /**
  The individual pages of the finished reports.
- @return The array of `RKGeneratedPage` objects of the finished report. These pages can be converted to UIView (or NSViews) to be used in other parts of your application.
+ @return The array of `RKPage` objects of the finished report. These pages can be converted to UIView (or NSViews) to be used in other parts of your application.
  */
--(NSArray<RKGeneratedPage *> *) pages;
+-(NSArray<RKPage *> *) pages;
 /**
  Use this method to combine pages from one report into another.
   @param report This is the source report. The report pages will be added to the end of this report.
   @param renumber Should the report be renumbered to account for the added pages?
  */
--(void) appendPagesFromReport:(RKGeneratedReport *) report
+-(void) appendPagesFromReport:(RKReport *) report
                 renumberPages:(BOOL) renumber;
 /*
  The report properties for the generated PDF document.

@@ -8,10 +8,10 @@
 #import <Foundation/Foundation.h>
 //#import <ReportKit/ReportKit.h>
 #import <ReportKit/RKReportKitDataTypes.h>
-@class RKGeneratedReport;
+@class RKReport;
 @class RKReportGroup;
-@class RKGeneratedPage;
-@class RKGeneratedBand;
+@class RKPage;
+@class RKBand;
 @class RKComponent;
 @class RKPageTemplate;
 @protocol ChartAxisValueFormatter;
@@ -48,7 +48,7 @@
  @discussion TODO - FINISH This is called before valuesForGroupHeader: is called and BEFORE loadDataIntoGroup
  TODO - I think we really need to have the report row here - NO?, this is the number of group rows
  */
--(NSInteger) report:(RKGeneratedReport *) report
+-(NSInteger) report:(RKReport *) report
 numberOfGroupRowsInGroup:(RKReportGroup *) group;
 
 /**
@@ -57,7 +57,7 @@ numberOfGroupRowsInGroup:(RKReportGroup *) group;
  @param group The group that contains the detail rows.
  @return the number of details rows for the given group
  */
--(NSInteger) report:(RKGeneratedReport *) report
+-(NSInteger) report:(RKReport *) report
 numberOfDetailRowsInGroup:(RKReportGroup *) group;
 
 @optional
@@ -69,14 +69,14 @@ numberOfDetailRowsInGroup:(RKReportGroup *) group;
  
  TODO: review this - rename? the name suggests we're providing all the report data
  */
--(NSDictionary<NSString *, NSObject *> *) valuesForReport:(RKGeneratedReport *) report;
+-(NSDictionary<NSString *, NSObject *> *) valuesForReport:(RKReport *) report;
 /**
  Provide a dictionary of values that are available for the primary record at the given index.
  @param report The report getting generated.
  @param recordIndex The index of the primary record that is being generated.
  @return a dictionary of values that can be mapped to the report components associated with this record.
  */
--(NSDictionary<NSString *, NSObject *> *) report:(RKGeneratedReport *) report
+-(NSDictionary<NSString *, NSObject *> *) report:(RKReport *) report
                    valuesForPrimaryRecordAtIndex:(NSInteger) recordIndex;
 /**
  Provide a dictionary of values that are available for the report header band.
@@ -85,8 +85,8 @@ numberOfDetailRowsInGroup:(RKReportGroup *) group;
  @param identifier The identifier of the report header band that is getting generated.
  @return a dictionary of values that can be mapped to the components on the report header band.
  */
--(NSDictionary<NSString *, NSObject *> *) report:(RKGeneratedReport *) report
-                                            page:(RKGeneratedPage *) page
+-(NSDictionary<NSString *, NSObject *> *) report:(RKReport *) report
+                                            page:(RKPage *) page
          valuesForReportHeaderBandWithIdentifier:(NSString *) identifier;
 /**
  Provide a dictionary of values that are available for the page header band.
@@ -95,8 +95,8 @@ numberOfDetailRowsInGroup:(RKReportGroup *) group;
  @param identifier The identifier of the page header band that is getting generated.
  @return a dictionary of values that can be mapped to the components on the page header band.
  */
--(NSDictionary<NSString *, NSObject *> *) report:(RKGeneratedReport *) report
-                                            page:(RKGeneratedPage *) page
+-(NSDictionary<NSString *, NSObject *> *) report:(RKReport *) report
+                                            page:(RKPage *) page
            valuesForPageHeaderBandWithIdentifier:(NSString *) identifier;
 /**
  Provide a dictionary of values that are available for the group header band.
@@ -106,8 +106,8 @@ numberOfDetailRowsInGroup:(RKReportGroup *) group;
  @param identifier The identifier of the group header band that is getting generated.
  @return a dictionary of values that can be mapped to the components on the group header band.
  */
--(NSDictionary<NSString *, NSObject *> *) report:(RKGeneratedReport *) report
-                                            page:(RKGeneratedPage *) page
+-(NSDictionary<NSString *, NSObject *> *) report:(RKReport *) report
+                                            page:(RKPage *) page
                                            group:(RKReportGroup *) group
           valuesForGroupHeaderBandWithIdentifier:(NSString *) identifier;
 /**
@@ -119,8 +119,8 @@ numberOfDetailRowsInGroup:(RKReportGroup *) group;
  @param row The detail row that's getting generated.
  @return a dictionary of values that can be mapped to the components on the report header band.
  */
--(NSDictionary<NSString *, id> *) report:(RKGeneratedReport *) report
-                                            page:(RKGeneratedPage *) page
+-(NSDictionary<NSString *, id> *) report:(RKReport *) report
+                                            page:(RKPage *) page
                                            group:(RKReportGroup *) group
                 valuesForDetailBandWithIdentifer:(NSString *) identifier
                                              row:(NSInteger) row;
@@ -132,8 +132,8 @@ numberOfDetailRowsInGroup:(RKReportGroup *) group;
  @param identifier The identifier of the group footer band that is getting generated.
  @return a dictionary of values that can be mapped to the components on the group footer band.
  */
--(NSDictionary<NSString *, NSObject *> *) report:(RKGeneratedReport *) report
-                                            page:(RKGeneratedPage *) page
+-(NSDictionary<NSString *, NSObject *> *) report:(RKReport *) report
+                                            page:(RKPage *) page
                                            group:(RKReportGroup *) group
           valuesForGroupFooterBandWithIdentifier:(NSString *) identifier;
 /**
@@ -143,11 +143,11 @@ numberOfDetailRowsInGroup:(RKReportGroup *) group;
  @param identifier The identifier of the page footer band that is getting generated.
  @return A dictionary of values that can be mapped to the components on the page footer band.
  */
--(NSDictionary<NSString *, NSObject *> *) report:(RKGeneratedReport *) report
-                                            page:(RKGeneratedPage *) page
+-(NSDictionary<NSString *, NSObject *> *) report:(RKReport *) report
+                                            page:(RKPage *) page
            valuesForPageFooterBandWithIdentifier:(NSString *) identifier;
--(NSDictionary<NSString *, NSObject *> *) report:(RKGeneratedReport *) report
-                                            page:(RKGeneratedPage *) page
+-(NSDictionary<NSString *, NSObject *> *) report:(RKReport *) report
+                                            page:(RKPage *) page
          valuesForReportFooterBandWithIdentifier:(NSString *) identifier;
 
 /**
@@ -160,7 +160,7 @@ numberOfDetailRowsInGroup:(RKReportGroup *) group;
  @discussion This method is called when a group is about to get generated. The `RKReportGroup` as two properties you can associate data with - `groupObject` and `groupContentObjects`. The `groupObject` is typically a single record or dictionary that's associated with this group. The `groupContentObjects` should be an array of objects. When it's time for the the reporting engine to map values into the band components, you can refer to these properties in the datasource methods that asks for them. These properties are especially useful for reports having multiple groups.
  
  */
--(void) report:(RKGeneratedReport *) report
+-(void) report:(RKReport *) report
 loadDataIntoGroup:(RKReportGroup *) group
 forPrimaryRecordAtIndex:(NSInteger) recordIndex
       groupRow:(NSInteger) groupRow;//the section row allows us to have multiple bands for the same group (not separate groups) so most times, this will be 0.
@@ -172,8 +172,8 @@ forPrimaryRecordAtIndex:(NSInteger) recordIndex
  
  In your implementation, create an NS/UIView for the given component.
  */
--(RKView *) report:(RKGeneratedReport *) report
-              band:(RKGeneratedBand *) band
+-(RKView *) report:(RKReport *) report
+              band:(RKBand *) band
 customViewForComponent:(RKComponent *) component;
 /**
  Asks the data source for the subreport view for a given component
@@ -181,8 +181,8 @@ customViewForComponent:(RKComponent *) component;
  @param band The band the component resides on.
  @param component The subreport component that requires content.
 */
--(RKView *) report:(RKGeneratedReport *) report
-                band:(RKGeneratedBand *) band
+-(RKView *) report:(RKReport *) report
+                band:(RKBand *) band
 subreportViewForComponent:(RKComponent *) component;
 /**
  Asks the data source for the value formatter for the given axis of a chart component.
@@ -193,8 +193,8 @@ subreportViewForComponent:(RKComponent *) component;
 
  The value formatter should conform to the ChartAxisValueFormatter protocol.
  */
--(NSObject <ChartAxisValueFormatter> *) report:(RKGeneratedReport *) report
-                                          band:(RKGeneratedBand *) band
+-(NSObject <ChartAxisValueFormatter> *) report:(RKReport *) report
+                                          band:(RKBand *) band
                         valueFormatterForChart:(RKComponent *) chartComponent
                                       axisType:(RKChartAxisType) axisType;
 /**
@@ -206,13 +206,13 @@ subreportViewForComponent:(RKComponent *) component;
 
  The value formatter should conform to the ChartAxisValueFormatter protocol.
  */
--(NSObject <ChartValueFormatter> *) report:(RKGeneratedReport *) report
-                                      band:(RKGeneratedBand *) band
+-(NSObject <ChartValueFormatter> *) report:(RKReport *) report
+                                      band:(RKBand *) band
                     valueFormatterForChart:(RKComponent *) chartComponent
                               datasetIndex:(NSInteger) datasetIndex;
 
--(NSArray<NSString *> *) report:(RKGeneratedReport *) report
-                           band:(RKGeneratedBand *) band
+-(NSArray<NSString *> *) report:(RKReport *) report
+                           band:(RKBand *) band
             xAxisLabelsForChart:(RKComponent *) chartComponent;
 @end
 
