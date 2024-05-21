@@ -7,6 +7,9 @@
 //
 #import <TargetConditionals.h>
 
+@class RKGenerationError;
+@class PDFDocument;
+
 #define REPORTBUILDER_FORMAT_VERSION 1
 
 #if TARGET_OS_OSX
@@ -34,6 +37,9 @@
   #define RKBezierPath UIBezierPath
   #define RKFontDescriptor UIFontDescriptor
 #endif
+
+typedef void (^RKGeneratePdfHandler)(PDFDocument *document, BOOL success, NSArray<RKGenerationError *> *generationErrors);
+
 /**
  The clamping location specifies the positioning behavior of a component when it's band is resized.
  

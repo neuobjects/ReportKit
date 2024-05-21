@@ -238,7 +238,9 @@ didPrepareBand:(RKBand *) band
 -(void) didGeneratePdfPage:(PDFPage *) page
                  forReport:(RKReport *) report;
 */
--(void) generatingPageNumber:(NSInteger) pageNumber
-                          of:(NSInteger) totalPages;
+-(void) willGeneratePageNumber:(NSInteger) pageNumber
+                            of:(NSInteger) totalPages;
+-(void) didGeneratePageNumber:(NSInteger) pageNumber
+                           of:(NSInteger) totalPages;
 
 @end

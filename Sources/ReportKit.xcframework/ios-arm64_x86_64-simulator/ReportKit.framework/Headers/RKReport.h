@@ -7,6 +7,7 @@
 
 #import <Foundation/Foundation.h>
 #import <PDFKit/PDFKit.h>
+#import <ReportKit/ReportKit.h>
 @class RKReportProperties;
 @class RKPage;
 @class RKGenerationError;
@@ -26,6 +27,9 @@
  @return the index of the primary record
 */
 -(NSInteger) currentPrimaryRecordIndex;
+
+
+-(void) generatePdfWithCompletionHandler:(RKGeneratePdfHandler) completionHandler;
 /**
  Converts the report to a PDF.
  @return The PDF for the generated report
