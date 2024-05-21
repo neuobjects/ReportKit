@@ -15,3 +15,5 @@
 1.1.3 added tag after push. added this line and pushed to get correct version.
 
 1.1.4 added blocks and background threads for pdf generation
+
+1.1.5 added tag after push
