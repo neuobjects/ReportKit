@@ -13,3 +13,5 @@
 1.1.2 renamed RKGeneratedReport and RKGeneratedPage. Added generatingPageNumber:of delegate method as we generate the report
 
 1.1.3 added tag after push. added this line and pushed to get correct version.
+
+1.1.4 added blocks and background threads for pdf generation
