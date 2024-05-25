@@ -18,4 +18,4 @@
 
 1.1.5 added tag after push
 
-1.1.6 fixed background task-related issues
+1.1.6 fixed background task-related issues.
