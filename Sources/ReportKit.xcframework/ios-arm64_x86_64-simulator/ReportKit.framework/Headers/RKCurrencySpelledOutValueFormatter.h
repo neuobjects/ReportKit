@@ -9,7 +9,7 @@
 #import <Foundation/Foundation.h>
 @protocol ChartAxisValueFormatter;
 @protocol ChartValueFormatter;
-//@import DGChartsPackage;
+//@import DGCharts;
 
 NS_ASSUME_NONNULL_BEGIN
 

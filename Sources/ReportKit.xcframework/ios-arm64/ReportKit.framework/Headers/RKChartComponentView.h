@@ -10,7 +10,7 @@
 #import <ReportKit/RKReportKitDataTypes.h>
 //@import Charts;
 //@import Charts;
-////@import DGChartsPackage;
+////@import DGCharts;
 @class ChartViewBase;
 NS_ASSUME_NONNULL_BEGIN
 

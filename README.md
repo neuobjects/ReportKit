@@ -25,3 +25,5 @@
 1.1.8 Fixed chart color decoding.  
 
 1.1.9 push to sync source with tag
+
+1.2.0 DGCharts package replacement
