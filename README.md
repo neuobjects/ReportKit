@@ -23,3 +23,5 @@
 1.1.7 update tag after push
 
 1.1.8 Fixed chart color decoding.  
+
+1.1.9 push to sync source with tag
