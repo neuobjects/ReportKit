@@ -21,3 +21,5 @@
 1.1.6 fixed background task-related issues.
 
 1.1.7 update tag after push
+
+1.1.8 Fixed chart color decoding.  
