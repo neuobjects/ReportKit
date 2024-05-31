@@ -22,7 +22,7 @@ NS_ASSUME_NONNULL_BEGIN
 /**
  The fill color of the rectangle.
  */
-@property (readonly, nonatomic, copy) RKColor *color;//rename to fillColor? or change ovalcomponent color...
+@property (readonly, nonatomic, strong) RKColor *color;//rename to fillColor? or change ovalcomponent color...
 /**
  A value that rounds the edges of the component.
  */

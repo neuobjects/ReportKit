@@ -14,6 +14,8 @@ NS_ASSUME_NONNULL_BEGIN
  */
 @interface RKBarLineChartComponentView : RKBasicXYAxisChartComponentView
 
+-(void) applyBarLineChartDatasetPropertiesFromModel;
+
 @end
 
 NS_ASSUME_NONNULL_END

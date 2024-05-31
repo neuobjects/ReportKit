@@ -51,7 +51,7 @@ NS_ASSUME_NONNULL_BEGIN
 /**
  The text color of the title.
  */
-@property (readonly, nonatomic, copy) RKColor *color;
+@property (readonly, nonatomic, strong) RKColor *color;
 /**
  The mode for wrapping and truncating text in the component frame.
  */
@@ -87,7 +87,7 @@ NS_ASSUME_NONNULL_BEGIN
 /**
  If any of the component edges are bordered, this will be the stroke color for the border.
  */
-@property (readonly, nonatomic, copy) RKColor *strokeColor;
+@property (readonly, nonatomic, strong) RKColor *strokeColor;
 /**
  A platform-independent container for the font information.
  */
@@ -95,7 +95,7 @@ NS_ASSUME_NONNULL_BEGIN
 /**
  The background color for the component.
  */
-@property (readonly, nonatomic, copy) RKColor *backgroundColor;
+@property (readonly, nonatomic, strong) RKColor *backgroundColor;
 /**
  A value that rounds the edges of the component.
  */

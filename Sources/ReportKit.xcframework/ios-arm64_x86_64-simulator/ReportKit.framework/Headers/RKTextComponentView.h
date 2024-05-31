@@ -87,11 +87,11 @@
 /**
  If any of the component edges are bordered, this will be the stroke color for the border.
  */
-@property (nonatomic, copy) RKColor *strokeColor;
+@property (nonatomic, strong) RKColor *strokeColor;
 /**
  The background color for the component.
  */
-@property (nonatomic, copy) RKColor *backgroundColor;
+@property (nonatomic, strong) RKColor *backgroundColor;
 /**
  A value that rounds the edges of the component.
  */

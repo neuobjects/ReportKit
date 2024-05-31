@@ -7,6 +7,12 @@
 //
 
 #import <ReportKit/JSONValueTransformer.h>
+#include <TargetConditionals.h>
+#if TARGET_OS_OSX
+@class NSColor;
+#else
+@class UIColor;
+#endif
 
 NS_ASSUME_NONNULL_BEGIN
 /**
@@ -14,6 +20,11 @@ NS_ASSUME_NONNULL_BEGIN
  */
 @interface JSONValueTransformer (ReportKit)
 
+#if TARGET_OS_OSX
+-(NSColor *) NSColorFromNSString:(NSString *) value;
+#else
+-(UIColor *) UIColorFromNSString:(NSString *) value;
+#endif
 @end
 
 NS_ASSUME_NONNULL_END

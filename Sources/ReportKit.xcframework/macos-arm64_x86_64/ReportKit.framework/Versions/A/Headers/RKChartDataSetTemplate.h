@@ -50,7 +50,7 @@ NS_ASSUME_NONNULL_BEGIN
 /*
  The color of the value that prints with each series.
  */
-@property (readonly, nonatomic, copy) RKColor<Optional> *valueColor;
+@property (readonly, nonatomic, strong) RKColor<Optional> *valueColor;
 /*
  The font used when printing the value.
  */
@@ -71,7 +71,7 @@ NS_ASSUME_NONNULL_BEGIN
 /*
  The color used to print the series.
  */
-@property (readonly, nonatomic, copy) RKColor<Optional> *datasetColor;
+@property (readonly, nonatomic, strong) RKColor<Optional> *datasetColor;
 //bar
 /*
  The width of the bar chart border.
@@ -80,11 +80,11 @@ NS_ASSUME_NONNULL_BEGIN
 /*
  The bar chart border color.
  */
-@property (readonly, nonatomic, copy) RKColor<Optional> *barBorderColor;
+@property (readonly, nonatomic, strong) RKColor<Optional> *barBorderColor;
 /*
  The color of the bar shadow.
  */
-@property (readonly, nonatomic, copy) RKColor<Optional> *barShadowColor;
+@property (readonly, nonatomic, strong) RKColor<Optional> *barShadowColor;
 //stacked
 /*
  The property names of the entries for a stacked chart. The reporting engine uses these property names to map the data to the chart dataset.
@@ -97,16 +97,16 @@ NS_ASSUME_NONNULL_BEGIN
 /*
  The entry colors for a stacked chart.
  */
-@property (readonly, nonatomic, copy) NSArray<RKColor *><Optional> *stackColors;
+@property (readonly, nonatomic, strong) NSArray<RKColor *><Optional> *stackColors;
 //positive/hegative, negative stacked
 /*
  The color of the first stack for the Negative Stacked charts or positive entries in the Positive/Negative chart.
  */
-@property (readonly, nonatomic, copy) RKColor<Optional> *firstDatasetColor;
+@property (readonly, nonatomic, strong) RKColor<Optional> *firstDatasetColor;
 /*
  The color of the second stack for the Negative Stacked charts or negative entries in the Positive/Negative chart.
  */
-@property (readonly, nonatomic, copy) RKColor<Optional> *secondDatasetColor;
+@property (readonly, nonatomic, strong) RKColor<Optional> *secondDatasetColor;
 //bubble
 /*
  The property name used to map the size of the bubbles in a bubble chart.
@@ -128,19 +128,19 @@ NS_ASSUME_NONNULL_BEGIN
 /*
  The property name used to map the color of the increasing color value in the candle chart.
  */
-@property (readonly, nonatomic, copy) RKColor<Optional> *candleIncreasingColor;
+@property (readonly, nonatomic, strong) RKColor<Optional> *candleIncreasingColor;
 /*
  The property name used to map the color of the decreasing color value in the candle chart.
  */
-@property (readonly, nonatomic, copy) RKColor<Optional> *candleDecreasingColor;
+@property (readonly, nonatomic, strong) RKColor<Optional> *candleDecreasingColor;
 /*
  The property name used to map the color of the neutral color value in the candle chart.
  */
-@property (readonly, nonatomic, copy) RKColor<Optional> *candleNeutralColor;
+@property (readonly, nonatomic, strong) RKColor<Optional> *candleNeutralColor;
 /*
  The shadow color value in the candle chart.
  */
-@property (readonly, nonatomic, copy) RKColor<Optional> *candleShadowColor;
+@property (readonly, nonatomic, strong) RKColor<Optional> *candleShadowColor;
 /*
  The width of the shadow color for the candle chart.
  */
@@ -166,7 +166,7 @@ NS_ASSUME_NONNULL_BEGIN
 /*
  The color of the circle colors for the line chart. Only applicable if the circles are enabled.
  */
-@property (readonly, nonatomic, copy) RKColor<Optional> *lineCircleColor;
+@property (readonly, nonatomic, strong) RKColor<Optional> *lineCircleColor;
 /*
  The width of the lines on the line chart.
  */
@@ -179,7 +179,7 @@ NS_ASSUME_NONNULL_BEGIN
 /*
  The color used to fill in the scatter chart cirle.
  */
-@property (readonly, nonatomic, copy) RKColor<Optional> *scatterShapeHoleColor;
+@property (readonly, nonatomic, strong) RKColor<Optional> *scatterShapeHoleColor;
 /*
  The radius of the hole used for the entry circles on the scatter chart.
  */
@@ -208,7 +208,7 @@ NS_ASSUME_NONNULL_BEGIN
 /*
  The line color used for the pie chart values when the values are printed outside the chart.
  */
-@property (readonly, nonatomic, copy) RKColor<Optional> *pieLineColor;
+@property (readonly, nonatomic, strong) RKColor<Optional> *pieLineColor;
 /*
  The width of the line for the pie chart values when the values are printed outside the chart.
  */
@@ -221,7 +221,7 @@ NS_ASSUME_NONNULL_BEGIN
 /*
  The color of the filled area for line and radar charts.
  */
-@property (readonly, nonatomic, copy) RKColor<Optional> *lineRadarDatasetFillColor;
+@property (readonly, nonatomic, strong) RKColor<Optional> *lineRadarDatasetFillColor;
 /*
  The alpha value of the filled area for line and radar charts.
  */

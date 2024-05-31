@@ -27,7 +27,7 @@ NS_ASSUME_NONNULL_BEGIN
 /**
  If any of the component edges are bordered, this will be the stroke color for the border.
  */
-@property (readonly, nonatomic, copy) RKColor *strokeColor;
+@property (readonly, nonatomic, strong) RKColor *strokeColor;
 
 @end
 

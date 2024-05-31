@@ -35,15 +35,15 @@ NS_ASSUME_NONNULL_BEGIN
 /**
  The color of the x axis label.
  */
-@property (readonly, nonatomic, copy) RKColor *xAxisLabelTextColor;
+@property (readonly, nonatomic, strong) RKColor *xAxisLabelTextColor;
 /**
  The color of the x axis label.
  */
-@property (readonly, nonatomic, copy) RKColor *xAxisAxisLineColor;
+@property (readonly, nonatomic, strong) RKColor *xAxisAxisLineColor;
 /**
  The color of the x axis grid line.
 */
-@property (readonly, nonatomic, copy) RKColor *xAxisGridLineColor;
+@property (readonly, nonatomic, strong) RKColor *xAxisGridLineColor;
 /**
  The font information to use for the x axis label.
  */

@@ -56,7 +56,7 @@ NS_ASSUME_NONNULL_BEGIN
 /**
  The page background color.
  */
-@property (readonly, nonatomic, copy) RKColor *backgroundColor;
+@property (readonly, nonatomic, strong) RKColor *backgroundColor;
 /**
  REMOVE THIS
  */

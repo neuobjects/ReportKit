@@ -36,7 +36,7 @@ NS_ASSUME_NONNULL_BEGIN
 /**
  The text color of the title.
  */
-@property (readonly, nonatomic, copy) RKColor *color;//not a property? pulled from textField?
+@property (readonly, nonatomic, strong) RKColor *color;//not a property? pulled from textField?
 /**
  The transparency of the component.
  */
@@ -48,7 +48,7 @@ NS_ASSUME_NONNULL_BEGIN
 /**
  The background color for the component.
  */
-@property (readonly, nonatomic, copy) RKColor *backgroundColor;
+@property (readonly, nonatomic, strong) RKColor *backgroundColor;
 /**
  A value that rounds the edges of the component.
  */
@@ -68,7 +68,7 @@ NS_ASSUME_NONNULL_BEGIN
 /**
  If any of the component edges are bordered, this will be the stroke color for the border.
  */
-@property (readonly, nonatomic, copy) RKColor *strokeColor;
+@property (readonly, nonatomic, strong) RKColor *strokeColor;
 /**
  The frame rectangle for the text portion of the component.
  */

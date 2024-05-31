@@ -49,7 +49,7 @@ NS_ASSUME_NONNULL_BEGIN
 /**
  The color of the upper limit line of the left axis.
  */
-@property (readonly, nonatomic, copy) RKColor<Optional> *leftAxisUpperLimitLineLineColor;
+@property (readonly, nonatomic, strong) RKColor<Optional> *leftAxisUpperLimitLineLineColor;
 /**
  A boolean value indicating whether the label for the upper limit line should be drawn for the left axis.
  */
@@ -67,7 +67,7 @@ NS_ASSUME_NONNULL_BEGIN
 /**
  The color of the upper limit line text for the left axis.
  */
-@property (readonly, nonatomic, copy) RKColor<Optional> *leftAxisUpperLimitLineLabelColor;
+@property (readonly, nonatomic, strong) RKColor<Optional> *leftAxisUpperLimitLineLabelColor;
 /**
  The font information used to draw the text for the left axis upper limit line.
  */
@@ -92,7 +92,7 @@ NS_ASSUME_NONNULL_BEGIN
 /**
  The color of the lower limit line of the left axis.
  */
-@property (readonly, nonatomic, copy) RKColor<Optional> *leftAxisLowerLimitLineLineColor;
+@property (readonly, nonatomic, strong) RKColor<Optional> *leftAxisLowerLimitLineLineColor;
 /**
  A boolean value indicating whether the label for the lower limit line should be drawn for the left axis.
  */
@@ -110,7 +110,7 @@ NS_ASSUME_NONNULL_BEGIN
 /**
  The color of the lower limit line text for the left axis.
  */
-@property (readonly, nonatomic, copy) RKColor<Optional> *leftAxisLowerLimitLineLabelColor;
+@property (readonly, nonatomic, strong) RKColor<Optional> *leftAxisLowerLimitLineLabelColor;
 /**
  The font information used to draw the text for the left axis lower limit line.
  */
@@ -135,7 +135,7 @@ NS_ASSUME_NONNULL_BEGIN
 /**
  The color of the upper limit line of the right axis.
  */
-@property (readonly, nonatomic, copy) RKColor<Optional> *rightAxisUpperLimitLineLineColor;
+@property (readonly, nonatomic, strong) RKColor<Optional> *rightAxisUpperLimitLineLineColor;
 /**
  A boolean value indicating whether the label for the upper limit line should be drawn for the right axis.
  */
@@ -153,7 +153,7 @@ NS_ASSUME_NONNULL_BEGIN
 /**
  The color of the upper limit line text for the right axis.
  */
-@property (readonly, nonatomic, copy) RKColor<Optional> *rightAxisUpperLimitLineLabelColor;
+@property (readonly, nonatomic, strong) RKColor<Optional> *rightAxisUpperLimitLineLabelColor;
 /**
  The font information used to draw the text for the right axis upper limit line.
  */
@@ -178,7 +178,7 @@ NS_ASSUME_NONNULL_BEGIN
 /**
  The color of the lower limit line of the right axis.
  */
-@property (readonly, nonatomic, copy) RKColor<Optional> *rightAxisLowerLimitLineLineColor;
+@property (readonly, nonatomic, strong) RKColor<Optional> *rightAxisLowerLimitLineLineColor;
 /**
  A boolean value indicating whether the label for the lower limit line should be drawn for the right axis.
  */
@@ -196,7 +196,7 @@ NS_ASSUME_NONNULL_BEGIN
 /**
  The color of the lower limit line text for the right axis.
  */
-@property (readonly, nonatomic, copy) RKColor<Optional> *rightAxisLowerLimitLineLabelColor;
+@property (readonly, nonatomic, strong) RKColor<Optional> *rightAxisLowerLimitLineLabelColor;
 /**
  The font information used to draw the text for the right axis lower limit line.
  */
@@ -222,7 +222,7 @@ NS_ASSUME_NONNULL_BEGIN
 /**
  The color of the upper limit line of the x axis.
  */
-@property (readonly, nonatomic, copy) RKColor<Optional> *xAxisUpperLimitLineLineColor;
+@property (readonly, nonatomic, strong) RKColor<Optional> *xAxisUpperLimitLineLineColor;
 /**
  A boolean value indicating whether the label for the upper limit line should be drawn for the x axis.
  */
@@ -240,7 +240,7 @@ NS_ASSUME_NONNULL_BEGIN
 /**
  The color of the upper limit line text for the x axis.
  */
-@property (readonly, nonatomic, copy) RKColor<Optional> *xAxisUpperLimitLineLabelColor;
+@property (readonly, nonatomic, strong) RKColor<Optional> *xAxisUpperLimitLineLabelColor;
 /**
  The font information used to draw the text for the x axis upper limit line.
  */
@@ -265,7 +265,7 @@ NS_ASSUME_NONNULL_BEGIN
 /**
  The color of the lower limit line of the x axis.
  */
-@property (readonly, nonatomic, copy) RKColor<Optional> *xAxisLowerLimitLineLineColor;
+@property (readonly, nonatomic, strong) RKColor<Optional> *xAxisLowerLimitLineLineColor;
 /**
  A boolean value indicating whether the label for the lower limit line should be drawn for the x axis.
  */
@@ -283,7 +283,7 @@ NS_ASSUME_NONNULL_BEGIN
 /**
  The color of the lower limit line text for the x axis.
  */
-@property (readonly, nonatomic, copy) RKColor<Optional> *xAxisLowerLimitLineLabelColor;
+@property (readonly, nonatomic, strong) RKColor<Optional> *xAxisLowerLimitLineLabelColor;
 /**
  The font information used to draw the text for the x axis lower limit line.
  */

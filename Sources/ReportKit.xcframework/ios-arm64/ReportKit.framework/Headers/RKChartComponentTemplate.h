@@ -43,7 +43,7 @@ NS_ASSUME_NONNULL_BEGIN
 /*
  The color of the chart description.
  */
-@property (readonly, nonatomic, copy) RKColor *chartDescriptionTextColor;
+@property (readonly, nonatomic, strong) RKColor *chartDescriptionTextColor;
 /*
  The font used for the chart description.
  */
@@ -67,7 +67,7 @@ NS_ASSUME_NONNULL_BEGIN
 /*
  The text color of the chart legend.
  */
-@property (readonly, nonatomic, copy) RKColor<Optional> *legendTextColor;
+@property (readonly, nonatomic, strong) RKColor<Optional> *legendTextColor;
 /*
  The font used for the chart legend.
  */

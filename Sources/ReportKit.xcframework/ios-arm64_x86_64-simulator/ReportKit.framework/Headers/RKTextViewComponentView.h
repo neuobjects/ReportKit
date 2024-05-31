@@ -55,7 +55,7 @@
 /**
  If any of the component edges are bordered, this will be the stroke color for the border.
  */
-@property (nonatomic, copy) RKColor *strokeColor;
+@property (nonatomic, strong) RKColor *strokeColor;
 
 //-(instancetype) initWithComponent:(RKComponent *) component
 //               textViewDictionary:(NSMutableDictionary *) textViewDictionary;

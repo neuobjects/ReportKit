@@ -7,6 +7,8 @@
 //
 
 #import <ReportKit/RKPieRadarChartComponentTemplate.h>
+#import <ReportKit/JSONValueTransformer+ReportKit.h>
+
 NS_ASSUME_NONNULL_BEGIN
 
 /**
@@ -25,7 +27,7 @@ NS_ASSUME_NONNULL_BEGIN
 /**
  The color of the transparent circle in the center of the chart.
  */
-@property (readonly, nonatomic, copy) RKColor<Optional> *holeTransparencyColor;
+@property (readonly, nonatomic, strong) RKColor<Optional> *holeTransparencyColor;
 /**
  The size of the hole in the center of the chart
  */
@@ -45,7 +47,7 @@ NS_ASSUME_NONNULL_BEGIN
 /**
  The color for the hole that is drawn in the center of the chart.
  */
-@property (readonly, nonatomic, copy) RKColor<Optional> *holeColor;
+@property (readonly, nonatomic, strong) RKColor<Optional> *holeColor;
 /**
  the maximum angle of the pie.
  */

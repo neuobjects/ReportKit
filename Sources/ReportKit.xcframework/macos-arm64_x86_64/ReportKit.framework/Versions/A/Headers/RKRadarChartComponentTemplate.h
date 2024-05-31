@@ -35,11 +35,11 @@ NS_ASSUME_NONNULL_BEGIN
 /**
  The color of the web lines that extend from the center of the chart.
  */
-@property (readonly, nonatomic, copy) RKColor *webColor;
+@property (readonly, nonatomic, strong) RKColor *webColor;
 /**
  The color of the web lines between the lines extending from the center of the chart.
  */
-@property (readonly, nonatomic, copy) RKColor *innerWebColor;
+@property (readonly, nonatomic, strong) RKColor *innerWebColor;
 
 /**
  A boolean value indicating whether the x axis is enabled.
@@ -52,7 +52,7 @@ NS_ASSUME_NONNULL_BEGIN
 /**
  The color of the x axis label.
  */
-@property (readonly, nonatomic, copy) RKColor *xAxisLabelTextColor;
+@property (readonly, nonatomic, strong) RKColor *xAxisLabelTextColor;
 /**
  The font information to use for the x axis label.
  */
@@ -109,7 +109,7 @@ NS_ASSUME_NONNULL_BEGIN
 /**
  The color of the y axis label.
  */
-@property (readonly, nonatomic, copy) RKColor *yAxisLabelTextColor;
+@property (readonly, nonatomic, strong) RKColor *yAxisLabelTextColor;
 /**
  The font information to use for the y axis label.
  */

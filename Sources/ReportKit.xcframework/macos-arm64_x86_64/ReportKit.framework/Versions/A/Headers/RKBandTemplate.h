@@ -40,7 +40,7 @@
 /**
  The background color for the band.
  */
-@property (readonly, nonatomic, copy) RKColor *backgroundColor;
+@property (readonly, nonatomic, strong) RKColor *backgroundColor;
 /**
  A Boolean value indicating whether the report uses alternating band colors for its background.
  */
@@ -48,7 +48,7 @@
 /**
  When alternating band colors, this will be the color of the alternating row.
  */
-@property (readonly, nonatomic, copy) RKColor *alternatingRowColor;
+@property (readonly, nonatomic, strong) RKColor *alternatingRowColor;
 /**
  Reserved for future use.
  */
@@ -104,7 +104,7 @@
 /**
  If any of the band edges are bordered, this will be the stroke color for the border.
  */
-@property (readonly, nonatomic, copy) RKColor *strokeColor;
+@property (readonly, nonatomic, strong) RKColor *strokeColor;
 /**
  If any of the band edges are bordered, this will be the line style of the border.
  */
@@ -116,7 +116,7 @@
 /**
  The default color for new text components that are added to this band.
  */
-@property (readonly, nonatomic, copy) RKColor *defaultTextColor;
+@property (readonly, nonatomic, strong) RKColor *defaultTextColor;
 /**
  The default font information used for any for new text components that are added to this band.
  */

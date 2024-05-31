@@ -56,11 +56,11 @@ NS_ASSUME_NONNULL_BEGIN
  
  When the axis grid lines are drawn, this will be the color of the chart drawing area.
  */
-@property (readonly, nonatomic, copy) RKColor *gridAreaColor;
+@property (readonly, nonatomic, strong) RKColor *gridAreaColor;
 /**
  The color of the border around the chart area.
  */
-@property (readonly, nonatomic, copy) RKColor *borderColor;
+@property (readonly, nonatomic, strong) RKColor *borderColor;
 /**
  The width of the border around the chart area.
  */
@@ -118,35 +118,35 @@ NS_ASSUME_NONNULL_BEGIN
 /**
  The color of the left axis label.
  */
-@property (readonly, nonatomic, copy) RKColor *leftAxisLabelTextColor;
+@property (readonly, nonatomic, strong) RKColor *leftAxisLabelTextColor;
 /**
  The color of the right axis label.
 */
-@property (readonly, nonatomic, copy) RKColor *rightAxisLabelTextColor;
+@property (readonly, nonatomic, strong) RKColor *rightAxisLabelTextColor;
 /**
  The color of the line along the left axis.
  */
-@property (readonly, nonatomic, copy) RKColor *leftAxisAxisLineColor;
+@property (readonly, nonatomic, strong) RKColor *leftAxisAxisLineColor;
 /**
  The color of the line along the right axis.
 */
-@property (readonly, nonatomic, copy) RKColor *rightAxisAxisLineColor;
+@property (readonly, nonatomic, strong) RKColor *rightAxisAxisLineColor;
 /**
  The color of the left axis grid.
  */
-@property (readonly, nonatomic, copy) RKColor *leftAxisGridLineColor;
+@property (readonly, nonatomic, strong) RKColor *leftAxisGridLineColor;
 /**
  The color of the right axis grid.
  */
-@property (readonly, nonatomic, copy) RKColor *rightAxisGridLineColor;
+@property (readonly, nonatomic, strong) RKColor *rightAxisGridLineColor;
 /**
  The color of the left axis line at location zero.
 */
-@property (readonly, nonatomic, copy) RKColor *leftAxisZeroLineColor;
-/** 
+@property (readonly, nonatomic, strong) RKColor *leftAxisZeroLineColor;
+/**
  The color of the right axis line at location zero.
  */
-@property (readonly, nonatomic, copy) RKColor *rightAxisZeroLineColor;
+@property (readonly, nonatomic, strong) RKColor *rightAxisZeroLineColor;
 
 /**
  The font information to be used for the labels along the left axis.
