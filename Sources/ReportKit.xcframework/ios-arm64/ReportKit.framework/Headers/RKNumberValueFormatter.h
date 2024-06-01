@@ -8,14 +8,17 @@
 
 #import <Foundation/Foundation.h>
 @class RKValueFormattingOptions;
-@protocol ChartAxisValueFormatter;
-@protocol ChartValueFormatter;
+@protocol RKChartAxisValueFormatter;
+@protocol RKChartValueFormatter;
+//@protocol ChartAxisValueFormatter;
+//@protocol ChartValueFormatter;
 
 NS_ASSUME_NONNULL_BEGIN
 /**
  The `RKNumberValueFormatter` object contains the properties used to formatting numeric values. This class adheres to the `ChartAxisValueFormatter` and `ChartValueFormatter` protocols used by the chart components.
  */
-@interface RKNumberValueFormatter : NSNumberFormatter <ChartAxisValueFormatter, ChartValueFormatter>
+//@interface RKNumberValueFormatter : NSNumberFormatter <ChartAxisValueFormatter, ChartValueFormatter>
+@interface RKNumberValueFormatter : NSNumberFormatter <RKChartAxisValueFormatter, RKChartValueFormatter>
 
 /**
  Instantiates an `RKNumberValueFormatter` formatter using the given formatting options.

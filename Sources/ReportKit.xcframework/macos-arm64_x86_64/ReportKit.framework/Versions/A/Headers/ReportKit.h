@@ -107,6 +107,8 @@ FOUNDATION_EXPORT const unsigned char ReportKitVersionString[];
 #import <ReportKit/RKPageView.h>//
 #import <ReportKit/RKReportDataSource.h>
 #import <ReportKit/RKReportDelegate.h>
+#import <ReportKit/RKChartValueFormatter.h>
+#import <ReportKit/RKChartAxisValueFormatter.h>
 #import <ReportKit/RKPageableTextContainer.h>//
 #import <ReportKit/RKReportGroup.h>// revisit
 #import <ReportKit/RKGroupTemplate.h>// revisit

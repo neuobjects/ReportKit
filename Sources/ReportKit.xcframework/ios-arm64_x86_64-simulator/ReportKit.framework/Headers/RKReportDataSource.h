@@ -8,14 +8,16 @@
 #import <Foundation/Foundation.h>
 //#import <ReportKit/ReportKit.h>
 #import <ReportKit/RKReportKitDataTypes.h>
+#import <ReportKit/RKChartValueFormatter.h>
+#import <ReportKit/RKChartAxisValueFormatter.h>
 @class RKReport;
 @class RKReportGroup;
 @class RKPage;
 @class RKBand;
 @class RKComponent;
 @class RKPageTemplate;
-@protocol ChartAxisValueFormatter;
-@protocol ChartValueFormatter;
+//@protocol ChartAxisValueFormatter;
+//@protocol ChartValueFormatter;
 
 /**
  The `RKReportDataSource` protocol defines a set of methods to be used to populate a report.
@@ -193,10 +195,11 @@ subreportViewForComponent:(RKComponent *) component;
 
  The value formatter should conform to the ChartAxisValueFormatter protocol.
  */
--(NSObject <ChartAxisValueFormatter> *) report:(RKReport *) report
-                                          band:(RKBand *) band
-                        valueFormatterForChart:(RKComponent *) chartComponent
-                                      axisType:(RKChartAxisType) axisType;
+//-(NSObject <ChartAxisValueFormatter> *) report:(RKReport *) report
+-(NSObject <RKChartAxisValueFormatter> *) report:(RKReport *) report
+                                            band:(RKBand *) band
+                      axisValueFormatterForChart:(RKComponent *) chartComponent
+                                        axisType:(RKChartAxisType) axisType;
 /**
  Asks the data source for the value formatter for a given dataset of a chart component.
  @param report The report that is currently getting generated.
@@ -206,10 +209,11 @@ subreportViewForComponent:(RKComponent *) component;
 
  The value formatter should conform to the ChartAxisValueFormatter protocol.
  */
--(NSObject <ChartValueFormatter> *) report:(RKReport *) report
-                                      band:(RKBand *) band
-                    valueFormatterForChart:(RKComponent *) chartComponent
-                              datasetIndex:(NSInteger) datasetIndex;
+//-(NSObject <ChartValueFormatter> *) report:(RKReport *) report
+-(NSObject <RKChartValueFormatter> *) report:(RKReport *) report
+                                        band:(RKBand *) band
+               datasetValueFormatterForChart:(RKComponent *) chartComponent
+                                datasetIndex:(NSInteger) datasetIndex;
 
 -(NSArray<NSString *> *) report:(RKReport *) report
                            band:(RKBand *) band

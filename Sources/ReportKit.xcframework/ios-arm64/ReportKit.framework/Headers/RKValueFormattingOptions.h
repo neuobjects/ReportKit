@@ -9,8 +9,13 @@
 #import <Foundation/Foundation.h>
 #import <ReportKit/RKReportKitDataTypes.h>
 #import <ReportKit/JSONModel.h>
-@protocol ChartAxisValueFormatter;
-@protocol ChartValueFormatter;
+#import <ReportKit/RKChartAxisValueFormatter.h>
+#import <ReportKit/RKChartValueFormatter.h>
+
+//@protocol ChartAxisValueFormatter;
+//@protocol ChartValueFormatter;
+@protocol RKChartAxisValueFormatter;
+@protocol RKChartValueFormatter;
 
 NS_ASSUME_NONNULL_BEGIN
 /**
@@ -95,7 +100,8 @@ NS_ASSUME_NONNULL_BEGIN
 /**
  @return a formatter that adheres to the `ChartAxisValueFormatter` and `ChartValueFormatter` protocols used by the chart components.
  */
--(id <ChartAxisValueFormatter, ChartValueFormatter>) chartValueFormatter;
+//-(id <ChartAxisValueFormatter, ChartValueFormatter>) chartValueFormatter;
+-(NSObject <RKChartAxisValueFormatter, RKChartValueFormatter> *) chartValueFormatter;
 @end
 
 NS_ASSUME_NONNULL_END

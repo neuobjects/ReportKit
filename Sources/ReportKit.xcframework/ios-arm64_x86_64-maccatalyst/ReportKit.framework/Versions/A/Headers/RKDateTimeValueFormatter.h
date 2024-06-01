@@ -8,15 +8,18 @@
 #import <Foundation/Foundation.h>
 #import <ReportKit/RKReportKitDataTypes.h>
 @class RKValueFormattingOptions;
-@protocol ChartAxisValueFormatter;
-@protocol ChartValueFormatter;
+@protocol RKChartAxisValueFormatter;
+@protocol RKChartValueFormatter;
+//@protocol ChartAxisValueFormatter;
+//@protocol ChartValueFormatter;
 //@import DGCharts;
 
 NS_ASSUME_NONNULL_BEGIN
 /**
  The `RKDateTimeValueFormatter` object contains the properties used to formatting date and time values. This class adheres to the `ChartAxisValueFormatter` and `ChartValueFormatter` protocols used by the chart components.
  */
-@interface RKDateTimeValueFormatter : NSDateFormatter <ChartAxisValueFormatter, ChartValueFormatter>
+//@interface RKDateTimeValueFormatter : NSDateFormatter <ChartAxisValueFormatter, ChartValueFormatter>
+@interface RKDateTimeValueFormatter : NSDateFormatter <RKChartAxisValueFormatter, RKChartValueFormatter>
 
 /**
  Instantiates an `RKDateTimeValueFormatter` formatter using the given formatting options.
