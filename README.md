@@ -29,3 +29,5 @@
 1.2.0 DGCharts package replacement
 
 1.2.2 Fixed core data component key value. parse core data relationship
+
+1.2.3 Add logging to fullyqualified issue
