@@ -31,3 +31,5 @@
 1.2.2 Fixed core data component key value. parse core data relationship
 
 1.2.3 Add logging to fullyqualified issue
+
+1.2.4 Max out the number of levels to parse a class

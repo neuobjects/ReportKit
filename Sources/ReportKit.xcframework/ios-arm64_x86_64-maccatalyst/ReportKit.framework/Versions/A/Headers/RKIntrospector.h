@@ -12,7 +12,8 @@
 
 +(NSArray *) propertyNamesForClass:(NSString *)className;
 +(NSDictionary *) fullyQualifiedPropertyDictionaryForObject:(id)object
-                                                  className:(NSString *) className;
+                                                  className:(NSString *) className
+                                                      level:(NSInteger) thisLevel;
 +(id) valueForMethod:(NSString *)method
               object:(id)object;              
 
