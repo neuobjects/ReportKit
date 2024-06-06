@@ -37,3 +37,5 @@
 1.2.5 Fixed subreportPdf when no data is assigned to band
 
 1.2.6 Renamed Primary* methods in datasource, drag images now represent text field type. fixed drag/drop issue when dragging from multiple bands. 
+
+1.2.7 Missed one of the Primary* methods in the last update.
