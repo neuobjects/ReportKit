@@ -40,6 +40,8 @@
  @return The PDF of the subreport, This is similar to the `pdf` method, but this call limits to PDF to just the first page.
  */
 -(PDFDocument *) subreportPdf;
+
+-(RKView *) subreportView;
 /**
  The individual pages of the finished reports.
  @return The array of `RKPage` objects of the finished report. These pages can be converted to UIView (or NSViews) to be used in other parts of your application.

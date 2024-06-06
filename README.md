@@ -33,3 +33,5 @@
 1.2.3 Add logging to fullyqualified issue
 
 1.2.4 Max out the number of levels to parse a class
+
+1.2.5 Fixed subreportPdf when no data is assigned to band
