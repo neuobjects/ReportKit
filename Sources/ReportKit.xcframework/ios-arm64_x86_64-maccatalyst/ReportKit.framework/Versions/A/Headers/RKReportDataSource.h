@@ -40,7 +40,7 @@
  
  When a report has 0 primary records, the report will still generate with the Report and Page header and footer bands.
  */
--(NSInteger) numberOfPrimaryRecordsForPageTemplate:(RKPageTemplate *) pageTemplate;//CONSIDER renaming to numberOfRecordsForPageTemplate (PrimaryRecords?)
+-(NSInteger) numberOfReportEntriesForPageTemplate:(RKPageTemplate *) pageTemplate;//CONSIDER renaming to numberOfRecordsForPageTemplate (PrimaryRecords?)
 /**
  Provide the number of group rows that will be generated for this group.
  @param report The report getting generated.
@@ -156,15 +156,15 @@ numberOfDetailRowsInGroup:(RKReportGroup *) group;
  Provide a dictionary of values that are available for the page header band.
  @param report The report getting generated.
  @param group The group that's getting generated.
- @param recordIndex The index of the primary record getting generated.
+ @param reportEntryIndex The index of the report entry getting generated.
  @param groupRow The row number for the group
  
  @discussion This method is called when a group is about to get generated. The `RKReportGroup` as two properties you can associate data with - `groupObject` and `groupContentObjects`. The `groupObject` is typically a single record or dictionary that's associated with this group. The `groupContentObjects` should be an array of objects. When it's time for the the reporting engine to map values into the band components, you can refer to these properties in the datasource methods that asks for them. These properties are especially useful for reports having multiple groups.
  
  */
 -(void) report:(RKReport *) report
-loadDataIntoGroup:(RKReportGroup *) group
-forPrimaryRecordAtIndex:(NSInteger) recordIndex
+loadContentIntoGroup:(RKReportGroup *) group
+forReportEntryAtIndex:(NSInteger) reportEntryIndex
       groupRow:(NSInteger) groupRow;//the section row allows us to have multiple bands for the same group (not separate groups) so most times, this will be 0.
 /**
  Asks the datasource for the custom view for a given component

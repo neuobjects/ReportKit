@@ -35,3 +35,5 @@
 1.2.4 Max out the number of levels to parse a class
 
 1.2.5 Fixed subreportPdf when no data is assigned to band
+
+1.2.6 Renamed Primary* methods in datasource, drag images now represent text field type. fixed drag/drop issue when dragging from multiple bands. 
