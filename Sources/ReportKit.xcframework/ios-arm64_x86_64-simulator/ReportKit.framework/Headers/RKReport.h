@@ -10,7 +10,7 @@
 #import <ReportKit/ReportKit.h>
 @class RKReportProperties;
 @class RKPage;
-@class RKGenerationError;
+@class RKReportMessage;
 /**
  `RKReport` is the object that contains the final report. This object is passed to most of the methods in the `RKReportDelegate` and `RKDataReportSource` delegates.
  */
@@ -39,9 +39,9 @@
  Converts the report to a subreport PDF.
  @return The PDF of the subreport, This is similar to the `pdf` method, but this call limits to PDF to just the first page.
  */
--(PDFDocument *) subreportPdf;
+//-(PDFDocument *) subreportPdf;
 
--(RKView *) subreportView;
+-(void) generateSubreportViewWithCompletionHandler:(RKGenerateViewHandler) completionHandler;
 /**
  The individual pages of the finished reports.
  @return The array of `RKPage` objects of the finished report. These pages can be converted to UIView (or NSViews) to be used in other parts of your application.
@@ -63,10 +63,10 @@
   Preparation errors occur when the pages are getting generation. These errors become available after calling prepareReport or prepareSubreport
   @return An array of errors that occurred while preparing the report.
  */
--(NSArray<RKGenerationError *> *) preparationErrors;
+-(NSArray<RKReportMessage *> *) preparationErrors;
 /**
  Generation errors occur when the report is getting turned into NS/UIView objects. These errors become available after calling generateReport or generateSubreport
  @return An array of errors that occurred while generating the report.
  */
--(NSArray<RKGenerationError *> *) generationErrors;
+-(NSArray<RKReportMessage *> *) generationErrors;
 @end

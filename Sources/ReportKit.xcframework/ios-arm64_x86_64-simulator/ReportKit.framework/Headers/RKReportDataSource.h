@@ -79,7 +79,7 @@ numberOfDetailRowsInGroup:(RKReportGroup *) group;
  @return a dictionary of values that can be mapped to the report components associated with this record.
  */
 -(NSDictionary<NSString *, NSObject *> *) report:(RKReport *) report
-                     valuesForReportEntryAtIndex:(NSInteger) recordIndex;
+                     valuesForReportEntryAtIndex:(NSInteger) reportIndex;
 /**
  Provide a dictionary of values that are available for the report header band.
  @param report The report getting generated.

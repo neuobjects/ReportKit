@@ -51,10 +51,10 @@ NS_ASSUME_NONNULL_BEGIN
 -(RKReport *) prepareReportWithDocumentProperties:(RKReportProperties *) properties;
 
 /**
- Generates the subreport.
- @return The subreport view. This view can be passed to another ReportViewController which can then assign it to a subrport component on the report.
+ Generates the subreport view. This view can be passed to another ReportViewController which can then assign it to a subreport component on the report. Any errors that occured during the preparation or generaton process will be included in the completion handler.
 */
--(RKView *) generateSubreportView;
+-(void) generateSubreportViewWithCompletionHandler:(RKGenerateViewHandler) completionHandler;
+//-(RKView *) generateSubreportView;
 
 @end
 

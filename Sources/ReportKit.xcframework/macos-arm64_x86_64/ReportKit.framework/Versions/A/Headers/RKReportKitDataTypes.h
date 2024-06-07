@@ -7,7 +7,7 @@
 //
 #import <TargetConditionals.h>
 
-@class RKGenerationError;
+@class RKReportMessage;
 @class PDFDocument;
 
 #define REPORTBUILDER_FORMAT_VERSION 1
@@ -38,7 +38,8 @@
   #define RKFontDescriptor UIFontDescriptor
 #endif
 
-typedef void (^RKGeneratePdfHandler)(PDFDocument *document, BOOL success, NSArray<RKGenerationError *> *generationErrors);
+typedef void (^RKGeneratePdfHandler)(PDFDocument *document, BOOL success, NSArray<RKReportMessage *> *generationErrors);
+typedef void (^RKGenerateViewHandler)(RKView *view, BOOL success, NSArray<RKReportMessage *> *generationErrors);
 
 /**
  The clamping location specifies the positioning behavior of a component when it's band is resized.
@@ -468,11 +469,11 @@ typedef enum RKScatterShape : NSInteger
   RKScatterShapeChevronDown = 6,
 } RKScatterShape;
 
-typedef enum RKErrorType : NSInteger
+typedef enum RKMessageType : NSInteger
 {
-  RKErrorTypeWarning = 0,
-  RKErrorTypeError = 1,
-} RKErrorType;
+  RKMessageTypeWarning = 0,
+  RKMessageTypeError = 1,
+} RKMessageType;
 /*
 @protocol ChartAxisValueFormatter
 @end

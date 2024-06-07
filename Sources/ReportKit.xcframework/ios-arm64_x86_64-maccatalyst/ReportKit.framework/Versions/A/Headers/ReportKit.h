@@ -117,6 +117,7 @@ FOUNDATION_EXPORT const unsigned char ReportKitVersionString[];
 #import <ReportKit/RKReport.h>//
 #import <ReportKit/RKReportProperties.h>//
 #import <ReportKit/RKReportController.h>//
+#import <ReportKit/RKReportMessage.h>//
 
 @interface ReportKit : NSObject
 

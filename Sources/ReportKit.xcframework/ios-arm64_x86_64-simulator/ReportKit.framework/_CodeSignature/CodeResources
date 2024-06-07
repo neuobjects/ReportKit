@@ -302,7 +302,7 @@
 		</data>
 		<key>Headers/RKReport.h</key>
 		<data>
-		ie/7bLTQXehKYFjqib9fB/boCLM=
+		7oTcurF6ESFwIBmigG3f8c5Da1M=
 		</data>
 		<key>Headers/RKReportBuilderProject.h</key>
 		<data>
@@ -314,11 +314,11 @@
 		</data>
 		<key>Headers/RKReportController.h</key>
 		<data>
-		Z+B1MNqzHvQ5X0XROmJBV26MYjQ=
+		9tg+N80nZS6B9eIt4N9uGMrdXLs=
 		</data>
 		<key>Headers/RKReportDataSource.h</key>
 		<data>
-		FiJNQojnwuIH91AzKslLUhWCYIk=
+		qEkn1VmkM4OBoMjDGLfclb0Xor0=
 		</data>
 		<key>Headers/RKReportDelegate.h</key>
 		<data>
@@ -330,7 +330,11 @@
 		</data>
 		<key>Headers/RKReportKitDataTypes.h</key>
 		<data>
-		KMK7iMItEufhGsTFBwr2mM1Oljc=
+		the+wT4R/8YoWZjaaTLXq5g/GtA=
+		</data>
+		<key>Headers/RKReportMessage.h</key>
+		<data>
+		Cjubrtkj52Z3ydoTrdnf0pn5Qbg=
 		</data>
 		<key>Headers/RKReportProperties.h</key>
 		<data>
@@ -410,7 +414,7 @@
 		</data>
 		<key>Headers/ReportKit.h</key>
 		<data>
-		1mcjIsy0sfSLtYyoptNoayJj0Pw=
+		eu3mu9Ak2Zbr5ynaKZwpVK68KK8=
 		</data>
 		<key>Info.plist</key>
 		<data>
@@ -945,7 +949,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			kJ1oBu/xqdUrIDexuaZgQMU61M95o5AkCgtQyLFnW2U=
+			qUlkba90clhyjyOYf/Tmgv6NdJtWxnCBEZXhZ4+ahxg=
 			</data>
 		</dict>
 		<key>Headers/RKReportBuilderProject.h</key>
@@ -966,14 +970,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			2GWjaqud46kLz/i5PFURHN+4ahRzz3Dfn9kjyMk0TDU=
+			kJkBaqUHu9X8sD9r/rDmUA2N8Ynuw+C7cZnbjGsCaNs=
 			</data>
 		</dict>
 		<key>Headers/RKReportDataSource.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			gzsUtYT/ZESg727eUdrlleacIED1vuNnbAHgIwfxHsk=
+			bvKvTp1lXGe6kxLDW/EZkkSP72G4kcAknh0aMHF8Px0=
 			</data>
 		</dict>
 		<key>Headers/RKReportDelegate.h</key>
@@ -994,7 +998,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			DXsXqE0P1wOH77in1gYOUdqJnTkSIgsPOSUVNbxQBK4=
+			PwQNpePiMrUGueZ6dMdTQemA8jfnwxZm0pwKMFBHv+Y=
+			</data>
+		</dict>
+		<key>Headers/RKReportMessage.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			dn90tqU2MzVm7kc2/gofxuX6uA/2PQxoMh2y8b6NxX4=
 			</data>
 		</dict>
 		<key>Headers/RKReportProperties.h</key>
@@ -1134,7 +1145,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			bjW4eTHVJptZkB0tWb+jtacfw56MDGy0yFjzpXAcIhc=
+			S3Egrm3qGmLIxlDnBdYNaNcjA8NwKzf8bqCbEdleNlU=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
