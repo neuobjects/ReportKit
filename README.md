@@ -20,3 +20,4 @@
 1.2.6 Renamed Primary* methods in datasource, drag images now represent text field type. fixed drag/drop issue when dragging from multiple bands. 
 1.2.7 Missed one of the Primary* methods in the last update.
 1.2.8 Renamed RKGenerationError to RKReportMessage. moved subreport generation to block 
+1.2.9 Fixed red negative formatting
