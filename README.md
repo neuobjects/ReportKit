@@ -21,3 +21,4 @@
 1.2.7 Missed one of the Primary* methods in the last update.
 1.2.8 Renamed RKGenerationError to RKReportMessage. moved subreport generation to block 
 1.2.9 Fixed red negative formatting
+1.3.0 Added pageSize to RKReport 

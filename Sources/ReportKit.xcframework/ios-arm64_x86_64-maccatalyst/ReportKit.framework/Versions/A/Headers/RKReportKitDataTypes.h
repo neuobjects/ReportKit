@@ -226,6 +226,7 @@ typedef enum RKTextComponentNegativeFormat: NSInteger
 
 typedef enum RKCurrencySymbol: NSInteger
 {
+  RKCurrencySymbolLocale,
   RKCurrencySymbolDollar,
   RKCurrencySymbolEuro,
   RKCurrencySymbolPound,

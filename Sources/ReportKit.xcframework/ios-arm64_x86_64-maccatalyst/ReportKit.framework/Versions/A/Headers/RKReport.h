@@ -69,4 +69,9 @@
  @return An array of errors that occurred while generating the report.
  */
 -(NSArray<RKReportMessage *> *) generationErrors;
+
+/**
+ Returns the size of the first page. Defaults to 8.5 x 11" if there are no pages.
+ */
+-(CGSize) pageSize;
 @end
