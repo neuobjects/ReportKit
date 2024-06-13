@@ -22,3 +22,4 @@
 1.2.8 Renamed RKGenerationError to RKReportMessage. moved subreport generation to block 
 1.2.9 Fixed red negative formatting
 1.3.0 Added pageSize to RKReport 
+1.3.1 Added extensive mapping log message to test swift project
