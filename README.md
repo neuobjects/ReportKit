@@ -23,3 +23,4 @@
 1.2.9 Fixed red negative formatting
 1.3.0 Added pageSize to RKReport 
 1.3.1 Added extensive mapping log message to test swift project
+1.3.2 Cleaned up Swift class name while mapping
