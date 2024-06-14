@@ -27,3 +27,4 @@
 1.3.3 Swift-support changes
 1.3.4 Swift changes
 1.3.5 Still more Swift changes
+1.3.6 Handle Swift properties and classes
