@@ -25,3 +25,4 @@
 1.3.1 Added extensive mapping log message to test swift project
 1.3.2 Cleaned up Swift class name while mapping
 1.3.3 Swift-support changes
+1.3.4 Swift changes
