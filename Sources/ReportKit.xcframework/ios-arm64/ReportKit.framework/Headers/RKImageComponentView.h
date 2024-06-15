@@ -8,7 +8,7 @@
 #import <ReportKit/RKComponentView.h>
 #import <ReportKit/ReportKit.h>
 
-NS_ASSUME_NONNULL_BEGIN
+//NS_ASSUME_NONNULL_BEGIN
 
 /**
  The `RKImageComponentView` class contains the properties and methods required to render an image for a report.
@@ -40,8 +40,8 @@ NS_ASSUME_NONNULL_BEGIN
  */
 @property (nonatomic, strong) RKImageView *imageView;
 
-+(RKImage *) loadPdfNamed:(NSString *) name;
++(RKImage *) imageOrPdfNamed:(NSString *) name;
 
 @end
 
-NS_ASSUME_NONNULL_END
+//we may not return an image ! NS_ASSUME_NONNULL_END

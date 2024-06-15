@@ -28,3 +28,4 @@
 1.3.4 Swift changes
 1.3.5 Still more Swift changes
 1.3.6 Handle Swift properties and classes
+1.3.7 Refactored loadPdfNamed, make optional
