@@ -11,6 +11,9 @@
 @interface RKIntrospector : NSObject
 
 +(NSArray *) propertyNamesForClass:(NSString *)className;
++(NSString *) fullyQualifiedKeyForObject:(NSObject *) object
+                            modelKeyName:(NSString *) modelKey
+                            propertyName:(NSString *) propertyName;
 +(NSDictionary *) fullyQualifiedPropertyDictionaryForObject:(id)object
                                                   modelKeyName:(NSString *) className
                                                       level:(NSInteger) thisLevel;

@@ -30,3 +30,4 @@
 1.3.6 Handle Swift properties and classes
 1.3.7 Refactored loadPdfNamed, make optional
 1.3.8 Fixed introspector model/key. refactored className to modelKey parameter
+1.3.9 Moved mapping key builder to introspector 
