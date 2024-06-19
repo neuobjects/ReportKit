@@ -60,8 +60,8 @@
   #define RKFontDescriptor UIFontDescriptor
 #endif
 
-typedef void (^RKGeneratePdfHandler)(PDFDocument *document, BOOL success, NSArray<RKReportMessage *> *generationErrors);
-typedef void (^RKGenerateViewHandler)(RKView *view, BOOL success, NSArray<RKReportMessage *> *generationErrors);
+typedef void (^RKGeneratePdfHandler)(PDFDocument *document, BOOL success, NSArray<RKReportMessage *> *reportMessages);
+typedef void (^RKGenerateViewHandler)(RKView *view, BOOL success, NSArray<RKReportMessage *> *reportMessages);
 
 /**
  The clamping location specifies the positioning behavior of a component when it's band is resized.

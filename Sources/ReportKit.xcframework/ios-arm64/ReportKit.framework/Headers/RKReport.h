@@ -20,7 +20,7 @@
 /**
  The report properties are initialized from the Report Builder IDE. They can be updated prior to calling generateReport from the Report Controller.
  */
-@property (readonly, nonatomic, strong) RKReportProperties *reportProperties;
+@property (readonly, nonatomic, strong) RKReportProperties * _Nonnull reportProperties;
 
 /**
  As the report is being gererated, this method can be used to retrieve the index of the given primary record. This is especially useful when combining multiple instances of a report into a single PDF
@@ -28,31 +28,33 @@
 */
 -(NSInteger) currentPrimaryRecordIndex;
 
-
+/**
+ Generates the PDF
+ @param completionHandler Includes the generated PDF and a flag to indicate whether the PDF was successfully created. A list of repprt messages will also get returned. This list includes warning and errors that were encountered while generating the PDF.
+ 
+ */
 -(void) generatePdfWithCompletionHandler:(RKGeneratePdfHandler _Nonnull) completionHandler;
 /**
  Converts the report to a PDF.
  @return The PDF for the generated report
  */
--(PDFDocument *) generatePdf;
+//-(PDFDocument *_Nullable) generatePdf;
 /**
- Converts the report to a subreport PDF.
- @return The PDF of the subreport, This is similar to the `pdf` method, but this call limits to PDF to just the first page.
- */
-//-(PDFDocument *) subreportPdf;
-
+ Converts the report to a subreport PDF. This is similar to the `generatePdfWithCompletionHandler:` method, but just the first page will be returned.
+ @param completionHandler Includes the generated PDF and a flag to indicate whether the PDF was successfully created. A list of repprt messages will also get returned. This list includes warning and errors that were encountered while generating the PDF.
+  */
 -(void) generateSubreportViewWithCompletionHandler:(RKGenerateViewHandler _Nonnull) completionHandler;
 /**
  The individual pages of the finished reports.
- @return The array of `RKPage` objects of the finished report. These pages can be converted to UIView (or NSViews) to be used in other parts of your application.
+ @return The array of `RKPage` objects of the finished report. These pages can be converted to UIView (or NSViews) to be used in other parts of your application. If there are no pages in the report, an empty array will be returned.
  */
--(NSArray<RKPage *> *) pages;
+-(NSArray<RKPage *> *_Nonnull) pages;
 /**
  Use this method to combine pages from one report into another.
   @param report This is the source report. The report pages will be added to the end of this report.
   @param renumber Should the report be renumbered to account for the added pages?
  */
--(void) appendPagesFromReport:(RKReport *) report
+-(void) appendPagesFromReport:(RKReport *_Nonnull) report
                 renumberPages:(BOOL) renumber;
 /*
  The report properties for the generated PDF document.
