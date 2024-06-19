@@ -35,3 +35,4 @@
 1.3.11 Correction to typedefs
 1.3.12 Fixed appendPagesFromReport. more nullability options to public methods
 1.3.13 Forgot to update 1.3.12 object
+1.3.14 Fixed appendPagesFromReport
