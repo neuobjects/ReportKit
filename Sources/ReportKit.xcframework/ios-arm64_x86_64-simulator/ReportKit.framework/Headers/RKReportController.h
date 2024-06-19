@@ -23,7 +23,7 @@
  ## RKReportDataSource Delegate
  This delegate provides methods that are called during the generation of the report. method names correspond to events within the reporting engine - willPrepareReport:, didPrepareReport:, etc.
  */
-NS_ASSUME_NONNULL_BEGIN
+//NS_ASSUME_NONNULL_BEGIN
 
 @interface RKReportController : NSObject <RKReportDelegate, RKReportDataSource>
 
@@ -58,4 +58,4 @@ NS_ASSUME_NONNULL_BEGIN
 
 @end
 
-NS_ASSUME_NONNULL_END
+//NS_ASSUME_NONNULL_END

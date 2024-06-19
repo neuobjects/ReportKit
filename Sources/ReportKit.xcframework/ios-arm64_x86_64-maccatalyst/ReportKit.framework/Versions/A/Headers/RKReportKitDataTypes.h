@@ -14,6 +14,16 @@
 
 #if TARGET_OS_OSX
   #import <Cocoa/Cocoa.h>
+  typedef NSColor RKColor;
+  typedef NSView RKView;
+  typedef NSFont RKFont;
+  typedef NSLabel RKTextField;
+  typedef NSTextView RKTextView;
+  typedef NSImage RKImage;
+  typedef NSImageView RKImageView;
+  typedef NSEdgeInsets RKEdgeInsets;
+  typedef NSBezierPath RKBezierPath;
+  typedef NSFontDescriptor RKFontDescriptor;
   #define RKColor NSColor
   #define RKView NSView
   #define RKFont NSFont
@@ -26,6 +36,16 @@
   #define RKFontDescriptor NSFontDescriptor
 #else
   #import <UIKit/UIKit.h>
+  typedef UIColor RKColor;
+  typedef UIView RKView;
+  typedef UIFont RKFont;
+  typedef UILabel RKTextField;
+  typedef UITextView RKTextView;
+  typedef UIImage RKImage;
+  typedef UIImageView RKImageView;
+  typedef UIEdgeInsets RKEdgeInsets;
+  typedef UIBezierPath RKBezierPath;
+  typedef UIFontDescriptor RKFontDescriptor;
   #define RKColor UIColor
   #define RKView UIView
   #define RKFont UIFont

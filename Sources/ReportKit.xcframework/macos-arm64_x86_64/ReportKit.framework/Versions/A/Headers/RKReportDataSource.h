@@ -75,7 +75,7 @@ numberOfDetailRowsInGroup:(RKReportGroup *) group;
 /**
  Provide a dictionary of values that are available for the primary record at the given index.
  @param report The report getting generated.
- @param recordIndex The index of the primary record that is being generated.
+ @param reportIndex The index of the report entry that is being generated.
  @return a dictionary of values that can be mapped to the report components associated with this record.
  */
 -(NSDictionary<NSString *, NSObject *> *) report:(RKReport *) report
