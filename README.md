@@ -33,3 +33,4 @@
 1.3.9 Moved mapping key builder to introspector 
 1.3.10 Added typedefs for Swift, removed unused variables, added nullability options to RKReportEngine
 1.3.11 Correction to typedefs
+1.3.12 Fixed appendPagesFromReport. more nullability options to public methods
