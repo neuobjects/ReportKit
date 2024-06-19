@@ -29,7 +29,7 @@
 -(NSInteger) currentPrimaryRecordIndex;
 
 
--(void) generatePdfWithCompletionHandler:(RKGeneratePdfHandler) completionHandler;
+-(void) generatePdfWithCompletionHandler:(RKGeneratePdfHandler _Nonnull) completionHandler;
 /**
  Converts the report to a PDF.
  @return The PDF for the generated report
@@ -41,7 +41,7 @@
  */
 //-(PDFDocument *) subreportPdf;
 
--(void) generateSubreportViewWithCompletionHandler:(RKGenerateViewHandler) completionHandler;
+-(void) generateSubreportViewWithCompletionHandler:(RKGenerateViewHandler _Nonnull) completionHandler;
 /**
  The individual pages of the finished reports.
  @return The array of `RKPage` objects of the finished report. These pages can be converted to UIView (or NSViews) to be used in other parts of your application.
@@ -63,12 +63,12 @@
   Preparation errors occur when the pages are getting generation. These errors become available after calling prepareReport or prepareSubreport
   @return An array of errors that occurred while preparing the report.
  */
--(NSArray<RKReportMessage *> *) preparationErrors;
+-(NSArray<RKReportMessage *> * _Nonnull) preparationErrors;
 /**
  Generation errors occur when the report is getting turned into NS/UIView objects. These errors become available after calling generateReport or generateSubreport
  @return An array of errors that occurred while generating the report.
  */
--(NSArray<RKReportMessage *> *) generationErrors;
+-(NSArray<RKReportMessage *> * _Nonnull) generationErrors;
 
 /**
  Returns the size of the first page. Defaults to 8.5 x 11" if there are no pages.

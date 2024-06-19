@@ -4,6 +4,8 @@
 //
 //  Created by Brian Lazarz on 10/18/23.
 //  Copyright © 2023 neuObjects Incorporated. All rights reserved.
+// typedefs allow the types to be recognized by Swift
+// #defines allow us to define a single category for both the AppKit and UIKKit classes
 //
 #import <TargetConditionals.h>
 
@@ -14,16 +16,16 @@
 
 #if TARGET_OS_OSX
   #import <Cocoa/Cocoa.h>
-  typedef NSColor RKColor;
-  typedef NSView RKView;
-  typedef NSFont RKFont;
-  typedef NSTextField RKTextField;
-  typedef NSTextView RKTextView;
-  typedef NSImage RKImage;
-  typedef NSImageView RKImageView;
-  typedef NSEdgeInsets RKEdgeInsets;
-  typedef NSBezierPath RKBezierPath;
-  typedef NSFontDescriptor RKFontDescriptor;
+  typedef NSColor * RKColor;
+  typedef NSView * RKView;
+  typedef NSFont * RKFont;
+  typedef NSTextField * RKTextField;
+  typedef NSTextView * RKTextView;
+  typedef NSImage * RKImage;
+  typedef NSImageView * RKImageView;
+  typedef NSEdgeInsets * RKEdgeInsets;
+  typedef NSBezierPath * RKBezierPath;
+  typedef NSFontDescriptor * RKFontDescriptor;
   #define RKColor NSColor
   #define RKView NSView
   #define RKFont NSFont
@@ -36,16 +38,16 @@
   #define RKFontDescriptor NSFontDescriptor
 #else
   #import <UIKit/UIKit.h>
-  typedef UIColor RKColor;
-  typedef UIView RKView;
-  typedef UIFont RKFont;
-  typedef UILabel RKTextField;
-  typedef UITextView RKTextView;
-  typedef UIImage RKImage;
-  typedef UIImageView RKImageView;
-  typedef UIEdgeInsets RKEdgeInsets;
-  typedef UIBezierPath RKBezierPath;
-  typedef UIFontDescriptor RKFontDescriptor;
+  typedef UIColor * RKColor;
+  typedef UIView * RKView;
+  typedef UIFont * RKFont;
+  typedef UILabel * RKTextField;
+  typedef UITextView * RKTextView;
+  typedef UIImage * RKImage;
+  typedef UIImageView * RKImageView;
+  typedef UIEdgeInsets * RKEdgeInsets;
+  typedef UIBezierPath * RKBezierPath;
+  typedef UIFontDescriptor * RKFontDescriptor;
   #define RKColor UIColor
   #define RKView UIView
   #define RKFont UIFont

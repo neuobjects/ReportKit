@@ -32,3 +32,4 @@
 1.3.8 Fixed introspector model/key. refactored className to modelKey parameter
 1.3.9 Moved mapping key builder to introspector 
 1.3.10 Added typedefs for Swift, removed unused variables, added nullability options to RKReportEngine
+1.3.11 Correction to typedefs
