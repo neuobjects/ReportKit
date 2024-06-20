@@ -26,6 +26,7 @@
   typedef NSEdgeInsets * RKEdgeInsets;
   typedef NSBezierPath * RKBezierPath;
   typedef NSFontDescriptor * RKFontDescriptor;
+  typedef NSApplication * RKApplication;
   #define RKColor NSColor
   #define RKView NSView
   #define RKFont NSFont
@@ -36,6 +37,7 @@
   #define RKEdgeInsets NSEdgeInsets
   #define RKBezierPath NSBezierPath
   #define RKFontDescriptor NSFontDescriptor
+  #define RKApplication NSApplication
 #else
   #import <UIKit/UIKit.h>
   typedef UIColor * RKColor;
@@ -48,6 +50,7 @@
   typedef UIEdgeInsets * RKEdgeInsets;
   typedef UIBezierPath * RKBezierPath;
   typedef UIFontDescriptor * RKFontDescriptor;
+  typedef UIApplication * RKApplication;
   #define RKColor UIColor
   #define RKView UIView
   #define RKFont UIFont
@@ -58,6 +61,7 @@
   #define RKEdgeInsets UIEdgeInsets
   #define RKBezierPath UIBezierPath
   #define RKFontDescriptor UIFontDescriptor
+  #define RKApplication UIApplication
 #endif
 
 typedef void (^RKGeneratePdfHandler)(PDFDocument *document, BOOL success, NSArray<RKReportMessage *> *reportMessages);
