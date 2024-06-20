@@ -39,3 +39,4 @@
 1.3.15 Added RKApplication
 1.3.16 Fixed macOS subreport generation completion handler
 1.3.17 refactored subreport method for both macos and ios
+1.3.18 Forgot framework...
