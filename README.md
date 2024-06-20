@@ -37,3 +37,4 @@
 1.3.13 Forgot to update 1.3.12 object
 1.3.14 Fixed appendPagesFromReport
 1.3.15 Added RKApplication
+1.3.16 Fixed macOS subreport generation completion handler
