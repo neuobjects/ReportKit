@@ -15,6 +15,8 @@ NS_ASSUME_NONNULL_BEGIN
  */
 @interface RKSubreportComponentTemplate : RKComponentTemplate
 
+@property (nonatomic) BOOL flexible;
+
 @end
 
 NS_ASSUME_NONNULL_END
