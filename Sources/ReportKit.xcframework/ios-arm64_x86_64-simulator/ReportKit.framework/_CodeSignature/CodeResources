@@ -88,6 +88,10 @@
 		<data>
 		6IUpOjSDBpzidoCDj7DLp/vYrAM=
 		</data>
+		<key>Headers/RKBooleanValueFormatter.h</key>
+		<data>
+		fbvjsbyriNuxTdt+MBafTeGu4g8=
+		</data>
 		<key>Headers/RKBubbleChartComponentTemplate.h</key>
 		<data>
 		7VUPR80JAsrUQVjS9JDs3DZsPDo=
@@ -144,6 +148,10 @@
 		<data>
 		scJWebTn/nGrklw2p574cmH55l4=
 		</data>
+		<key>Headers/RKCurrencySpelledOutValueFormatter.h</key>
+		<data>
+		CxjWsNxDG+qeBC2BgkfJPeKaBqY=
+		</data>
 		<key>Headers/RKCustomComponentView.h</key>
 		<data>
 		NqX6CEclOR+fANRGRwhMfgabXPw=
@@ -155,6 +163,10 @@
 		<key>Headers/RKDataAwareComponentTemplate.h</key>
 		<data>
 		Sf6MHkMXi9y88l0HDOMyhsweUiM=
+		</data>
+		<key>Headers/RKDateTimeValueFormatter.h</key>
+		<data>
+		UjN10QAUU7xuuEz9QdIhcFsfRew=
 		</data>
 		<key>Headers/RKDocumentAttributes.h</key>
 		<data>
@@ -207,6 +219,10 @@
 		<key>Headers/RKNegativeBarChartComponentTemplate.h</key>
 		<data>
 		pVPDxWE1zPbvPkKq4n95NebinEk=
+		</data>
+		<key>Headers/RKNumberValueFormatter.h</key>
+		<data>
+		dzUALCSUUMZLXYR+JTQnDLDShws=
 		</data>
 		<key>Headers/RKOvalComponentTemplate.h</key>
 		<data>
@@ -370,7 +386,7 @@
 		</data>
 		<key>Headers/ReportKit.h</key>
 		<data>
-		503MTmbZXhBpeQuwTQgOPdDzlfk=
+		ydOXH6ieGge50tVeSOpmILfo51k=
 		</data>
 		<key>Info.plist</key>
 		<data>
@@ -388,21 +404,9 @@
 		<data>
 		khVCaX7R7r2vDDciYWQGXX/37Ww=
 		</data>
-		<key>PrivateHeaders/RKBooleanValueFormatter.h</key>
-		<data>
-		fbvjsbyriNuxTdt+MBafTeGu4g8=
-		</data>
 		<key>PrivateHeaders/RKColorUtilities.h</key>
 		<data>
 		8rTE4gMvUFpgrz8JUiiFR/y1xsM=
-		</data>
-		<key>PrivateHeaders/RKCurrencySpelledOutValueFormatter.h</key>
-		<data>
-		CxjWsNxDG+qeBC2BgkfJPeKaBqY=
-		</data>
-		<key>PrivateHeaders/RKDateTimeValueFormatter.h</key>
-		<data>
-		UjN10QAUU7xuuEz9QdIhcFsfRew=
 		</data>
 		<key>PrivateHeaders/RKIntrospector.h</key>
 		<data>
@@ -415,10 +419,6 @@
 		<key>PrivateHeaders/RKNamedColor.h</key>
 		<data>
 		8lT7Q+66irWrL5yk1TIfQAq1ScM=
-		</data>
-		<key>PrivateHeaders/RKNumberValueFormatter.h</key>
-		<data>
-		dzUALCSUUMZLXYR+JTQnDLDShws=
 		</data>
 		<key>PrivateHeaders/RKReportBuilderProject.h</key>
 		<data>
@@ -574,6 +574,13 @@
 			Kf+/UODmiN4x05mRwoSrdwHNcZ6PUgrsTGsoXcoZGF8=
 			</data>
 		</dict>
+		<key>Headers/RKBooleanValueFormatter.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			TyK7CaaaIL/OODWa/3uoBMjIk58JtJNrMGB/oRA4ql8=
+			</data>
+		</dict>
 		<key>Headers/RKBubbleChartComponentTemplate.h</key>
 		<dict>
 			<key>hash2</key>
@@ -672,6 +679,13 @@
 			IvaWzORkKPZ7gu+av4oNTbuRn3Lt8sVVTEYVfKCCxbA=
 			</data>
 		</dict>
+		<key>Headers/RKCurrencySpelledOutValueFormatter.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			m4nlEbBZo6fddHyW6AmL0AZAY3GF/em59DHCc/U1yyI=
+			</data>
+		</dict>
 		<key>Headers/RKCustomComponentView.h</key>
 		<dict>
 			<key>hash2</key>
@@ -691,6 +705,13 @@
 			<key>hash2</key>
 			<data>
 			UMJT/7/ei/XiktaIESmeA/KR5S6UExtDepGJ6HfUjNg=
+			</data>
+		</dict>
+		<key>Headers/RKDateTimeValueFormatter.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			quvx2IcxhU1eiYM8KTd9d/6jyKEKfEjMrf/S3vggTKU=
 			</data>
 		</dict>
 		<key>Headers/RKDocumentAttributes.h</key>
@@ -782,6 +803,13 @@
 			<key>hash2</key>
 			<data>
 			2PXCxMyh9BQeszrOhGh2THLr4UZdA3glfHXEmYMsOFQ=
+			</data>
+		</dict>
+		<key>Headers/RKNumberValueFormatter.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			39B/VCWYbeLQUBkVr0GdJbdjTsaS2wblId+FnGvwgW4=
 			</data>
 		</dict>
 		<key>Headers/RKOvalComponentTemplate.h</key>
@@ -1068,7 +1096,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			L4pxwssaLVPVFbb3YaNU4vsNCl+LKzxrXgKlzPgFCbo=
+			stOvEXQcsg3OXq52snD/L9VTQW7ETQ9CRqtuGLKP49o=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -1092,32 +1120,11 @@
 			I9PLaYoOqjArR+1FZVeaC0TUKw5zzDc8Cp3xJSk8q5A=
 			</data>
 		</dict>
-		<key>PrivateHeaders/RKBooleanValueFormatter.h</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			TyK7CaaaIL/OODWa/3uoBMjIk58JtJNrMGB/oRA4ql8=
-			</data>
-		</dict>
 		<key>PrivateHeaders/RKColorUtilities.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
 			FWz22QrEofqIH6Lm7/bXXpzkcBwB2nx/Qy5E9Lkrfwo=
-			</data>
-		</dict>
-		<key>PrivateHeaders/RKCurrencySpelledOutValueFormatter.h</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			m4nlEbBZo6fddHyW6AmL0AZAY3GF/em59DHCc/U1yyI=
-			</data>
-		</dict>
-		<key>PrivateHeaders/RKDateTimeValueFormatter.h</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			quvx2IcxhU1eiYM8KTd9d/6jyKEKfEjMrf/S3vggTKU=
 			</data>
 		</dict>
 		<key>PrivateHeaders/RKIntrospector.h</key>
@@ -1139,13 +1146,6 @@
 			<key>hash2</key>
 			<data>
 			ssESE0UOQE2Ea9SUqySSbO0IZ4fOnZ8UEbui/wxNWKQ=
-			</data>
-		</dict>
-		<key>PrivateHeaders/RKNumberValueFormatter.h</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			39B/VCWYbeLQUBkVr0GdJbdjTsaS2wblId+FnGvwgW4=
 			</data>
 		</dict>
 		<key>PrivateHeaders/RKReportBuilderProject.h</key>

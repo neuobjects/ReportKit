@@ -65,10 +65,10 @@ FOUNDATION_EXPORT const unsigned char ReportKitVersionString[];
 #import <ReportKit/NSDateFormatter+ReportKit.h>
 //#import <ReportKit/RKIntrospector.h> //see if we can make this private and move this one when/if we combine the frameworks
 #import <ReportKit/RKValueFormattingOptions.h> //See if we can make this private when we combine the frameworks. I don't like this class. can we split it out into different subclasses? it's a catch-all
-//private #import <ReportKit/RKNumberValueFormatter.h>
-//private #import <ReportKit/RKCurrencySpelledOutValueFormatter.h>
-//private #import <ReportKit/RKDateTimeValueFormatter.h>
-//private #import <ReportKit/RKBooleanValueFormatter.h>
+#import <ReportKit/RKNumberValueFormatter.h>
+#import <ReportKit/RKCurrencySpelledOutValueFormatter.h>
+#import <ReportKit/RKDateTimeValueFormatter.h>
+#import <ReportKit/RKBooleanValueFormatter.h>
 //not needed ? #import <ReportKit/RKCurrency.h>
 #import <ReportKit/RKBarcodeFormat.h>
 //#import <ReportKit/RKBarcode.h> made private
