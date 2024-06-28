@@ -11,7 +11,7 @@
 NS_ASSUME_NONNULL_BEGIN
 
 /**
- The `RKRectangleComponentTemplate` object contains the properties used to define a report text field component.
+ The `RKRectangleComponentTemplate` object contains the design-time properties used to create a rectangle shape component.
  */
 @interface RKRectangleComponentTemplate : RKShapeComponentTemplate
 

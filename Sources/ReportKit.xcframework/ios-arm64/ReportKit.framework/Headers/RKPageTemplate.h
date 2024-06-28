@@ -16,7 +16,7 @@ NS_ASSUME_NONNULL_BEGIN
 @protocol RKBandTemplate;
 
 /**
- The `RKPageTemplate` object contains the properties used to define a report template.
+ The `RKPageTemplate` object contains the design-time properties used to create a report.
  */
 @interface RKPageTemplate : JSONModel
 

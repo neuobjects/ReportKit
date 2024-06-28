@@ -11,7 +11,7 @@
 NS_ASSUME_NONNULL_BEGIN
 
 /**
- The `RKRotatedTextComponentTemplate` object contains the properties used to define a report text field component.
+ The `RKRotatedTextComponentTemplate` object contains the design-time properties used to create a rotated text field component.
  */
 @interface RKRotatedTextComponentTemplate : RKTextComponentTemplate
 

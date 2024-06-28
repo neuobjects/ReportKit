@@ -10,11 +10,11 @@
 NS_ASSUME_NONNULL_BEGIN
 
 /**
- The `RKCustomComponentView` is the custom view that is generated for the report.
+ The `RKCustomComponentView` is the class responsible for drawwing the custom view for the report.
  */
 @interface RKCustomComponentView : RKComponentView
 
-/*
+/**
  The report-friendly view generated for the report.
  */
 @property (nonatomic, strong) RKView *customView;

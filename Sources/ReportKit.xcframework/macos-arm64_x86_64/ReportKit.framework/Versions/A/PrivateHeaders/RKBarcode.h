@@ -13,7 +13,8 @@
 NS_ASSUME_NONNULL_BEGIN
 
 /**
- The `RKBarcode` class contains the properties used to generate a barcode.
+ The `RKBarcode` object is used by the reporting engine to build the printed bar codes. The object is used by the ``RKBarcodeComponentView`` object to generate the barcode image.
+ 
  */
 @interface RKBarcode : NSObject
 
@@ -30,8 +31,8 @@ NS_ASSUME_NONNULL_BEGIN
  @param error An object describing the error that occurred while generating the barcode.
  @return An image containing the barcode.
  */
--(RKImage *) imageForFormat:(RKBarcodeFormat) format
-                      error:(NSError **)error;
+//-(RKImage *) imageForFormat:(RKBarcodeFormat) format
+  //                    error:(NSError **)error;
 @end
 
 NS_ASSUME_NONNULL_END

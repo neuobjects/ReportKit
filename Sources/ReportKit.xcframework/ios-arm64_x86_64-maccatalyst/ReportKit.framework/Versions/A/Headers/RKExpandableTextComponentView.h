@@ -14,7 +14,7 @@ NS_ASSUME_NONNULL_BEGIN
 /**
  The `RKExpandableTextComponentView` class is the base class for an expandable text view.
  
- `RKTextComponentView` objects have the ability to expand vertically to fit it's contents. This class provides the functionality to keep track of the text as it extends onto subsequent pages.
+ ``RKTextComponentView`` objects have the ability to expand vertically to fit it's contents. This class provides the functionality to keep track of the text as it extends onto subsequent pages.
  */
 @interface RKExpandableTextComponentView : RKComponentView
 

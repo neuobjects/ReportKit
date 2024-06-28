@@ -20,7 +20,7 @@
 NS_ASSUME_NONNULL_BEGIN
 
 /**
- The `RKBarcodeComponentTemplate` object contains the properties used to define a report text field component.
+ The `RKBarcodeComponentTemplate` object contains the design-time barcode properties assigned by ReportBuilder.
  */
 @interface RKBarcodeComponentTemplate : RKDataAwareComponentTemplate
 

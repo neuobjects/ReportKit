@@ -12,7 +12,7 @@
 NS_ASSUME_NONNULL_BEGIN
 
 /**
- The `RKRadarChartComponentTemplate` class contains the properties that are needed to define a radar chart component.
+ The `RKRadarChartComponentTemplate` class contains the design-time properties that are needed to create a radar chart component.
  */
 @interface RKRadarChartComponentTemplate : RKPieRadarChartComponentTemplate
 

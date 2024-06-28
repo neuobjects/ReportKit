@@ -12,7 +12,7 @@
 
 //#import <PDFKit/PDFKit.h>
 
-@class RKReportProperties;
+@class RKDocumentAttributes;
 @class RKReportBuilderProjectModel;
 /**
  `RKBaseReportController` The methods an object adopts to generate a report.
@@ -35,7 +35,7 @@
  
  The report properties include the title, subject, author, creator and keywords.
  */
--(RKReportProperties *) reportProperties;
+-(RKDocumentAttributes *) reportProperties;
 /**
  Prepares the report.
  
@@ -48,7 +48,7 @@
  
  Upon completion of this method, the report will be generated.
  */
--(RKReport *) prepareReportWithDocumentProperties:(RKReportProperties *) properties;
+-(RKReport *) prepareReportWithDocumentProperties:(RKDocumentAttributes *) properties;
 
 /**
  Generates the subreport view. This view can be passed to another ReportViewController which can then assign it to a subreport component on the report. Any errors that occured during the preparation or generaton process will be included in the completion handler.

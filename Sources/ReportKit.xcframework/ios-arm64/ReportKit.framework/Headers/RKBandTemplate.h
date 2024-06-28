@@ -16,7 +16,7 @@
 @protocol RKComponentTemplate;
 
 /**
- The `RKBandTemplate` object contains the properties for a given report band.
+ The `RKBandTemplate` object contains the design-time band properties assigned by ReportBuilder.
  */
 @interface RKBandTemplate : JSONModel
 
@@ -30,7 +30,7 @@
  */
 @property (readonly, nonatomic, copy) NSString *identifier;
 /**
- The type of band this is.
+ The type of band.
  */
 @property (readonly, nonatomic) RKBandType bandType;
 /**
@@ -38,7 +38,7 @@
  */
 @property (readonly, nonatomic) NSInteger tag;
 /**
- The background color for the band.
+ The background color of the band.
  */
 @property (readonly, nonatomic, strong) RKColor *backgroundColor;
 /**
@@ -46,7 +46,7 @@
  */
 @property (readonly, nonatomic) BOOL alternatingRows;
 /**
- When alternating band colors, this will be the color of the alternating row.
+ The color of the alternating row when the `alternatingRows` property is set.
  */
 @property (readonly, nonatomic, strong) RKColor *alternatingRowColor;
 /**
@@ -75,12 +75,13 @@
  */
 @property (readonly, nonatomic) BOOL printOnOverflow;
 /**
- A boolean value indicating whether this band should print at the bottom of the page. If this property is set, the band will be positioned prior to Page Footer band which automatically prints at the bottom of each page. If there is no Page Footer on the report, this band will print at the bottom margin of the report.
+ A boolean value indicating whether this band should print at the bottom of the page. If this property is set, the band will be positioned just above the Page Footer band which is automatically printed at the bottom of each page. If there is no Page Footer on the report, this band will print at the bottom margin of the report.
  */
 @property (readonly, nonatomic) BOOL printAtBottom;
 /**
- A boolean value indicating whether the band immediately following this band should be printed directly on top of this one.
- @discussion When generating a report, the reporting engine will position subsequent bands below the one above it. This property allows you to different band types to share their frame. Underlaying bands do not need to be the same height as the band before it, and vice versa. The reporting engine will use the height of last band (that band that does not set to underlay the following band)
+ A boolean value indicating whether the band immediately following this band should be printed directly on top of this one. By default, bands have a clear color so this using this option will allow the components from both bands to share the same space.
+ 
+ When generating a report, the reporting engine will position subsequent bands below the one above it. This property allows you to different band types to share their frame. Underlaying bands do not need to be the same height as the band before it, and vice versa. The reporting engine will use the height of last band (that band that does not set to underlay the following band)
  */
 @property (readonly, nonatomic) BOOL underlayFollowingBand;
 /**

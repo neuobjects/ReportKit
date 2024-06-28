@@ -11,7 +11,7 @@
 NS_ASSUME_NONNULL_BEGIN
 
 /**
- The `RKVerticalLineComponentTemplate` object contains the properties used to define a report text field component.
+ The `RKVerticalLineComponentTemplate` object contains the design-time properties used to create a vertical line component.
  */
 @interface RKVerticalLineComponentTemplate : RKShapeComponentTemplate
 

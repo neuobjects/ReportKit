@@ -11,7 +11,7 @@
 NS_ASSUME_NONNULL_BEGIN
 
 /**
- The `RKNegativeBarChartComponentTemplate` class contains the properties used to define a negative stack bar chart component.
+ The `RKNegativeBarChartComponentTemplate` class contains the design-time properties used to create a negative stack bar chart component.
  */
 @interface RKNegativeBarChartComponentTemplate : RKBarChartComponentTemplate
 

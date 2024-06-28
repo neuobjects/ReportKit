@@ -10,6 +10,9 @@
 
 NS_ASSUME_NONNULL_BEGIN
 
+/**
+ The `RKCombinedChartComponentTemplate` object contains the design-time properties for the combined chart component.
+ */
 @interface RKCombinedChartComponentTemplate : RKBarLineChartComponentTemplate
 
 /**
@@ -27,7 +30,7 @@ NS_ASSUME_NONNULL_BEGIN
 /**
  REMOVE THIS!
  */
-@property (readonly, nonatomic) BOOL grouped;
+//@property (readonly, nonatomic) BOOL grouped;
 /**
  The space between groups of bars.
  */

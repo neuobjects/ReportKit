@@ -12,7 +12,7 @@
 NS_ASSUME_NONNULL_BEGIN
 
 /**
- The `RKPieChartComponentTemplate` class contains the properties that are needed to define a pie chart component.
+ The `RKPieChartComponentTemplate` class contains the design-time properties that are needed to create a pie chart component.
  */
 @interface RKPieChartComponentTemplate : RKPieRadarChartComponentTemplate
 

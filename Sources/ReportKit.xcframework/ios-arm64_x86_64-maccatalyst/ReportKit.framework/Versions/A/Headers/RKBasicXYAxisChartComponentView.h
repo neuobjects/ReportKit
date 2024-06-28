@@ -10,7 +10,7 @@
 NS_ASSUME_NONNULL_BEGIN
 
 /**
- The `RKBasicXYAxisChartComponentView` contains the common properties to draw charts that contain an X and Y axis.
+ The `RKBasicXYAxisChartComponentView` contains the common properties needed to draw charts that contain an X and Y axis.
  */
 @interface RKBasicXYAxisChartComponentView : RKChartComponentView
 

@@ -34,11 +34,11 @@
 		</data>
 		<key>Headers/RKBand.h</key>
 		<data>
-		+a/tnlt1p2j3iQ7+iyxhGzwP8c4=
+		qrTFWq62jS5cXvZZ4k+QX59b/8M=
 		</data>
 		<key>Headers/RKBandTemplate.h</key>
 		<data>
-		eznESOmtkUFfekWpWP+p7/gTxCw=
+		YzLZYi8FpDnguficC6CIh7jzavU=
 		</data>
 		<key>Headers/RKBandView.h</key>
 		<data>
@@ -46,27 +46,23 @@
 		</data>
 		<key>Headers/RKBarChartComponentTemplate.h</key>
 		<data>
-		HJhi8UO84uJzcVe8TZGDfXr+Ybc=
+		ckZccpwZNpzlUGbjW/uRsPSiDAc=
 		</data>
 		<key>Headers/RKBarChartComponentView.h</key>
 		<data>
-		RgacQbn1LHK51SEeng4nYH5E8og=
+		7h4UDiF0V0blFt5F41B3g+S6Gz8=
 		</data>
 		<key>Headers/RKBarLineChartComponentTemplate.h</key>
 		<data>
-		Rx4/GkV7DEVjAEK/p6ekcJpGEzw=
+		4/gl3uc/Yf1Sc7mnRttCIijecks=
 		</data>
 		<key>Headers/RKBarLineChartComponentView.h</key>
 		<data>
-		WnTgpaFCDO/V/hO9swNqAuNcbu4=
-		</data>
-		<key>Headers/RKBarcode.h</key>
-		<data>
-		BhqWQtSuJ66M1g5cgUOwa8fX0Vk=
+		PP6V3ogz4E7eUHoDvmjpKcBQwkc=
 		</data>
 		<key>Headers/RKBarcodeComponentTemplate.h</key>
 		<data>
-		K6W+F3T+oI1ZOEpq0Me1pGogk4g=
+		AbsoIIo1RXmdmw6rnlZR9Ucw5pU=
 		</data>
 		<key>Headers/RKBarcodeComponentView.h</key>
 		<data>
@@ -74,43 +70,39 @@
 		</data>
 		<key>Headers/RKBarcodeFormat.h</key>
 		<data>
-		kJhvwrFb0jkEXkEgqydSDFi0bjk=
+		Pzd0Dyr6X0EMrbmiT1yh7H80snM=
 		</data>
 		<key>Headers/RKBasicChartComponentTemplate.h</key>
 		<data>
-		Slrxu1IUZEOOagKuMshHlbM4aUo=
+		av3xA1WBuqh08rRAxrF3q0HeW80=
 		</data>
 		<key>Headers/RKBasicXYAxisChartComponentTemplate.h</key>
 		<data>
-		FTBAV3rdWyk6Eq9DD1GqK+L5YYY=
+		LBUBYkXDmuGdGVuckZ9IPC8fDVY=
 		</data>
 		<key>Headers/RKBasicXYAxisChartComponentView.h</key>
 		<data>
-		MJI3d7GY91SeELOnstlFFKGPaLo=
+		CKo/oA1npbIBmu7bjBL8XJMOrUE=
 		</data>
 		<key>Headers/RKBezierPath+ReportKit.h</key>
 		<data>
 		6IUpOjSDBpzidoCDj7DLp/vYrAM=
 		</data>
-		<key>Headers/RKBooleanValueFormatter.h</key>
-		<data>
-		wIjHnXXtsgkL59SJ/Ab0jr8BFLA=
-		</data>
 		<key>Headers/RKBubbleChartComponentTemplate.h</key>
 		<data>
-		cOJiNSTFCB1XqUFni/uViRTvj0E=
+		7VUPR80JAsrUQVjS9JDs3DZsPDo=
 		</data>
 		<key>Headers/RKBubbleChartComponentView.h</key>
 		<data>
-		d09fMxGyRPPWqUTSU22tZTuwVmU=
+		ukFvzyz58Q/dMh0HxuSRoWDJGl8=
 		</data>
 		<key>Headers/RKCandleChartComponentTemplate.h</key>
 		<data>
-		pzhuafCMxsOszaaPiwL/8ZcluiM=
+		e4QfswToESlXXtJwCSFMrdMEaEs=
 		</data>
 		<key>Headers/RKCandleChartComponentView.h</key>
 		<data>
-		jRjxeCScMGnVzU8Su0nmH3cQT+8=
+		DGdnsi1czmRdDUS4Mcdvg3VJqqg=
 		</data>
 		<key>Headers/RKChartAxisValueFormatter.h</key>
 		<data>
@@ -118,15 +110,15 @@
 		</data>
 		<key>Headers/RKChartComponentTemplate.h</key>
 		<data>
-		O95PX1AZ82Xo829Jn+Mq70jG0UM=
+		doqpE5hiEo/2+Zx53i/hJZQsXfM=
 		</data>
 		<key>Headers/RKChartComponentView.h</key>
 		<data>
-		GNqyJVTR0OtF5lYrKBf+LJp7ai4=
+		IbhdY229MCsw6lT7gC4LnY8anPQ=
 		</data>
 		<key>Headers/RKChartDataSetTemplate.h</key>
 		<data>
-		auOF8k/j2GGZHH2cnfHYdmEeyIw=
+		uhLAHNZ4OaGUezKN8sa2Xkmb3rw=
 		</data>
 		<key>Headers/RKChartValueFormatter.h</key>
 		<data>
@@ -136,13 +128,9 @@
 		<data>
 		oY7LVRA/h8AsUy8VNXKeJrkkcx4=
 		</data>
-		<key>Headers/RKColorUtilities.h</key>
-		<data>
-		8rTE4gMvUFpgrz8JUiiFR/y1xsM=
-		</data>
 		<key>Headers/RKCombinedChartComponentTemplate.h</key>
 		<data>
-		FWje9Yox4OM3k14LynzRa6frcPo=
+		wQpYF87itBURbYo+6HBI153kNlM=
 		</data>
 		<key>Headers/RKComponent.h</key>
 		<data>
@@ -150,43 +138,35 @@
 		</data>
 		<key>Headers/RKComponentTemplate.h</key>
 		<data>
-		3xTLrsepv6JVNxMhWdRLLSypzlU=
+		FiF6te4uDLJ3PFul1eL4yrt8X/Q=
 		</data>
 		<key>Headers/RKComponentView.h</key>
 		<data>
 		scJWebTn/nGrklw2p574cmH55l4=
 		</data>
-		<key>Headers/RKCurrencySpelledOutValueFormatter.h</key>
-		<data>
-		CxjWsNxDG+qeBC2BgkfJPeKaBqY=
-		</data>
 		<key>Headers/RKCustomComponentView.h</key>
 		<data>
-		piDLqE7M9T2dw9wzuNssX6DgsfM=
+		NqX6CEclOR+fANRGRwhMfgabXPw=
 		</data>
 		<key>Headers/RKCustomViewComponentTemplate.h</key>
 		<data>
-		q4+i1DI7UjTOkCbGCXtoIEoZwUs=
+		QT0OFLonJxYN9s0H//dN8YQ6yeQ=
 		</data>
 		<key>Headers/RKDataAwareComponentTemplate.h</key>
 		<data>
-		PzEcDKWmGi6tJRSCs8mkv4A5Di4=
+		Sf6MHkMXi9y88l0HDOMyhsweUiM=
 		</data>
-		<key>Headers/RKDateTimeValueFormatter.h</key>
+		<key>Headers/RKDocumentAttributes.h</key>
 		<data>
-		UjN10QAUU7xuuEz9QdIhcFsfRew=
+		eke1YgarrtpJYH5gY9KnVdvY068=
 		</data>
 		<key>Headers/RKExpandableTextComponentView.h</key>
 		<data>
-		EHUkvrq1sT2JEGQXYf7vp9ffMao=
+		jibRa5qUh3MZnAugvTJucoBklRE=
 		</data>
 		<key>Headers/RKFontInformation.h</key>
 		<data>
 		Q9lo86Cy582Ksb4dh1QsCAk2DQg=
-		</data>
-		<key>Headers/RKGlobalDefinitions.h</key>
-		<data>
-		4VDp2DEFlblGg85Cmu/TpQ9FL24=
 		</data>
 		<key>Headers/RKGroupIdentifier.h</key>
 		<data>
@@ -198,11 +178,11 @@
 		</data>
 		<key>Headers/RKGroupTemplate.h</key>
 		<data>
-		aFoTetHy/1jAS92wYSP85OfEJ6I=
+		HMtkVgxl2opHx8C1j7WpmBxCrek=
 		</data>
 		<key>Headers/RKHorizontalLineComponentTemplate.h</key>
 		<data>
-		2XWxgN53fArqH4AaWI7Hz73XVf0=
+		aU4ZmnNafk+0I/jDjapImxqNcp4=
 		</data>
 		<key>Headers/RKHorizontalLineComponentView.h</key>
 		<data>
@@ -210,43 +190,27 @@
 		</data>
 		<key>Headers/RKImageComponentTemplate.h</key>
 		<data>
-		MWF/f0DB3+HChlSj1O7WA21wFms=
+		p+jMrqvK9xo3YN2i2tz2A3j6dUg=
 		</data>
 		<key>Headers/RKImageComponentView.h</key>
 		<data>
 		HbyxY6SD3gFf7dT1dESFtjpu/Pw=
 		</data>
-		<key>Headers/RKIntrospector.h</key>
-		<data>
-		Q2UKdkJPpoZMeMUPKsXdNTic8as=
-		</data>
 		<key>Headers/RKLineChartComponentTemplate.h</key>
 		<data>
-		2JOdGy+zE8+2B7xkKY3nabcqLDg=
+		go1Apa7COLWHaVSHVXIUmeF7HpI=
 		</data>
 		<key>Headers/RKLineChartComponentView.h</key>
 		<data>
-		DznHb+vXE/vb47ztt16ai20CE2c=
-		</data>
-		<key>Headers/RKLineUtilities.h</key>
-		<data>
-		3dIdoeoFc6JyipTElPq9wTl/oY4=
-		</data>
-		<key>Headers/RKNamedColor.h</key>
-		<data>
-		8lT7Q+66irWrL5yk1TIfQAq1ScM=
+		aKfHZ8ffXIbp1+0vLSxWy0jiWZ4=
 		</data>
 		<key>Headers/RKNegativeBarChartComponentTemplate.h</key>
 		<data>
-		IJ1luOeHnp9Dcqs+b5ciKpSaRIk=
-		</data>
-		<key>Headers/RKNumberValueFormatter.h</key>
-		<data>
-		dzUALCSUUMZLXYR+JTQnDLDShws=
+		pVPDxWE1zPbvPkKq4n95NebinEk=
 		</data>
 		<key>Headers/RKOvalComponentTemplate.h</key>
 		<data>
-		UBkiTsFq3y4b6sIfR0Rp5QnqoEI=
+		RmKzYHQWgVqNGI7As4cRY5XuOXQ=
 		</data>
 		<key>Headers/RKOvalComponentView.h</key>
 		<data>
@@ -258,7 +222,7 @@
 		</data>
 		<key>Headers/RKPageTemplate.h</key>
 		<data>
-		3U7xJz1DZFtfEUTH7Bvl0lt3ShU=
+		Abx1CU/mp1Fqw3tIUY1C/MmNB/s=
 		</data>
 		<key>Headers/RKPageView.h</key>
 		<data>
@@ -270,31 +234,31 @@
 		</data>
 		<key>Headers/RKPieChartComponentTemplate.h</key>
 		<data>
-		70UUJ1cpiLKCsF3j3kRViKStEZQ=
+		i6NqknasiGzwNx4QR9M7gILg+tA=
 		</data>
 		<key>Headers/RKPieChartComponentView.h</key>
 		<data>
-		OqBVJKMZqa6YbWqI/xTL+UyMduc=
+		aacxJSqwOn6UEmQ1WT03lOZ2xg4=
 		</data>
 		<key>Headers/RKPieRadarChartComponentTemplate.h</key>
 		<data>
-		LO2kOT1+TmwybwUDCQXQcuR5GFA=
+		J5jVI1EyccEgTlw4I3ujvGnXOuM=
 		</data>
 		<key>Headers/RKPieRadarComponentView.h</key>
 		<data>
-		01ypXApy1AvR2L6LGwsJSpIN+DQ=
+		OZr3EVRUU0NCKreWDl72hLjQW5w=
 		</data>
 		<key>Headers/RKRadarChartComponentTemplate.h</key>
 		<data>
-		QwJEb4/kChE2psfgHbjEKTkDmU4=
+		gy8LmCRKlfc+qxFnNakK/geaSIE=
 		</data>
 		<key>Headers/RKRadarChartComponentView.h</key>
 		<data>
-		tXmXwdWExlCg2VGEaZT/ipqupcw=
+		L5+SvPW46a25wWTdZKq9du3mJFw=
 		</data>
 		<key>Headers/RKRectangleComponentTemplate.h</key>
 		<data>
-		Pf1Yg9/ZFVvRVrwd2TcPTe8iXcY=
+		KFvohBUJH/w/Z4GBZ/qnCRLD19M=
 		</data>
 		<key>Headers/RKRectangleComponentView.h</key>
 		<data>
@@ -302,11 +266,7 @@
 		</data>
 		<key>Headers/RKReport.h</key>
 		<data>
-		oIsD9Qldw6oRSsLAtoEZ5qpdt7I=
-		</data>
-		<key>Headers/RKReportBuilderProject.h</key>
-		<data>
-		HVged6nCP0I/WD/mBDo9dIirrLs=
+		Y/QOZeuITDb5mRmXiJbm9N99lWY=
 		</data>
 		<key>Headers/RKReportBuilderProjectModel.h</key>
 		<data>
@@ -314,7 +274,7 @@
 		</data>
 		<key>Headers/RKReportController.h</key>
 		<data>
-		RvA2T2cmtbzCtrRkcYxjBxfv44I=
+		Gbm6kMmZirlRisJS5Bd5cdKZTNc=
 		</data>
 		<key>Headers/RKReportDataSource.h</key>
 		<data>
@@ -330,19 +290,15 @@
 		</data>
 		<key>Headers/RKReportKitDataTypes.h</key>
 		<data>
-		7cQCIrAWaQbMVphUhp3iMg+TV+4=
+		nnZp/0ef2TzUjAZWE3r7fTc6FZU=
 		</data>
 		<key>Headers/RKReportMessage.h</key>
 		<data>
 		Cjubrtkj52Z3ydoTrdnf0pn5Qbg=
 		</data>
-		<key>Headers/RKReportProperties.h</key>
-		<data>
-		mUnXql+pxvlgw35ABTKUVbPdbQE=
-		</data>
 		<key>Headers/RKRotatedTextComponentTemplate.h</key>
 		<data>
-		Lk1N2MzCBbehNuwd8Z44lASAhK8=
+		bcIgdIGsnJC7s2/U3JD/qFzvx6c=
 		</data>
 		<key>Headers/RKRotatedTextComponentView.h</key>
 		<data>
@@ -350,15 +306,15 @@
 		</data>
 		<key>Headers/RKScatterChartComponentTemplate.h</key>
 		<data>
-		URZlRupimw/FDghos7dpOSZKHBI=
+		Get9DN3cMP//Jm+J0PIFLIiX8xk=
 		</data>
 		<key>Headers/RKScatterChartComponentView.h</key>
 		<data>
-		joBZ2ApD0JLXfjd5HKyB0z0y968=
+		Lam8AotXBqnHC6FBQLSVAmIocrM=
 		</data>
 		<key>Headers/RKShapeComponentTemplate.h</key>
 		<data>
-		OZAhdu314HPPBry07yOmWbBLZn0=
+		oRNM7VYH80KK07u5AGP/Hsua7ss=
 		</data>
 		<key>Headers/RKShapeComponentView.h</key>
 		<data>
@@ -366,7 +322,7 @@
 		</data>
 		<key>Headers/RKSubreportComponentTemplate.h</key>
 		<data>
-		lx9QT3SJdh/4gFjjYhRbNyMCirw=
+		fbzAWGjDtVds9/Dod0+e0apTJbE=
 		</data>
 		<key>Headers/RKSubreportComponentView.h</key>
 		<data>
@@ -374,7 +330,7 @@
 		</data>
 		<key>Headers/RKSystemTextComponentTemplate.h</key>
 		<data>
-		fF9vjKFXhKqXnkTYgxCnc0zOREk=
+		a63j/a+j+vy8I6NDwATyDe9/VMo=
 		</data>
 		<key>Headers/RKSystemTextComponentView.h</key>
 		<data>
@@ -382,7 +338,7 @@
 		</data>
 		<key>Headers/RKTextComponentTemplate.h</key>
 		<data>
-		xBmOw2HHSyi9PrWJ+KoOFRzX/z4=
+		bsKsJ9XwwelbmSdQHndQM8ygbD8=
 		</data>
 		<key>Headers/RKTextComponentView.h</key>
 		<data>
@@ -390,7 +346,7 @@
 		</data>
 		<key>Headers/RKTextViewComponentTemplate.h</key>
 		<data>
-		n7K8JRPGEkllePeGHJ9bPc6ukXM=
+		/qq7kozqByqV8GGso/bDC4qLFBQ=
 		</data>
 		<key>Headers/RKTextViewComponentView.h</key>
 		<data>
@@ -402,7 +358,7 @@
 		</data>
 		<key>Headers/RKVerticalLineComponentTemplate.h</key>
 		<data>
-		VlxIX/onQVrJ5emONNbCXvFHV/o=
+		tbjBSU3+1H6rdwEmu08Syi5zY74=
 		</data>
 		<key>Headers/RKVerticalLineComponentView.h</key>
 		<data>
@@ -414,7 +370,7 @@
 		</data>
 		<key>Headers/ReportKit.h</key>
 		<data>
-		eu3mu9Ak2Zbr5ynaKZwpVK68KK8=
+		503MTmbZXhBpeQuwTQgOPdDzlfk=
 		</data>
 		<key>Info.plist</key>
 		<data>
@@ -423,6 +379,50 @@
 		<key>Modules/module.modulemap</key>
 		<data>
 		YKjjy8TDDifzuTN3CxO3K75GEJc=
+		</data>
+		<key>PrivateHeaders/RKBarcode+Private.h</key>
+		<data>
+		W5WAiyatFCgycS/+vlnX7fWPaeM=
+		</data>
+		<key>PrivateHeaders/RKBarcode.h</key>
+		<data>
+		khVCaX7R7r2vDDciYWQGXX/37Ww=
+		</data>
+		<key>PrivateHeaders/RKBooleanValueFormatter.h</key>
+		<data>
+		fbvjsbyriNuxTdt+MBafTeGu4g8=
+		</data>
+		<key>PrivateHeaders/RKColorUtilities.h</key>
+		<data>
+		8rTE4gMvUFpgrz8JUiiFR/y1xsM=
+		</data>
+		<key>PrivateHeaders/RKCurrencySpelledOutValueFormatter.h</key>
+		<data>
+		CxjWsNxDG+qeBC2BgkfJPeKaBqY=
+		</data>
+		<key>PrivateHeaders/RKDateTimeValueFormatter.h</key>
+		<data>
+		UjN10QAUU7xuuEz9QdIhcFsfRew=
+		</data>
+		<key>PrivateHeaders/RKIntrospector.h</key>
+		<data>
+		Q2UKdkJPpoZMeMUPKsXdNTic8as=
+		</data>
+		<key>PrivateHeaders/RKLineUtilities.h</key>
+		<data>
+		3dIdoeoFc6JyipTElPq9wTl/oY4=
+		</data>
+		<key>PrivateHeaders/RKNamedColor.h</key>
+		<data>
+		8lT7Q+66irWrL5yk1TIfQAq1ScM=
+		</data>
+		<key>PrivateHeaders/RKNumberValueFormatter.h</key>
+		<data>
+		dzUALCSUUMZLXYR+JTQnDLDShws=
+		</data>
+		<key>PrivateHeaders/RKReportBuilderProject.h</key>
+		<data>
+		HVged6nCP0I/WD/mBDo9dIirrLs=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -480,14 +480,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			KdDIGQteu9UxOS1sLgpQn+boTI7ZSkHqXUuEcHvJSdI=
+			tqNlcjNf7bhQmopaIQGe8QlxTY7pN+5uN/mLNm+fRN8=
 			</data>
 		</dict>
 		<key>Headers/RKBandTemplate.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			IBgQ5efSI/Fc7P/h4lAxU+y5lnkYxlhFctkEfq2gv6E=
+			etiqmKFNdXFYe8vvyMbdLSmv60sZLLNTXaWvc+xD2K0=
 			</data>
 		</dict>
 		<key>Headers/RKBandView.h</key>
@@ -501,42 +501,35 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			LKuDzgtAGkGz5wMexfJVLEfXVIJFmxuSsa6LHfAvtMY=
+			HHrQCqys7XoHrTg34vgQrhfpzw0FtLzcEji+q3tCCEg=
 			</data>
 		</dict>
 		<key>Headers/RKBarChartComponentView.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			xVqngLiDxdyoOxEyoHNpvQXkT811IkBJc1GP/n9hiIs=
+			coUqwO4+E1p4l+N9I8ASlO6FPIJpZ7bSuS40JQRH3z4=
 			</data>
 		</dict>
 		<key>Headers/RKBarLineChartComponentTemplate.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			qmp/ORr75oIHR1YIpw1qZME7iRPRWLlvqn7aw8c7A0g=
+			TeEWycjJ+enSKDhF0xkKHHVaghaIQwQ3GsfWCKqujSE=
 			</data>
 		</dict>
 		<key>Headers/RKBarLineChartComponentView.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			TFPviKHw1Sp+b/6T/osFC21HLPRmRcQRNwoKyA6ESmk=
-			</data>
-		</dict>
-		<key>Headers/RKBarcode.h</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			/n0knyNadrQC32NKgIJ+rHuns/TX7J1fV2YTUiMWtZY=
+			4karr3TxzXJxU7Uz60ViK2Rny3h/OCUvAKjZzaQs9DI=
 			</data>
 		</dict>
 		<key>Headers/RKBarcodeComponentTemplate.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			F2w+DEt6swSXSfKKgx4au4j8BbSxuSykK2p0WCeVOrs=
+			Twjnh3o/N4hxaDT6PIaUYjw9HqVEtdU4n3vJbkJsiz8=
 			</data>
 		</dict>
 		<key>Headers/RKBarcodeComponentView.h</key>
@@ -550,28 +543,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			11AqFGmzso8idXQWO4lhgrk6neYmlW4v7umpAc1bISw=
+			nhtk+5k9cFAxt32pPhEFCxJcmrdvLRyJoOImqHuG+sI=
 			</data>
 		</dict>
 		<key>Headers/RKBasicChartComponentTemplate.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ecPYIZGmdqHsGuGYVY/yaB8CkRcWPtPyJULuc2qbmLI=
+			LJ24N9NVlwHVZ71HoFCwNDlCy3EGH7E14RKpvKKpnoA=
 			</data>
 		</dict>
 		<key>Headers/RKBasicXYAxisChartComponentTemplate.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			vZZyX48vzQjb3G5QlA/J1WiCQ2djtghju3HAhibCt5E=
+			gIapnF/24g0C7l3UcXyUD8oVNR2fZ5ia7ZgAuQoKMSY=
 			</data>
 		</dict>
 		<key>Headers/RKBasicXYAxisChartComponentView.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			s40FMp7YCGS9mIxrsG7c5ASbUdvew4LntgA0yUM1ABo=
+			D6uqsXn2U91nWIkr+ewzznUFKweJ+cJaFoCs8xIdBys=
 			</data>
 		</dict>
 		<key>Headers/RKBezierPath+ReportKit.h</key>
@@ -581,39 +574,32 @@
 			Kf+/UODmiN4x05mRwoSrdwHNcZ6PUgrsTGsoXcoZGF8=
 			</data>
 		</dict>
-		<key>Headers/RKBooleanValueFormatter.h</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			ijl50n2CSEO6ZdMQzNv/4BnUI0J77cKC7wo2EOf2U9M=
-			</data>
-		</dict>
 		<key>Headers/RKBubbleChartComponentTemplate.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Gi21AphjET6BufgmsfQEAAOkoSnIneRD6VnB5nGtKXY=
+			otSEToVA1Q6UZ2+6PTJEQCKBTLLAbYu1MHlNLyaMOCw=
 			</data>
 		</dict>
 		<key>Headers/RKBubbleChartComponentView.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			oI0bnyMLUyDBJs3oEUnEZe5Qkkh+j+074TQk2ZnRI9o=
+			fmz5gE2LmUUAh2EJxH4T1p/nOTcb/7VZlgfbc8Pmtqg=
 			</data>
 		</dict>
 		<key>Headers/RKCandleChartComponentTemplate.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			TD01tfe2GMwMXMxdM8Mh8Yn7V63wZT8mT/9zFdSeU2E=
+			xTwr1uK9fOxizEBceQkTOrgl8UGjPmDXZsNhTLd1fi8=
 			</data>
 		</dict>
 		<key>Headers/RKCandleChartComponentView.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			R3WVS45rAuoUScj0EkHUFfmXoQEb/+qNJu4mNNNu/fY=
+			WICOFR7Ei5NVZIfUlXL2yFXtLdnkoXszYbywLoHwgfI=
 			</data>
 		</dict>
 		<key>Headers/RKChartAxisValueFormatter.h</key>
@@ -627,21 +613,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Pormj144cd3m5adeRvwX4T8OyYQOTDaGgcs0U3CoSnc=
+			1Ho7ROhwGB2B5cKRG4p2jy0RpCfbEICxQ//3cyJVi/Q=
 			</data>
 		</dict>
 		<key>Headers/RKChartComponentView.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			a3LARJqjpijHOkqvawHzcFwQ5KLMTBWzF9P9uVTqUN8=
+			Igt/4rsaXTXrvIStbON/fxIZ01GQDulOWREsUOviAUw=
 			</data>
 		</dict>
 		<key>Headers/RKChartDataSetTemplate.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			PoBLUfxMhvtarrxKU38cx5Bi2LkO4MvaFZG5t7CM00s=
+			vxKeTqb+y2GXA7Bui0nehY/YH4y0ru3a0C2x0YKiE7g=
 			</data>
 		</dict>
 		<key>Headers/RKChartValueFormatter.h</key>
@@ -658,18 +644,11 @@
 			QpqDeHHiwUIXCD61sE/ttjLKApCvZCmghyHfWCw99SA=
 			</data>
 		</dict>
-		<key>Headers/RKColorUtilities.h</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			FWz22QrEofqIH6Lm7/bXXpzkcBwB2nx/Qy5E9Lkrfwo=
-			</data>
-		</dict>
 		<key>Headers/RKCombinedChartComponentTemplate.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			TQ0x9/GSkfRJCIrKvuoL9XDAc50m49lneNFdQCaElHM=
+			aif8eADi6xc3X0rXq9NFCG9eTv9U7ByBxEMsF/8A8Hs=
 			</data>
 		</dict>
 		<key>Headers/RKComponent.h</key>
@@ -683,7 +662,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			2/gaOBkZpQ9z1It5eJjczxOREEeeJC9l28nAvB2spHc=
+			ish047NlfPTtt0joW8sVr0FM1NlsQa4Bc4xl6nHx+bU=
 			</data>
 		</dict>
 		<key>Headers/RKComponentView.h</key>
@@ -693,46 +672,39 @@
 			IvaWzORkKPZ7gu+av4oNTbuRn3Lt8sVVTEYVfKCCxbA=
 			</data>
 		</dict>
-		<key>Headers/RKCurrencySpelledOutValueFormatter.h</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			m4nlEbBZo6fddHyW6AmL0AZAY3GF/em59DHCc/U1yyI=
-			</data>
-		</dict>
 		<key>Headers/RKCustomComponentView.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			5VKl92GCHoF5Hmu1vaMWD1LAXJzYllkpIt4X4u6Lwaw=
+			sss4VANGtfZuie60thnxRPulQ9AquBbSIOJlEqWJgHU=
 			</data>
 		</dict>
 		<key>Headers/RKCustomViewComponentTemplate.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			xPSKV4aqi6oPNTY2YBaBofmQ5+WdgT+KfyKzFFOwl7k=
+			/e3tVshPoQmqrVvgMGx4N36S59XoPj/VbOHDfCkzgVc=
 			</data>
 		</dict>
 		<key>Headers/RKDataAwareComponentTemplate.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			PtCwXTk1eyBTlf4Os1fEzF1nU9RuXliVgsZRMfVtCpU=
+			UMJT/7/ei/XiktaIESmeA/KR5S6UExtDepGJ6HfUjNg=
 			</data>
 		</dict>
-		<key>Headers/RKDateTimeValueFormatter.h</key>
+		<key>Headers/RKDocumentAttributes.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			quvx2IcxhU1eiYM8KTd9d/6jyKEKfEjMrf/S3vggTKU=
+			oD4V/E1r8m2toVyfoPzQ5tR21AUxvkvZGxqqOaTGA1A=
 			</data>
 		</dict>
 		<key>Headers/RKExpandableTextComponentView.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			toz6FEEIUA6rxnt/nEwXRLmFNyh12f2lNsOYf+BS7Hk=
+			cOxhjn8GvVZEgvUrbsf12J1cLqhxrVWvglC4vr8gark=
 			</data>
 		</dict>
 		<key>Headers/RKFontInformation.h</key>
@@ -740,13 +712,6 @@
 			<key>hash2</key>
 			<data>
 			3zsi68wvXICjqfPbGaRBKz7xqfKc5NYH9svg05XXSi8=
-			</data>
-		</dict>
-		<key>Headers/RKGlobalDefinitions.h</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			q+orerplV/jdqX+mWh466xHxxDVK7vSRgImi/eZhJoc=
 			</data>
 		</dict>
 		<key>Headers/RKGroupIdentifier.h</key>
@@ -767,14 +732,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			DeEVqflyHrHKHElTC89EClSHbT3re6j6SvAz7V4vBqo=
+			HyteMHBi2FqG8JOt1PgvGHuZ07imSvO12wUAaxQPL+4=
 			</data>
 		</dict>
 		<key>Headers/RKHorizontalLineComponentTemplate.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			albX9P+HBrshkwLb+8FhhhrZ7nzUb/9TVA1LWPvJDxI=
+			4L22MrBk8ajdJyybY5OadtJ4bjh+BdXaueFm02RvxqE=
 			</data>
 		</dict>
 		<key>Headers/RKHorizontalLineComponentView.h</key>
@@ -788,7 +753,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			MAU6NeeyNOxLQhZaeceLYw14kanGu2aQWunVYhiIsUQ=
+			CaQUe1qislxtPgxCcVL9mLF0NAYL9AB2xBNGPg/mBOA=
 			</data>
 		</dict>
 		<key>Headers/RKImageComponentView.h</key>
@@ -798,60 +763,32 @@
 			5tPNUC2FjNMJVEEFQVQd8IHGa9Pvh1ncE+4wdlMcDkQ=
 			</data>
 		</dict>
-		<key>Headers/RKIntrospector.h</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			aeNmNu+sLN3TAlVjtjxMgQHJvoJbkvyKppt0O1mb6jk=
-			</data>
-		</dict>
 		<key>Headers/RKLineChartComponentTemplate.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			zC0kaWFHZIfhNRVSFyfX4JQ1BRik1p0T5S6qNufThvs=
+			B8J2QhV/4U0yKLVv27KUa1SEF+6iV9qRPw3RdYCXTU8=
 			</data>
 		</dict>
 		<key>Headers/RKLineChartComponentView.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ldolBWgG3TsCKHiL/T6qDeruR5oqnVcg1zvCCgmUVjE=
-			</data>
-		</dict>
-		<key>Headers/RKLineUtilities.h</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			vNSreX4ZYiceSjAN77p3p+zLyXhQaAYtjMaPaIQo/1c=
-			</data>
-		</dict>
-		<key>Headers/RKNamedColor.h</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			ssESE0UOQE2Ea9SUqySSbO0IZ4fOnZ8UEbui/wxNWKQ=
+			UmwWNh0mE01c+HsQnW3bzIjTfyP1Lr2LXESPvGkbR+Q=
 			</data>
 		</dict>
 		<key>Headers/RKNegativeBarChartComponentTemplate.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			LMH2IWQe5TIqNoFBxejFH7AEKvNB+B+Soslht9LodcI=
-			</data>
-		</dict>
-		<key>Headers/RKNumberValueFormatter.h</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			39B/VCWYbeLQUBkVr0GdJbdjTsaS2wblId+FnGvwgW4=
+			2PXCxMyh9BQeszrOhGh2THLr4UZdA3glfHXEmYMsOFQ=
 			</data>
 		</dict>
 		<key>Headers/RKOvalComponentTemplate.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			KAUcRhVEB411jfwokbnHZJ2hRqprLkttrSzCuw1X35I=
+			ZkmfkKIHr6V8FW8QkjjFYuw6XZcL6Sie1R3SdJuk6f8=
 			</data>
 		</dict>
 		<key>Headers/RKOvalComponentView.h</key>
@@ -872,7 +809,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			i7Tyssi/BjCrCtIz5osTZHJXNK8zEkcVemQpd53f4vA=
+			kve8WlDoZtMAYPEcQwg5EMwzv/lyrHj/0kpsViyay9E=
 			</data>
 		</dict>
 		<key>Headers/RKPageView.h</key>
@@ -893,49 +830,49 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			OFQJG9dSwz13P0v9hKFuBbEbz+O+a/PdCrZKW7OMZAQ=
+			n5a1BmSFOLjYNc3X+79gRClFTMbs7MgWNZTrl9CRhiU=
 			</data>
 		</dict>
 		<key>Headers/RKPieChartComponentView.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			qdNwr/DOhOvclVHk4a8mbiMFqONKdtHHOBqrUjK8dYA=
+			wRDN0ljSUQLSEyilfp5H1OMq0RpzSQqJja+Om9DMqzA=
 			</data>
 		</dict>
 		<key>Headers/RKPieRadarChartComponentTemplate.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			OLjR0pOxZZ9bLEsfjMM+C63sqCZEEdMYDOSF5+eFZTU=
+			DmukC0O/HRNiVn3L9QRtu8Tj8d1My9tWsHefXOHMSzo=
 			</data>
 		</dict>
 		<key>Headers/RKPieRadarComponentView.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			IWPI3Ug0whyE7HeXtywvoFz7jmVqUmAJk5HPZhMVhy8=
+			t/Zp0tMh8neJO/aFIrIBykaLQq2Z9p5Ur8Yxayb5fAM=
 			</data>
 		</dict>
 		<key>Headers/RKRadarChartComponentTemplate.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			jGXinfWduB1H4gW0qZ1hsFzrQGi1LanUd8POT+GEx24=
+			b0VwmWA6v3uGPX8b825xwZUwVVo/4SaZ6+h3+GAY/9U=
 			</data>
 		</dict>
 		<key>Headers/RKRadarChartComponentView.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			48T7GLJKn0XsnN2JJtIcNahbpxci6WL8kx0XPi4ui2A=
+			QIPLRLwd02QmQn7MSV+m9SqfVCAttAP4jP8UgOY2TZw=
 			</data>
 		</dict>
 		<key>Headers/RKRectangleComponentTemplate.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			1BByIZjchGndCGRuxZxQvr4HU8cWVKT0tVdyztBTzoo=
+			ek4XIOoq3Rru9/y3qmm/zR9BIodJNQ1D9qfZNAsra+Y=
 			</data>
 		</dict>
 		<key>Headers/RKRectangleComponentView.h</key>
@@ -949,14 +886,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			fjpJmDdvMeX66JfTImxa9XK8cs3LhaL7BfZNUUHGXk8=
-			</data>
-		</dict>
-		<key>Headers/RKReportBuilderProject.h</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			Dmc6hTuis3n5Qkm7vBNkK+v6vq04ghLTpPu9BOGG1SA=
+			0m2sVp+GUENNpzqhT4KoMigS12Xy5C9Z8LOfvztZTyg=
 			</data>
 		</dict>
 		<key>Headers/RKReportBuilderProjectModel.h</key>
@@ -970,7 +900,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			N5FFERVu1wVwVRUhsBfO5GdTms0lKTds3L0AXs9DDU0=
+			m9MkwwVYSDYDXNDZNe4YCF+6IJ0FycA7s/PBtQN2YXY=
 			</data>
 		</dict>
 		<key>Headers/RKReportDataSource.h</key>
@@ -998,7 +928,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			GeC00rWkpFcj4oyR+mPmot34NKbsJ7Ahq/4LfCenams=
+			4eKjPkAk4BQm1a/ncZuJGk5aWhsx8vxcL7GeBEjaNCI=
 			</data>
 		</dict>
 		<key>Headers/RKReportMessage.h</key>
@@ -1008,18 +938,11 @@
 			dn90tqU2MzVm7kc2/gofxuX6uA/2PQxoMh2y8b6NxX4=
 			</data>
 		</dict>
-		<key>Headers/RKReportProperties.h</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			Dhz2bQeNFAKi+soImYqgD9qnE7n7RRbzouHTN3W/FFY=
-			</data>
-		</dict>
 		<key>Headers/RKRotatedTextComponentTemplate.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			aMkmT68m2sh+QduB205F2ibKcAxpRwC0fULbh8+0xvI=
+			23BGn8MnGUBjh4y7ITSqQ1WKzdPOMmDZzvkoAt4smwU=
 			</data>
 		</dict>
 		<key>Headers/RKRotatedTextComponentView.h</key>
@@ -1033,21 +956,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Xzl1bJBo6uQ7ujZzAdDkYenEeQoXZ47N/NHnwCvs1v4=
+			D+UFl+jQCT2tL7OU9bFx5qAjdX6rJqzasYtpyqsuepU=
 			</data>
 		</dict>
 		<key>Headers/RKScatterChartComponentView.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			4GeAlih/f0F3onAojQL5+yDYMrbmzNFDxblPEw71kcc=
+			WyePlpvkoqdDJIzA5Zi9z6zJCgi4MEo/+E88uL14IXs=
 			</data>
 		</dict>
 		<key>Headers/RKShapeComponentTemplate.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			MJ6MstdcNQRAFFzlIKeJyJQxisfB/A68crdSBgV2QdY=
+			7W+XIX0XPn33+EgpTiBWqUNxLVxCNPpX9fGPPTaWJL0=
 			</data>
 		</dict>
 		<key>Headers/RKShapeComponentView.h</key>
@@ -1061,7 +984,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			VI1oc3xE9s285s9q41VB2IutX0vwWagzaOAZOKFD74E=
+			uhoIlKLf/l67PFz0ugcAVh+xfYAP6U66C8D46r6QJnE=
 			</data>
 		</dict>
 		<key>Headers/RKSubreportComponentView.h</key>
@@ -1075,7 +998,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			xdu2zpo8F/7QXYPsmFCLQloxBaR3S4byNNj3HLXvHnc=
+			KL2CEbiO8a2erq5+67Sf+mlVw9bz+42Zl8hfvTC2BAg=
 			</data>
 		</dict>
 		<key>Headers/RKSystemTextComponentView.h</key>
@@ -1089,7 +1012,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			PQqqfTyiypNzqzPq8R+zFYdWgHIA3nXV4QW3V9mPaAU=
+			rV1hUoWPL8h1JxnTHE+0iwmDFnDFN1BZLxfVPECKv7U=
 			</data>
 		</dict>
 		<key>Headers/RKTextComponentView.h</key>
@@ -1103,7 +1026,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			s01t4GMZyLUgio0APzQ8zMQXNIU9klElrXBE+akhdIo=
+			DnFZmjxb0unhzOZ9tree3I5azKO1R4Tep/VlS2xLtUs=
 			</data>
 		</dict>
 		<key>Headers/RKTextViewComponentView.h</key>
@@ -1124,7 +1047,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			iIpMFekgp8g6Q1nw/0A2+6L4RZkyU5tWriYOyGp32cc=
+			9JVHGXQYQIWzaU6v83umTB5gr9HuAj7Z+eA4Iw5lBSg=
 			</data>
 		</dict>
 		<key>Headers/RKVerticalLineComponentView.h</key>
@@ -1145,7 +1068,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			S3Egrm3qGmLIxlDnBdYNaNcjA8NwKzf8bqCbEdleNlU=
+			L4pxwssaLVPVFbb3YaNU4vsNCl+LKzxrXgKlzPgFCbo=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -1153,6 +1076,83 @@
 			<key>hash2</key>
 			<data>
 			S+CNozEHLDMiX3YX3SSGQT8lofNvvBIHswwUznOIngA=
+			</data>
+		</dict>
+		<key>PrivateHeaders/RKBarcode+Private.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			+5tcQRCDrvXceAOZAFYZRixfnKYhJQVFU7PLyEC1atU=
+			</data>
+		</dict>
+		<key>PrivateHeaders/RKBarcode.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			I9PLaYoOqjArR+1FZVeaC0TUKw5zzDc8Cp3xJSk8q5A=
+			</data>
+		</dict>
+		<key>PrivateHeaders/RKBooleanValueFormatter.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			TyK7CaaaIL/OODWa/3uoBMjIk58JtJNrMGB/oRA4ql8=
+			</data>
+		</dict>
+		<key>PrivateHeaders/RKColorUtilities.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			FWz22QrEofqIH6Lm7/bXXpzkcBwB2nx/Qy5E9Lkrfwo=
+			</data>
+		</dict>
+		<key>PrivateHeaders/RKCurrencySpelledOutValueFormatter.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			m4nlEbBZo6fddHyW6AmL0AZAY3GF/em59DHCc/U1yyI=
+			</data>
+		</dict>
+		<key>PrivateHeaders/RKDateTimeValueFormatter.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			quvx2IcxhU1eiYM8KTd9d/6jyKEKfEjMrf/S3vggTKU=
+			</data>
+		</dict>
+		<key>PrivateHeaders/RKIntrospector.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			aeNmNu+sLN3TAlVjtjxMgQHJvoJbkvyKppt0O1mb6jk=
+			</data>
+		</dict>
+		<key>PrivateHeaders/RKLineUtilities.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			vNSreX4ZYiceSjAN77p3p+zLyXhQaAYtjMaPaIQo/1c=
+			</data>
+		</dict>
+		<key>PrivateHeaders/RKNamedColor.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			ssESE0UOQE2Ea9SUqySSbO0IZ4fOnZ8UEbui/wxNWKQ=
+			</data>
+		</dict>
+		<key>PrivateHeaders/RKNumberValueFormatter.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			39B/VCWYbeLQUBkVr0GdJbdjTsaS2wblId+FnGvwgW4=
+			</data>
+		</dict>
+		<key>PrivateHeaders/RKReportBuilderProject.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Dmc6hTuis3n5Qkm7vBNkK+v6vq04ghLTpPu9BOGG1SA=
 			</data>
 		</dict>
 	</dict>

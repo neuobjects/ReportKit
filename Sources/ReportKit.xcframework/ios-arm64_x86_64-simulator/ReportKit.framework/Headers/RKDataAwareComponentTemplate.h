@@ -10,6 +10,9 @@
 
 NS_ASSUME_NONNULL_BEGIN
 
+/**
+ The `RKDataAwareComponentTemplate` object contains the design-time properties that are common to all report components that can be mapped to values using the ``RKReportDataSource`` delegate.
+ */
 @interface RKDataAwareComponentTemplate : RKComponentTemplate
 
 /**

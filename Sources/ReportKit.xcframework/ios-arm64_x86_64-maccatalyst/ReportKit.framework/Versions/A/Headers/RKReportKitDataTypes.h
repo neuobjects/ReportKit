@@ -340,8 +340,8 @@ typedef enum RKLineStyle : NSInteger {
   RKLineStyleDashed,
   RKLineStyleDashedMedium,
   RKLineStyleDashedLong,
-  RKLineStyleDashDotted,
-  RKLineStyleDashDotted2
+  RKLineStyleDashDot,
+  RKLineStyleLongDashDot
 } RKLineStyle;
 
 typedef enum RKBandType : NSInteger
@@ -501,6 +501,15 @@ typedef enum RKMessageType : NSInteger
   RKMessageTypeWarning = 0,
   RKMessageTypeError = 1,
 } RKMessageType;
+
+typedef enum : NSUInteger
+{
+  RKContentTypeUnknown,
+  //RKContentTypeSubreport,
+  RKContentTypeDetail,
+  RKContentTypeGroup
+} RKContentType;
+
 /*
 @protocol ChartAxisValueFormatter
 @end

@@ -11,7 +11,7 @@
 NS_ASSUME_NONNULL_BEGIN
 
 /**
- The `RKSubreportComponentTemplate` object contains the properties used to define a report subreport component.
+ The `RKSubreportComponentTemplate` object contains the design-time properties used to create a subreport component.
  */
 @interface RKSubreportComponentTemplate : RKComponentTemplate
 

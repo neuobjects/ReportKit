@@ -10,7 +10,7 @@
 NS_ASSUME_NONNULL_BEGIN
 
 /**
- The `RKCustomViewComponentTemplate` object contains the properties used to define a report custom view component.
+ The `RKCustomViewComponentTemplate` object contains the design-time properties used to create a custom view component for a report.
  */
 @interface RKCustomViewComponentTemplate : RKComponentTemplate
 

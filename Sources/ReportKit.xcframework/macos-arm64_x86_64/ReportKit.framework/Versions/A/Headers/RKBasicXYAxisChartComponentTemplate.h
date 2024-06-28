@@ -13,7 +13,7 @@
 NS_ASSUME_NONNULL_BEGIN
 
 /**
- The `RKBasicXYAxisChartComponentTemplate` class contains properties that are common to charts the have an X and Y Axis.
+ The `RKBasicXYAxisChartComponentTemplate` class contains the design-time properties that are common to charts the have an X and Y Axis.
  */
 @interface RKBasicXYAxisChartComponentTemplate : RKBasicChartComponentTemplate
 /**

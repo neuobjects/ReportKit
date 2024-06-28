@@ -14,7 +14,7 @@
 NS_ASSUME_NONNULL_BEGIN
 
 /**
- The `RKTextViewComponentTemplate` object contains the properties used to define a report text view component.
+ The `RKTextViewComponentTemplate` object contains the design-time properties used to create a text view component.
  */
 @interface RKTextViewComponentTemplate : RKDataAwareComponentTemplate
 

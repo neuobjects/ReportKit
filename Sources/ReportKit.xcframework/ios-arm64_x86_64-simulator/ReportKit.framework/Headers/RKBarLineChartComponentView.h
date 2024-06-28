@@ -10,11 +10,11 @@
 NS_ASSUME_NONNULL_BEGIN
 
 /**
- The `RKBarLineChartComponentView` contains the common properties drawing a bar and line chart.
+ The `RKBarLineChartComponentView` contains the common properties needed to draw a bar and line chart.
  */
 @interface RKBarLineChartComponentView : RKBasicXYAxisChartComponentView
 
--(void) applyBarLineChartDatasetPropertiesFromModel;
+//moved to private -(void) applyBarLineChartDatasetPropertiesFromModel;
 
 @end
 

@@ -8,11 +8,11 @@
 #import <Foundation/Foundation.h>
 #import <PDFKit/PDFKit.h>
 #import <ReportKit/ReportKit.h>
-@class RKReportProperties;
+@class RKDocumentAttributes;
 @class RKPage;
 @class RKReportMessage;
 /**
- `RKReport` is the object that contains the final report. This object is passed to most of the methods in the `RKReportDelegate` and `RKDataReportSource` delegates.
+ `RKReport` is the object that contains the final report. This object is passed to most of the methods in the `RKReportDelegate` and `RKReportDataSource` delegates.
  */
 
 @interface RKReport : NSObject
@@ -20,7 +20,7 @@
 /**
  The report properties are initialized from the Report Builder IDE. They can be updated prior to calling generateReport from the Report Controller.
  */
-@property (readonly, nonatomic, strong) RKReportProperties * _Nonnull reportProperties;
+@property (readonly, nonatomic, strong) RKDocumentAttributes * _Nonnull documentAttributes;
 
 /**
  As the report is being gererated, this method can be used to retrieve the index of the given primary record. This is especially useful when combining multiple instances of a report into a single PDF

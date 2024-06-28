@@ -12,7 +12,7 @@
 NS_ASSUME_NONNULL_BEGIN
 
 /**
- The `RKShapeComponentTemplate` object contains the properties used to define a report shape component.
+ The `RKShapeComponentTemplate` object contains the design-time properties common to all shape components.
  */
 @interface RKShapeComponentTemplate : RKComponentTemplate
 

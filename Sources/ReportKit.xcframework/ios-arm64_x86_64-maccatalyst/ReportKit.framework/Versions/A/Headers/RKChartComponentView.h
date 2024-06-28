@@ -15,7 +15,7 @@
 NS_ASSUME_NONNULL_BEGIN
 
 /**
- The `RKChartComponentView` class contains the properties needed to render a chart view
+ The `RKChartComponentView` class contains the properties needed to draw a chart view
  */
 @interface RKChartComponentView : RKComponentView
 /**

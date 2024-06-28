@@ -10,7 +10,7 @@
 NS_ASSUME_NONNULL_BEGIN
 
 /**
- The `RKBarChartComponentView` contains the properties to draw a bar chart.
+ The `RKBarChartComponentView` draws the printed bar chart.
  */
 @interface RKBarChartComponentView : RKBarLineChartComponentView
 

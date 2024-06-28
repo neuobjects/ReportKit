@@ -10,7 +10,7 @@
 NS_ASSUME_NONNULL_BEGIN
 
 /**
- The `RKRadarChartComponentView` class contains the properties and methods that are needed to render a radar chart component.
+ The `RKRadarChartComponentView` class contains the properties and methods that are needed to draw a radar chart component.
  */
 @interface RKRadarChartComponentView : RKPieRadarComponentView
 

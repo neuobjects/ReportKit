@@ -12,22 +12,20 @@
 NS_ASSUME_NONNULL_BEGIN
 
 /**
- The `RKBarChartComponentTemplate` class contains the properties needed to define a bar chart component.
+ The `RKBarChartComponentTemplate` class contains the design-time bar chart properties assigned by ReportBuilder.
  */
 @interface RKBarChartComponentTemplate : RKBarLineChartComponentTemplate
 
 /**
- The type of bar chart
+ The type of bar chart.
  */
 @property (readonly, nonatomic) RKBarLineChartType barLineChartType;
 /**
- A boolean value to indicate whether the x axis range should be adjusted to allow the bars to be fully-displayed.
- 
- This property will add half of the bar width to each side of the x axis range in order to allow the bars of the barchart to be fully displayed.
+ A boolean value to indicate whether the x axis range should be adjusted to allow the bars to be fully-displayed. This property will add half of the bar width to each side of the x axis range in order to allow the bars of the barchart to be fully displayed.
  */
 @property (readonly, nonatomic) BOOL fitBars;
 /**
- the loction relative to the bar to draw the values.
+ the location relative to the bar to draw the values.
  */
 @property (readonly, nonatomic) RKChartDrawValueLocation valueLocation;
 /**

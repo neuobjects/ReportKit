@@ -10,7 +10,7 @@
 NS_ASSUME_NONNULL_BEGIN
 
 /**
- The `RKPieChartComponentView` class contains the properties and methods required to render a pie chart for a report.
+ The `RKPieChartComponentView` class contains the properties and methods needed to render a pie chart for a report.
  */
 @interface RKPieChartComponentView : RKPieRadarComponentView
 

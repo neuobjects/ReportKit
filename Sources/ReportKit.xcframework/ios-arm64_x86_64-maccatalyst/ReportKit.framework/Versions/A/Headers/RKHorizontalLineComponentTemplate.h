@@ -12,7 +12,7 @@
 NS_ASSUME_NONNULL_BEGIN
 
 /**
- The `RKHorizontalLineComponentTemplate` object contains the properties used to define a report text field component.
+ The `RKHorizontalLineComponentTemplate` object contains the design-time properties used to create a horizontal line component.
  */
 @interface RKHorizontalLineComponentTemplate : RKShapeComponentTemplate
 

@@ -11,7 +11,7 @@
 NS_ASSUME_NONNULL_BEGIN
 
 /**
- The `RKBubbleChartComponentTemplate` class contains the properties that are needed to define a bubble chart component.
+ The `RKBubbleChartComponentTemplate` class contains the design-time properties that are needed to create a bubble chart component.
  */
 @interface RKBubbleChartComponentTemplate : RKBarLineChartComponentTemplate
 

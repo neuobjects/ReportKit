@@ -46,10 +46,10 @@ typedef enum {
   /** QR Code 2D barcode format. */
   kRKBarcodeFormatQRCode,
 
-  /** RSS 14 */
+  /** RSS 14 format. */
   kRKBarcodeFormatRSS14,
 
-  /** RSS EXPANDED */
+  /** RSS Expanded format. */
   kRKBarcodeFormatRSSExpanded,
 
   /** UPC-A 1D format. */

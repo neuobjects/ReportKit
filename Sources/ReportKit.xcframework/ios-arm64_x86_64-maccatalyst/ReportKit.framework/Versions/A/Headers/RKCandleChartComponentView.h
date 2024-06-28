@@ -10,7 +10,7 @@
 NS_ASSUME_NONNULL_BEGIN
 
 /**
- The `RKBubbleChartComponentView` contains the properties to draw a candle chart.
+ The `RKBubbleChartComponentView` contains the properties needed to draw a candle chart.
  */
 @interface RKCandleChartComponentView : RKBarLineChartComponentView
 

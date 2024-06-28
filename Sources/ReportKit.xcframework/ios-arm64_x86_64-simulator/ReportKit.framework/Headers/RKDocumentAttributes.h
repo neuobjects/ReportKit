@@ -1,5 +1,5 @@
 //
-//  RKReportProperties.h
+//  RKDocumentAttributes.h
 //  ReportKitFramework
 //
 //  Created by Brian Lazarz on 2/11/24.
@@ -9,9 +9,9 @@
 
 NS_ASSUME_NONNULL_BEGIN
 /**
- `RKReportProperties` contain the fields that are added to the generated PDF.
+ `RKDocumentAttributes` contain the fields that are added to the generated PDF.
  */
-@interface RKReportProperties : NSObject
+@interface RKDocumentAttributes : NSObject
 
 /**
  The PDF title.

@@ -12,7 +12,7 @@
 NS_ASSUME_NONNULL_BEGIN
 
 /**
- The `RKBooleanValueFormatter` object contains the properties used to formatting date and time values. This class adheres to the `ChartAxisValueFormatter` and `ChartValueFormatter` protocols used by the chart components.
+ The `RKBooleanValueFormatter` object contains the properties used to formatting date and time values. This class adheres to the ``RKValueFormattingOptions protocol used by the chart components.
  */
 @interface RKBooleanValueFormatter : NSFormatter
 /**

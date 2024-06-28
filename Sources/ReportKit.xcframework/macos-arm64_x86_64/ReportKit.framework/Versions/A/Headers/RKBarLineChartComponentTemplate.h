@@ -14,7 +14,7 @@
 NS_ASSUME_NONNULL_BEGIN
 
 /**
- The `RKBarLineChartComponentTemplate` class contains the properties that are common to bar, line and scatter chart components.
+ The `RKBarLineChartComponentTemplate` class contains the design-time properties that are common to bar, line and scatter chart components.
  */
 @interface RKBarLineChartComponentTemplate : RKBasicXYAxisChartComponentTemplate
 

@@ -9,7 +9,7 @@
 
 NS_ASSUME_NONNULL_BEGIN
 /**
- The `RKBubbleChartComponentView` contains the properties to draw a bubble chart.
+ The `RKBubbleChartComponentView` contains the properties needed to draw a bubble chart.
  */
 @interface RKBubbleChartComponentView : RKBarLineChartComponentView
 

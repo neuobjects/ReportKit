@@ -19,7 +19,7 @@
 NS_ASSUME_NONNULL_BEGIN
 
 /**
- The `RKImageComponentTemplate` object contains the properties used to define a report text image component.
+ The `RKImageComponentTemplate` object contains the design-time properties used to create an image component.
  */
 @interface RKImageComponentTemplate : RKDataAwareComponentTemplate
 /**

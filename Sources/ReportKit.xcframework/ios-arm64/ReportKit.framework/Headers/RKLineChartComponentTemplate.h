@@ -13,7 +13,7 @@
 NS_ASSUME_NONNULL_BEGIN
 
 /**
- The `RKLineChartComponentTemplate` class contains the properties needed to define a bar chart components. 
+ The `RKLineChartComponentTemplate` class contains the design-time properties needed to generate bar chart components. 
  */
 @interface RKLineChartComponentTemplate : RKBarLineChartComponentTemplate
 

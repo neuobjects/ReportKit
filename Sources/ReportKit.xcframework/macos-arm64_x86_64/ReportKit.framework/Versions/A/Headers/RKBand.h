@@ -13,11 +13,10 @@
 //@class RKReportGroup;
 NS_ASSUME_NONNULL_BEGIN
 
-@interface RKBand : NSObject
-/*
- START HERE: FIGURE OUT WHICH OF THESE PROPERTIES CAN BE SET. WE SET THE FRAME AND SKIPBEFORE* in the willPositionBand method. whatever we do here may have to be done at the component level too
- NOTE: This is only an object. we need to review when these values are getting set and where the user can update them. if we make them read/write, we'll have to document when they can and cannot update the values. Leave this exercise for V2
+/**
+ The `RKBand` object is used by the reporting engine to build the printed report bands. The object will contain all the properties of the band before it is printed via the ``RKBandView`` object.
  */
+@interface RKBand : NSObject
 /**
  The type of band this is.
  */
@@ -39,7 +38,7 @@ NS_ASSUME_NONNULL_BEGIN
  */
 //REFACTOR THIS - NSArray
 @property (readonly, nonatomic, strong) NSMutableArray<RKComponent *> *components;
-/*
+/**
  The generated NS/UIView of the band.
  */
 @property (readonly, nonatomic, strong) RKBandView *bandView;//new
@@ -51,11 +50,14 @@ NS_ASSUME_NONNULL_BEGIN
  A boolean value that indicates whether the band should be suppressed if all the components on it, are empty.
  */
 @property (readonly, nonatomic) BOOL suppressIfEmpty;
-@property (nonatomic) BOOL hidden;//when can the user change this
+//@property (nonatomic) BOOL hidden;//when can the user change this
 /**
  A boolean value indicating whether the band should print.
  */
 @property (nonatomic) BOOL enabled;//when can the user change this?
+/**
+ The background color of the band.
+ */
 @property (nonatomic, strong) RKColor *backgroundColor;//can set in willPositionBand
 /**
  A boolean value indicating whether the reporting engine should skip to a new page prior to positioning this band on the report.
@@ -93,11 +95,11 @@ NS_ASSUME_NONNULL_BEGIN
  */
 @property (readonly, nonatomic) RKLineStyle lineStyle;
 /**
- The page number the band appears on
+ The page number the band appears on.
  */
 @property (readonly, nonatomic) NSInteger pageNumber;
 /**
- The record page number the band appears on
+ The record page number the band appears on.
  */
 @property (readonly, nonatomic) NSInteger recordPageNumber;
 /**
@@ -113,7 +115,7 @@ NS_ASSUME_NONNULL_BEGIN
 //-(RKBandView *) toView;
 
 /**
- Returns the component with the given identifier
+ Returns the component having the given identifier.
  @param identifier the identifier of the component.
  */
 -(RKComponent *) componentWithIdentifier:(NSString *) identifier;

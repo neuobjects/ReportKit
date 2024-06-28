@@ -9,8 +9,9 @@
 #import <ReportKit/JSONModel.h>
 #import <ReportKit/RKReportKitDataTypes.h>
 NS_ASSUME_NONNULL_BEGIN
+
 /**
- The `RKComponentTemplate` object contains the properties for a given report component.
+ The `RKComponentTemplate` object contains the design-time properties that are common to all report components.
  */
 @interface RKComponentTemplate : JSONModel
 

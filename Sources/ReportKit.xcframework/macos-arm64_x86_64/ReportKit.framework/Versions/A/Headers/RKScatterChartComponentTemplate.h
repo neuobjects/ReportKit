@@ -11,7 +11,7 @@
 NS_ASSUME_NONNULL_BEGIN
 
 /**
- The `RKScatterChartComponentTemplate` class contains the properties that are needed to define a scatter chart component.
+ The `RKScatterChartComponentTemplate` class contains the design-time properties that are needed to create a scatter chart component.
  */
 @interface RKScatterChartComponentTemplate : RKBarLineChartComponentTemplate
 

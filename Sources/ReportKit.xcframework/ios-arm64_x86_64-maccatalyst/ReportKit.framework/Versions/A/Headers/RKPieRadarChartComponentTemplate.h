@@ -12,7 +12,7 @@
 NS_ASSUME_NONNULL_BEGIN
 
 /**
- The `RKPieRadarChartComponentTemplate` class contains the properties that are common to pie and radar chart components.
+ The `RKPieRadarChartComponentTemplate` class contains the design-time properties that are common to pie and radar chart components.
  */
 @interface RKPieRadarChartComponentTemplate : RKBasicChartComponentTemplate
 

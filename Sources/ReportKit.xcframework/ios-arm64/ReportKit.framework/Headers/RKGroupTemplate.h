@@ -6,7 +6,7 @@
 //
 
 #import <Foundation/Foundation.h>
-#import <ReportKit/RKGlobalDefinitions.h>
+//#import <ReportKit/RKGlobalDefinitions.h>
 #import <ReportKit/ReportKit.h>
 
 /**

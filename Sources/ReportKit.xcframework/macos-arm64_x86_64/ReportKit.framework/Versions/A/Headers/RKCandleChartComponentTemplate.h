@@ -11,7 +11,7 @@
 NS_ASSUME_NONNULL_BEGIN
 
 /**
- The `RKCandleChartComponentTemplate` class contains the properties needed to define a candle chart components.
+ The `RKCandleChartComponentTemplate` class contains the design-time properties needed to create a candle chart component.
  */
 @interface RKCandleChartComponentTemplate : RKBarLineChartComponentTemplate
 

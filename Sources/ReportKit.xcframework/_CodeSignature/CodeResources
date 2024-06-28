@@ -34,11 +34,11 @@
 		</data>
 		<key>ios-arm64/ReportKit.framework/Headers/RKBand.h</key>
 		<data>
-		+a/tnlt1p2j3iQ7+iyxhGzwP8c4=
+		qrTFWq62jS5cXvZZ4k+QX59b/8M=
 		</data>
 		<key>ios-arm64/ReportKit.framework/Headers/RKBandTemplate.h</key>
 		<data>
-		eznESOmtkUFfekWpWP+p7/gTxCw=
+		YzLZYi8FpDnguficC6CIh7jzavU=
 		</data>
 		<key>ios-arm64/ReportKit.framework/Headers/RKBandView.h</key>
 		<data>
@@ -46,27 +46,23 @@
 		</data>
 		<key>ios-arm64/ReportKit.framework/Headers/RKBarChartComponentTemplate.h</key>
 		<data>
-		HJhi8UO84uJzcVe8TZGDfXr+Ybc=
+		ckZccpwZNpzlUGbjW/uRsPSiDAc=
 		</data>
 		<key>ios-arm64/ReportKit.framework/Headers/RKBarChartComponentView.h</key>
 		<data>
-		RgacQbn1LHK51SEeng4nYH5E8og=
+		7h4UDiF0V0blFt5F41B3g+S6Gz8=
 		</data>
 		<key>ios-arm64/ReportKit.framework/Headers/RKBarLineChartComponentTemplate.h</key>
 		<data>
-		Rx4/GkV7DEVjAEK/p6ekcJpGEzw=
+		4/gl3uc/Yf1Sc7mnRttCIijecks=
 		</data>
 		<key>ios-arm64/ReportKit.framework/Headers/RKBarLineChartComponentView.h</key>
 		<data>
-		WnTgpaFCDO/V/hO9swNqAuNcbu4=
-		</data>
-		<key>ios-arm64/ReportKit.framework/Headers/RKBarcode.h</key>
-		<data>
-		BhqWQtSuJ66M1g5cgUOwa8fX0Vk=
+		PP6V3ogz4E7eUHoDvmjpKcBQwkc=
 		</data>
 		<key>ios-arm64/ReportKit.framework/Headers/RKBarcodeComponentTemplate.h</key>
 		<data>
-		K6W+F3T+oI1ZOEpq0Me1pGogk4g=
+		AbsoIIo1RXmdmw6rnlZR9Ucw5pU=
 		</data>
 		<key>ios-arm64/ReportKit.framework/Headers/RKBarcodeComponentView.h</key>
 		<data>
@@ -74,43 +70,39 @@
 		</data>
 		<key>ios-arm64/ReportKit.framework/Headers/RKBarcodeFormat.h</key>
 		<data>
-		kJhvwrFb0jkEXkEgqydSDFi0bjk=
+		Pzd0Dyr6X0EMrbmiT1yh7H80snM=
 		</data>
 		<key>ios-arm64/ReportKit.framework/Headers/RKBasicChartComponentTemplate.h</key>
 		<data>
-		Slrxu1IUZEOOagKuMshHlbM4aUo=
+		av3xA1WBuqh08rRAxrF3q0HeW80=
 		</data>
 		<key>ios-arm64/ReportKit.framework/Headers/RKBasicXYAxisChartComponentTemplate.h</key>
 		<data>
-		FTBAV3rdWyk6Eq9DD1GqK+L5YYY=
+		LBUBYkXDmuGdGVuckZ9IPC8fDVY=
 		</data>
 		<key>ios-arm64/ReportKit.framework/Headers/RKBasicXYAxisChartComponentView.h</key>
 		<data>
-		MJI3d7GY91SeELOnstlFFKGPaLo=
+		CKo/oA1npbIBmu7bjBL8XJMOrUE=
 		</data>
 		<key>ios-arm64/ReportKit.framework/Headers/RKBezierPath+ReportKit.h</key>
 		<data>
 		6IUpOjSDBpzidoCDj7DLp/vYrAM=
 		</data>
-		<key>ios-arm64/ReportKit.framework/Headers/RKBooleanValueFormatter.h</key>
-		<data>
-		wIjHnXXtsgkL59SJ/Ab0jr8BFLA=
-		</data>
 		<key>ios-arm64/ReportKit.framework/Headers/RKBubbleChartComponentTemplate.h</key>
 		<data>
-		cOJiNSTFCB1XqUFni/uViRTvj0E=
+		7VUPR80JAsrUQVjS9JDs3DZsPDo=
 		</data>
 		<key>ios-arm64/ReportKit.framework/Headers/RKBubbleChartComponentView.h</key>
 		<data>
-		d09fMxGyRPPWqUTSU22tZTuwVmU=
+		ukFvzyz58Q/dMh0HxuSRoWDJGl8=
 		</data>
 		<key>ios-arm64/ReportKit.framework/Headers/RKCandleChartComponentTemplate.h</key>
 		<data>
-		pzhuafCMxsOszaaPiwL/8ZcluiM=
+		e4QfswToESlXXtJwCSFMrdMEaEs=
 		</data>
 		<key>ios-arm64/ReportKit.framework/Headers/RKCandleChartComponentView.h</key>
 		<data>
-		jRjxeCScMGnVzU8Su0nmH3cQT+8=
+		DGdnsi1czmRdDUS4Mcdvg3VJqqg=
 		</data>
 		<key>ios-arm64/ReportKit.framework/Headers/RKChartAxisValueFormatter.h</key>
 		<data>
@@ -118,15 +110,15 @@
 		</data>
 		<key>ios-arm64/ReportKit.framework/Headers/RKChartComponentTemplate.h</key>
 		<data>
-		O95PX1AZ82Xo829Jn+Mq70jG0UM=
+		doqpE5hiEo/2+Zx53i/hJZQsXfM=
 		</data>
 		<key>ios-arm64/ReportKit.framework/Headers/RKChartComponentView.h</key>
 		<data>
-		GNqyJVTR0OtF5lYrKBf+LJp7ai4=
+		IbhdY229MCsw6lT7gC4LnY8anPQ=
 		</data>
 		<key>ios-arm64/ReportKit.framework/Headers/RKChartDataSetTemplate.h</key>
 		<data>
-		auOF8k/j2GGZHH2cnfHYdmEeyIw=
+		uhLAHNZ4OaGUezKN8sa2Xkmb3rw=
 		</data>
 		<key>ios-arm64/ReportKit.framework/Headers/RKChartValueFormatter.h</key>
 		<data>
@@ -136,13 +128,9 @@
 		<data>
 		oY7LVRA/h8AsUy8VNXKeJrkkcx4=
 		</data>
-		<key>ios-arm64/ReportKit.framework/Headers/RKColorUtilities.h</key>
-		<data>
-		8rTE4gMvUFpgrz8JUiiFR/y1xsM=
-		</data>
 		<key>ios-arm64/ReportKit.framework/Headers/RKCombinedChartComponentTemplate.h</key>
 		<data>
-		FWje9Yox4OM3k14LynzRa6frcPo=
+		wQpYF87itBURbYo+6HBI153kNlM=
 		</data>
 		<key>ios-arm64/ReportKit.framework/Headers/RKComponent.h</key>
 		<data>
@@ -150,43 +138,35 @@
 		</data>
 		<key>ios-arm64/ReportKit.framework/Headers/RKComponentTemplate.h</key>
 		<data>
-		3xTLrsepv6JVNxMhWdRLLSypzlU=
+		FiF6te4uDLJ3PFul1eL4yrt8X/Q=
 		</data>
 		<key>ios-arm64/ReportKit.framework/Headers/RKComponentView.h</key>
 		<data>
 		scJWebTn/nGrklw2p574cmH55l4=
 		</data>
-		<key>ios-arm64/ReportKit.framework/Headers/RKCurrencySpelledOutValueFormatter.h</key>
-		<data>
-		CxjWsNxDG+qeBC2BgkfJPeKaBqY=
-		</data>
 		<key>ios-arm64/ReportKit.framework/Headers/RKCustomComponentView.h</key>
 		<data>
-		piDLqE7M9T2dw9wzuNssX6DgsfM=
+		NqX6CEclOR+fANRGRwhMfgabXPw=
 		</data>
 		<key>ios-arm64/ReportKit.framework/Headers/RKCustomViewComponentTemplate.h</key>
 		<data>
-		q4+i1DI7UjTOkCbGCXtoIEoZwUs=
+		QT0OFLonJxYN9s0H//dN8YQ6yeQ=
 		</data>
 		<key>ios-arm64/ReportKit.framework/Headers/RKDataAwareComponentTemplate.h</key>
 		<data>
-		PzEcDKWmGi6tJRSCs8mkv4A5Di4=
+		Sf6MHkMXi9y88l0HDOMyhsweUiM=
 		</data>
-		<key>ios-arm64/ReportKit.framework/Headers/RKDateTimeValueFormatter.h</key>
+		<key>ios-arm64/ReportKit.framework/Headers/RKDocumentAttributes.h</key>
 		<data>
-		UjN10QAUU7xuuEz9QdIhcFsfRew=
+		eke1YgarrtpJYH5gY9KnVdvY068=
 		</data>
 		<key>ios-arm64/ReportKit.framework/Headers/RKExpandableTextComponentView.h</key>
 		<data>
-		EHUkvrq1sT2JEGQXYf7vp9ffMao=
+		jibRa5qUh3MZnAugvTJucoBklRE=
 		</data>
 		<key>ios-arm64/ReportKit.framework/Headers/RKFontInformation.h</key>
 		<data>
 		Q9lo86Cy582Ksb4dh1QsCAk2DQg=
-		</data>
-		<key>ios-arm64/ReportKit.framework/Headers/RKGlobalDefinitions.h</key>
-		<data>
-		4VDp2DEFlblGg85Cmu/TpQ9FL24=
 		</data>
 		<key>ios-arm64/ReportKit.framework/Headers/RKGroupIdentifier.h</key>
 		<data>
@@ -198,11 +178,11 @@
 		</data>
 		<key>ios-arm64/ReportKit.framework/Headers/RKGroupTemplate.h</key>
 		<data>
-		aFoTetHy/1jAS92wYSP85OfEJ6I=
+		HMtkVgxl2opHx8C1j7WpmBxCrek=
 		</data>
 		<key>ios-arm64/ReportKit.framework/Headers/RKHorizontalLineComponentTemplate.h</key>
 		<data>
-		2XWxgN53fArqH4AaWI7Hz73XVf0=
+		aU4ZmnNafk+0I/jDjapImxqNcp4=
 		</data>
 		<key>ios-arm64/ReportKit.framework/Headers/RKHorizontalLineComponentView.h</key>
 		<data>
@@ -210,43 +190,27 @@
 		</data>
 		<key>ios-arm64/ReportKit.framework/Headers/RKImageComponentTemplate.h</key>
 		<data>
-		MWF/f0DB3+HChlSj1O7WA21wFms=
+		p+jMrqvK9xo3YN2i2tz2A3j6dUg=
 		</data>
 		<key>ios-arm64/ReportKit.framework/Headers/RKImageComponentView.h</key>
 		<data>
 		HbyxY6SD3gFf7dT1dESFtjpu/Pw=
 		</data>
-		<key>ios-arm64/ReportKit.framework/Headers/RKIntrospector.h</key>
-		<data>
-		Q2UKdkJPpoZMeMUPKsXdNTic8as=
-		</data>
 		<key>ios-arm64/ReportKit.framework/Headers/RKLineChartComponentTemplate.h</key>
 		<data>
-		2JOdGy+zE8+2B7xkKY3nabcqLDg=
+		go1Apa7COLWHaVSHVXIUmeF7HpI=
 		</data>
 		<key>ios-arm64/ReportKit.framework/Headers/RKLineChartComponentView.h</key>
 		<data>
-		DznHb+vXE/vb47ztt16ai20CE2c=
-		</data>
-		<key>ios-arm64/ReportKit.framework/Headers/RKLineUtilities.h</key>
-		<data>
-		3dIdoeoFc6JyipTElPq9wTl/oY4=
-		</data>
-		<key>ios-arm64/ReportKit.framework/Headers/RKNamedColor.h</key>
-		<data>
-		8lT7Q+66irWrL5yk1TIfQAq1ScM=
+		aKfHZ8ffXIbp1+0vLSxWy0jiWZ4=
 		</data>
 		<key>ios-arm64/ReportKit.framework/Headers/RKNegativeBarChartComponentTemplate.h</key>
 		<data>
-		IJ1luOeHnp9Dcqs+b5ciKpSaRIk=
-		</data>
-		<key>ios-arm64/ReportKit.framework/Headers/RKNumberValueFormatter.h</key>
-		<data>
-		dzUALCSUUMZLXYR+JTQnDLDShws=
+		pVPDxWE1zPbvPkKq4n95NebinEk=
 		</data>
 		<key>ios-arm64/ReportKit.framework/Headers/RKOvalComponentTemplate.h</key>
 		<data>
-		UBkiTsFq3y4b6sIfR0Rp5QnqoEI=
+		RmKzYHQWgVqNGI7As4cRY5XuOXQ=
 		</data>
 		<key>ios-arm64/ReportKit.framework/Headers/RKOvalComponentView.h</key>
 		<data>
@@ -258,7 +222,7 @@
 		</data>
 		<key>ios-arm64/ReportKit.framework/Headers/RKPageTemplate.h</key>
 		<data>
-		3U7xJz1DZFtfEUTH7Bvl0lt3ShU=
+		Abx1CU/mp1Fqw3tIUY1C/MmNB/s=
 		</data>
 		<key>ios-arm64/ReportKit.framework/Headers/RKPageView.h</key>
 		<data>
@@ -270,31 +234,31 @@
 		</data>
 		<key>ios-arm64/ReportKit.framework/Headers/RKPieChartComponentTemplate.h</key>
 		<data>
-		70UUJ1cpiLKCsF3j3kRViKStEZQ=
+		i6NqknasiGzwNx4QR9M7gILg+tA=
 		</data>
 		<key>ios-arm64/ReportKit.framework/Headers/RKPieChartComponentView.h</key>
 		<data>
-		OqBVJKMZqa6YbWqI/xTL+UyMduc=
+		aacxJSqwOn6UEmQ1WT03lOZ2xg4=
 		</data>
 		<key>ios-arm64/ReportKit.framework/Headers/RKPieRadarChartComponentTemplate.h</key>
 		<data>
-		LO2kOT1+TmwybwUDCQXQcuR5GFA=
+		J5jVI1EyccEgTlw4I3ujvGnXOuM=
 		</data>
 		<key>ios-arm64/ReportKit.framework/Headers/RKPieRadarComponentView.h</key>
 		<data>
-		01ypXApy1AvR2L6LGwsJSpIN+DQ=
+		OZr3EVRUU0NCKreWDl72hLjQW5w=
 		</data>
 		<key>ios-arm64/ReportKit.framework/Headers/RKRadarChartComponentTemplate.h</key>
 		<data>
-		QwJEb4/kChE2psfgHbjEKTkDmU4=
+		gy8LmCRKlfc+qxFnNakK/geaSIE=
 		</data>
 		<key>ios-arm64/ReportKit.framework/Headers/RKRadarChartComponentView.h</key>
 		<data>
-		tXmXwdWExlCg2VGEaZT/ipqupcw=
+		L5+SvPW46a25wWTdZKq9du3mJFw=
 		</data>
 		<key>ios-arm64/ReportKit.framework/Headers/RKRectangleComponentTemplate.h</key>
 		<data>
-		Pf1Yg9/ZFVvRVrwd2TcPTe8iXcY=
+		KFvohBUJH/w/Z4GBZ/qnCRLD19M=
 		</data>
 		<key>ios-arm64/ReportKit.framework/Headers/RKRectangleComponentView.h</key>
 		<data>
@@ -302,11 +266,7 @@
 		</data>
 		<key>ios-arm64/ReportKit.framework/Headers/RKReport.h</key>
 		<data>
-		oIsD9Qldw6oRSsLAtoEZ5qpdt7I=
-		</data>
-		<key>ios-arm64/ReportKit.framework/Headers/RKReportBuilderProject.h</key>
-		<data>
-		HVged6nCP0I/WD/mBDo9dIirrLs=
+		Y/QOZeuITDb5mRmXiJbm9N99lWY=
 		</data>
 		<key>ios-arm64/ReportKit.framework/Headers/RKReportBuilderProjectModel.h</key>
 		<data>
@@ -314,7 +274,7 @@
 		</data>
 		<key>ios-arm64/ReportKit.framework/Headers/RKReportController.h</key>
 		<data>
-		RvA2T2cmtbzCtrRkcYxjBxfv44I=
+		Gbm6kMmZirlRisJS5Bd5cdKZTNc=
 		</data>
 		<key>ios-arm64/ReportKit.framework/Headers/RKReportDataSource.h</key>
 		<data>
@@ -330,19 +290,15 @@
 		</data>
 		<key>ios-arm64/ReportKit.framework/Headers/RKReportKitDataTypes.h</key>
 		<data>
-		7cQCIrAWaQbMVphUhp3iMg+TV+4=
+		nnZp/0ef2TzUjAZWE3r7fTc6FZU=
 		</data>
 		<key>ios-arm64/ReportKit.framework/Headers/RKReportMessage.h</key>
 		<data>
 		Cjubrtkj52Z3ydoTrdnf0pn5Qbg=
 		</data>
-		<key>ios-arm64/ReportKit.framework/Headers/RKReportProperties.h</key>
-		<data>
-		mUnXql+pxvlgw35ABTKUVbPdbQE=
-		</data>
 		<key>ios-arm64/ReportKit.framework/Headers/RKRotatedTextComponentTemplate.h</key>
 		<data>
-		Lk1N2MzCBbehNuwd8Z44lASAhK8=
+		bcIgdIGsnJC7s2/U3JD/qFzvx6c=
 		</data>
 		<key>ios-arm64/ReportKit.framework/Headers/RKRotatedTextComponentView.h</key>
 		<data>
@@ -350,15 +306,15 @@
 		</data>
 		<key>ios-arm64/ReportKit.framework/Headers/RKScatterChartComponentTemplate.h</key>
 		<data>
-		URZlRupimw/FDghos7dpOSZKHBI=
+		Get9DN3cMP//Jm+J0PIFLIiX8xk=
 		</data>
 		<key>ios-arm64/ReportKit.framework/Headers/RKScatterChartComponentView.h</key>
 		<data>
-		joBZ2ApD0JLXfjd5HKyB0z0y968=
+		Lam8AotXBqnHC6FBQLSVAmIocrM=
 		</data>
 		<key>ios-arm64/ReportKit.framework/Headers/RKShapeComponentTemplate.h</key>
 		<data>
-		OZAhdu314HPPBry07yOmWbBLZn0=
+		oRNM7VYH80KK07u5AGP/Hsua7ss=
 		</data>
 		<key>ios-arm64/ReportKit.framework/Headers/RKShapeComponentView.h</key>
 		<data>
@@ -366,7 +322,7 @@
 		</data>
 		<key>ios-arm64/ReportKit.framework/Headers/RKSubreportComponentTemplate.h</key>
 		<data>
-		lx9QT3SJdh/4gFjjYhRbNyMCirw=
+		fbzAWGjDtVds9/Dod0+e0apTJbE=
 		</data>
 		<key>ios-arm64/ReportKit.framework/Headers/RKSubreportComponentView.h</key>
 		<data>
@@ -374,7 +330,7 @@
 		</data>
 		<key>ios-arm64/ReportKit.framework/Headers/RKSystemTextComponentTemplate.h</key>
 		<data>
-		fF9vjKFXhKqXnkTYgxCnc0zOREk=
+		a63j/a+j+vy8I6NDwATyDe9/VMo=
 		</data>
 		<key>ios-arm64/ReportKit.framework/Headers/RKSystemTextComponentView.h</key>
 		<data>
@@ -382,7 +338,7 @@
 		</data>
 		<key>ios-arm64/ReportKit.framework/Headers/RKTextComponentTemplate.h</key>
 		<data>
-		xBmOw2HHSyi9PrWJ+KoOFRzX/z4=
+		bsKsJ9XwwelbmSdQHndQM8ygbD8=
 		</data>
 		<key>ios-arm64/ReportKit.framework/Headers/RKTextComponentView.h</key>
 		<data>
@@ -390,7 +346,7 @@
 		</data>
 		<key>ios-arm64/ReportKit.framework/Headers/RKTextViewComponentTemplate.h</key>
 		<data>
-		n7K8JRPGEkllePeGHJ9bPc6ukXM=
+		/qq7kozqByqV8GGso/bDC4qLFBQ=
 		</data>
 		<key>ios-arm64/ReportKit.framework/Headers/RKTextViewComponentView.h</key>
 		<data>
@@ -402,7 +358,7 @@
 		</data>
 		<key>ios-arm64/ReportKit.framework/Headers/RKVerticalLineComponentTemplate.h</key>
 		<data>
-		VlxIX/onQVrJ5emONNbCXvFHV/o=
+		tbjBSU3+1H6rdwEmu08Syi5zY74=
 		</data>
 		<key>ios-arm64/ReportKit.framework/Headers/RKVerticalLineComponentView.h</key>
 		<data>
@@ -414,7 +370,7 @@
 		</data>
 		<key>ios-arm64/ReportKit.framework/Headers/ReportKit.h</key>
 		<data>
-		eu3mu9Ak2Zbr5ynaKZwpVK68KK8=
+		503MTmbZXhBpeQuwTQgOPdDzlfk=
 		</data>
 		<key>ios-arm64/ReportKit.framework/Info.plist</key>
 		<data>
@@ -424,9 +380,53 @@
 		<data>
 		YKjjy8TDDifzuTN3CxO3K75GEJc=
 		</data>
+		<key>ios-arm64/ReportKit.framework/PrivateHeaders/RKBarcode+Private.h</key>
+		<data>
+		W5WAiyatFCgycS/+vlnX7fWPaeM=
+		</data>
+		<key>ios-arm64/ReportKit.framework/PrivateHeaders/RKBarcode.h</key>
+		<data>
+		khVCaX7R7r2vDDciYWQGXX/37Ww=
+		</data>
+		<key>ios-arm64/ReportKit.framework/PrivateHeaders/RKBooleanValueFormatter.h</key>
+		<data>
+		fbvjsbyriNuxTdt+MBafTeGu4g8=
+		</data>
+		<key>ios-arm64/ReportKit.framework/PrivateHeaders/RKColorUtilities.h</key>
+		<data>
+		8rTE4gMvUFpgrz8JUiiFR/y1xsM=
+		</data>
+		<key>ios-arm64/ReportKit.framework/PrivateHeaders/RKCurrencySpelledOutValueFormatter.h</key>
+		<data>
+		CxjWsNxDG+qeBC2BgkfJPeKaBqY=
+		</data>
+		<key>ios-arm64/ReportKit.framework/PrivateHeaders/RKDateTimeValueFormatter.h</key>
+		<data>
+		UjN10QAUU7xuuEz9QdIhcFsfRew=
+		</data>
+		<key>ios-arm64/ReportKit.framework/PrivateHeaders/RKIntrospector.h</key>
+		<data>
+		Q2UKdkJPpoZMeMUPKsXdNTic8as=
+		</data>
+		<key>ios-arm64/ReportKit.framework/PrivateHeaders/RKLineUtilities.h</key>
+		<data>
+		3dIdoeoFc6JyipTElPq9wTl/oY4=
+		</data>
+		<key>ios-arm64/ReportKit.framework/PrivateHeaders/RKNamedColor.h</key>
+		<data>
+		8lT7Q+66irWrL5yk1TIfQAq1ScM=
+		</data>
+		<key>ios-arm64/ReportKit.framework/PrivateHeaders/RKNumberValueFormatter.h</key>
+		<data>
+		dzUALCSUUMZLXYR+JTQnDLDShws=
+		</data>
+		<key>ios-arm64/ReportKit.framework/PrivateHeaders/RKReportBuilderProject.h</key>
+		<data>
+		HVged6nCP0I/WD/mBDo9dIirrLs=
+		</data>
 		<key>ios-arm64/ReportKit.framework/ReportKit</key>
 		<data>
-		aS2nzkeF6K//SEMmgIFeIEgVx30=
+		5iCMK3K776ISecMBJUysKMnQHYc=
 		</data>
 		<key>ios-arm64_x86_64-maccatalyst/ReportKit.framework/Versions/A/Headers/JSONKeyMapper.h</key>
 		<data>
@@ -458,11 +458,11 @@
 		</data>
 		<key>ios-arm64_x86_64-maccatalyst/ReportKit.framework/Versions/A/Headers/RKBand.h</key>
 		<data>
-		+a/tnlt1p2j3iQ7+iyxhGzwP8c4=
+		qrTFWq62jS5cXvZZ4k+QX59b/8M=
 		</data>
 		<key>ios-arm64_x86_64-maccatalyst/ReportKit.framework/Versions/A/Headers/RKBandTemplate.h</key>
 		<data>
-		eznESOmtkUFfekWpWP+p7/gTxCw=
+		YzLZYi8FpDnguficC6CIh7jzavU=
 		</data>
 		<key>ios-arm64_x86_64-maccatalyst/ReportKit.framework/Versions/A/Headers/RKBandView.h</key>
 		<data>
@@ -470,27 +470,23 @@
 		</data>
 		<key>ios-arm64_x86_64-maccatalyst/ReportKit.framework/Versions/A/Headers/RKBarChartComponentTemplate.h</key>
 		<data>
-		HJhi8UO84uJzcVe8TZGDfXr+Ybc=
+		ckZccpwZNpzlUGbjW/uRsPSiDAc=
 		</data>
 		<key>ios-arm64_x86_64-maccatalyst/ReportKit.framework/Versions/A/Headers/RKBarChartComponentView.h</key>
 		<data>
-		RgacQbn1LHK51SEeng4nYH5E8og=
+		7h4UDiF0V0blFt5F41B3g+S6Gz8=
 		</data>
 		<key>ios-arm64_x86_64-maccatalyst/ReportKit.framework/Versions/A/Headers/RKBarLineChartComponentTemplate.h</key>
 		<data>
-		Rx4/GkV7DEVjAEK/p6ekcJpGEzw=
+		4/gl3uc/Yf1Sc7mnRttCIijecks=
 		</data>
 		<key>ios-arm64_x86_64-maccatalyst/ReportKit.framework/Versions/A/Headers/RKBarLineChartComponentView.h</key>
 		<data>
-		WnTgpaFCDO/V/hO9swNqAuNcbu4=
-		</data>
-		<key>ios-arm64_x86_64-maccatalyst/ReportKit.framework/Versions/A/Headers/RKBarcode.h</key>
-		<data>
-		BhqWQtSuJ66M1g5cgUOwa8fX0Vk=
+		PP6V3ogz4E7eUHoDvmjpKcBQwkc=
 		</data>
 		<key>ios-arm64_x86_64-maccatalyst/ReportKit.framework/Versions/A/Headers/RKBarcodeComponentTemplate.h</key>
 		<data>
-		K6W+F3T+oI1ZOEpq0Me1pGogk4g=
+		AbsoIIo1RXmdmw6rnlZR9Ucw5pU=
 		</data>
 		<key>ios-arm64_x86_64-maccatalyst/ReportKit.framework/Versions/A/Headers/RKBarcodeComponentView.h</key>
 		<data>
@@ -498,43 +494,39 @@
 		</data>
 		<key>ios-arm64_x86_64-maccatalyst/ReportKit.framework/Versions/A/Headers/RKBarcodeFormat.h</key>
 		<data>
-		kJhvwrFb0jkEXkEgqydSDFi0bjk=
+		Pzd0Dyr6X0EMrbmiT1yh7H80snM=
 		</data>
 		<key>ios-arm64_x86_64-maccatalyst/ReportKit.framework/Versions/A/Headers/RKBasicChartComponentTemplate.h</key>
 		<data>
-		Slrxu1IUZEOOagKuMshHlbM4aUo=
+		av3xA1WBuqh08rRAxrF3q0HeW80=
 		</data>
 		<key>ios-arm64_x86_64-maccatalyst/ReportKit.framework/Versions/A/Headers/RKBasicXYAxisChartComponentTemplate.h</key>
 		<data>
-		FTBAV3rdWyk6Eq9DD1GqK+L5YYY=
+		LBUBYkXDmuGdGVuckZ9IPC8fDVY=
 		</data>
 		<key>ios-arm64_x86_64-maccatalyst/ReportKit.framework/Versions/A/Headers/RKBasicXYAxisChartComponentView.h</key>
 		<data>
-		MJI3d7GY91SeELOnstlFFKGPaLo=
+		CKo/oA1npbIBmu7bjBL8XJMOrUE=
 		</data>
 		<key>ios-arm64_x86_64-maccatalyst/ReportKit.framework/Versions/A/Headers/RKBezierPath+ReportKit.h</key>
 		<data>
 		6IUpOjSDBpzidoCDj7DLp/vYrAM=
 		</data>
-		<key>ios-arm64_x86_64-maccatalyst/ReportKit.framework/Versions/A/Headers/RKBooleanValueFormatter.h</key>
-		<data>
-		wIjHnXXtsgkL59SJ/Ab0jr8BFLA=
-		</data>
 		<key>ios-arm64_x86_64-maccatalyst/ReportKit.framework/Versions/A/Headers/RKBubbleChartComponentTemplate.h</key>
 		<data>
-		cOJiNSTFCB1XqUFni/uViRTvj0E=
+		7VUPR80JAsrUQVjS9JDs3DZsPDo=
 		</data>
 		<key>ios-arm64_x86_64-maccatalyst/ReportKit.framework/Versions/A/Headers/RKBubbleChartComponentView.h</key>
 		<data>
-		d09fMxGyRPPWqUTSU22tZTuwVmU=
+		ukFvzyz58Q/dMh0HxuSRoWDJGl8=
 		</data>
 		<key>ios-arm64_x86_64-maccatalyst/ReportKit.framework/Versions/A/Headers/RKCandleChartComponentTemplate.h</key>
 		<data>
-		pzhuafCMxsOszaaPiwL/8ZcluiM=
+		e4QfswToESlXXtJwCSFMrdMEaEs=
 		</data>
 		<key>ios-arm64_x86_64-maccatalyst/ReportKit.framework/Versions/A/Headers/RKCandleChartComponentView.h</key>
 		<data>
-		jRjxeCScMGnVzU8Su0nmH3cQT+8=
+		DGdnsi1czmRdDUS4Mcdvg3VJqqg=
 		</data>
 		<key>ios-arm64_x86_64-maccatalyst/ReportKit.framework/Versions/A/Headers/RKChartAxisValueFormatter.h</key>
 		<data>
@@ -542,15 +534,15 @@
 		</data>
 		<key>ios-arm64_x86_64-maccatalyst/ReportKit.framework/Versions/A/Headers/RKChartComponentTemplate.h</key>
 		<data>
-		O95PX1AZ82Xo829Jn+Mq70jG0UM=
+		doqpE5hiEo/2+Zx53i/hJZQsXfM=
 		</data>
 		<key>ios-arm64_x86_64-maccatalyst/ReportKit.framework/Versions/A/Headers/RKChartComponentView.h</key>
 		<data>
-		GNqyJVTR0OtF5lYrKBf+LJp7ai4=
+		IbhdY229MCsw6lT7gC4LnY8anPQ=
 		</data>
 		<key>ios-arm64_x86_64-maccatalyst/ReportKit.framework/Versions/A/Headers/RKChartDataSetTemplate.h</key>
 		<data>
-		auOF8k/j2GGZHH2cnfHYdmEeyIw=
+		uhLAHNZ4OaGUezKN8sa2Xkmb3rw=
 		</data>
 		<key>ios-arm64_x86_64-maccatalyst/ReportKit.framework/Versions/A/Headers/RKChartValueFormatter.h</key>
 		<data>
@@ -560,13 +552,9 @@
 		<data>
 		oY7LVRA/h8AsUy8VNXKeJrkkcx4=
 		</data>
-		<key>ios-arm64_x86_64-maccatalyst/ReportKit.framework/Versions/A/Headers/RKColorUtilities.h</key>
-		<data>
-		8rTE4gMvUFpgrz8JUiiFR/y1xsM=
-		</data>
 		<key>ios-arm64_x86_64-maccatalyst/ReportKit.framework/Versions/A/Headers/RKCombinedChartComponentTemplate.h</key>
 		<data>
-		FWje9Yox4OM3k14LynzRa6frcPo=
+		wQpYF87itBURbYo+6HBI153kNlM=
 		</data>
 		<key>ios-arm64_x86_64-maccatalyst/ReportKit.framework/Versions/A/Headers/RKComponent.h</key>
 		<data>
@@ -574,43 +562,35 @@
 		</data>
 		<key>ios-arm64_x86_64-maccatalyst/ReportKit.framework/Versions/A/Headers/RKComponentTemplate.h</key>
 		<data>
-		3xTLrsepv6JVNxMhWdRLLSypzlU=
+		FiF6te4uDLJ3PFul1eL4yrt8X/Q=
 		</data>
 		<key>ios-arm64_x86_64-maccatalyst/ReportKit.framework/Versions/A/Headers/RKComponentView.h</key>
 		<data>
 		scJWebTn/nGrklw2p574cmH55l4=
 		</data>
-		<key>ios-arm64_x86_64-maccatalyst/ReportKit.framework/Versions/A/Headers/RKCurrencySpelledOutValueFormatter.h</key>
-		<data>
-		CxjWsNxDG+qeBC2BgkfJPeKaBqY=
-		</data>
 		<key>ios-arm64_x86_64-maccatalyst/ReportKit.framework/Versions/A/Headers/RKCustomComponentView.h</key>
 		<data>
-		piDLqE7M9T2dw9wzuNssX6DgsfM=
+		NqX6CEclOR+fANRGRwhMfgabXPw=
 		</data>
 		<key>ios-arm64_x86_64-maccatalyst/ReportKit.framework/Versions/A/Headers/RKCustomViewComponentTemplate.h</key>
 		<data>
-		q4+i1DI7UjTOkCbGCXtoIEoZwUs=
+		QT0OFLonJxYN9s0H//dN8YQ6yeQ=
 		</data>
 		<key>ios-arm64_x86_64-maccatalyst/ReportKit.framework/Versions/A/Headers/RKDataAwareComponentTemplate.h</key>
 		<data>
-		PzEcDKWmGi6tJRSCs8mkv4A5Di4=
+		Sf6MHkMXi9y88l0HDOMyhsweUiM=
 		</data>
-		<key>ios-arm64_x86_64-maccatalyst/ReportKit.framework/Versions/A/Headers/RKDateTimeValueFormatter.h</key>
+		<key>ios-arm64_x86_64-maccatalyst/ReportKit.framework/Versions/A/Headers/RKDocumentAttributes.h</key>
 		<data>
-		UjN10QAUU7xuuEz9QdIhcFsfRew=
+		eke1YgarrtpJYH5gY9KnVdvY068=
 		</data>
 		<key>ios-arm64_x86_64-maccatalyst/ReportKit.framework/Versions/A/Headers/RKExpandableTextComponentView.h</key>
 		<data>
-		EHUkvrq1sT2JEGQXYf7vp9ffMao=
+		jibRa5qUh3MZnAugvTJucoBklRE=
 		</data>
 		<key>ios-arm64_x86_64-maccatalyst/ReportKit.framework/Versions/A/Headers/RKFontInformation.h</key>
 		<data>
 		Q9lo86Cy582Ksb4dh1QsCAk2DQg=
-		</data>
-		<key>ios-arm64_x86_64-maccatalyst/ReportKit.framework/Versions/A/Headers/RKGlobalDefinitions.h</key>
-		<data>
-		4VDp2DEFlblGg85Cmu/TpQ9FL24=
 		</data>
 		<key>ios-arm64_x86_64-maccatalyst/ReportKit.framework/Versions/A/Headers/RKGroupIdentifier.h</key>
 		<data>
@@ -622,11 +602,11 @@
 		</data>
 		<key>ios-arm64_x86_64-maccatalyst/ReportKit.framework/Versions/A/Headers/RKGroupTemplate.h</key>
 		<data>
-		aFoTetHy/1jAS92wYSP85OfEJ6I=
+		HMtkVgxl2opHx8C1j7WpmBxCrek=
 		</data>
 		<key>ios-arm64_x86_64-maccatalyst/ReportKit.framework/Versions/A/Headers/RKHorizontalLineComponentTemplate.h</key>
 		<data>
-		2XWxgN53fArqH4AaWI7Hz73XVf0=
+		aU4ZmnNafk+0I/jDjapImxqNcp4=
 		</data>
 		<key>ios-arm64_x86_64-maccatalyst/ReportKit.framework/Versions/A/Headers/RKHorizontalLineComponentView.h</key>
 		<data>
@@ -634,43 +614,27 @@
 		</data>
 		<key>ios-arm64_x86_64-maccatalyst/ReportKit.framework/Versions/A/Headers/RKImageComponentTemplate.h</key>
 		<data>
-		MWF/f0DB3+HChlSj1O7WA21wFms=
+		p+jMrqvK9xo3YN2i2tz2A3j6dUg=
 		</data>
 		<key>ios-arm64_x86_64-maccatalyst/ReportKit.framework/Versions/A/Headers/RKImageComponentView.h</key>
 		<data>
 		HbyxY6SD3gFf7dT1dESFtjpu/Pw=
 		</data>
-		<key>ios-arm64_x86_64-maccatalyst/ReportKit.framework/Versions/A/Headers/RKIntrospector.h</key>
-		<data>
-		Q2UKdkJPpoZMeMUPKsXdNTic8as=
-		</data>
 		<key>ios-arm64_x86_64-maccatalyst/ReportKit.framework/Versions/A/Headers/RKLineChartComponentTemplate.h</key>
 		<data>
-		2JOdGy+zE8+2B7xkKY3nabcqLDg=
+		go1Apa7COLWHaVSHVXIUmeF7HpI=
 		</data>
 		<key>ios-arm64_x86_64-maccatalyst/ReportKit.framework/Versions/A/Headers/RKLineChartComponentView.h</key>
 		<data>
-		DznHb+vXE/vb47ztt16ai20CE2c=
-		</data>
-		<key>ios-arm64_x86_64-maccatalyst/ReportKit.framework/Versions/A/Headers/RKLineUtilities.h</key>
-		<data>
-		3dIdoeoFc6JyipTElPq9wTl/oY4=
-		</data>
-		<key>ios-arm64_x86_64-maccatalyst/ReportKit.framework/Versions/A/Headers/RKNamedColor.h</key>
-		<data>
-		8lT7Q+66irWrL5yk1TIfQAq1ScM=
+		aKfHZ8ffXIbp1+0vLSxWy0jiWZ4=
 		</data>
 		<key>ios-arm64_x86_64-maccatalyst/ReportKit.framework/Versions/A/Headers/RKNegativeBarChartComponentTemplate.h</key>
 		<data>
-		IJ1luOeHnp9Dcqs+b5ciKpSaRIk=
-		</data>
-		<key>ios-arm64_x86_64-maccatalyst/ReportKit.framework/Versions/A/Headers/RKNumberValueFormatter.h</key>
-		<data>
-		dzUALCSUUMZLXYR+JTQnDLDShws=
+		pVPDxWE1zPbvPkKq4n95NebinEk=
 		</data>
 		<key>ios-arm64_x86_64-maccatalyst/ReportKit.framework/Versions/A/Headers/RKOvalComponentTemplate.h</key>
 		<data>
-		UBkiTsFq3y4b6sIfR0Rp5QnqoEI=
+		RmKzYHQWgVqNGI7As4cRY5XuOXQ=
 		</data>
 		<key>ios-arm64_x86_64-maccatalyst/ReportKit.framework/Versions/A/Headers/RKOvalComponentView.h</key>
 		<data>
@@ -682,7 +646,7 @@
 		</data>
 		<key>ios-arm64_x86_64-maccatalyst/ReportKit.framework/Versions/A/Headers/RKPageTemplate.h</key>
 		<data>
-		3U7xJz1DZFtfEUTH7Bvl0lt3ShU=
+		Abx1CU/mp1Fqw3tIUY1C/MmNB/s=
 		</data>
 		<key>ios-arm64_x86_64-maccatalyst/ReportKit.framework/Versions/A/Headers/RKPageView.h</key>
 		<data>
@@ -694,31 +658,31 @@
 		</data>
 		<key>ios-arm64_x86_64-maccatalyst/ReportKit.framework/Versions/A/Headers/RKPieChartComponentTemplate.h</key>
 		<data>
-		70UUJ1cpiLKCsF3j3kRViKStEZQ=
+		i6NqknasiGzwNx4QR9M7gILg+tA=
 		</data>
 		<key>ios-arm64_x86_64-maccatalyst/ReportKit.framework/Versions/A/Headers/RKPieChartComponentView.h</key>
 		<data>
-		OqBVJKMZqa6YbWqI/xTL+UyMduc=
+		aacxJSqwOn6UEmQ1WT03lOZ2xg4=
 		</data>
 		<key>ios-arm64_x86_64-maccatalyst/ReportKit.framework/Versions/A/Headers/RKPieRadarChartComponentTemplate.h</key>
 		<data>
-		LO2kOT1+TmwybwUDCQXQcuR5GFA=
+		J5jVI1EyccEgTlw4I3ujvGnXOuM=
 		</data>
 		<key>ios-arm64_x86_64-maccatalyst/ReportKit.framework/Versions/A/Headers/RKPieRadarComponentView.h</key>
 		<data>
-		01ypXApy1AvR2L6LGwsJSpIN+DQ=
+		OZr3EVRUU0NCKreWDl72hLjQW5w=
 		</data>
 		<key>ios-arm64_x86_64-maccatalyst/ReportKit.framework/Versions/A/Headers/RKRadarChartComponentTemplate.h</key>
 		<data>
-		QwJEb4/kChE2psfgHbjEKTkDmU4=
+		gy8LmCRKlfc+qxFnNakK/geaSIE=
 		</data>
 		<key>ios-arm64_x86_64-maccatalyst/ReportKit.framework/Versions/A/Headers/RKRadarChartComponentView.h</key>
 		<data>
-		tXmXwdWExlCg2VGEaZT/ipqupcw=
+		L5+SvPW46a25wWTdZKq9du3mJFw=
 		</data>
 		<key>ios-arm64_x86_64-maccatalyst/ReportKit.framework/Versions/A/Headers/RKRectangleComponentTemplate.h</key>
 		<data>
-		Pf1Yg9/ZFVvRVrwd2TcPTe8iXcY=
+		KFvohBUJH/w/Z4GBZ/qnCRLD19M=
 		</data>
 		<key>ios-arm64_x86_64-maccatalyst/ReportKit.framework/Versions/A/Headers/RKRectangleComponentView.h</key>
 		<data>
@@ -726,11 +690,7 @@
 		</data>
 		<key>ios-arm64_x86_64-maccatalyst/ReportKit.framework/Versions/A/Headers/RKReport.h</key>
 		<data>
-		oIsD9Qldw6oRSsLAtoEZ5qpdt7I=
-		</data>
-		<key>ios-arm64_x86_64-maccatalyst/ReportKit.framework/Versions/A/Headers/RKReportBuilderProject.h</key>
-		<data>
-		HVged6nCP0I/WD/mBDo9dIirrLs=
+		Y/QOZeuITDb5mRmXiJbm9N99lWY=
 		</data>
 		<key>ios-arm64_x86_64-maccatalyst/ReportKit.framework/Versions/A/Headers/RKReportBuilderProjectModel.h</key>
 		<data>
@@ -738,7 +698,7 @@
 		</data>
 		<key>ios-arm64_x86_64-maccatalyst/ReportKit.framework/Versions/A/Headers/RKReportController.h</key>
 		<data>
-		RvA2T2cmtbzCtrRkcYxjBxfv44I=
+		Gbm6kMmZirlRisJS5Bd5cdKZTNc=
 		</data>
 		<key>ios-arm64_x86_64-maccatalyst/ReportKit.framework/Versions/A/Headers/RKReportDataSource.h</key>
 		<data>
@@ -754,19 +714,15 @@
 		</data>
 		<key>ios-arm64_x86_64-maccatalyst/ReportKit.framework/Versions/A/Headers/RKReportKitDataTypes.h</key>
 		<data>
-		7cQCIrAWaQbMVphUhp3iMg+TV+4=
+		nnZp/0ef2TzUjAZWE3r7fTc6FZU=
 		</data>
 		<key>ios-arm64_x86_64-maccatalyst/ReportKit.framework/Versions/A/Headers/RKReportMessage.h</key>
 		<data>
 		Cjubrtkj52Z3ydoTrdnf0pn5Qbg=
 		</data>
-		<key>ios-arm64_x86_64-maccatalyst/ReportKit.framework/Versions/A/Headers/RKReportProperties.h</key>
-		<data>
-		mUnXql+pxvlgw35ABTKUVbPdbQE=
-		</data>
 		<key>ios-arm64_x86_64-maccatalyst/ReportKit.framework/Versions/A/Headers/RKRotatedTextComponentTemplate.h</key>
 		<data>
-		Lk1N2MzCBbehNuwd8Z44lASAhK8=
+		bcIgdIGsnJC7s2/U3JD/qFzvx6c=
 		</data>
 		<key>ios-arm64_x86_64-maccatalyst/ReportKit.framework/Versions/A/Headers/RKRotatedTextComponentView.h</key>
 		<data>
@@ -774,15 +730,15 @@
 		</data>
 		<key>ios-arm64_x86_64-maccatalyst/ReportKit.framework/Versions/A/Headers/RKScatterChartComponentTemplate.h</key>
 		<data>
-		URZlRupimw/FDghos7dpOSZKHBI=
+		Get9DN3cMP//Jm+J0PIFLIiX8xk=
 		</data>
 		<key>ios-arm64_x86_64-maccatalyst/ReportKit.framework/Versions/A/Headers/RKScatterChartComponentView.h</key>
 		<data>
-		joBZ2ApD0JLXfjd5HKyB0z0y968=
+		Lam8AotXBqnHC6FBQLSVAmIocrM=
 		</data>
 		<key>ios-arm64_x86_64-maccatalyst/ReportKit.framework/Versions/A/Headers/RKShapeComponentTemplate.h</key>
 		<data>
-		OZAhdu314HPPBry07yOmWbBLZn0=
+		oRNM7VYH80KK07u5AGP/Hsua7ss=
 		</data>
 		<key>ios-arm64_x86_64-maccatalyst/ReportKit.framework/Versions/A/Headers/RKShapeComponentView.h</key>
 		<data>
@@ -790,7 +746,7 @@
 		</data>
 		<key>ios-arm64_x86_64-maccatalyst/ReportKit.framework/Versions/A/Headers/RKSubreportComponentTemplate.h</key>
 		<data>
-		lx9QT3SJdh/4gFjjYhRbNyMCirw=
+		fbzAWGjDtVds9/Dod0+e0apTJbE=
 		</data>
 		<key>ios-arm64_x86_64-maccatalyst/ReportKit.framework/Versions/A/Headers/RKSubreportComponentView.h</key>
 		<data>
@@ -798,7 +754,7 @@
 		</data>
 		<key>ios-arm64_x86_64-maccatalyst/ReportKit.framework/Versions/A/Headers/RKSystemTextComponentTemplate.h</key>
 		<data>
-		fF9vjKFXhKqXnkTYgxCnc0zOREk=
+		a63j/a+j+vy8I6NDwATyDe9/VMo=
 		</data>
 		<key>ios-arm64_x86_64-maccatalyst/ReportKit.framework/Versions/A/Headers/RKSystemTextComponentView.h</key>
 		<data>
@@ -806,7 +762,7 @@
 		</data>
 		<key>ios-arm64_x86_64-maccatalyst/ReportKit.framework/Versions/A/Headers/RKTextComponentTemplate.h</key>
 		<data>
-		xBmOw2HHSyi9PrWJ+KoOFRzX/z4=
+		bsKsJ9XwwelbmSdQHndQM8ygbD8=
 		</data>
 		<key>ios-arm64_x86_64-maccatalyst/ReportKit.framework/Versions/A/Headers/RKTextComponentView.h</key>
 		<data>
@@ -814,7 +770,7 @@
 		</data>
 		<key>ios-arm64_x86_64-maccatalyst/ReportKit.framework/Versions/A/Headers/RKTextViewComponentTemplate.h</key>
 		<data>
-		n7K8JRPGEkllePeGHJ9bPc6ukXM=
+		/qq7kozqByqV8GGso/bDC4qLFBQ=
 		</data>
 		<key>ios-arm64_x86_64-maccatalyst/ReportKit.framework/Versions/A/Headers/RKTextViewComponentView.h</key>
 		<data>
@@ -826,7 +782,7 @@
 		</data>
 		<key>ios-arm64_x86_64-maccatalyst/ReportKit.framework/Versions/A/Headers/RKVerticalLineComponentTemplate.h</key>
 		<data>
-		VlxIX/onQVrJ5emONNbCXvFHV/o=
+		tbjBSU3+1H6rdwEmu08Syi5zY74=
 		</data>
 		<key>ios-arm64_x86_64-maccatalyst/ReportKit.framework/Versions/A/Headers/RKVerticalLineComponentView.h</key>
 		<data>
@@ -838,15 +794,59 @@
 		</data>
 		<key>ios-arm64_x86_64-maccatalyst/ReportKit.framework/Versions/A/Headers/ReportKit.h</key>
 		<data>
-		eu3mu9Ak2Zbr5ynaKZwpVK68KK8=
+		503MTmbZXhBpeQuwTQgOPdDzlfk=
 		</data>
 		<key>ios-arm64_x86_64-maccatalyst/ReportKit.framework/Versions/A/Modules/module.modulemap</key>
 		<data>
 		YKjjy8TDDifzuTN3CxO3K75GEJc=
 		</data>
+		<key>ios-arm64_x86_64-maccatalyst/ReportKit.framework/Versions/A/PrivateHeaders/RKBarcode+Private.h</key>
+		<data>
+		W5WAiyatFCgycS/+vlnX7fWPaeM=
+		</data>
+		<key>ios-arm64_x86_64-maccatalyst/ReportKit.framework/Versions/A/PrivateHeaders/RKBarcode.h</key>
+		<data>
+		khVCaX7R7r2vDDciYWQGXX/37Ww=
+		</data>
+		<key>ios-arm64_x86_64-maccatalyst/ReportKit.framework/Versions/A/PrivateHeaders/RKBooleanValueFormatter.h</key>
+		<data>
+		fbvjsbyriNuxTdt+MBafTeGu4g8=
+		</data>
+		<key>ios-arm64_x86_64-maccatalyst/ReportKit.framework/Versions/A/PrivateHeaders/RKColorUtilities.h</key>
+		<data>
+		8rTE4gMvUFpgrz8JUiiFR/y1xsM=
+		</data>
+		<key>ios-arm64_x86_64-maccatalyst/ReportKit.framework/Versions/A/PrivateHeaders/RKCurrencySpelledOutValueFormatter.h</key>
+		<data>
+		CxjWsNxDG+qeBC2BgkfJPeKaBqY=
+		</data>
+		<key>ios-arm64_x86_64-maccatalyst/ReportKit.framework/Versions/A/PrivateHeaders/RKDateTimeValueFormatter.h</key>
+		<data>
+		UjN10QAUU7xuuEz9QdIhcFsfRew=
+		</data>
+		<key>ios-arm64_x86_64-maccatalyst/ReportKit.framework/Versions/A/PrivateHeaders/RKIntrospector.h</key>
+		<data>
+		Q2UKdkJPpoZMeMUPKsXdNTic8as=
+		</data>
+		<key>ios-arm64_x86_64-maccatalyst/ReportKit.framework/Versions/A/PrivateHeaders/RKLineUtilities.h</key>
+		<data>
+		3dIdoeoFc6JyipTElPq9wTl/oY4=
+		</data>
+		<key>ios-arm64_x86_64-maccatalyst/ReportKit.framework/Versions/A/PrivateHeaders/RKNamedColor.h</key>
+		<data>
+		8lT7Q+66irWrL5yk1TIfQAq1ScM=
+		</data>
+		<key>ios-arm64_x86_64-maccatalyst/ReportKit.framework/Versions/A/PrivateHeaders/RKNumberValueFormatter.h</key>
+		<data>
+		dzUALCSUUMZLXYR+JTQnDLDShws=
+		</data>
+		<key>ios-arm64_x86_64-maccatalyst/ReportKit.framework/Versions/A/PrivateHeaders/RKReportBuilderProject.h</key>
+		<data>
+		HVged6nCP0I/WD/mBDo9dIirrLs=
+		</data>
 		<key>ios-arm64_x86_64-maccatalyst/ReportKit.framework/Versions/A/ReportKit</key>
 		<data>
-		VvFjeSyP6CzcfC/tfZicHWUeccY=
+		obKdqf6KupWeX9s+L73DnfL5lXs=
 		</data>
 		<key>ios-arm64_x86_64-maccatalyst/ReportKit.framework/Versions/A/Resources/Info.plist</key>
 		<data>
@@ -882,11 +882,11 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/ReportKit.framework/Headers/RKBand.h</key>
 		<data>
-		+a/tnlt1p2j3iQ7+iyxhGzwP8c4=
+		qrTFWq62jS5cXvZZ4k+QX59b/8M=
 		</data>
 		<key>ios-arm64_x86_64-simulator/ReportKit.framework/Headers/RKBandTemplate.h</key>
 		<data>
-		eznESOmtkUFfekWpWP+p7/gTxCw=
+		YzLZYi8FpDnguficC6CIh7jzavU=
 		</data>
 		<key>ios-arm64_x86_64-simulator/ReportKit.framework/Headers/RKBandView.h</key>
 		<data>
@@ -894,27 +894,23 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/ReportKit.framework/Headers/RKBarChartComponentTemplate.h</key>
 		<data>
-		HJhi8UO84uJzcVe8TZGDfXr+Ybc=
+		ckZccpwZNpzlUGbjW/uRsPSiDAc=
 		</data>
 		<key>ios-arm64_x86_64-simulator/ReportKit.framework/Headers/RKBarChartComponentView.h</key>
 		<data>
-		RgacQbn1LHK51SEeng4nYH5E8og=
+		7h4UDiF0V0blFt5F41B3g+S6Gz8=
 		</data>
 		<key>ios-arm64_x86_64-simulator/ReportKit.framework/Headers/RKBarLineChartComponentTemplate.h</key>
 		<data>
-		Rx4/GkV7DEVjAEK/p6ekcJpGEzw=
+		4/gl3uc/Yf1Sc7mnRttCIijecks=
 		</data>
 		<key>ios-arm64_x86_64-simulator/ReportKit.framework/Headers/RKBarLineChartComponentView.h</key>
 		<data>
-		WnTgpaFCDO/V/hO9swNqAuNcbu4=
-		</data>
-		<key>ios-arm64_x86_64-simulator/ReportKit.framework/Headers/RKBarcode.h</key>
-		<data>
-		BhqWQtSuJ66M1g5cgUOwa8fX0Vk=
+		PP6V3ogz4E7eUHoDvmjpKcBQwkc=
 		</data>
 		<key>ios-arm64_x86_64-simulator/ReportKit.framework/Headers/RKBarcodeComponentTemplate.h</key>
 		<data>
-		K6W+F3T+oI1ZOEpq0Me1pGogk4g=
+		AbsoIIo1RXmdmw6rnlZR9Ucw5pU=
 		</data>
 		<key>ios-arm64_x86_64-simulator/ReportKit.framework/Headers/RKBarcodeComponentView.h</key>
 		<data>
@@ -922,43 +918,39 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/ReportKit.framework/Headers/RKBarcodeFormat.h</key>
 		<data>
-		kJhvwrFb0jkEXkEgqydSDFi0bjk=
+		Pzd0Dyr6X0EMrbmiT1yh7H80snM=
 		</data>
 		<key>ios-arm64_x86_64-simulator/ReportKit.framework/Headers/RKBasicChartComponentTemplate.h</key>
 		<data>
-		Slrxu1IUZEOOagKuMshHlbM4aUo=
+		av3xA1WBuqh08rRAxrF3q0HeW80=
 		</data>
 		<key>ios-arm64_x86_64-simulator/ReportKit.framework/Headers/RKBasicXYAxisChartComponentTemplate.h</key>
 		<data>
-		FTBAV3rdWyk6Eq9DD1GqK+L5YYY=
+		LBUBYkXDmuGdGVuckZ9IPC8fDVY=
 		</data>
 		<key>ios-arm64_x86_64-simulator/ReportKit.framework/Headers/RKBasicXYAxisChartComponentView.h</key>
 		<data>
-		MJI3d7GY91SeELOnstlFFKGPaLo=
+		CKo/oA1npbIBmu7bjBL8XJMOrUE=
 		</data>
 		<key>ios-arm64_x86_64-simulator/ReportKit.framework/Headers/RKBezierPath+ReportKit.h</key>
 		<data>
 		6IUpOjSDBpzidoCDj7DLp/vYrAM=
 		</data>
-		<key>ios-arm64_x86_64-simulator/ReportKit.framework/Headers/RKBooleanValueFormatter.h</key>
-		<data>
-		wIjHnXXtsgkL59SJ/Ab0jr8BFLA=
-		</data>
 		<key>ios-arm64_x86_64-simulator/ReportKit.framework/Headers/RKBubbleChartComponentTemplate.h</key>
 		<data>
-		cOJiNSTFCB1XqUFni/uViRTvj0E=
+		7VUPR80JAsrUQVjS9JDs3DZsPDo=
 		</data>
 		<key>ios-arm64_x86_64-simulator/ReportKit.framework/Headers/RKBubbleChartComponentView.h</key>
 		<data>
-		d09fMxGyRPPWqUTSU22tZTuwVmU=
+		ukFvzyz58Q/dMh0HxuSRoWDJGl8=
 		</data>
 		<key>ios-arm64_x86_64-simulator/ReportKit.framework/Headers/RKCandleChartComponentTemplate.h</key>
 		<data>
-		pzhuafCMxsOszaaPiwL/8ZcluiM=
+		e4QfswToESlXXtJwCSFMrdMEaEs=
 		</data>
 		<key>ios-arm64_x86_64-simulator/ReportKit.framework/Headers/RKCandleChartComponentView.h</key>
 		<data>
-		jRjxeCScMGnVzU8Su0nmH3cQT+8=
+		DGdnsi1czmRdDUS4Mcdvg3VJqqg=
 		</data>
 		<key>ios-arm64_x86_64-simulator/ReportKit.framework/Headers/RKChartAxisValueFormatter.h</key>
 		<data>
@@ -966,15 +958,15 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/ReportKit.framework/Headers/RKChartComponentTemplate.h</key>
 		<data>
-		O95PX1AZ82Xo829Jn+Mq70jG0UM=
+		doqpE5hiEo/2+Zx53i/hJZQsXfM=
 		</data>
 		<key>ios-arm64_x86_64-simulator/ReportKit.framework/Headers/RKChartComponentView.h</key>
 		<data>
-		GNqyJVTR0OtF5lYrKBf+LJp7ai4=
+		IbhdY229MCsw6lT7gC4LnY8anPQ=
 		</data>
 		<key>ios-arm64_x86_64-simulator/ReportKit.framework/Headers/RKChartDataSetTemplate.h</key>
 		<data>
-		auOF8k/j2GGZHH2cnfHYdmEeyIw=
+		uhLAHNZ4OaGUezKN8sa2Xkmb3rw=
 		</data>
 		<key>ios-arm64_x86_64-simulator/ReportKit.framework/Headers/RKChartValueFormatter.h</key>
 		<data>
@@ -984,13 +976,9 @@
 		<data>
 		oY7LVRA/h8AsUy8VNXKeJrkkcx4=
 		</data>
-		<key>ios-arm64_x86_64-simulator/ReportKit.framework/Headers/RKColorUtilities.h</key>
-		<data>
-		8rTE4gMvUFpgrz8JUiiFR/y1xsM=
-		</data>
 		<key>ios-arm64_x86_64-simulator/ReportKit.framework/Headers/RKCombinedChartComponentTemplate.h</key>
 		<data>
-		FWje9Yox4OM3k14LynzRa6frcPo=
+		wQpYF87itBURbYo+6HBI153kNlM=
 		</data>
 		<key>ios-arm64_x86_64-simulator/ReportKit.framework/Headers/RKComponent.h</key>
 		<data>
@@ -998,43 +986,35 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/ReportKit.framework/Headers/RKComponentTemplate.h</key>
 		<data>
-		3xTLrsepv6JVNxMhWdRLLSypzlU=
+		FiF6te4uDLJ3PFul1eL4yrt8X/Q=
 		</data>
 		<key>ios-arm64_x86_64-simulator/ReportKit.framework/Headers/RKComponentView.h</key>
 		<data>
 		scJWebTn/nGrklw2p574cmH55l4=
 		</data>
-		<key>ios-arm64_x86_64-simulator/ReportKit.framework/Headers/RKCurrencySpelledOutValueFormatter.h</key>
-		<data>
-		CxjWsNxDG+qeBC2BgkfJPeKaBqY=
-		</data>
 		<key>ios-arm64_x86_64-simulator/ReportKit.framework/Headers/RKCustomComponentView.h</key>
 		<data>
-		piDLqE7M9T2dw9wzuNssX6DgsfM=
+		NqX6CEclOR+fANRGRwhMfgabXPw=
 		</data>
 		<key>ios-arm64_x86_64-simulator/ReportKit.framework/Headers/RKCustomViewComponentTemplate.h</key>
 		<data>
-		q4+i1DI7UjTOkCbGCXtoIEoZwUs=
+		QT0OFLonJxYN9s0H//dN8YQ6yeQ=
 		</data>
 		<key>ios-arm64_x86_64-simulator/ReportKit.framework/Headers/RKDataAwareComponentTemplate.h</key>
 		<data>
-		PzEcDKWmGi6tJRSCs8mkv4A5Di4=
+		Sf6MHkMXi9y88l0HDOMyhsweUiM=
 		</data>
-		<key>ios-arm64_x86_64-simulator/ReportKit.framework/Headers/RKDateTimeValueFormatter.h</key>
+		<key>ios-arm64_x86_64-simulator/ReportKit.framework/Headers/RKDocumentAttributes.h</key>
 		<data>
-		UjN10QAUU7xuuEz9QdIhcFsfRew=
+		eke1YgarrtpJYH5gY9KnVdvY068=
 		</data>
 		<key>ios-arm64_x86_64-simulator/ReportKit.framework/Headers/RKExpandableTextComponentView.h</key>
 		<data>
-		EHUkvrq1sT2JEGQXYf7vp9ffMao=
+		jibRa5qUh3MZnAugvTJucoBklRE=
 		</data>
 		<key>ios-arm64_x86_64-simulator/ReportKit.framework/Headers/RKFontInformation.h</key>
 		<data>
 		Q9lo86Cy582Ksb4dh1QsCAk2DQg=
-		</data>
-		<key>ios-arm64_x86_64-simulator/ReportKit.framework/Headers/RKGlobalDefinitions.h</key>
-		<data>
-		4VDp2DEFlblGg85Cmu/TpQ9FL24=
 		</data>
 		<key>ios-arm64_x86_64-simulator/ReportKit.framework/Headers/RKGroupIdentifier.h</key>
 		<data>
@@ -1046,11 +1026,11 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/ReportKit.framework/Headers/RKGroupTemplate.h</key>
 		<data>
-		aFoTetHy/1jAS92wYSP85OfEJ6I=
+		HMtkVgxl2opHx8C1j7WpmBxCrek=
 		</data>
 		<key>ios-arm64_x86_64-simulator/ReportKit.framework/Headers/RKHorizontalLineComponentTemplate.h</key>
 		<data>
-		2XWxgN53fArqH4AaWI7Hz73XVf0=
+		aU4ZmnNafk+0I/jDjapImxqNcp4=
 		</data>
 		<key>ios-arm64_x86_64-simulator/ReportKit.framework/Headers/RKHorizontalLineComponentView.h</key>
 		<data>
@@ -1058,43 +1038,27 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/ReportKit.framework/Headers/RKImageComponentTemplate.h</key>
 		<data>
-		MWF/f0DB3+HChlSj1O7WA21wFms=
+		p+jMrqvK9xo3YN2i2tz2A3j6dUg=
 		</data>
 		<key>ios-arm64_x86_64-simulator/ReportKit.framework/Headers/RKImageComponentView.h</key>
 		<data>
 		HbyxY6SD3gFf7dT1dESFtjpu/Pw=
 		</data>
-		<key>ios-arm64_x86_64-simulator/ReportKit.framework/Headers/RKIntrospector.h</key>
-		<data>
-		Q2UKdkJPpoZMeMUPKsXdNTic8as=
-		</data>
 		<key>ios-arm64_x86_64-simulator/ReportKit.framework/Headers/RKLineChartComponentTemplate.h</key>
 		<data>
-		2JOdGy+zE8+2B7xkKY3nabcqLDg=
+		go1Apa7COLWHaVSHVXIUmeF7HpI=
 		</data>
 		<key>ios-arm64_x86_64-simulator/ReportKit.framework/Headers/RKLineChartComponentView.h</key>
 		<data>
-		DznHb+vXE/vb47ztt16ai20CE2c=
-		</data>
-		<key>ios-arm64_x86_64-simulator/ReportKit.framework/Headers/RKLineUtilities.h</key>
-		<data>
-		3dIdoeoFc6JyipTElPq9wTl/oY4=
-		</data>
-		<key>ios-arm64_x86_64-simulator/ReportKit.framework/Headers/RKNamedColor.h</key>
-		<data>
-		8lT7Q+66irWrL5yk1TIfQAq1ScM=
+		aKfHZ8ffXIbp1+0vLSxWy0jiWZ4=
 		</data>
 		<key>ios-arm64_x86_64-simulator/ReportKit.framework/Headers/RKNegativeBarChartComponentTemplate.h</key>
 		<data>
-		IJ1luOeHnp9Dcqs+b5ciKpSaRIk=
-		</data>
-		<key>ios-arm64_x86_64-simulator/ReportKit.framework/Headers/RKNumberValueFormatter.h</key>
-		<data>
-		dzUALCSUUMZLXYR+JTQnDLDShws=
+		pVPDxWE1zPbvPkKq4n95NebinEk=
 		</data>
 		<key>ios-arm64_x86_64-simulator/ReportKit.framework/Headers/RKOvalComponentTemplate.h</key>
 		<data>
-		UBkiTsFq3y4b6sIfR0Rp5QnqoEI=
+		RmKzYHQWgVqNGI7As4cRY5XuOXQ=
 		</data>
 		<key>ios-arm64_x86_64-simulator/ReportKit.framework/Headers/RKOvalComponentView.h</key>
 		<data>
@@ -1106,7 +1070,7 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/ReportKit.framework/Headers/RKPageTemplate.h</key>
 		<data>
-		3U7xJz1DZFtfEUTH7Bvl0lt3ShU=
+		Abx1CU/mp1Fqw3tIUY1C/MmNB/s=
 		</data>
 		<key>ios-arm64_x86_64-simulator/ReportKit.framework/Headers/RKPageView.h</key>
 		<data>
@@ -1118,31 +1082,31 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/ReportKit.framework/Headers/RKPieChartComponentTemplate.h</key>
 		<data>
-		70UUJ1cpiLKCsF3j3kRViKStEZQ=
+		i6NqknasiGzwNx4QR9M7gILg+tA=
 		</data>
 		<key>ios-arm64_x86_64-simulator/ReportKit.framework/Headers/RKPieChartComponentView.h</key>
 		<data>
-		OqBVJKMZqa6YbWqI/xTL+UyMduc=
+		aacxJSqwOn6UEmQ1WT03lOZ2xg4=
 		</data>
 		<key>ios-arm64_x86_64-simulator/ReportKit.framework/Headers/RKPieRadarChartComponentTemplate.h</key>
 		<data>
-		LO2kOT1+TmwybwUDCQXQcuR5GFA=
+		J5jVI1EyccEgTlw4I3ujvGnXOuM=
 		</data>
 		<key>ios-arm64_x86_64-simulator/ReportKit.framework/Headers/RKPieRadarComponentView.h</key>
 		<data>
-		01ypXApy1AvR2L6LGwsJSpIN+DQ=
+		OZr3EVRUU0NCKreWDl72hLjQW5w=
 		</data>
 		<key>ios-arm64_x86_64-simulator/ReportKit.framework/Headers/RKRadarChartComponentTemplate.h</key>
 		<data>
-		QwJEb4/kChE2psfgHbjEKTkDmU4=
+		gy8LmCRKlfc+qxFnNakK/geaSIE=
 		</data>
 		<key>ios-arm64_x86_64-simulator/ReportKit.framework/Headers/RKRadarChartComponentView.h</key>
 		<data>
-		tXmXwdWExlCg2VGEaZT/ipqupcw=
+		L5+SvPW46a25wWTdZKq9du3mJFw=
 		</data>
 		<key>ios-arm64_x86_64-simulator/ReportKit.framework/Headers/RKRectangleComponentTemplate.h</key>
 		<data>
-		Pf1Yg9/ZFVvRVrwd2TcPTe8iXcY=
+		KFvohBUJH/w/Z4GBZ/qnCRLD19M=
 		</data>
 		<key>ios-arm64_x86_64-simulator/ReportKit.framework/Headers/RKRectangleComponentView.h</key>
 		<data>
@@ -1150,11 +1114,7 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/ReportKit.framework/Headers/RKReport.h</key>
 		<data>
-		oIsD9Qldw6oRSsLAtoEZ5qpdt7I=
-		</data>
-		<key>ios-arm64_x86_64-simulator/ReportKit.framework/Headers/RKReportBuilderProject.h</key>
-		<data>
-		HVged6nCP0I/WD/mBDo9dIirrLs=
+		Y/QOZeuITDb5mRmXiJbm9N99lWY=
 		</data>
 		<key>ios-arm64_x86_64-simulator/ReportKit.framework/Headers/RKReportBuilderProjectModel.h</key>
 		<data>
@@ -1162,7 +1122,7 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/ReportKit.framework/Headers/RKReportController.h</key>
 		<data>
-		RvA2T2cmtbzCtrRkcYxjBxfv44I=
+		Gbm6kMmZirlRisJS5Bd5cdKZTNc=
 		</data>
 		<key>ios-arm64_x86_64-simulator/ReportKit.framework/Headers/RKReportDataSource.h</key>
 		<data>
@@ -1178,19 +1138,15 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/ReportKit.framework/Headers/RKReportKitDataTypes.h</key>
 		<data>
-		7cQCIrAWaQbMVphUhp3iMg+TV+4=
+		nnZp/0ef2TzUjAZWE3r7fTc6FZU=
 		</data>
 		<key>ios-arm64_x86_64-simulator/ReportKit.framework/Headers/RKReportMessage.h</key>
 		<data>
 		Cjubrtkj52Z3ydoTrdnf0pn5Qbg=
 		</data>
-		<key>ios-arm64_x86_64-simulator/ReportKit.framework/Headers/RKReportProperties.h</key>
-		<data>
-		mUnXql+pxvlgw35ABTKUVbPdbQE=
-		</data>
 		<key>ios-arm64_x86_64-simulator/ReportKit.framework/Headers/RKRotatedTextComponentTemplate.h</key>
 		<data>
-		Lk1N2MzCBbehNuwd8Z44lASAhK8=
+		bcIgdIGsnJC7s2/U3JD/qFzvx6c=
 		</data>
 		<key>ios-arm64_x86_64-simulator/ReportKit.framework/Headers/RKRotatedTextComponentView.h</key>
 		<data>
@@ -1198,15 +1154,15 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/ReportKit.framework/Headers/RKScatterChartComponentTemplate.h</key>
 		<data>
-		URZlRupimw/FDghos7dpOSZKHBI=
+		Get9DN3cMP//Jm+J0PIFLIiX8xk=
 		</data>
 		<key>ios-arm64_x86_64-simulator/ReportKit.framework/Headers/RKScatterChartComponentView.h</key>
 		<data>
-		joBZ2ApD0JLXfjd5HKyB0z0y968=
+		Lam8AotXBqnHC6FBQLSVAmIocrM=
 		</data>
 		<key>ios-arm64_x86_64-simulator/ReportKit.framework/Headers/RKShapeComponentTemplate.h</key>
 		<data>
-		OZAhdu314HPPBry07yOmWbBLZn0=
+		oRNM7VYH80KK07u5AGP/Hsua7ss=
 		</data>
 		<key>ios-arm64_x86_64-simulator/ReportKit.framework/Headers/RKShapeComponentView.h</key>
 		<data>
@@ -1214,7 +1170,7 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/ReportKit.framework/Headers/RKSubreportComponentTemplate.h</key>
 		<data>
-		lx9QT3SJdh/4gFjjYhRbNyMCirw=
+		fbzAWGjDtVds9/Dod0+e0apTJbE=
 		</data>
 		<key>ios-arm64_x86_64-simulator/ReportKit.framework/Headers/RKSubreportComponentView.h</key>
 		<data>
@@ -1222,7 +1178,7 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/ReportKit.framework/Headers/RKSystemTextComponentTemplate.h</key>
 		<data>
-		fF9vjKFXhKqXnkTYgxCnc0zOREk=
+		a63j/a+j+vy8I6NDwATyDe9/VMo=
 		</data>
 		<key>ios-arm64_x86_64-simulator/ReportKit.framework/Headers/RKSystemTextComponentView.h</key>
 		<data>
@@ -1230,7 +1186,7 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/ReportKit.framework/Headers/RKTextComponentTemplate.h</key>
 		<data>
-		xBmOw2HHSyi9PrWJ+KoOFRzX/z4=
+		bsKsJ9XwwelbmSdQHndQM8ygbD8=
 		</data>
 		<key>ios-arm64_x86_64-simulator/ReportKit.framework/Headers/RKTextComponentView.h</key>
 		<data>
@@ -1238,7 +1194,7 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/ReportKit.framework/Headers/RKTextViewComponentTemplate.h</key>
 		<data>
-		n7K8JRPGEkllePeGHJ9bPc6ukXM=
+		/qq7kozqByqV8GGso/bDC4qLFBQ=
 		</data>
 		<key>ios-arm64_x86_64-simulator/ReportKit.framework/Headers/RKTextViewComponentView.h</key>
 		<data>
@@ -1250,7 +1206,7 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/ReportKit.framework/Headers/RKVerticalLineComponentTemplate.h</key>
 		<data>
-		VlxIX/onQVrJ5emONNbCXvFHV/o=
+		tbjBSU3+1H6rdwEmu08Syi5zY74=
 		</data>
 		<key>ios-arm64_x86_64-simulator/ReportKit.framework/Headers/RKVerticalLineComponentView.h</key>
 		<data>
@@ -1262,7 +1218,7 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/ReportKit.framework/Headers/ReportKit.h</key>
 		<data>
-		eu3mu9Ak2Zbr5ynaKZwpVK68KK8=
+		503MTmbZXhBpeQuwTQgOPdDzlfk=
 		</data>
 		<key>ios-arm64_x86_64-simulator/ReportKit.framework/Info.plist</key>
 		<data>
@@ -1272,13 +1228,57 @@
 		<data>
 		YKjjy8TDDifzuTN3CxO3K75GEJc=
 		</data>
+		<key>ios-arm64_x86_64-simulator/ReportKit.framework/PrivateHeaders/RKBarcode+Private.h</key>
+		<data>
+		W5WAiyatFCgycS/+vlnX7fWPaeM=
+		</data>
+		<key>ios-arm64_x86_64-simulator/ReportKit.framework/PrivateHeaders/RKBarcode.h</key>
+		<data>
+		khVCaX7R7r2vDDciYWQGXX/37Ww=
+		</data>
+		<key>ios-arm64_x86_64-simulator/ReportKit.framework/PrivateHeaders/RKBooleanValueFormatter.h</key>
+		<data>
+		fbvjsbyriNuxTdt+MBafTeGu4g8=
+		</data>
+		<key>ios-arm64_x86_64-simulator/ReportKit.framework/PrivateHeaders/RKColorUtilities.h</key>
+		<data>
+		8rTE4gMvUFpgrz8JUiiFR/y1xsM=
+		</data>
+		<key>ios-arm64_x86_64-simulator/ReportKit.framework/PrivateHeaders/RKCurrencySpelledOutValueFormatter.h</key>
+		<data>
+		CxjWsNxDG+qeBC2BgkfJPeKaBqY=
+		</data>
+		<key>ios-arm64_x86_64-simulator/ReportKit.framework/PrivateHeaders/RKDateTimeValueFormatter.h</key>
+		<data>
+		UjN10QAUU7xuuEz9QdIhcFsfRew=
+		</data>
+		<key>ios-arm64_x86_64-simulator/ReportKit.framework/PrivateHeaders/RKIntrospector.h</key>
+		<data>
+		Q2UKdkJPpoZMeMUPKsXdNTic8as=
+		</data>
+		<key>ios-arm64_x86_64-simulator/ReportKit.framework/PrivateHeaders/RKLineUtilities.h</key>
+		<data>
+		3dIdoeoFc6JyipTElPq9wTl/oY4=
+		</data>
+		<key>ios-arm64_x86_64-simulator/ReportKit.framework/PrivateHeaders/RKNamedColor.h</key>
+		<data>
+		8lT7Q+66irWrL5yk1TIfQAq1ScM=
+		</data>
+		<key>ios-arm64_x86_64-simulator/ReportKit.framework/PrivateHeaders/RKNumberValueFormatter.h</key>
+		<data>
+		dzUALCSUUMZLXYR+JTQnDLDShws=
+		</data>
+		<key>ios-arm64_x86_64-simulator/ReportKit.framework/PrivateHeaders/RKReportBuilderProject.h</key>
+		<data>
+		HVged6nCP0I/WD/mBDo9dIirrLs=
+		</data>
 		<key>ios-arm64_x86_64-simulator/ReportKit.framework/ReportKit</key>
 		<data>
-		3N3GMncUmPOC2PEuCTjZoVWs0hk=
+		0W/mnVcyNnAwk1dJtyyA+u0kc+E=
 		</data>
 		<key>ios-arm64_x86_64-simulator/ReportKit.framework/_CodeSignature/CodeResources</key>
 		<data>
-		bSspmxfbc9xZMB++z7jb8TTaKQs=
+		HiPZejRTSkyj/fJwJ3L/efky7LU=
 		</data>
 		<key>macos-arm64_x86_64/ReportKit.framework/Versions/A/Headers/JSONKeyMapper.h</key>
 		<data>
@@ -1310,11 +1310,11 @@
 		</data>
 		<key>macos-arm64_x86_64/ReportKit.framework/Versions/A/Headers/RKBand.h</key>
 		<data>
-		+a/tnlt1p2j3iQ7+iyxhGzwP8c4=
+		qrTFWq62jS5cXvZZ4k+QX59b/8M=
 		</data>
 		<key>macos-arm64_x86_64/ReportKit.framework/Versions/A/Headers/RKBandTemplate.h</key>
 		<data>
-		eznESOmtkUFfekWpWP+p7/gTxCw=
+		YzLZYi8FpDnguficC6CIh7jzavU=
 		</data>
 		<key>macos-arm64_x86_64/ReportKit.framework/Versions/A/Headers/RKBandView.h</key>
 		<data>
@@ -1322,27 +1322,23 @@
 		</data>
 		<key>macos-arm64_x86_64/ReportKit.framework/Versions/A/Headers/RKBarChartComponentTemplate.h</key>
 		<data>
-		HJhi8UO84uJzcVe8TZGDfXr+Ybc=
+		ckZccpwZNpzlUGbjW/uRsPSiDAc=
 		</data>
 		<key>macos-arm64_x86_64/ReportKit.framework/Versions/A/Headers/RKBarChartComponentView.h</key>
 		<data>
-		RgacQbn1LHK51SEeng4nYH5E8og=
+		7h4UDiF0V0blFt5F41B3g+S6Gz8=
 		</data>
 		<key>macos-arm64_x86_64/ReportKit.framework/Versions/A/Headers/RKBarLineChartComponentTemplate.h</key>
 		<data>
-		Rx4/GkV7DEVjAEK/p6ekcJpGEzw=
+		4/gl3uc/Yf1Sc7mnRttCIijecks=
 		</data>
 		<key>macos-arm64_x86_64/ReportKit.framework/Versions/A/Headers/RKBarLineChartComponentView.h</key>
 		<data>
-		WnTgpaFCDO/V/hO9swNqAuNcbu4=
-		</data>
-		<key>macos-arm64_x86_64/ReportKit.framework/Versions/A/Headers/RKBarcode.h</key>
-		<data>
-		BhqWQtSuJ66M1g5cgUOwa8fX0Vk=
+		PP6V3ogz4E7eUHoDvmjpKcBQwkc=
 		</data>
 		<key>macos-arm64_x86_64/ReportKit.framework/Versions/A/Headers/RKBarcodeComponentTemplate.h</key>
 		<data>
-		K6W+F3T+oI1ZOEpq0Me1pGogk4g=
+		AbsoIIo1RXmdmw6rnlZR9Ucw5pU=
 		</data>
 		<key>macos-arm64_x86_64/ReportKit.framework/Versions/A/Headers/RKBarcodeComponentView.h</key>
 		<data>
@@ -1350,43 +1346,39 @@
 		</data>
 		<key>macos-arm64_x86_64/ReportKit.framework/Versions/A/Headers/RKBarcodeFormat.h</key>
 		<data>
-		kJhvwrFb0jkEXkEgqydSDFi0bjk=
+		Pzd0Dyr6X0EMrbmiT1yh7H80snM=
 		</data>
 		<key>macos-arm64_x86_64/ReportKit.framework/Versions/A/Headers/RKBasicChartComponentTemplate.h</key>
 		<data>
-		Slrxu1IUZEOOagKuMshHlbM4aUo=
+		av3xA1WBuqh08rRAxrF3q0HeW80=
 		</data>
 		<key>macos-arm64_x86_64/ReportKit.framework/Versions/A/Headers/RKBasicXYAxisChartComponentTemplate.h</key>
 		<data>
-		FTBAV3rdWyk6Eq9DD1GqK+L5YYY=
+		LBUBYkXDmuGdGVuckZ9IPC8fDVY=
 		</data>
 		<key>macos-arm64_x86_64/ReportKit.framework/Versions/A/Headers/RKBasicXYAxisChartComponentView.h</key>
 		<data>
-		MJI3d7GY91SeELOnstlFFKGPaLo=
+		CKo/oA1npbIBmu7bjBL8XJMOrUE=
 		</data>
 		<key>macos-arm64_x86_64/ReportKit.framework/Versions/A/Headers/RKBezierPath+ReportKit.h</key>
 		<data>
 		6IUpOjSDBpzidoCDj7DLp/vYrAM=
 		</data>
-		<key>macos-arm64_x86_64/ReportKit.framework/Versions/A/Headers/RKBooleanValueFormatter.h</key>
-		<data>
-		wIjHnXXtsgkL59SJ/Ab0jr8BFLA=
-		</data>
 		<key>macos-arm64_x86_64/ReportKit.framework/Versions/A/Headers/RKBubbleChartComponentTemplate.h</key>
 		<data>
-		cOJiNSTFCB1XqUFni/uViRTvj0E=
+		7VUPR80JAsrUQVjS9JDs3DZsPDo=
 		</data>
 		<key>macos-arm64_x86_64/ReportKit.framework/Versions/A/Headers/RKBubbleChartComponentView.h</key>
 		<data>
-		d09fMxGyRPPWqUTSU22tZTuwVmU=
+		ukFvzyz58Q/dMh0HxuSRoWDJGl8=
 		</data>
 		<key>macos-arm64_x86_64/ReportKit.framework/Versions/A/Headers/RKCandleChartComponentTemplate.h</key>
 		<data>
-		pzhuafCMxsOszaaPiwL/8ZcluiM=
+		e4QfswToESlXXtJwCSFMrdMEaEs=
 		</data>
 		<key>macos-arm64_x86_64/ReportKit.framework/Versions/A/Headers/RKCandleChartComponentView.h</key>
 		<data>
-		jRjxeCScMGnVzU8Su0nmH3cQT+8=
+		DGdnsi1czmRdDUS4Mcdvg3VJqqg=
 		</data>
 		<key>macos-arm64_x86_64/ReportKit.framework/Versions/A/Headers/RKChartAxisValueFormatter.h</key>
 		<data>
@@ -1394,15 +1386,15 @@
 		</data>
 		<key>macos-arm64_x86_64/ReportKit.framework/Versions/A/Headers/RKChartComponentTemplate.h</key>
 		<data>
-		O95PX1AZ82Xo829Jn+Mq70jG0UM=
+		doqpE5hiEo/2+Zx53i/hJZQsXfM=
 		</data>
 		<key>macos-arm64_x86_64/ReportKit.framework/Versions/A/Headers/RKChartComponentView.h</key>
 		<data>
-		GNqyJVTR0OtF5lYrKBf+LJp7ai4=
+		IbhdY229MCsw6lT7gC4LnY8anPQ=
 		</data>
 		<key>macos-arm64_x86_64/ReportKit.framework/Versions/A/Headers/RKChartDataSetTemplate.h</key>
 		<data>
-		auOF8k/j2GGZHH2cnfHYdmEeyIw=
+		uhLAHNZ4OaGUezKN8sa2Xkmb3rw=
 		</data>
 		<key>macos-arm64_x86_64/ReportKit.framework/Versions/A/Headers/RKChartValueFormatter.h</key>
 		<data>
@@ -1412,13 +1404,9 @@
 		<data>
 		oY7LVRA/h8AsUy8VNXKeJrkkcx4=
 		</data>
-		<key>macos-arm64_x86_64/ReportKit.framework/Versions/A/Headers/RKColorUtilities.h</key>
-		<data>
-		8rTE4gMvUFpgrz8JUiiFR/y1xsM=
-		</data>
 		<key>macos-arm64_x86_64/ReportKit.framework/Versions/A/Headers/RKCombinedChartComponentTemplate.h</key>
 		<data>
-		FWje9Yox4OM3k14LynzRa6frcPo=
+		wQpYF87itBURbYo+6HBI153kNlM=
 		</data>
 		<key>macos-arm64_x86_64/ReportKit.framework/Versions/A/Headers/RKComponent.h</key>
 		<data>
@@ -1426,43 +1414,35 @@
 		</data>
 		<key>macos-arm64_x86_64/ReportKit.framework/Versions/A/Headers/RKComponentTemplate.h</key>
 		<data>
-		3xTLrsepv6JVNxMhWdRLLSypzlU=
+		FiF6te4uDLJ3PFul1eL4yrt8X/Q=
 		</data>
 		<key>macos-arm64_x86_64/ReportKit.framework/Versions/A/Headers/RKComponentView.h</key>
 		<data>
 		scJWebTn/nGrklw2p574cmH55l4=
 		</data>
-		<key>macos-arm64_x86_64/ReportKit.framework/Versions/A/Headers/RKCurrencySpelledOutValueFormatter.h</key>
-		<data>
-		CxjWsNxDG+qeBC2BgkfJPeKaBqY=
-		</data>
 		<key>macos-arm64_x86_64/ReportKit.framework/Versions/A/Headers/RKCustomComponentView.h</key>
 		<data>
-		piDLqE7M9T2dw9wzuNssX6DgsfM=
+		NqX6CEclOR+fANRGRwhMfgabXPw=
 		</data>
 		<key>macos-arm64_x86_64/ReportKit.framework/Versions/A/Headers/RKCustomViewComponentTemplate.h</key>
 		<data>
-		q4+i1DI7UjTOkCbGCXtoIEoZwUs=
+		QT0OFLonJxYN9s0H//dN8YQ6yeQ=
 		</data>
 		<key>macos-arm64_x86_64/ReportKit.framework/Versions/A/Headers/RKDataAwareComponentTemplate.h</key>
 		<data>
-		PzEcDKWmGi6tJRSCs8mkv4A5Di4=
+		Sf6MHkMXi9y88l0HDOMyhsweUiM=
 		</data>
-		<key>macos-arm64_x86_64/ReportKit.framework/Versions/A/Headers/RKDateTimeValueFormatter.h</key>
+		<key>macos-arm64_x86_64/ReportKit.framework/Versions/A/Headers/RKDocumentAttributes.h</key>
 		<data>
-		UjN10QAUU7xuuEz9QdIhcFsfRew=
+		eke1YgarrtpJYH5gY9KnVdvY068=
 		</data>
 		<key>macos-arm64_x86_64/ReportKit.framework/Versions/A/Headers/RKExpandableTextComponentView.h</key>
 		<data>
-		EHUkvrq1sT2JEGQXYf7vp9ffMao=
+		jibRa5qUh3MZnAugvTJucoBklRE=
 		</data>
 		<key>macos-arm64_x86_64/ReportKit.framework/Versions/A/Headers/RKFontInformation.h</key>
 		<data>
 		Q9lo86Cy582Ksb4dh1QsCAk2DQg=
-		</data>
-		<key>macos-arm64_x86_64/ReportKit.framework/Versions/A/Headers/RKGlobalDefinitions.h</key>
-		<data>
-		4VDp2DEFlblGg85Cmu/TpQ9FL24=
 		</data>
 		<key>macos-arm64_x86_64/ReportKit.framework/Versions/A/Headers/RKGroupIdentifier.h</key>
 		<data>
@@ -1474,11 +1454,11 @@
 		</data>
 		<key>macos-arm64_x86_64/ReportKit.framework/Versions/A/Headers/RKGroupTemplate.h</key>
 		<data>
-		aFoTetHy/1jAS92wYSP85OfEJ6I=
+		HMtkVgxl2opHx8C1j7WpmBxCrek=
 		</data>
 		<key>macos-arm64_x86_64/ReportKit.framework/Versions/A/Headers/RKHorizontalLineComponentTemplate.h</key>
 		<data>
-		2XWxgN53fArqH4AaWI7Hz73XVf0=
+		aU4ZmnNafk+0I/jDjapImxqNcp4=
 		</data>
 		<key>macos-arm64_x86_64/ReportKit.framework/Versions/A/Headers/RKHorizontalLineComponentView.h</key>
 		<data>
@@ -1486,43 +1466,27 @@
 		</data>
 		<key>macos-arm64_x86_64/ReportKit.framework/Versions/A/Headers/RKImageComponentTemplate.h</key>
 		<data>
-		MWF/f0DB3+HChlSj1O7WA21wFms=
+		p+jMrqvK9xo3YN2i2tz2A3j6dUg=
 		</data>
 		<key>macos-arm64_x86_64/ReportKit.framework/Versions/A/Headers/RKImageComponentView.h</key>
 		<data>
 		HbyxY6SD3gFf7dT1dESFtjpu/Pw=
 		</data>
-		<key>macos-arm64_x86_64/ReportKit.framework/Versions/A/Headers/RKIntrospector.h</key>
-		<data>
-		Q2UKdkJPpoZMeMUPKsXdNTic8as=
-		</data>
 		<key>macos-arm64_x86_64/ReportKit.framework/Versions/A/Headers/RKLineChartComponentTemplate.h</key>
 		<data>
-		2JOdGy+zE8+2B7xkKY3nabcqLDg=
+		go1Apa7COLWHaVSHVXIUmeF7HpI=
 		</data>
 		<key>macos-arm64_x86_64/ReportKit.framework/Versions/A/Headers/RKLineChartComponentView.h</key>
 		<data>
-		DznHb+vXE/vb47ztt16ai20CE2c=
-		</data>
-		<key>macos-arm64_x86_64/ReportKit.framework/Versions/A/Headers/RKLineUtilities.h</key>
-		<data>
-		3dIdoeoFc6JyipTElPq9wTl/oY4=
-		</data>
-		<key>macos-arm64_x86_64/ReportKit.framework/Versions/A/Headers/RKNamedColor.h</key>
-		<data>
-		8lT7Q+66irWrL5yk1TIfQAq1ScM=
+		aKfHZ8ffXIbp1+0vLSxWy0jiWZ4=
 		</data>
 		<key>macos-arm64_x86_64/ReportKit.framework/Versions/A/Headers/RKNegativeBarChartComponentTemplate.h</key>
 		<data>
-		IJ1luOeHnp9Dcqs+b5ciKpSaRIk=
-		</data>
-		<key>macos-arm64_x86_64/ReportKit.framework/Versions/A/Headers/RKNumberValueFormatter.h</key>
-		<data>
-		dzUALCSUUMZLXYR+JTQnDLDShws=
+		pVPDxWE1zPbvPkKq4n95NebinEk=
 		</data>
 		<key>macos-arm64_x86_64/ReportKit.framework/Versions/A/Headers/RKOvalComponentTemplate.h</key>
 		<data>
-		UBkiTsFq3y4b6sIfR0Rp5QnqoEI=
+		RmKzYHQWgVqNGI7As4cRY5XuOXQ=
 		</data>
 		<key>macos-arm64_x86_64/ReportKit.framework/Versions/A/Headers/RKOvalComponentView.h</key>
 		<data>
@@ -1534,7 +1498,7 @@
 		</data>
 		<key>macos-arm64_x86_64/ReportKit.framework/Versions/A/Headers/RKPageTemplate.h</key>
 		<data>
-		3U7xJz1DZFtfEUTH7Bvl0lt3ShU=
+		Abx1CU/mp1Fqw3tIUY1C/MmNB/s=
 		</data>
 		<key>macos-arm64_x86_64/ReportKit.framework/Versions/A/Headers/RKPageView.h</key>
 		<data>
@@ -1546,31 +1510,31 @@
 		</data>
 		<key>macos-arm64_x86_64/ReportKit.framework/Versions/A/Headers/RKPieChartComponentTemplate.h</key>
 		<data>
-		70UUJ1cpiLKCsF3j3kRViKStEZQ=
+		i6NqknasiGzwNx4QR9M7gILg+tA=
 		</data>
 		<key>macos-arm64_x86_64/ReportKit.framework/Versions/A/Headers/RKPieChartComponentView.h</key>
 		<data>
-		OqBVJKMZqa6YbWqI/xTL+UyMduc=
+		aacxJSqwOn6UEmQ1WT03lOZ2xg4=
 		</data>
 		<key>macos-arm64_x86_64/ReportKit.framework/Versions/A/Headers/RKPieRadarChartComponentTemplate.h</key>
 		<data>
-		LO2kOT1+TmwybwUDCQXQcuR5GFA=
+		J5jVI1EyccEgTlw4I3ujvGnXOuM=
 		</data>
 		<key>macos-arm64_x86_64/ReportKit.framework/Versions/A/Headers/RKPieRadarComponentView.h</key>
 		<data>
-		01ypXApy1AvR2L6LGwsJSpIN+DQ=
+		OZr3EVRUU0NCKreWDl72hLjQW5w=
 		</data>
 		<key>macos-arm64_x86_64/ReportKit.framework/Versions/A/Headers/RKRadarChartComponentTemplate.h</key>
 		<data>
-		QwJEb4/kChE2psfgHbjEKTkDmU4=
+		gy8LmCRKlfc+qxFnNakK/geaSIE=
 		</data>
 		<key>macos-arm64_x86_64/ReportKit.framework/Versions/A/Headers/RKRadarChartComponentView.h</key>
 		<data>
-		tXmXwdWExlCg2VGEaZT/ipqupcw=
+		L5+SvPW46a25wWTdZKq9du3mJFw=
 		</data>
 		<key>macos-arm64_x86_64/ReportKit.framework/Versions/A/Headers/RKRectangleComponentTemplate.h</key>
 		<data>
-		Pf1Yg9/ZFVvRVrwd2TcPTe8iXcY=
+		KFvohBUJH/w/Z4GBZ/qnCRLD19M=
 		</data>
 		<key>macos-arm64_x86_64/ReportKit.framework/Versions/A/Headers/RKRectangleComponentView.h</key>
 		<data>
@@ -1578,11 +1542,7 @@
 		</data>
 		<key>macos-arm64_x86_64/ReportKit.framework/Versions/A/Headers/RKReport.h</key>
 		<data>
-		oIsD9Qldw6oRSsLAtoEZ5qpdt7I=
-		</data>
-		<key>macos-arm64_x86_64/ReportKit.framework/Versions/A/Headers/RKReportBuilderProject.h</key>
-		<data>
-		HVged6nCP0I/WD/mBDo9dIirrLs=
+		Y/QOZeuITDb5mRmXiJbm9N99lWY=
 		</data>
 		<key>macos-arm64_x86_64/ReportKit.framework/Versions/A/Headers/RKReportBuilderProjectModel.h</key>
 		<data>
@@ -1590,7 +1550,7 @@
 		</data>
 		<key>macos-arm64_x86_64/ReportKit.framework/Versions/A/Headers/RKReportController.h</key>
 		<data>
-		RvA2T2cmtbzCtrRkcYxjBxfv44I=
+		Gbm6kMmZirlRisJS5Bd5cdKZTNc=
 		</data>
 		<key>macos-arm64_x86_64/ReportKit.framework/Versions/A/Headers/RKReportDataSource.h</key>
 		<data>
@@ -1606,19 +1566,15 @@
 		</data>
 		<key>macos-arm64_x86_64/ReportKit.framework/Versions/A/Headers/RKReportKitDataTypes.h</key>
 		<data>
-		7cQCIrAWaQbMVphUhp3iMg+TV+4=
+		nnZp/0ef2TzUjAZWE3r7fTc6FZU=
 		</data>
 		<key>macos-arm64_x86_64/ReportKit.framework/Versions/A/Headers/RKReportMessage.h</key>
 		<data>
 		Cjubrtkj52Z3ydoTrdnf0pn5Qbg=
 		</data>
-		<key>macos-arm64_x86_64/ReportKit.framework/Versions/A/Headers/RKReportProperties.h</key>
-		<data>
-		mUnXql+pxvlgw35ABTKUVbPdbQE=
-		</data>
 		<key>macos-arm64_x86_64/ReportKit.framework/Versions/A/Headers/RKRotatedTextComponentTemplate.h</key>
 		<data>
-		Lk1N2MzCBbehNuwd8Z44lASAhK8=
+		bcIgdIGsnJC7s2/U3JD/qFzvx6c=
 		</data>
 		<key>macos-arm64_x86_64/ReportKit.framework/Versions/A/Headers/RKRotatedTextComponentView.h</key>
 		<data>
@@ -1626,15 +1582,15 @@
 		</data>
 		<key>macos-arm64_x86_64/ReportKit.framework/Versions/A/Headers/RKScatterChartComponentTemplate.h</key>
 		<data>
-		URZlRupimw/FDghos7dpOSZKHBI=
+		Get9DN3cMP//Jm+J0PIFLIiX8xk=
 		</data>
 		<key>macos-arm64_x86_64/ReportKit.framework/Versions/A/Headers/RKScatterChartComponentView.h</key>
 		<data>
-		joBZ2ApD0JLXfjd5HKyB0z0y968=
+		Lam8AotXBqnHC6FBQLSVAmIocrM=
 		</data>
 		<key>macos-arm64_x86_64/ReportKit.framework/Versions/A/Headers/RKShapeComponentTemplate.h</key>
 		<data>
-		OZAhdu314HPPBry07yOmWbBLZn0=
+		oRNM7VYH80KK07u5AGP/Hsua7ss=
 		</data>
 		<key>macos-arm64_x86_64/ReportKit.framework/Versions/A/Headers/RKShapeComponentView.h</key>
 		<data>
@@ -1642,7 +1598,7 @@
 		</data>
 		<key>macos-arm64_x86_64/ReportKit.framework/Versions/A/Headers/RKSubreportComponentTemplate.h</key>
 		<data>
-		lx9QT3SJdh/4gFjjYhRbNyMCirw=
+		fbzAWGjDtVds9/Dod0+e0apTJbE=
 		</data>
 		<key>macos-arm64_x86_64/ReportKit.framework/Versions/A/Headers/RKSubreportComponentView.h</key>
 		<data>
@@ -1650,7 +1606,7 @@
 		</data>
 		<key>macos-arm64_x86_64/ReportKit.framework/Versions/A/Headers/RKSystemTextComponentTemplate.h</key>
 		<data>
-		fF9vjKFXhKqXnkTYgxCnc0zOREk=
+		a63j/a+j+vy8I6NDwATyDe9/VMo=
 		</data>
 		<key>macos-arm64_x86_64/ReportKit.framework/Versions/A/Headers/RKSystemTextComponentView.h</key>
 		<data>
@@ -1658,7 +1614,7 @@
 		</data>
 		<key>macos-arm64_x86_64/ReportKit.framework/Versions/A/Headers/RKTextComponentTemplate.h</key>
 		<data>
-		xBmOw2HHSyi9PrWJ+KoOFRzX/z4=
+		bsKsJ9XwwelbmSdQHndQM8ygbD8=
 		</data>
 		<key>macos-arm64_x86_64/ReportKit.framework/Versions/A/Headers/RKTextComponentView.h</key>
 		<data>
@@ -1666,7 +1622,7 @@
 		</data>
 		<key>macos-arm64_x86_64/ReportKit.framework/Versions/A/Headers/RKTextViewComponentTemplate.h</key>
 		<data>
-		n7K8JRPGEkllePeGHJ9bPc6ukXM=
+		/qq7kozqByqV8GGso/bDC4qLFBQ=
 		</data>
 		<key>macos-arm64_x86_64/ReportKit.framework/Versions/A/Headers/RKTextViewComponentView.h</key>
 		<data>
@@ -1678,7 +1634,7 @@
 		</data>
 		<key>macos-arm64_x86_64/ReportKit.framework/Versions/A/Headers/RKVerticalLineComponentTemplate.h</key>
 		<data>
-		VlxIX/onQVrJ5emONNbCXvFHV/o=
+		tbjBSU3+1H6rdwEmu08Syi5zY74=
 		</data>
 		<key>macos-arm64_x86_64/ReportKit.framework/Versions/A/Headers/RKVerticalLineComponentView.h</key>
 		<data>
@@ -1690,15 +1646,59 @@
 		</data>
 		<key>macos-arm64_x86_64/ReportKit.framework/Versions/A/Headers/ReportKit.h</key>
 		<data>
-		eu3mu9Ak2Zbr5ynaKZwpVK68KK8=
+		503MTmbZXhBpeQuwTQgOPdDzlfk=
 		</data>
 		<key>macos-arm64_x86_64/ReportKit.framework/Versions/A/Modules/module.modulemap</key>
 		<data>
 		YKjjy8TDDifzuTN3CxO3K75GEJc=
 		</data>
+		<key>macos-arm64_x86_64/ReportKit.framework/Versions/A/PrivateHeaders/RKBarcode+Private.h</key>
+		<data>
+		W5WAiyatFCgycS/+vlnX7fWPaeM=
+		</data>
+		<key>macos-arm64_x86_64/ReportKit.framework/Versions/A/PrivateHeaders/RKBarcode.h</key>
+		<data>
+		khVCaX7R7r2vDDciYWQGXX/37Ww=
+		</data>
+		<key>macos-arm64_x86_64/ReportKit.framework/Versions/A/PrivateHeaders/RKBooleanValueFormatter.h</key>
+		<data>
+		fbvjsbyriNuxTdt+MBafTeGu4g8=
+		</data>
+		<key>macos-arm64_x86_64/ReportKit.framework/Versions/A/PrivateHeaders/RKColorUtilities.h</key>
+		<data>
+		8rTE4gMvUFpgrz8JUiiFR/y1xsM=
+		</data>
+		<key>macos-arm64_x86_64/ReportKit.framework/Versions/A/PrivateHeaders/RKCurrencySpelledOutValueFormatter.h</key>
+		<data>
+		CxjWsNxDG+qeBC2BgkfJPeKaBqY=
+		</data>
+		<key>macos-arm64_x86_64/ReportKit.framework/Versions/A/PrivateHeaders/RKDateTimeValueFormatter.h</key>
+		<data>
+		UjN10QAUU7xuuEz9QdIhcFsfRew=
+		</data>
+		<key>macos-arm64_x86_64/ReportKit.framework/Versions/A/PrivateHeaders/RKIntrospector.h</key>
+		<data>
+		Q2UKdkJPpoZMeMUPKsXdNTic8as=
+		</data>
+		<key>macos-arm64_x86_64/ReportKit.framework/Versions/A/PrivateHeaders/RKLineUtilities.h</key>
+		<data>
+		3dIdoeoFc6JyipTElPq9wTl/oY4=
+		</data>
+		<key>macos-arm64_x86_64/ReportKit.framework/Versions/A/PrivateHeaders/RKNamedColor.h</key>
+		<data>
+		8lT7Q+66irWrL5yk1TIfQAq1ScM=
+		</data>
+		<key>macos-arm64_x86_64/ReportKit.framework/Versions/A/PrivateHeaders/RKNumberValueFormatter.h</key>
+		<data>
+		dzUALCSUUMZLXYR+JTQnDLDShws=
+		</data>
+		<key>macos-arm64_x86_64/ReportKit.framework/Versions/A/PrivateHeaders/RKReportBuilderProject.h</key>
+		<data>
+		HVged6nCP0I/WD/mBDo9dIirrLs=
+		</data>
 		<key>macos-arm64_x86_64/ReportKit.framework/Versions/A/ReportKit</key>
 		<data>
-		+edHmP+8eOpvDTEIhyftOPEl2P0=
+		Qk0W+RR1zpsi/PsJVxvq83DlhdY=
 		</data>
 		<key>macos-arm64_x86_64/ReportKit.framework/Versions/A/Resources/Info.plist</key>
 		<data>
@@ -1788,22 +1788,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			+a/tnlt1p2j3iQ7+iyxhGzwP8c4=
+			qrTFWq62jS5cXvZZ4k+QX59b/8M=
 			</data>
 			<key>hash2</key>
 			<data>
-			KdDIGQteu9UxOS1sLgpQn+boTI7ZSkHqXUuEcHvJSdI=
+			tqNlcjNf7bhQmopaIQGe8QlxTY7pN+5uN/mLNm+fRN8=
 			</data>
 		</dict>
 		<key>ios-arm64/ReportKit.framework/Headers/RKBandTemplate.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			eznESOmtkUFfekWpWP+p7/gTxCw=
+			YzLZYi8FpDnguficC6CIh7jzavU=
 			</data>
 			<key>hash2</key>
 			<data>
-			IBgQ5efSI/Fc7P/h4lAxU+y5lnkYxlhFctkEfq2gv6E=
+			etiqmKFNdXFYe8vvyMbdLSmv60sZLLNTXaWvc+xD2K0=
 			</data>
 		</dict>
 		<key>ios-arm64/ReportKit.framework/Headers/RKBandView.h</key>
@@ -1821,66 +1821,55 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			HJhi8UO84uJzcVe8TZGDfXr+Ybc=
+			ckZccpwZNpzlUGbjW/uRsPSiDAc=
 			</data>
 			<key>hash2</key>
 			<data>
-			LKuDzgtAGkGz5wMexfJVLEfXVIJFmxuSsa6LHfAvtMY=
+			HHrQCqys7XoHrTg34vgQrhfpzw0FtLzcEji+q3tCCEg=
 			</data>
 		</dict>
 		<key>ios-arm64/ReportKit.framework/Headers/RKBarChartComponentView.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			RgacQbn1LHK51SEeng4nYH5E8og=
+			7h4UDiF0V0blFt5F41B3g+S6Gz8=
 			</data>
 			<key>hash2</key>
 			<data>
-			xVqngLiDxdyoOxEyoHNpvQXkT811IkBJc1GP/n9hiIs=
+			coUqwO4+E1p4l+N9I8ASlO6FPIJpZ7bSuS40JQRH3z4=
 			</data>
 		</dict>
 		<key>ios-arm64/ReportKit.framework/Headers/RKBarLineChartComponentTemplate.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Rx4/GkV7DEVjAEK/p6ekcJpGEzw=
+			4/gl3uc/Yf1Sc7mnRttCIijecks=
 			</data>
 			<key>hash2</key>
 			<data>
-			qmp/ORr75oIHR1YIpw1qZME7iRPRWLlvqn7aw8c7A0g=
+			TeEWycjJ+enSKDhF0xkKHHVaghaIQwQ3GsfWCKqujSE=
 			</data>
 		</dict>
 		<key>ios-arm64/ReportKit.framework/Headers/RKBarLineChartComponentView.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			WnTgpaFCDO/V/hO9swNqAuNcbu4=
+			PP6V3ogz4E7eUHoDvmjpKcBQwkc=
 			</data>
 			<key>hash2</key>
 			<data>
-			TFPviKHw1Sp+b/6T/osFC21HLPRmRcQRNwoKyA6ESmk=
-			</data>
-		</dict>
-		<key>ios-arm64/ReportKit.framework/Headers/RKBarcode.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			BhqWQtSuJ66M1g5cgUOwa8fX0Vk=
-			</data>
-			<key>hash2</key>
-			<data>
-			/n0knyNadrQC32NKgIJ+rHuns/TX7J1fV2YTUiMWtZY=
+			4karr3TxzXJxU7Uz60ViK2Rny3h/OCUvAKjZzaQs9DI=
 			</data>
 		</dict>
 		<key>ios-arm64/ReportKit.framework/Headers/RKBarcodeComponentTemplate.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			K6W+F3T+oI1ZOEpq0Me1pGogk4g=
+			AbsoIIo1RXmdmw6rnlZR9Ucw5pU=
 			</data>
 			<key>hash2</key>
 			<data>
-			F2w+DEt6swSXSfKKgx4au4j8BbSxuSykK2p0WCeVOrs=
+			Twjnh3o/N4hxaDT6PIaUYjw9HqVEtdU4n3vJbkJsiz8=
 			</data>
 		</dict>
 		<key>ios-arm64/ReportKit.framework/Headers/RKBarcodeComponentView.h</key>
@@ -1898,44 +1887,44 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			kJhvwrFb0jkEXkEgqydSDFi0bjk=
+			Pzd0Dyr6X0EMrbmiT1yh7H80snM=
 			</data>
 			<key>hash2</key>
 			<data>
-			11AqFGmzso8idXQWO4lhgrk6neYmlW4v7umpAc1bISw=
+			nhtk+5k9cFAxt32pPhEFCxJcmrdvLRyJoOImqHuG+sI=
 			</data>
 		</dict>
 		<key>ios-arm64/ReportKit.framework/Headers/RKBasicChartComponentTemplate.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Slrxu1IUZEOOagKuMshHlbM4aUo=
+			av3xA1WBuqh08rRAxrF3q0HeW80=
 			</data>
 			<key>hash2</key>
 			<data>
-			ecPYIZGmdqHsGuGYVY/yaB8CkRcWPtPyJULuc2qbmLI=
+			LJ24N9NVlwHVZ71HoFCwNDlCy3EGH7E14RKpvKKpnoA=
 			</data>
 		</dict>
 		<key>ios-arm64/ReportKit.framework/Headers/RKBasicXYAxisChartComponentTemplate.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			FTBAV3rdWyk6Eq9DD1GqK+L5YYY=
+			LBUBYkXDmuGdGVuckZ9IPC8fDVY=
 			</data>
 			<key>hash2</key>
 			<data>
-			vZZyX48vzQjb3G5QlA/J1WiCQ2djtghju3HAhibCt5E=
+			gIapnF/24g0C7l3UcXyUD8oVNR2fZ5ia7ZgAuQoKMSY=
 			</data>
 		</dict>
 		<key>ios-arm64/ReportKit.framework/Headers/RKBasicXYAxisChartComponentView.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			MJI3d7GY91SeELOnstlFFKGPaLo=
+			CKo/oA1npbIBmu7bjBL8XJMOrUE=
 			</data>
 			<key>hash2</key>
 			<data>
-			s40FMp7YCGS9mIxrsG7c5ASbUdvew4LntgA0yUM1ABo=
+			D6uqsXn2U91nWIkr+ewzznUFKweJ+cJaFoCs8xIdBys=
 			</data>
 		</dict>
 		<key>ios-arm64/ReportKit.framework/Headers/RKBezierPath+ReportKit.h</key>
@@ -1949,59 +1938,48 @@
 			Kf+/UODmiN4x05mRwoSrdwHNcZ6PUgrsTGsoXcoZGF8=
 			</data>
 		</dict>
-		<key>ios-arm64/ReportKit.framework/Headers/RKBooleanValueFormatter.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			wIjHnXXtsgkL59SJ/Ab0jr8BFLA=
-			</data>
-			<key>hash2</key>
-			<data>
-			ijl50n2CSEO6ZdMQzNv/4BnUI0J77cKC7wo2EOf2U9M=
-			</data>
-		</dict>
 		<key>ios-arm64/ReportKit.framework/Headers/RKBubbleChartComponentTemplate.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			cOJiNSTFCB1XqUFni/uViRTvj0E=
+			7VUPR80JAsrUQVjS9JDs3DZsPDo=
 			</data>
 			<key>hash2</key>
 			<data>
-			Gi21AphjET6BufgmsfQEAAOkoSnIneRD6VnB5nGtKXY=
+			otSEToVA1Q6UZ2+6PTJEQCKBTLLAbYu1MHlNLyaMOCw=
 			</data>
 		</dict>
 		<key>ios-arm64/ReportKit.framework/Headers/RKBubbleChartComponentView.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			d09fMxGyRPPWqUTSU22tZTuwVmU=
+			ukFvzyz58Q/dMh0HxuSRoWDJGl8=
 			</data>
 			<key>hash2</key>
 			<data>
-			oI0bnyMLUyDBJs3oEUnEZe5Qkkh+j+074TQk2ZnRI9o=
+			fmz5gE2LmUUAh2EJxH4T1p/nOTcb/7VZlgfbc8Pmtqg=
 			</data>
 		</dict>
 		<key>ios-arm64/ReportKit.framework/Headers/RKCandleChartComponentTemplate.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			pzhuafCMxsOszaaPiwL/8ZcluiM=
+			e4QfswToESlXXtJwCSFMrdMEaEs=
 			</data>
 			<key>hash2</key>
 			<data>
-			TD01tfe2GMwMXMxdM8Mh8Yn7V63wZT8mT/9zFdSeU2E=
+			xTwr1uK9fOxizEBceQkTOrgl8UGjPmDXZsNhTLd1fi8=
 			</data>
 		</dict>
 		<key>ios-arm64/ReportKit.framework/Headers/RKCandleChartComponentView.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			jRjxeCScMGnVzU8Su0nmH3cQT+8=
+			DGdnsi1czmRdDUS4Mcdvg3VJqqg=
 			</data>
 			<key>hash2</key>
 			<data>
-			R3WVS45rAuoUScj0EkHUFfmXoQEb/+qNJu4mNNNu/fY=
+			WICOFR7Ei5NVZIfUlXL2yFXtLdnkoXszYbywLoHwgfI=
 			</data>
 		</dict>
 		<key>ios-arm64/ReportKit.framework/Headers/RKChartAxisValueFormatter.h</key>
@@ -2019,33 +1997,33 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			O95PX1AZ82Xo829Jn+Mq70jG0UM=
+			doqpE5hiEo/2+Zx53i/hJZQsXfM=
 			</data>
 			<key>hash2</key>
 			<data>
-			Pormj144cd3m5adeRvwX4T8OyYQOTDaGgcs0U3CoSnc=
+			1Ho7ROhwGB2B5cKRG4p2jy0RpCfbEICxQ//3cyJVi/Q=
 			</data>
 		</dict>
 		<key>ios-arm64/ReportKit.framework/Headers/RKChartComponentView.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			GNqyJVTR0OtF5lYrKBf+LJp7ai4=
+			IbhdY229MCsw6lT7gC4LnY8anPQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			a3LARJqjpijHOkqvawHzcFwQ5KLMTBWzF9P9uVTqUN8=
+			Igt/4rsaXTXrvIStbON/fxIZ01GQDulOWREsUOviAUw=
 			</data>
 		</dict>
 		<key>ios-arm64/ReportKit.framework/Headers/RKChartDataSetTemplate.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			auOF8k/j2GGZHH2cnfHYdmEeyIw=
+			uhLAHNZ4OaGUezKN8sa2Xkmb3rw=
 			</data>
 			<key>hash2</key>
 			<data>
-			PoBLUfxMhvtarrxKU38cx5Bi2LkO4MvaFZG5t7CM00s=
+			vxKeTqb+y2GXA7Bui0nehY/YH4y0ru3a0C2x0YKiE7g=
 			</data>
 		</dict>
 		<key>ios-arm64/ReportKit.framework/Headers/RKChartValueFormatter.h</key>
@@ -2070,26 +2048,15 @@
 			QpqDeHHiwUIXCD61sE/ttjLKApCvZCmghyHfWCw99SA=
 			</data>
 		</dict>
-		<key>ios-arm64/ReportKit.framework/Headers/RKColorUtilities.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			8rTE4gMvUFpgrz8JUiiFR/y1xsM=
-			</data>
-			<key>hash2</key>
-			<data>
-			FWz22QrEofqIH6Lm7/bXXpzkcBwB2nx/Qy5E9Lkrfwo=
-			</data>
-		</dict>
 		<key>ios-arm64/ReportKit.framework/Headers/RKCombinedChartComponentTemplate.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			FWje9Yox4OM3k14LynzRa6frcPo=
+			wQpYF87itBURbYo+6HBI153kNlM=
 			</data>
 			<key>hash2</key>
 			<data>
-			TQ0x9/GSkfRJCIrKvuoL9XDAc50m49lneNFdQCaElHM=
+			aif8eADi6xc3X0rXq9NFCG9eTv9U7ByBxEMsF/8A8Hs=
 			</data>
 		</dict>
 		<key>ios-arm64/ReportKit.framework/Headers/RKComponent.h</key>
@@ -2107,11 +2074,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			3xTLrsepv6JVNxMhWdRLLSypzlU=
+			FiF6te4uDLJ3PFul1eL4yrt8X/Q=
 			</data>
 			<key>hash2</key>
 			<data>
-			2/gaOBkZpQ9z1It5eJjczxOREEeeJC9l28nAvB2spHc=
+			ish047NlfPTtt0joW8sVr0FM1NlsQa4Bc4xl6nHx+bU=
 			</data>
 		</dict>
 		<key>ios-arm64/ReportKit.framework/Headers/RKComponentView.h</key>
@@ -2125,70 +2092,59 @@
 			IvaWzORkKPZ7gu+av4oNTbuRn3Lt8sVVTEYVfKCCxbA=
 			</data>
 		</dict>
-		<key>ios-arm64/ReportKit.framework/Headers/RKCurrencySpelledOutValueFormatter.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			CxjWsNxDG+qeBC2BgkfJPeKaBqY=
-			</data>
-			<key>hash2</key>
-			<data>
-			m4nlEbBZo6fddHyW6AmL0AZAY3GF/em59DHCc/U1yyI=
-			</data>
-		</dict>
 		<key>ios-arm64/ReportKit.framework/Headers/RKCustomComponentView.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			piDLqE7M9T2dw9wzuNssX6DgsfM=
+			NqX6CEclOR+fANRGRwhMfgabXPw=
 			</data>
 			<key>hash2</key>
 			<data>
-			5VKl92GCHoF5Hmu1vaMWD1LAXJzYllkpIt4X4u6Lwaw=
+			sss4VANGtfZuie60thnxRPulQ9AquBbSIOJlEqWJgHU=
 			</data>
 		</dict>
 		<key>ios-arm64/ReportKit.framework/Headers/RKCustomViewComponentTemplate.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			q4+i1DI7UjTOkCbGCXtoIEoZwUs=
+			QT0OFLonJxYN9s0H//dN8YQ6yeQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			xPSKV4aqi6oPNTY2YBaBofmQ5+WdgT+KfyKzFFOwl7k=
+			/e3tVshPoQmqrVvgMGx4N36S59XoPj/VbOHDfCkzgVc=
 			</data>
 		</dict>
 		<key>ios-arm64/ReportKit.framework/Headers/RKDataAwareComponentTemplate.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			PzEcDKWmGi6tJRSCs8mkv4A5Di4=
+			Sf6MHkMXi9y88l0HDOMyhsweUiM=
 			</data>
 			<key>hash2</key>
 			<data>
-			PtCwXTk1eyBTlf4Os1fEzF1nU9RuXliVgsZRMfVtCpU=
+			UMJT/7/ei/XiktaIESmeA/KR5S6UExtDepGJ6HfUjNg=
 			</data>
 		</dict>
-		<key>ios-arm64/ReportKit.framework/Headers/RKDateTimeValueFormatter.h</key>
+		<key>ios-arm64/ReportKit.framework/Headers/RKDocumentAttributes.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			UjN10QAUU7xuuEz9QdIhcFsfRew=
+			eke1YgarrtpJYH5gY9KnVdvY068=
 			</data>
 			<key>hash2</key>
 			<data>
-			quvx2IcxhU1eiYM8KTd9d/6jyKEKfEjMrf/S3vggTKU=
+			oD4V/E1r8m2toVyfoPzQ5tR21AUxvkvZGxqqOaTGA1A=
 			</data>
 		</dict>
 		<key>ios-arm64/ReportKit.framework/Headers/RKExpandableTextComponentView.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			EHUkvrq1sT2JEGQXYf7vp9ffMao=
+			jibRa5qUh3MZnAugvTJucoBklRE=
 			</data>
 			<key>hash2</key>
 			<data>
-			toz6FEEIUA6rxnt/nEwXRLmFNyh12f2lNsOYf+BS7Hk=
+			cOxhjn8GvVZEgvUrbsf12J1cLqhxrVWvglC4vr8gark=
 			</data>
 		</dict>
 		<key>ios-arm64/ReportKit.framework/Headers/RKFontInformation.h</key>
@@ -2200,17 +2156,6 @@
 			<key>hash2</key>
 			<data>
 			3zsi68wvXICjqfPbGaRBKz7xqfKc5NYH9svg05XXSi8=
-			</data>
-		</dict>
-		<key>ios-arm64/ReportKit.framework/Headers/RKGlobalDefinitions.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			4VDp2DEFlblGg85Cmu/TpQ9FL24=
-			</data>
-			<key>hash2</key>
-			<data>
-			q+orerplV/jdqX+mWh466xHxxDVK7vSRgImi/eZhJoc=
 			</data>
 		</dict>
 		<key>ios-arm64/ReportKit.framework/Headers/RKGroupIdentifier.h</key>
@@ -2239,22 +2184,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			aFoTetHy/1jAS92wYSP85OfEJ6I=
+			HMtkVgxl2opHx8C1j7WpmBxCrek=
 			</data>
 			<key>hash2</key>
 			<data>
-			DeEVqflyHrHKHElTC89EClSHbT3re6j6SvAz7V4vBqo=
+			HyteMHBi2FqG8JOt1PgvGHuZ07imSvO12wUAaxQPL+4=
 			</data>
 		</dict>
 		<key>ios-arm64/ReportKit.framework/Headers/RKHorizontalLineComponentTemplate.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			2XWxgN53fArqH4AaWI7Hz73XVf0=
+			aU4ZmnNafk+0I/jDjapImxqNcp4=
 			</data>
 			<key>hash2</key>
 			<data>
-			albX9P+HBrshkwLb+8FhhhrZ7nzUb/9TVA1LWPvJDxI=
+			4L22MrBk8ajdJyybY5OadtJ4bjh+BdXaueFm02RvxqE=
 			</data>
 		</dict>
 		<key>ios-arm64/ReportKit.framework/Headers/RKHorizontalLineComponentView.h</key>
@@ -2272,11 +2217,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			MWF/f0DB3+HChlSj1O7WA21wFms=
+			p+jMrqvK9xo3YN2i2tz2A3j6dUg=
 			</data>
 			<key>hash2</key>
 			<data>
-			MAU6NeeyNOxLQhZaeceLYw14kanGu2aQWunVYhiIsUQ=
+			CaQUe1qislxtPgxCcVL9mLF0NAYL9AB2xBNGPg/mBOA=
 			</data>
 		</dict>
 		<key>ios-arm64/ReportKit.framework/Headers/RKImageComponentView.h</key>
@@ -2290,92 +2235,48 @@
 			5tPNUC2FjNMJVEEFQVQd8IHGa9Pvh1ncE+4wdlMcDkQ=
 			</data>
 		</dict>
-		<key>ios-arm64/ReportKit.framework/Headers/RKIntrospector.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			Q2UKdkJPpoZMeMUPKsXdNTic8as=
-			</data>
-			<key>hash2</key>
-			<data>
-			aeNmNu+sLN3TAlVjtjxMgQHJvoJbkvyKppt0O1mb6jk=
-			</data>
-		</dict>
 		<key>ios-arm64/ReportKit.framework/Headers/RKLineChartComponentTemplate.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			2JOdGy+zE8+2B7xkKY3nabcqLDg=
+			go1Apa7COLWHaVSHVXIUmeF7HpI=
 			</data>
 			<key>hash2</key>
 			<data>
-			zC0kaWFHZIfhNRVSFyfX4JQ1BRik1p0T5S6qNufThvs=
+			B8J2QhV/4U0yKLVv27KUa1SEF+6iV9qRPw3RdYCXTU8=
 			</data>
 		</dict>
 		<key>ios-arm64/ReportKit.framework/Headers/RKLineChartComponentView.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			DznHb+vXE/vb47ztt16ai20CE2c=
+			aKfHZ8ffXIbp1+0vLSxWy0jiWZ4=
 			</data>
 			<key>hash2</key>
 			<data>
-			ldolBWgG3TsCKHiL/T6qDeruR5oqnVcg1zvCCgmUVjE=
-			</data>
-		</dict>
-		<key>ios-arm64/ReportKit.framework/Headers/RKLineUtilities.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			3dIdoeoFc6JyipTElPq9wTl/oY4=
-			</data>
-			<key>hash2</key>
-			<data>
-			vNSreX4ZYiceSjAN77p3p+zLyXhQaAYtjMaPaIQo/1c=
-			</data>
-		</dict>
-		<key>ios-arm64/ReportKit.framework/Headers/RKNamedColor.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			8lT7Q+66irWrL5yk1TIfQAq1ScM=
-			</data>
-			<key>hash2</key>
-			<data>
-			ssESE0UOQE2Ea9SUqySSbO0IZ4fOnZ8UEbui/wxNWKQ=
+			UmwWNh0mE01c+HsQnW3bzIjTfyP1Lr2LXESPvGkbR+Q=
 			</data>
 		</dict>
 		<key>ios-arm64/ReportKit.framework/Headers/RKNegativeBarChartComponentTemplate.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			IJ1luOeHnp9Dcqs+b5ciKpSaRIk=
+			pVPDxWE1zPbvPkKq4n95NebinEk=
 			</data>
 			<key>hash2</key>
 			<data>
-			LMH2IWQe5TIqNoFBxejFH7AEKvNB+B+Soslht9LodcI=
-			</data>
-		</dict>
-		<key>ios-arm64/ReportKit.framework/Headers/RKNumberValueFormatter.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			dzUALCSUUMZLXYR+JTQnDLDShws=
-			</data>
-			<key>hash2</key>
-			<data>
-			39B/VCWYbeLQUBkVr0GdJbdjTsaS2wblId+FnGvwgW4=
+			2PXCxMyh9BQeszrOhGh2THLr4UZdA3glfHXEmYMsOFQ=
 			</data>
 		</dict>
 		<key>ios-arm64/ReportKit.framework/Headers/RKOvalComponentTemplate.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			UBkiTsFq3y4b6sIfR0Rp5QnqoEI=
+			RmKzYHQWgVqNGI7As4cRY5XuOXQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			KAUcRhVEB411jfwokbnHZJ2hRqprLkttrSzCuw1X35I=
+			ZkmfkKIHr6V8FW8QkjjFYuw6XZcL6Sie1R3SdJuk6f8=
 			</data>
 		</dict>
 		<key>ios-arm64/ReportKit.framework/Headers/RKOvalComponentView.h</key>
@@ -2404,11 +2305,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			3U7xJz1DZFtfEUTH7Bvl0lt3ShU=
+			Abx1CU/mp1Fqw3tIUY1C/MmNB/s=
 			</data>
 			<key>hash2</key>
 			<data>
-			i7Tyssi/BjCrCtIz5osTZHJXNK8zEkcVemQpd53f4vA=
+			kve8WlDoZtMAYPEcQwg5EMwzv/lyrHj/0kpsViyay9E=
 			</data>
 		</dict>
 		<key>ios-arm64/ReportKit.framework/Headers/RKPageView.h</key>
@@ -2437,77 +2338,77 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			70UUJ1cpiLKCsF3j3kRViKStEZQ=
+			i6NqknasiGzwNx4QR9M7gILg+tA=
 			</data>
 			<key>hash2</key>
 			<data>
-			OFQJG9dSwz13P0v9hKFuBbEbz+O+a/PdCrZKW7OMZAQ=
+			n5a1BmSFOLjYNc3X+79gRClFTMbs7MgWNZTrl9CRhiU=
 			</data>
 		</dict>
 		<key>ios-arm64/ReportKit.framework/Headers/RKPieChartComponentView.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			OqBVJKMZqa6YbWqI/xTL+UyMduc=
+			aacxJSqwOn6UEmQ1WT03lOZ2xg4=
 			</data>
 			<key>hash2</key>
 			<data>
-			qdNwr/DOhOvclVHk4a8mbiMFqONKdtHHOBqrUjK8dYA=
+			wRDN0ljSUQLSEyilfp5H1OMq0RpzSQqJja+Om9DMqzA=
 			</data>
 		</dict>
 		<key>ios-arm64/ReportKit.framework/Headers/RKPieRadarChartComponentTemplate.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			LO2kOT1+TmwybwUDCQXQcuR5GFA=
+			J5jVI1EyccEgTlw4I3ujvGnXOuM=
 			</data>
 			<key>hash2</key>
 			<data>
-			OLjR0pOxZZ9bLEsfjMM+C63sqCZEEdMYDOSF5+eFZTU=
+			DmukC0O/HRNiVn3L9QRtu8Tj8d1My9tWsHefXOHMSzo=
 			</data>
 		</dict>
 		<key>ios-arm64/ReportKit.framework/Headers/RKPieRadarComponentView.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			01ypXApy1AvR2L6LGwsJSpIN+DQ=
+			OZr3EVRUU0NCKreWDl72hLjQW5w=
 			</data>
 			<key>hash2</key>
 			<data>
-			IWPI3Ug0whyE7HeXtywvoFz7jmVqUmAJk5HPZhMVhy8=
+			t/Zp0tMh8neJO/aFIrIBykaLQq2Z9p5Ur8Yxayb5fAM=
 			</data>
 		</dict>
 		<key>ios-arm64/ReportKit.framework/Headers/RKRadarChartComponentTemplate.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			QwJEb4/kChE2psfgHbjEKTkDmU4=
+			gy8LmCRKlfc+qxFnNakK/geaSIE=
 			</data>
 			<key>hash2</key>
 			<data>
-			jGXinfWduB1H4gW0qZ1hsFzrQGi1LanUd8POT+GEx24=
+			b0VwmWA6v3uGPX8b825xwZUwVVo/4SaZ6+h3+GAY/9U=
 			</data>
 		</dict>
 		<key>ios-arm64/ReportKit.framework/Headers/RKRadarChartComponentView.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			tXmXwdWExlCg2VGEaZT/ipqupcw=
+			L5+SvPW46a25wWTdZKq9du3mJFw=
 			</data>
 			<key>hash2</key>
 			<data>
-			48T7GLJKn0XsnN2JJtIcNahbpxci6WL8kx0XPi4ui2A=
+			QIPLRLwd02QmQn7MSV+m9SqfVCAttAP4jP8UgOY2TZw=
 			</data>
 		</dict>
 		<key>ios-arm64/ReportKit.framework/Headers/RKRectangleComponentTemplate.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Pf1Yg9/ZFVvRVrwd2TcPTe8iXcY=
+			KFvohBUJH/w/Z4GBZ/qnCRLD19M=
 			</data>
 			<key>hash2</key>
 			<data>
-			1BByIZjchGndCGRuxZxQvr4HU8cWVKT0tVdyztBTzoo=
+			ek4XIOoq3Rru9/y3qmm/zR9BIodJNQ1D9qfZNAsra+Y=
 			</data>
 		</dict>
 		<key>ios-arm64/ReportKit.framework/Headers/RKRectangleComponentView.h</key>
@@ -2525,22 +2426,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			oIsD9Qldw6oRSsLAtoEZ5qpdt7I=
+			Y/QOZeuITDb5mRmXiJbm9N99lWY=
 			</data>
 			<key>hash2</key>
 			<data>
-			fjpJmDdvMeX66JfTImxa9XK8cs3LhaL7BfZNUUHGXk8=
-			</data>
-		</dict>
-		<key>ios-arm64/ReportKit.framework/Headers/RKReportBuilderProject.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			HVged6nCP0I/WD/mBDo9dIirrLs=
-			</data>
-			<key>hash2</key>
-			<data>
-			Dmc6hTuis3n5Qkm7vBNkK+v6vq04ghLTpPu9BOGG1SA=
+			0m2sVp+GUENNpzqhT4KoMigS12Xy5C9Z8LOfvztZTyg=
 			</data>
 		</dict>
 		<key>ios-arm64/ReportKit.framework/Headers/RKReportBuilderProjectModel.h</key>
@@ -2558,11 +2448,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			RvA2T2cmtbzCtrRkcYxjBxfv44I=
+			Gbm6kMmZirlRisJS5Bd5cdKZTNc=
 			</data>
 			<key>hash2</key>
 			<data>
-			N5FFERVu1wVwVRUhsBfO5GdTms0lKTds3L0AXs9DDU0=
+			m9MkwwVYSDYDXNDZNe4YCF+6IJ0FycA7s/PBtQN2YXY=
 			</data>
 		</dict>
 		<key>ios-arm64/ReportKit.framework/Headers/RKReportDataSource.h</key>
@@ -2602,11 +2492,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			7cQCIrAWaQbMVphUhp3iMg+TV+4=
+			nnZp/0ef2TzUjAZWE3r7fTc6FZU=
 			</data>
 			<key>hash2</key>
 			<data>
-			GeC00rWkpFcj4oyR+mPmot34NKbsJ7Ahq/4LfCenams=
+			4eKjPkAk4BQm1a/ncZuJGk5aWhsx8vxcL7GeBEjaNCI=
 			</data>
 		</dict>
 		<key>ios-arm64/ReportKit.framework/Headers/RKReportMessage.h</key>
@@ -2620,26 +2510,15 @@
 			dn90tqU2MzVm7kc2/gofxuX6uA/2PQxoMh2y8b6NxX4=
 			</data>
 		</dict>
-		<key>ios-arm64/ReportKit.framework/Headers/RKReportProperties.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			mUnXql+pxvlgw35ABTKUVbPdbQE=
-			</data>
-			<key>hash2</key>
-			<data>
-			Dhz2bQeNFAKi+soImYqgD9qnE7n7RRbzouHTN3W/FFY=
-			</data>
-		</dict>
 		<key>ios-arm64/ReportKit.framework/Headers/RKRotatedTextComponentTemplate.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Lk1N2MzCBbehNuwd8Z44lASAhK8=
+			bcIgdIGsnJC7s2/U3JD/qFzvx6c=
 			</data>
 			<key>hash2</key>
 			<data>
-			aMkmT68m2sh+QduB205F2ibKcAxpRwC0fULbh8+0xvI=
+			23BGn8MnGUBjh4y7ITSqQ1WKzdPOMmDZzvkoAt4smwU=
 			</data>
 		</dict>
 		<key>ios-arm64/ReportKit.framework/Headers/RKRotatedTextComponentView.h</key>
@@ -2657,33 +2536,33 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			URZlRupimw/FDghos7dpOSZKHBI=
+			Get9DN3cMP//Jm+J0PIFLIiX8xk=
 			</data>
 			<key>hash2</key>
 			<data>
-			Xzl1bJBo6uQ7ujZzAdDkYenEeQoXZ47N/NHnwCvs1v4=
+			D+UFl+jQCT2tL7OU9bFx5qAjdX6rJqzasYtpyqsuepU=
 			</data>
 		</dict>
 		<key>ios-arm64/ReportKit.framework/Headers/RKScatterChartComponentView.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			joBZ2ApD0JLXfjd5HKyB0z0y968=
+			Lam8AotXBqnHC6FBQLSVAmIocrM=
 			</data>
 			<key>hash2</key>
 			<data>
-			4GeAlih/f0F3onAojQL5+yDYMrbmzNFDxblPEw71kcc=
+			WyePlpvkoqdDJIzA5Zi9z6zJCgi4MEo/+E88uL14IXs=
 			</data>
 		</dict>
 		<key>ios-arm64/ReportKit.framework/Headers/RKShapeComponentTemplate.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			OZAhdu314HPPBry07yOmWbBLZn0=
+			oRNM7VYH80KK07u5AGP/Hsua7ss=
 			</data>
 			<key>hash2</key>
 			<data>
-			MJ6MstdcNQRAFFzlIKeJyJQxisfB/A68crdSBgV2QdY=
+			7W+XIX0XPn33+EgpTiBWqUNxLVxCNPpX9fGPPTaWJL0=
 			</data>
 		</dict>
 		<key>ios-arm64/ReportKit.framework/Headers/RKShapeComponentView.h</key>
@@ -2701,11 +2580,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			lx9QT3SJdh/4gFjjYhRbNyMCirw=
+			fbzAWGjDtVds9/Dod0+e0apTJbE=
 			</data>
 			<key>hash2</key>
 			<data>
-			VI1oc3xE9s285s9q41VB2IutX0vwWagzaOAZOKFD74E=
+			uhoIlKLf/l67PFz0ugcAVh+xfYAP6U66C8D46r6QJnE=
 			</data>
 		</dict>
 		<key>ios-arm64/ReportKit.framework/Headers/RKSubreportComponentView.h</key>
@@ -2723,11 +2602,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			fF9vjKFXhKqXnkTYgxCnc0zOREk=
+			a63j/a+j+vy8I6NDwATyDe9/VMo=
 			</data>
 			<key>hash2</key>
 			<data>
-			xdu2zpo8F/7QXYPsmFCLQloxBaR3S4byNNj3HLXvHnc=
+			KL2CEbiO8a2erq5+67Sf+mlVw9bz+42Zl8hfvTC2BAg=
 			</data>
 		</dict>
 		<key>ios-arm64/ReportKit.framework/Headers/RKSystemTextComponentView.h</key>
@@ -2745,11 +2624,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			xBmOw2HHSyi9PrWJ+KoOFRzX/z4=
+			bsKsJ9XwwelbmSdQHndQM8ygbD8=
 			</data>
 			<key>hash2</key>
 			<data>
-			PQqqfTyiypNzqzPq8R+zFYdWgHIA3nXV4QW3V9mPaAU=
+			rV1hUoWPL8h1JxnTHE+0iwmDFnDFN1BZLxfVPECKv7U=
 			</data>
 		</dict>
 		<key>ios-arm64/ReportKit.framework/Headers/RKTextComponentView.h</key>
@@ -2767,11 +2646,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			n7K8JRPGEkllePeGHJ9bPc6ukXM=
+			/qq7kozqByqV8GGso/bDC4qLFBQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			s01t4GMZyLUgio0APzQ8zMQXNIU9klElrXBE+akhdIo=
+			DnFZmjxb0unhzOZ9tree3I5azKO1R4Tep/VlS2xLtUs=
 			</data>
 		</dict>
 		<key>ios-arm64/ReportKit.framework/Headers/RKTextViewComponentView.h</key>
@@ -2800,11 +2679,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			VlxIX/onQVrJ5emONNbCXvFHV/o=
+			tbjBSU3+1H6rdwEmu08Syi5zY74=
 			</data>
 			<key>hash2</key>
 			<data>
-			iIpMFekgp8g6Q1nw/0A2+6L4RZkyU5tWriYOyGp32cc=
+			9JVHGXQYQIWzaU6v83umTB5gr9HuAj7Z+eA4Iw5lBSg=
 			</data>
 		</dict>
 		<key>ios-arm64/ReportKit.framework/Headers/RKVerticalLineComponentView.h</key>
@@ -2833,11 +2712,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			eu3mu9Ak2Zbr5ynaKZwpVK68KK8=
+			503MTmbZXhBpeQuwTQgOPdDzlfk=
 			</data>
 			<key>hash2</key>
 			<data>
-			S3Egrm3qGmLIxlDnBdYNaNcjA8NwKzf8bqCbEdleNlU=
+			L4pxwssaLVPVFbb3YaNU4vsNCl+LKzxrXgKlzPgFCbo=
 			</data>
 		</dict>
 		<key>ios-arm64/ReportKit.framework/Info.plist</key>
@@ -2862,15 +2741,136 @@
 			S+CNozEHLDMiX3YX3SSGQT8lofNvvBIHswwUznOIngA=
 			</data>
 		</dict>
+		<key>ios-arm64/ReportKit.framework/PrivateHeaders/RKBarcode+Private.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			W5WAiyatFCgycS/+vlnX7fWPaeM=
+			</data>
+			<key>hash2</key>
+			<data>
+			+5tcQRCDrvXceAOZAFYZRixfnKYhJQVFU7PLyEC1atU=
+			</data>
+		</dict>
+		<key>ios-arm64/ReportKit.framework/PrivateHeaders/RKBarcode.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			khVCaX7R7r2vDDciYWQGXX/37Ww=
+			</data>
+			<key>hash2</key>
+			<data>
+			I9PLaYoOqjArR+1FZVeaC0TUKw5zzDc8Cp3xJSk8q5A=
+			</data>
+		</dict>
+		<key>ios-arm64/ReportKit.framework/PrivateHeaders/RKBooleanValueFormatter.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			fbvjsbyriNuxTdt+MBafTeGu4g8=
+			</data>
+			<key>hash2</key>
+			<data>
+			TyK7CaaaIL/OODWa/3uoBMjIk58JtJNrMGB/oRA4ql8=
+			</data>
+		</dict>
+		<key>ios-arm64/ReportKit.framework/PrivateHeaders/RKColorUtilities.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			8rTE4gMvUFpgrz8JUiiFR/y1xsM=
+			</data>
+			<key>hash2</key>
+			<data>
+			FWz22QrEofqIH6Lm7/bXXpzkcBwB2nx/Qy5E9Lkrfwo=
+			</data>
+		</dict>
+		<key>ios-arm64/ReportKit.framework/PrivateHeaders/RKCurrencySpelledOutValueFormatter.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			CxjWsNxDG+qeBC2BgkfJPeKaBqY=
+			</data>
+			<key>hash2</key>
+			<data>
+			m4nlEbBZo6fddHyW6AmL0AZAY3GF/em59DHCc/U1yyI=
+			</data>
+		</dict>
+		<key>ios-arm64/ReportKit.framework/PrivateHeaders/RKDateTimeValueFormatter.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			UjN10QAUU7xuuEz9QdIhcFsfRew=
+			</data>
+			<key>hash2</key>
+			<data>
+			quvx2IcxhU1eiYM8KTd9d/6jyKEKfEjMrf/S3vggTKU=
+			</data>
+		</dict>
+		<key>ios-arm64/ReportKit.framework/PrivateHeaders/RKIntrospector.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Q2UKdkJPpoZMeMUPKsXdNTic8as=
+			</data>
+			<key>hash2</key>
+			<data>
+			aeNmNu+sLN3TAlVjtjxMgQHJvoJbkvyKppt0O1mb6jk=
+			</data>
+		</dict>
+		<key>ios-arm64/ReportKit.framework/PrivateHeaders/RKLineUtilities.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			3dIdoeoFc6JyipTElPq9wTl/oY4=
+			</data>
+			<key>hash2</key>
+			<data>
+			vNSreX4ZYiceSjAN77p3p+zLyXhQaAYtjMaPaIQo/1c=
+			</data>
+		</dict>
+		<key>ios-arm64/ReportKit.framework/PrivateHeaders/RKNamedColor.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			8lT7Q+66irWrL5yk1TIfQAq1ScM=
+			</data>
+			<key>hash2</key>
+			<data>
+			ssESE0UOQE2Ea9SUqySSbO0IZ4fOnZ8UEbui/wxNWKQ=
+			</data>
+		</dict>
+		<key>ios-arm64/ReportKit.framework/PrivateHeaders/RKNumberValueFormatter.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			dzUALCSUUMZLXYR+JTQnDLDShws=
+			</data>
+			<key>hash2</key>
+			<data>
+			39B/VCWYbeLQUBkVr0GdJbdjTsaS2wblId+FnGvwgW4=
+			</data>
+		</dict>
+		<key>ios-arm64/ReportKit.framework/PrivateHeaders/RKReportBuilderProject.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			HVged6nCP0I/WD/mBDo9dIirrLs=
+			</data>
+			<key>hash2</key>
+			<data>
+			Dmc6hTuis3n5Qkm7vBNkK+v6vq04ghLTpPu9BOGG1SA=
+			</data>
+		</dict>
 		<key>ios-arm64/ReportKit.framework/ReportKit</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			aS2nzkeF6K//SEMmgIFeIEgVx30=
+			5iCMK3K776ISecMBJUysKMnQHYc=
 			</data>
 			<key>hash2</key>
 			<data>
-			N58EMjDTe5HwOrA9pQPJR9pqfHGEFtgXqKbIqm/il04=
+			yfylrSH+mfCtVsntkgAPx43tDSz+GqoOiPzaM5lDqqo=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-maccatalyst/ReportKit.framework/Headers</key>
@@ -2882,6 +2882,11 @@
 		<dict>
 			<key>symlink</key>
 			<string>Versions/Current/Modules</string>
+		</dict>
+		<key>ios-arm64_x86_64-maccatalyst/ReportKit.framework/PrivateHeaders</key>
+		<dict>
+			<key>symlink</key>
+			<string>Versions/Current/PrivateHeaders</string>
 		</dict>
 		<key>ios-arm64_x86_64-maccatalyst/ReportKit.framework/ReportKit</key>
 		<dict>
@@ -2974,22 +2979,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			+a/tnlt1p2j3iQ7+iyxhGzwP8c4=
+			qrTFWq62jS5cXvZZ4k+QX59b/8M=
 			</data>
 			<key>hash2</key>
 			<data>
-			KdDIGQteu9UxOS1sLgpQn+boTI7ZSkHqXUuEcHvJSdI=
+			tqNlcjNf7bhQmopaIQGe8QlxTY7pN+5uN/mLNm+fRN8=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-maccatalyst/ReportKit.framework/Versions/A/Headers/RKBandTemplate.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			eznESOmtkUFfekWpWP+p7/gTxCw=
+			YzLZYi8FpDnguficC6CIh7jzavU=
 			</data>
 			<key>hash2</key>
 			<data>
-			IBgQ5efSI/Fc7P/h4lAxU+y5lnkYxlhFctkEfq2gv6E=
+			etiqmKFNdXFYe8vvyMbdLSmv60sZLLNTXaWvc+xD2K0=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-maccatalyst/ReportKit.framework/Versions/A/Headers/RKBandView.h</key>
@@ -3007,66 +3012,55 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			HJhi8UO84uJzcVe8TZGDfXr+Ybc=
+			ckZccpwZNpzlUGbjW/uRsPSiDAc=
 			</data>
 			<key>hash2</key>
 			<data>
-			LKuDzgtAGkGz5wMexfJVLEfXVIJFmxuSsa6LHfAvtMY=
+			HHrQCqys7XoHrTg34vgQrhfpzw0FtLzcEji+q3tCCEg=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-maccatalyst/ReportKit.framework/Versions/A/Headers/RKBarChartComponentView.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			RgacQbn1LHK51SEeng4nYH5E8og=
+			7h4UDiF0V0blFt5F41B3g+S6Gz8=
 			</data>
 			<key>hash2</key>
 			<data>
-			xVqngLiDxdyoOxEyoHNpvQXkT811IkBJc1GP/n9hiIs=
+			coUqwO4+E1p4l+N9I8ASlO6FPIJpZ7bSuS40JQRH3z4=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-maccatalyst/ReportKit.framework/Versions/A/Headers/RKBarLineChartComponentTemplate.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Rx4/GkV7DEVjAEK/p6ekcJpGEzw=
+			4/gl3uc/Yf1Sc7mnRttCIijecks=
 			</data>
 			<key>hash2</key>
 			<data>
-			qmp/ORr75oIHR1YIpw1qZME7iRPRWLlvqn7aw8c7A0g=
+			TeEWycjJ+enSKDhF0xkKHHVaghaIQwQ3GsfWCKqujSE=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-maccatalyst/ReportKit.framework/Versions/A/Headers/RKBarLineChartComponentView.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			WnTgpaFCDO/V/hO9swNqAuNcbu4=
+			PP6V3ogz4E7eUHoDvmjpKcBQwkc=
 			</data>
 			<key>hash2</key>
 			<data>
-			TFPviKHw1Sp+b/6T/osFC21HLPRmRcQRNwoKyA6ESmk=
-			</data>
-		</dict>
-		<key>ios-arm64_x86_64-maccatalyst/ReportKit.framework/Versions/A/Headers/RKBarcode.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			BhqWQtSuJ66M1g5cgUOwa8fX0Vk=
-			</data>
-			<key>hash2</key>
-			<data>
-			/n0knyNadrQC32NKgIJ+rHuns/TX7J1fV2YTUiMWtZY=
+			4karr3TxzXJxU7Uz60ViK2Rny3h/OCUvAKjZzaQs9DI=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-maccatalyst/ReportKit.framework/Versions/A/Headers/RKBarcodeComponentTemplate.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			K6W+F3T+oI1ZOEpq0Me1pGogk4g=
+			AbsoIIo1RXmdmw6rnlZR9Ucw5pU=
 			</data>
 			<key>hash2</key>
 			<data>
-			F2w+DEt6swSXSfKKgx4au4j8BbSxuSykK2p0WCeVOrs=
+			Twjnh3o/N4hxaDT6PIaUYjw9HqVEtdU4n3vJbkJsiz8=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-maccatalyst/ReportKit.framework/Versions/A/Headers/RKBarcodeComponentView.h</key>
@@ -3084,44 +3078,44 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			kJhvwrFb0jkEXkEgqydSDFi0bjk=
+			Pzd0Dyr6X0EMrbmiT1yh7H80snM=
 			</data>
 			<key>hash2</key>
 			<data>
-			11AqFGmzso8idXQWO4lhgrk6neYmlW4v7umpAc1bISw=
+			nhtk+5k9cFAxt32pPhEFCxJcmrdvLRyJoOImqHuG+sI=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-maccatalyst/ReportKit.framework/Versions/A/Headers/RKBasicChartComponentTemplate.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Slrxu1IUZEOOagKuMshHlbM4aUo=
+			av3xA1WBuqh08rRAxrF3q0HeW80=
 			</data>
 			<key>hash2</key>
 			<data>
-			ecPYIZGmdqHsGuGYVY/yaB8CkRcWPtPyJULuc2qbmLI=
+			LJ24N9NVlwHVZ71HoFCwNDlCy3EGH7E14RKpvKKpnoA=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-maccatalyst/ReportKit.framework/Versions/A/Headers/RKBasicXYAxisChartComponentTemplate.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			FTBAV3rdWyk6Eq9DD1GqK+L5YYY=
+			LBUBYkXDmuGdGVuckZ9IPC8fDVY=
 			</data>
 			<key>hash2</key>
 			<data>
-			vZZyX48vzQjb3G5QlA/J1WiCQ2djtghju3HAhibCt5E=
+			gIapnF/24g0C7l3UcXyUD8oVNR2fZ5ia7ZgAuQoKMSY=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-maccatalyst/ReportKit.framework/Versions/A/Headers/RKBasicXYAxisChartComponentView.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			MJI3d7GY91SeELOnstlFFKGPaLo=
+			CKo/oA1npbIBmu7bjBL8XJMOrUE=
 			</data>
 			<key>hash2</key>
 			<data>
-			s40FMp7YCGS9mIxrsG7c5ASbUdvew4LntgA0yUM1ABo=
+			D6uqsXn2U91nWIkr+ewzznUFKweJ+cJaFoCs8xIdBys=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-maccatalyst/ReportKit.framework/Versions/A/Headers/RKBezierPath+ReportKit.h</key>
@@ -3135,59 +3129,48 @@
 			Kf+/UODmiN4x05mRwoSrdwHNcZ6PUgrsTGsoXcoZGF8=
 			</data>
 		</dict>
-		<key>ios-arm64_x86_64-maccatalyst/ReportKit.framework/Versions/A/Headers/RKBooleanValueFormatter.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			wIjHnXXtsgkL59SJ/Ab0jr8BFLA=
-			</data>
-			<key>hash2</key>
-			<data>
-			ijl50n2CSEO6ZdMQzNv/4BnUI0J77cKC7wo2EOf2U9M=
-			</data>
-		</dict>
 		<key>ios-arm64_x86_64-maccatalyst/ReportKit.framework/Versions/A/Headers/RKBubbleChartComponentTemplate.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			cOJiNSTFCB1XqUFni/uViRTvj0E=
+			7VUPR80JAsrUQVjS9JDs3DZsPDo=
 			</data>
 			<key>hash2</key>
 			<data>
-			Gi21AphjET6BufgmsfQEAAOkoSnIneRD6VnB5nGtKXY=
+			otSEToVA1Q6UZ2+6PTJEQCKBTLLAbYu1MHlNLyaMOCw=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-maccatalyst/ReportKit.framework/Versions/A/Headers/RKBubbleChartComponentView.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			d09fMxGyRPPWqUTSU22tZTuwVmU=
+			ukFvzyz58Q/dMh0HxuSRoWDJGl8=
 			</data>
 			<key>hash2</key>
 			<data>
-			oI0bnyMLUyDBJs3oEUnEZe5Qkkh+j+074TQk2ZnRI9o=
+			fmz5gE2LmUUAh2EJxH4T1p/nOTcb/7VZlgfbc8Pmtqg=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-maccatalyst/ReportKit.framework/Versions/A/Headers/RKCandleChartComponentTemplate.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			pzhuafCMxsOszaaPiwL/8ZcluiM=
+			e4QfswToESlXXtJwCSFMrdMEaEs=
 			</data>
 			<key>hash2</key>
 			<data>
-			TD01tfe2GMwMXMxdM8Mh8Yn7V63wZT8mT/9zFdSeU2E=
+			xTwr1uK9fOxizEBceQkTOrgl8UGjPmDXZsNhTLd1fi8=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-maccatalyst/ReportKit.framework/Versions/A/Headers/RKCandleChartComponentView.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			jRjxeCScMGnVzU8Su0nmH3cQT+8=
+			DGdnsi1czmRdDUS4Mcdvg3VJqqg=
 			</data>
 			<key>hash2</key>
 			<data>
-			R3WVS45rAuoUScj0EkHUFfmXoQEb/+qNJu4mNNNu/fY=
+			WICOFR7Ei5NVZIfUlXL2yFXtLdnkoXszYbywLoHwgfI=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-maccatalyst/ReportKit.framework/Versions/A/Headers/RKChartAxisValueFormatter.h</key>
@@ -3205,33 +3188,33 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			O95PX1AZ82Xo829Jn+Mq70jG0UM=
+			doqpE5hiEo/2+Zx53i/hJZQsXfM=
 			</data>
 			<key>hash2</key>
 			<data>
-			Pormj144cd3m5adeRvwX4T8OyYQOTDaGgcs0U3CoSnc=
+			1Ho7ROhwGB2B5cKRG4p2jy0RpCfbEICxQ//3cyJVi/Q=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-maccatalyst/ReportKit.framework/Versions/A/Headers/RKChartComponentView.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			GNqyJVTR0OtF5lYrKBf+LJp7ai4=
+			IbhdY229MCsw6lT7gC4LnY8anPQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			a3LARJqjpijHOkqvawHzcFwQ5KLMTBWzF9P9uVTqUN8=
+			Igt/4rsaXTXrvIStbON/fxIZ01GQDulOWREsUOviAUw=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-maccatalyst/ReportKit.framework/Versions/A/Headers/RKChartDataSetTemplate.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			auOF8k/j2GGZHH2cnfHYdmEeyIw=
+			uhLAHNZ4OaGUezKN8sa2Xkmb3rw=
 			</data>
 			<key>hash2</key>
 			<data>
-			PoBLUfxMhvtarrxKU38cx5Bi2LkO4MvaFZG5t7CM00s=
+			vxKeTqb+y2GXA7Bui0nehY/YH4y0ru3a0C2x0YKiE7g=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-maccatalyst/ReportKit.framework/Versions/A/Headers/RKChartValueFormatter.h</key>
@@ -3256,26 +3239,15 @@
 			QpqDeHHiwUIXCD61sE/ttjLKApCvZCmghyHfWCw99SA=
 			</data>
 		</dict>
-		<key>ios-arm64_x86_64-maccatalyst/ReportKit.framework/Versions/A/Headers/RKColorUtilities.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			8rTE4gMvUFpgrz8JUiiFR/y1xsM=
-			</data>
-			<key>hash2</key>
-			<data>
-			FWz22QrEofqIH6Lm7/bXXpzkcBwB2nx/Qy5E9Lkrfwo=
-			</data>
-		</dict>
 		<key>ios-arm64_x86_64-maccatalyst/ReportKit.framework/Versions/A/Headers/RKCombinedChartComponentTemplate.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			FWje9Yox4OM3k14LynzRa6frcPo=
+			wQpYF87itBURbYo+6HBI153kNlM=
 			</data>
 			<key>hash2</key>
 			<data>
-			TQ0x9/GSkfRJCIrKvuoL9XDAc50m49lneNFdQCaElHM=
+			aif8eADi6xc3X0rXq9NFCG9eTv9U7ByBxEMsF/8A8Hs=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-maccatalyst/ReportKit.framework/Versions/A/Headers/RKComponent.h</key>
@@ -3293,11 +3265,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			3xTLrsepv6JVNxMhWdRLLSypzlU=
+			FiF6te4uDLJ3PFul1eL4yrt8X/Q=
 			</data>
 			<key>hash2</key>
 			<data>
-			2/gaOBkZpQ9z1It5eJjczxOREEeeJC9l28nAvB2spHc=
+			ish047NlfPTtt0joW8sVr0FM1NlsQa4Bc4xl6nHx+bU=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-maccatalyst/ReportKit.framework/Versions/A/Headers/RKComponentView.h</key>
@@ -3311,70 +3283,59 @@
 			IvaWzORkKPZ7gu+av4oNTbuRn3Lt8sVVTEYVfKCCxbA=
 			</data>
 		</dict>
-		<key>ios-arm64_x86_64-maccatalyst/ReportKit.framework/Versions/A/Headers/RKCurrencySpelledOutValueFormatter.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			CxjWsNxDG+qeBC2BgkfJPeKaBqY=
-			</data>
-			<key>hash2</key>
-			<data>
-			m4nlEbBZo6fddHyW6AmL0AZAY3GF/em59DHCc/U1yyI=
-			</data>
-		</dict>
 		<key>ios-arm64_x86_64-maccatalyst/ReportKit.framework/Versions/A/Headers/RKCustomComponentView.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			piDLqE7M9T2dw9wzuNssX6DgsfM=
+			NqX6CEclOR+fANRGRwhMfgabXPw=
 			</data>
 			<key>hash2</key>
 			<data>
-			5VKl92GCHoF5Hmu1vaMWD1LAXJzYllkpIt4X4u6Lwaw=
+			sss4VANGtfZuie60thnxRPulQ9AquBbSIOJlEqWJgHU=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-maccatalyst/ReportKit.framework/Versions/A/Headers/RKCustomViewComponentTemplate.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			q4+i1DI7UjTOkCbGCXtoIEoZwUs=
+			QT0OFLonJxYN9s0H//dN8YQ6yeQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			xPSKV4aqi6oPNTY2YBaBofmQ5+WdgT+KfyKzFFOwl7k=
+			/e3tVshPoQmqrVvgMGx4N36S59XoPj/VbOHDfCkzgVc=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-maccatalyst/ReportKit.framework/Versions/A/Headers/RKDataAwareComponentTemplate.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			PzEcDKWmGi6tJRSCs8mkv4A5Di4=
+			Sf6MHkMXi9y88l0HDOMyhsweUiM=
 			</data>
 			<key>hash2</key>
 			<data>
-			PtCwXTk1eyBTlf4Os1fEzF1nU9RuXliVgsZRMfVtCpU=
+			UMJT/7/ei/XiktaIESmeA/KR5S6UExtDepGJ6HfUjNg=
 			</data>
 		</dict>
-		<key>ios-arm64_x86_64-maccatalyst/ReportKit.framework/Versions/A/Headers/RKDateTimeValueFormatter.h</key>
+		<key>ios-arm64_x86_64-maccatalyst/ReportKit.framework/Versions/A/Headers/RKDocumentAttributes.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			UjN10QAUU7xuuEz9QdIhcFsfRew=
+			eke1YgarrtpJYH5gY9KnVdvY068=
 			</data>
 			<key>hash2</key>
 			<data>
-			quvx2IcxhU1eiYM8KTd9d/6jyKEKfEjMrf/S3vggTKU=
+			oD4V/E1r8m2toVyfoPzQ5tR21AUxvkvZGxqqOaTGA1A=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-maccatalyst/ReportKit.framework/Versions/A/Headers/RKExpandableTextComponentView.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			EHUkvrq1sT2JEGQXYf7vp9ffMao=
+			jibRa5qUh3MZnAugvTJucoBklRE=
 			</data>
 			<key>hash2</key>
 			<data>
-			toz6FEEIUA6rxnt/nEwXRLmFNyh12f2lNsOYf+BS7Hk=
+			cOxhjn8GvVZEgvUrbsf12J1cLqhxrVWvglC4vr8gark=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-maccatalyst/ReportKit.framework/Versions/A/Headers/RKFontInformation.h</key>
@@ -3386,17 +3347,6 @@
 			<key>hash2</key>
 			<data>
 			3zsi68wvXICjqfPbGaRBKz7xqfKc5NYH9svg05XXSi8=
-			</data>
-		</dict>
-		<key>ios-arm64_x86_64-maccatalyst/ReportKit.framework/Versions/A/Headers/RKGlobalDefinitions.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			4VDp2DEFlblGg85Cmu/TpQ9FL24=
-			</data>
-			<key>hash2</key>
-			<data>
-			q+orerplV/jdqX+mWh466xHxxDVK7vSRgImi/eZhJoc=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-maccatalyst/ReportKit.framework/Versions/A/Headers/RKGroupIdentifier.h</key>
@@ -3425,22 +3375,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			aFoTetHy/1jAS92wYSP85OfEJ6I=
+			HMtkVgxl2opHx8C1j7WpmBxCrek=
 			</data>
 			<key>hash2</key>
 			<data>
-			DeEVqflyHrHKHElTC89EClSHbT3re6j6SvAz7V4vBqo=
+			HyteMHBi2FqG8JOt1PgvGHuZ07imSvO12wUAaxQPL+4=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-maccatalyst/ReportKit.framework/Versions/A/Headers/RKHorizontalLineComponentTemplate.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			2XWxgN53fArqH4AaWI7Hz73XVf0=
+			aU4ZmnNafk+0I/jDjapImxqNcp4=
 			</data>
 			<key>hash2</key>
 			<data>
-			albX9P+HBrshkwLb+8FhhhrZ7nzUb/9TVA1LWPvJDxI=
+			4L22MrBk8ajdJyybY5OadtJ4bjh+BdXaueFm02RvxqE=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-maccatalyst/ReportKit.framework/Versions/A/Headers/RKHorizontalLineComponentView.h</key>
@@ -3458,11 +3408,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			MWF/f0DB3+HChlSj1O7WA21wFms=
+			p+jMrqvK9xo3YN2i2tz2A3j6dUg=
 			</data>
 			<key>hash2</key>
 			<data>
-			MAU6NeeyNOxLQhZaeceLYw14kanGu2aQWunVYhiIsUQ=
+			CaQUe1qislxtPgxCcVL9mLF0NAYL9AB2xBNGPg/mBOA=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-maccatalyst/ReportKit.framework/Versions/A/Headers/RKImageComponentView.h</key>
@@ -3476,92 +3426,48 @@
 			5tPNUC2FjNMJVEEFQVQd8IHGa9Pvh1ncE+4wdlMcDkQ=
 			</data>
 		</dict>
-		<key>ios-arm64_x86_64-maccatalyst/ReportKit.framework/Versions/A/Headers/RKIntrospector.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			Q2UKdkJPpoZMeMUPKsXdNTic8as=
-			</data>
-			<key>hash2</key>
-			<data>
-			aeNmNu+sLN3TAlVjtjxMgQHJvoJbkvyKppt0O1mb6jk=
-			</data>
-		</dict>
 		<key>ios-arm64_x86_64-maccatalyst/ReportKit.framework/Versions/A/Headers/RKLineChartComponentTemplate.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			2JOdGy+zE8+2B7xkKY3nabcqLDg=
+			go1Apa7COLWHaVSHVXIUmeF7HpI=
 			</data>
 			<key>hash2</key>
 			<data>
-			zC0kaWFHZIfhNRVSFyfX4JQ1BRik1p0T5S6qNufThvs=
+			B8J2QhV/4U0yKLVv27KUa1SEF+6iV9qRPw3RdYCXTU8=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-maccatalyst/ReportKit.framework/Versions/A/Headers/RKLineChartComponentView.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			DznHb+vXE/vb47ztt16ai20CE2c=
+			aKfHZ8ffXIbp1+0vLSxWy0jiWZ4=
 			</data>
 			<key>hash2</key>
 			<data>
-			ldolBWgG3TsCKHiL/T6qDeruR5oqnVcg1zvCCgmUVjE=
-			</data>
-		</dict>
-		<key>ios-arm64_x86_64-maccatalyst/ReportKit.framework/Versions/A/Headers/RKLineUtilities.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			3dIdoeoFc6JyipTElPq9wTl/oY4=
-			</data>
-			<key>hash2</key>
-			<data>
-			vNSreX4ZYiceSjAN77p3p+zLyXhQaAYtjMaPaIQo/1c=
-			</data>
-		</dict>
-		<key>ios-arm64_x86_64-maccatalyst/ReportKit.framework/Versions/A/Headers/RKNamedColor.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			8lT7Q+66irWrL5yk1TIfQAq1ScM=
-			</data>
-			<key>hash2</key>
-			<data>
-			ssESE0UOQE2Ea9SUqySSbO0IZ4fOnZ8UEbui/wxNWKQ=
+			UmwWNh0mE01c+HsQnW3bzIjTfyP1Lr2LXESPvGkbR+Q=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-maccatalyst/ReportKit.framework/Versions/A/Headers/RKNegativeBarChartComponentTemplate.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			IJ1luOeHnp9Dcqs+b5ciKpSaRIk=
+			pVPDxWE1zPbvPkKq4n95NebinEk=
 			</data>
 			<key>hash2</key>
 			<data>
-			LMH2IWQe5TIqNoFBxejFH7AEKvNB+B+Soslht9LodcI=
-			</data>
-		</dict>
-		<key>ios-arm64_x86_64-maccatalyst/ReportKit.framework/Versions/A/Headers/RKNumberValueFormatter.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			dzUALCSUUMZLXYR+JTQnDLDShws=
-			</data>
-			<key>hash2</key>
-			<data>
-			39B/VCWYbeLQUBkVr0GdJbdjTsaS2wblId+FnGvwgW4=
+			2PXCxMyh9BQeszrOhGh2THLr4UZdA3glfHXEmYMsOFQ=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-maccatalyst/ReportKit.framework/Versions/A/Headers/RKOvalComponentTemplate.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			UBkiTsFq3y4b6sIfR0Rp5QnqoEI=
+			RmKzYHQWgVqNGI7As4cRY5XuOXQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			KAUcRhVEB411jfwokbnHZJ2hRqprLkttrSzCuw1X35I=
+			ZkmfkKIHr6V8FW8QkjjFYuw6XZcL6Sie1R3SdJuk6f8=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-maccatalyst/ReportKit.framework/Versions/A/Headers/RKOvalComponentView.h</key>
@@ -3590,11 +3496,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			3U7xJz1DZFtfEUTH7Bvl0lt3ShU=
+			Abx1CU/mp1Fqw3tIUY1C/MmNB/s=
 			</data>
 			<key>hash2</key>
 			<data>
-			i7Tyssi/BjCrCtIz5osTZHJXNK8zEkcVemQpd53f4vA=
+			kve8WlDoZtMAYPEcQwg5EMwzv/lyrHj/0kpsViyay9E=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-maccatalyst/ReportKit.framework/Versions/A/Headers/RKPageView.h</key>
@@ -3623,77 +3529,77 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			70UUJ1cpiLKCsF3j3kRViKStEZQ=
+			i6NqknasiGzwNx4QR9M7gILg+tA=
 			</data>
 			<key>hash2</key>
 			<data>
-			OFQJG9dSwz13P0v9hKFuBbEbz+O+a/PdCrZKW7OMZAQ=
+			n5a1BmSFOLjYNc3X+79gRClFTMbs7MgWNZTrl9CRhiU=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-maccatalyst/ReportKit.framework/Versions/A/Headers/RKPieChartComponentView.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			OqBVJKMZqa6YbWqI/xTL+UyMduc=
+			aacxJSqwOn6UEmQ1WT03lOZ2xg4=
 			</data>
 			<key>hash2</key>
 			<data>
-			qdNwr/DOhOvclVHk4a8mbiMFqONKdtHHOBqrUjK8dYA=
+			wRDN0ljSUQLSEyilfp5H1OMq0RpzSQqJja+Om9DMqzA=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-maccatalyst/ReportKit.framework/Versions/A/Headers/RKPieRadarChartComponentTemplate.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			LO2kOT1+TmwybwUDCQXQcuR5GFA=
+			J5jVI1EyccEgTlw4I3ujvGnXOuM=
 			</data>
 			<key>hash2</key>
 			<data>
-			OLjR0pOxZZ9bLEsfjMM+C63sqCZEEdMYDOSF5+eFZTU=
+			DmukC0O/HRNiVn3L9QRtu8Tj8d1My9tWsHefXOHMSzo=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-maccatalyst/ReportKit.framework/Versions/A/Headers/RKPieRadarComponentView.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			01ypXApy1AvR2L6LGwsJSpIN+DQ=
+			OZr3EVRUU0NCKreWDl72hLjQW5w=
 			</data>
 			<key>hash2</key>
 			<data>
-			IWPI3Ug0whyE7HeXtywvoFz7jmVqUmAJk5HPZhMVhy8=
+			t/Zp0tMh8neJO/aFIrIBykaLQq2Z9p5Ur8Yxayb5fAM=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-maccatalyst/ReportKit.framework/Versions/A/Headers/RKRadarChartComponentTemplate.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			QwJEb4/kChE2psfgHbjEKTkDmU4=
+			gy8LmCRKlfc+qxFnNakK/geaSIE=
 			</data>
 			<key>hash2</key>
 			<data>
-			jGXinfWduB1H4gW0qZ1hsFzrQGi1LanUd8POT+GEx24=
+			b0VwmWA6v3uGPX8b825xwZUwVVo/4SaZ6+h3+GAY/9U=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-maccatalyst/ReportKit.framework/Versions/A/Headers/RKRadarChartComponentView.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			tXmXwdWExlCg2VGEaZT/ipqupcw=
+			L5+SvPW46a25wWTdZKq9du3mJFw=
 			</data>
 			<key>hash2</key>
 			<data>
-			48T7GLJKn0XsnN2JJtIcNahbpxci6WL8kx0XPi4ui2A=
+			QIPLRLwd02QmQn7MSV+m9SqfVCAttAP4jP8UgOY2TZw=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-maccatalyst/ReportKit.framework/Versions/A/Headers/RKRectangleComponentTemplate.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Pf1Yg9/ZFVvRVrwd2TcPTe8iXcY=
+			KFvohBUJH/w/Z4GBZ/qnCRLD19M=
 			</data>
 			<key>hash2</key>
 			<data>
-			1BByIZjchGndCGRuxZxQvr4HU8cWVKT0tVdyztBTzoo=
+			ek4XIOoq3Rru9/y3qmm/zR9BIodJNQ1D9qfZNAsra+Y=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-maccatalyst/ReportKit.framework/Versions/A/Headers/RKRectangleComponentView.h</key>
@@ -3711,22 +3617,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			oIsD9Qldw6oRSsLAtoEZ5qpdt7I=
+			Y/QOZeuITDb5mRmXiJbm9N99lWY=
 			</data>
 			<key>hash2</key>
 			<data>
-			fjpJmDdvMeX66JfTImxa9XK8cs3LhaL7BfZNUUHGXk8=
-			</data>
-		</dict>
-		<key>ios-arm64_x86_64-maccatalyst/ReportKit.framework/Versions/A/Headers/RKReportBuilderProject.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			HVged6nCP0I/WD/mBDo9dIirrLs=
-			</data>
-			<key>hash2</key>
-			<data>
-			Dmc6hTuis3n5Qkm7vBNkK+v6vq04ghLTpPu9BOGG1SA=
+			0m2sVp+GUENNpzqhT4KoMigS12Xy5C9Z8LOfvztZTyg=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-maccatalyst/ReportKit.framework/Versions/A/Headers/RKReportBuilderProjectModel.h</key>
@@ -3744,11 +3639,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			RvA2T2cmtbzCtrRkcYxjBxfv44I=
+			Gbm6kMmZirlRisJS5Bd5cdKZTNc=
 			</data>
 			<key>hash2</key>
 			<data>
-			N5FFERVu1wVwVRUhsBfO5GdTms0lKTds3L0AXs9DDU0=
+			m9MkwwVYSDYDXNDZNe4YCF+6IJ0FycA7s/PBtQN2YXY=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-maccatalyst/ReportKit.framework/Versions/A/Headers/RKReportDataSource.h</key>
@@ -3788,11 +3683,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			7cQCIrAWaQbMVphUhp3iMg+TV+4=
+			nnZp/0ef2TzUjAZWE3r7fTc6FZU=
 			</data>
 			<key>hash2</key>
 			<data>
-			GeC00rWkpFcj4oyR+mPmot34NKbsJ7Ahq/4LfCenams=
+			4eKjPkAk4BQm1a/ncZuJGk5aWhsx8vxcL7GeBEjaNCI=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-maccatalyst/ReportKit.framework/Versions/A/Headers/RKReportMessage.h</key>
@@ -3806,26 +3701,15 @@
 			dn90tqU2MzVm7kc2/gofxuX6uA/2PQxoMh2y8b6NxX4=
 			</data>
 		</dict>
-		<key>ios-arm64_x86_64-maccatalyst/ReportKit.framework/Versions/A/Headers/RKReportProperties.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			mUnXql+pxvlgw35ABTKUVbPdbQE=
-			</data>
-			<key>hash2</key>
-			<data>
-			Dhz2bQeNFAKi+soImYqgD9qnE7n7RRbzouHTN3W/FFY=
-			</data>
-		</dict>
 		<key>ios-arm64_x86_64-maccatalyst/ReportKit.framework/Versions/A/Headers/RKRotatedTextComponentTemplate.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Lk1N2MzCBbehNuwd8Z44lASAhK8=
+			bcIgdIGsnJC7s2/U3JD/qFzvx6c=
 			</data>
 			<key>hash2</key>
 			<data>
-			aMkmT68m2sh+QduB205F2ibKcAxpRwC0fULbh8+0xvI=
+			23BGn8MnGUBjh4y7ITSqQ1WKzdPOMmDZzvkoAt4smwU=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-maccatalyst/ReportKit.framework/Versions/A/Headers/RKRotatedTextComponentView.h</key>
@@ -3843,33 +3727,33 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			URZlRupimw/FDghos7dpOSZKHBI=
+			Get9DN3cMP//Jm+J0PIFLIiX8xk=
 			</data>
 			<key>hash2</key>
 			<data>
-			Xzl1bJBo6uQ7ujZzAdDkYenEeQoXZ47N/NHnwCvs1v4=
+			D+UFl+jQCT2tL7OU9bFx5qAjdX6rJqzasYtpyqsuepU=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-maccatalyst/ReportKit.framework/Versions/A/Headers/RKScatterChartComponentView.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			joBZ2ApD0JLXfjd5HKyB0z0y968=
+			Lam8AotXBqnHC6FBQLSVAmIocrM=
 			</data>
 			<key>hash2</key>
 			<data>
-			4GeAlih/f0F3onAojQL5+yDYMrbmzNFDxblPEw71kcc=
+			WyePlpvkoqdDJIzA5Zi9z6zJCgi4MEo/+E88uL14IXs=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-maccatalyst/ReportKit.framework/Versions/A/Headers/RKShapeComponentTemplate.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			OZAhdu314HPPBry07yOmWbBLZn0=
+			oRNM7VYH80KK07u5AGP/Hsua7ss=
 			</data>
 			<key>hash2</key>
 			<data>
-			MJ6MstdcNQRAFFzlIKeJyJQxisfB/A68crdSBgV2QdY=
+			7W+XIX0XPn33+EgpTiBWqUNxLVxCNPpX9fGPPTaWJL0=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-maccatalyst/ReportKit.framework/Versions/A/Headers/RKShapeComponentView.h</key>
@@ -3887,11 +3771,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			lx9QT3SJdh/4gFjjYhRbNyMCirw=
+			fbzAWGjDtVds9/Dod0+e0apTJbE=
 			</data>
 			<key>hash2</key>
 			<data>
-			VI1oc3xE9s285s9q41VB2IutX0vwWagzaOAZOKFD74E=
+			uhoIlKLf/l67PFz0ugcAVh+xfYAP6U66C8D46r6QJnE=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-maccatalyst/ReportKit.framework/Versions/A/Headers/RKSubreportComponentView.h</key>
@@ -3909,11 +3793,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			fF9vjKFXhKqXnkTYgxCnc0zOREk=
+			a63j/a+j+vy8I6NDwATyDe9/VMo=
 			</data>
 			<key>hash2</key>
 			<data>
-			xdu2zpo8F/7QXYPsmFCLQloxBaR3S4byNNj3HLXvHnc=
+			KL2CEbiO8a2erq5+67Sf+mlVw9bz+42Zl8hfvTC2BAg=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-maccatalyst/ReportKit.framework/Versions/A/Headers/RKSystemTextComponentView.h</key>
@@ -3931,11 +3815,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			xBmOw2HHSyi9PrWJ+KoOFRzX/z4=
+			bsKsJ9XwwelbmSdQHndQM8ygbD8=
 			</data>
 			<key>hash2</key>
 			<data>
-			PQqqfTyiypNzqzPq8R+zFYdWgHIA3nXV4QW3V9mPaAU=
+			rV1hUoWPL8h1JxnTHE+0iwmDFnDFN1BZLxfVPECKv7U=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-maccatalyst/ReportKit.framework/Versions/A/Headers/RKTextComponentView.h</key>
@@ -3953,11 +3837,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			n7K8JRPGEkllePeGHJ9bPc6ukXM=
+			/qq7kozqByqV8GGso/bDC4qLFBQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			s01t4GMZyLUgio0APzQ8zMQXNIU9klElrXBE+akhdIo=
+			DnFZmjxb0unhzOZ9tree3I5azKO1R4Tep/VlS2xLtUs=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-maccatalyst/ReportKit.framework/Versions/A/Headers/RKTextViewComponentView.h</key>
@@ -3986,11 +3870,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			VlxIX/onQVrJ5emONNbCXvFHV/o=
+			tbjBSU3+1H6rdwEmu08Syi5zY74=
 			</data>
 			<key>hash2</key>
 			<data>
-			iIpMFekgp8g6Q1nw/0A2+6L4RZkyU5tWriYOyGp32cc=
+			9JVHGXQYQIWzaU6v83umTB5gr9HuAj7Z+eA4Iw5lBSg=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-maccatalyst/ReportKit.framework/Versions/A/Headers/RKVerticalLineComponentView.h</key>
@@ -4019,11 +3903,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			eu3mu9Ak2Zbr5ynaKZwpVK68KK8=
+			503MTmbZXhBpeQuwTQgOPdDzlfk=
 			</data>
 			<key>hash2</key>
 			<data>
-			S3Egrm3qGmLIxlDnBdYNaNcjA8NwKzf8bqCbEdleNlU=
+			L4pxwssaLVPVFbb3YaNU4vsNCl+LKzxrXgKlzPgFCbo=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-maccatalyst/ReportKit.framework/Versions/A/Modules/module.modulemap</key>
@@ -4037,15 +3921,136 @@
 			S+CNozEHLDMiX3YX3SSGQT8lofNvvBIHswwUznOIngA=
 			</data>
 		</dict>
+		<key>ios-arm64_x86_64-maccatalyst/ReportKit.framework/Versions/A/PrivateHeaders/RKBarcode+Private.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			W5WAiyatFCgycS/+vlnX7fWPaeM=
+			</data>
+			<key>hash2</key>
+			<data>
+			+5tcQRCDrvXceAOZAFYZRixfnKYhJQVFU7PLyEC1atU=
+			</data>
+		</dict>
+		<key>ios-arm64_x86_64-maccatalyst/ReportKit.framework/Versions/A/PrivateHeaders/RKBarcode.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			khVCaX7R7r2vDDciYWQGXX/37Ww=
+			</data>
+			<key>hash2</key>
+			<data>
+			I9PLaYoOqjArR+1FZVeaC0TUKw5zzDc8Cp3xJSk8q5A=
+			</data>
+		</dict>
+		<key>ios-arm64_x86_64-maccatalyst/ReportKit.framework/Versions/A/PrivateHeaders/RKBooleanValueFormatter.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			fbvjsbyriNuxTdt+MBafTeGu4g8=
+			</data>
+			<key>hash2</key>
+			<data>
+			TyK7CaaaIL/OODWa/3uoBMjIk58JtJNrMGB/oRA4ql8=
+			</data>
+		</dict>
+		<key>ios-arm64_x86_64-maccatalyst/ReportKit.framework/Versions/A/PrivateHeaders/RKColorUtilities.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			8rTE4gMvUFpgrz8JUiiFR/y1xsM=
+			</data>
+			<key>hash2</key>
+			<data>
+			FWz22QrEofqIH6Lm7/bXXpzkcBwB2nx/Qy5E9Lkrfwo=
+			</data>
+		</dict>
+		<key>ios-arm64_x86_64-maccatalyst/ReportKit.framework/Versions/A/PrivateHeaders/RKCurrencySpelledOutValueFormatter.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			CxjWsNxDG+qeBC2BgkfJPeKaBqY=
+			</data>
+			<key>hash2</key>
+			<data>
+			m4nlEbBZo6fddHyW6AmL0AZAY3GF/em59DHCc/U1yyI=
+			</data>
+		</dict>
+		<key>ios-arm64_x86_64-maccatalyst/ReportKit.framework/Versions/A/PrivateHeaders/RKDateTimeValueFormatter.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			UjN10QAUU7xuuEz9QdIhcFsfRew=
+			</data>
+			<key>hash2</key>
+			<data>
+			quvx2IcxhU1eiYM8KTd9d/6jyKEKfEjMrf/S3vggTKU=
+			</data>
+		</dict>
+		<key>ios-arm64_x86_64-maccatalyst/ReportKit.framework/Versions/A/PrivateHeaders/RKIntrospector.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Q2UKdkJPpoZMeMUPKsXdNTic8as=
+			</data>
+			<key>hash2</key>
+			<data>
+			aeNmNu+sLN3TAlVjtjxMgQHJvoJbkvyKppt0O1mb6jk=
+			</data>
+		</dict>
+		<key>ios-arm64_x86_64-maccatalyst/ReportKit.framework/Versions/A/PrivateHeaders/RKLineUtilities.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			3dIdoeoFc6JyipTElPq9wTl/oY4=
+			</data>
+			<key>hash2</key>
+			<data>
+			vNSreX4ZYiceSjAN77p3p+zLyXhQaAYtjMaPaIQo/1c=
+			</data>
+		</dict>
+		<key>ios-arm64_x86_64-maccatalyst/ReportKit.framework/Versions/A/PrivateHeaders/RKNamedColor.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			8lT7Q+66irWrL5yk1TIfQAq1ScM=
+			</data>
+			<key>hash2</key>
+			<data>
+			ssESE0UOQE2Ea9SUqySSbO0IZ4fOnZ8UEbui/wxNWKQ=
+			</data>
+		</dict>
+		<key>ios-arm64_x86_64-maccatalyst/ReportKit.framework/Versions/A/PrivateHeaders/RKNumberValueFormatter.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			dzUALCSUUMZLXYR+JTQnDLDShws=
+			</data>
+			<key>hash2</key>
+			<data>
+			39B/VCWYbeLQUBkVr0GdJbdjTsaS2wblId+FnGvwgW4=
+			</data>
+		</dict>
+		<key>ios-arm64_x86_64-maccatalyst/ReportKit.framework/Versions/A/PrivateHeaders/RKReportBuilderProject.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			HVged6nCP0I/WD/mBDo9dIirrLs=
+			</data>
+			<key>hash2</key>
+			<data>
+			Dmc6hTuis3n5Qkm7vBNkK+v6vq04ghLTpPu9BOGG1SA=
+			</data>
+		</dict>
 		<key>ios-arm64_x86_64-maccatalyst/ReportKit.framework/Versions/A/ReportKit</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			VvFjeSyP6CzcfC/tfZicHWUeccY=
+			obKdqf6KupWeX9s+L73DnfL5lXs=
 			</data>
 			<key>hash2</key>
 			<data>
-			M+OucC1WLXCIRQqG0MOAnWVNiREyAAxpgkpigA+SfLY=
+			WGIZR5ZIyox3b+xnS6cw1TRTOW61qzGnAv3vtNoEawY=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-maccatalyst/ReportKit.framework/Versions/A/Resources/Info.plist</key>
@@ -4145,22 +4150,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			+a/tnlt1p2j3iQ7+iyxhGzwP8c4=
+			qrTFWq62jS5cXvZZ4k+QX59b/8M=
 			</data>
 			<key>hash2</key>
 			<data>
-			KdDIGQteu9UxOS1sLgpQn+boTI7ZSkHqXUuEcHvJSdI=
+			tqNlcjNf7bhQmopaIQGe8QlxTY7pN+5uN/mLNm+fRN8=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/ReportKit.framework/Headers/RKBandTemplate.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			eznESOmtkUFfekWpWP+p7/gTxCw=
+			YzLZYi8FpDnguficC6CIh7jzavU=
 			</data>
 			<key>hash2</key>
 			<data>
-			IBgQ5efSI/Fc7P/h4lAxU+y5lnkYxlhFctkEfq2gv6E=
+			etiqmKFNdXFYe8vvyMbdLSmv60sZLLNTXaWvc+xD2K0=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/ReportKit.framework/Headers/RKBandView.h</key>
@@ -4178,66 +4183,55 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			HJhi8UO84uJzcVe8TZGDfXr+Ybc=
+			ckZccpwZNpzlUGbjW/uRsPSiDAc=
 			</data>
 			<key>hash2</key>
 			<data>
-			LKuDzgtAGkGz5wMexfJVLEfXVIJFmxuSsa6LHfAvtMY=
+			HHrQCqys7XoHrTg34vgQrhfpzw0FtLzcEji+q3tCCEg=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/ReportKit.framework/Headers/RKBarChartComponentView.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			RgacQbn1LHK51SEeng4nYH5E8og=
+			7h4UDiF0V0blFt5F41B3g+S6Gz8=
 			</data>
 			<key>hash2</key>
 			<data>
-			xVqngLiDxdyoOxEyoHNpvQXkT811IkBJc1GP/n9hiIs=
+			coUqwO4+E1p4l+N9I8ASlO6FPIJpZ7bSuS40JQRH3z4=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/ReportKit.framework/Headers/RKBarLineChartComponentTemplate.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Rx4/GkV7DEVjAEK/p6ekcJpGEzw=
+			4/gl3uc/Yf1Sc7mnRttCIijecks=
 			</data>
 			<key>hash2</key>
 			<data>
-			qmp/ORr75oIHR1YIpw1qZME7iRPRWLlvqn7aw8c7A0g=
+			TeEWycjJ+enSKDhF0xkKHHVaghaIQwQ3GsfWCKqujSE=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/ReportKit.framework/Headers/RKBarLineChartComponentView.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			WnTgpaFCDO/V/hO9swNqAuNcbu4=
+			PP6V3ogz4E7eUHoDvmjpKcBQwkc=
 			</data>
 			<key>hash2</key>
 			<data>
-			TFPviKHw1Sp+b/6T/osFC21HLPRmRcQRNwoKyA6ESmk=
-			</data>
-		</dict>
-		<key>ios-arm64_x86_64-simulator/ReportKit.framework/Headers/RKBarcode.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			BhqWQtSuJ66M1g5cgUOwa8fX0Vk=
-			</data>
-			<key>hash2</key>
-			<data>
-			/n0knyNadrQC32NKgIJ+rHuns/TX7J1fV2YTUiMWtZY=
+			4karr3TxzXJxU7Uz60ViK2Rny3h/OCUvAKjZzaQs9DI=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/ReportKit.framework/Headers/RKBarcodeComponentTemplate.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			K6W+F3T+oI1ZOEpq0Me1pGogk4g=
+			AbsoIIo1RXmdmw6rnlZR9Ucw5pU=
 			</data>
 			<key>hash2</key>
 			<data>
-			F2w+DEt6swSXSfKKgx4au4j8BbSxuSykK2p0WCeVOrs=
+			Twjnh3o/N4hxaDT6PIaUYjw9HqVEtdU4n3vJbkJsiz8=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/ReportKit.framework/Headers/RKBarcodeComponentView.h</key>
@@ -4255,44 +4249,44 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			kJhvwrFb0jkEXkEgqydSDFi0bjk=
+			Pzd0Dyr6X0EMrbmiT1yh7H80snM=
 			</data>
 			<key>hash2</key>
 			<data>
-			11AqFGmzso8idXQWO4lhgrk6neYmlW4v7umpAc1bISw=
+			nhtk+5k9cFAxt32pPhEFCxJcmrdvLRyJoOImqHuG+sI=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/ReportKit.framework/Headers/RKBasicChartComponentTemplate.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Slrxu1IUZEOOagKuMshHlbM4aUo=
+			av3xA1WBuqh08rRAxrF3q0HeW80=
 			</data>
 			<key>hash2</key>
 			<data>
-			ecPYIZGmdqHsGuGYVY/yaB8CkRcWPtPyJULuc2qbmLI=
+			LJ24N9NVlwHVZ71HoFCwNDlCy3EGH7E14RKpvKKpnoA=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/ReportKit.framework/Headers/RKBasicXYAxisChartComponentTemplate.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			FTBAV3rdWyk6Eq9DD1GqK+L5YYY=
+			LBUBYkXDmuGdGVuckZ9IPC8fDVY=
 			</data>
 			<key>hash2</key>
 			<data>
-			vZZyX48vzQjb3G5QlA/J1WiCQ2djtghju3HAhibCt5E=
+			gIapnF/24g0C7l3UcXyUD8oVNR2fZ5ia7ZgAuQoKMSY=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/ReportKit.framework/Headers/RKBasicXYAxisChartComponentView.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			MJI3d7GY91SeELOnstlFFKGPaLo=
+			CKo/oA1npbIBmu7bjBL8XJMOrUE=
 			</data>
 			<key>hash2</key>
 			<data>
-			s40FMp7YCGS9mIxrsG7c5ASbUdvew4LntgA0yUM1ABo=
+			D6uqsXn2U91nWIkr+ewzznUFKweJ+cJaFoCs8xIdBys=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/ReportKit.framework/Headers/RKBezierPath+ReportKit.h</key>
@@ -4306,59 +4300,48 @@
 			Kf+/UODmiN4x05mRwoSrdwHNcZ6PUgrsTGsoXcoZGF8=
 			</data>
 		</dict>
-		<key>ios-arm64_x86_64-simulator/ReportKit.framework/Headers/RKBooleanValueFormatter.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			wIjHnXXtsgkL59SJ/Ab0jr8BFLA=
-			</data>
-			<key>hash2</key>
-			<data>
-			ijl50n2CSEO6ZdMQzNv/4BnUI0J77cKC7wo2EOf2U9M=
-			</data>
-		</dict>
 		<key>ios-arm64_x86_64-simulator/ReportKit.framework/Headers/RKBubbleChartComponentTemplate.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			cOJiNSTFCB1XqUFni/uViRTvj0E=
+			7VUPR80JAsrUQVjS9JDs3DZsPDo=
 			</data>
 			<key>hash2</key>
 			<data>
-			Gi21AphjET6BufgmsfQEAAOkoSnIneRD6VnB5nGtKXY=
+			otSEToVA1Q6UZ2+6PTJEQCKBTLLAbYu1MHlNLyaMOCw=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/ReportKit.framework/Headers/RKBubbleChartComponentView.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			d09fMxGyRPPWqUTSU22tZTuwVmU=
+			ukFvzyz58Q/dMh0HxuSRoWDJGl8=
 			</data>
 			<key>hash2</key>
 			<data>
-			oI0bnyMLUyDBJs3oEUnEZe5Qkkh+j+074TQk2ZnRI9o=
+			fmz5gE2LmUUAh2EJxH4T1p/nOTcb/7VZlgfbc8Pmtqg=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/ReportKit.framework/Headers/RKCandleChartComponentTemplate.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			pzhuafCMxsOszaaPiwL/8ZcluiM=
+			e4QfswToESlXXtJwCSFMrdMEaEs=
 			</data>
 			<key>hash2</key>
 			<data>
-			TD01tfe2GMwMXMxdM8Mh8Yn7V63wZT8mT/9zFdSeU2E=
+			xTwr1uK9fOxizEBceQkTOrgl8UGjPmDXZsNhTLd1fi8=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/ReportKit.framework/Headers/RKCandleChartComponentView.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			jRjxeCScMGnVzU8Su0nmH3cQT+8=
+			DGdnsi1czmRdDUS4Mcdvg3VJqqg=
 			</data>
 			<key>hash2</key>
 			<data>
-			R3WVS45rAuoUScj0EkHUFfmXoQEb/+qNJu4mNNNu/fY=
+			WICOFR7Ei5NVZIfUlXL2yFXtLdnkoXszYbywLoHwgfI=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/ReportKit.framework/Headers/RKChartAxisValueFormatter.h</key>
@@ -4376,33 +4359,33 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			O95PX1AZ82Xo829Jn+Mq70jG0UM=
+			doqpE5hiEo/2+Zx53i/hJZQsXfM=
 			</data>
 			<key>hash2</key>
 			<data>
-			Pormj144cd3m5adeRvwX4T8OyYQOTDaGgcs0U3CoSnc=
+			1Ho7ROhwGB2B5cKRG4p2jy0RpCfbEICxQ//3cyJVi/Q=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/ReportKit.framework/Headers/RKChartComponentView.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			GNqyJVTR0OtF5lYrKBf+LJp7ai4=
+			IbhdY229MCsw6lT7gC4LnY8anPQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			a3LARJqjpijHOkqvawHzcFwQ5KLMTBWzF9P9uVTqUN8=
+			Igt/4rsaXTXrvIStbON/fxIZ01GQDulOWREsUOviAUw=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/ReportKit.framework/Headers/RKChartDataSetTemplate.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			auOF8k/j2GGZHH2cnfHYdmEeyIw=
+			uhLAHNZ4OaGUezKN8sa2Xkmb3rw=
 			</data>
 			<key>hash2</key>
 			<data>
-			PoBLUfxMhvtarrxKU38cx5Bi2LkO4MvaFZG5t7CM00s=
+			vxKeTqb+y2GXA7Bui0nehY/YH4y0ru3a0C2x0YKiE7g=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/ReportKit.framework/Headers/RKChartValueFormatter.h</key>
@@ -4427,26 +4410,15 @@
 			QpqDeHHiwUIXCD61sE/ttjLKApCvZCmghyHfWCw99SA=
 			</data>
 		</dict>
-		<key>ios-arm64_x86_64-simulator/ReportKit.framework/Headers/RKColorUtilities.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			8rTE4gMvUFpgrz8JUiiFR/y1xsM=
-			</data>
-			<key>hash2</key>
-			<data>
-			FWz22QrEofqIH6Lm7/bXXpzkcBwB2nx/Qy5E9Lkrfwo=
-			</data>
-		</dict>
 		<key>ios-arm64_x86_64-simulator/ReportKit.framework/Headers/RKCombinedChartComponentTemplate.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			FWje9Yox4OM3k14LynzRa6frcPo=
+			wQpYF87itBURbYo+6HBI153kNlM=
 			</data>
 			<key>hash2</key>
 			<data>
-			TQ0x9/GSkfRJCIrKvuoL9XDAc50m49lneNFdQCaElHM=
+			aif8eADi6xc3X0rXq9NFCG9eTv9U7ByBxEMsF/8A8Hs=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/ReportKit.framework/Headers/RKComponent.h</key>
@@ -4464,11 +4436,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			3xTLrsepv6JVNxMhWdRLLSypzlU=
+			FiF6te4uDLJ3PFul1eL4yrt8X/Q=
 			</data>
 			<key>hash2</key>
 			<data>
-			2/gaOBkZpQ9z1It5eJjczxOREEeeJC9l28nAvB2spHc=
+			ish047NlfPTtt0joW8sVr0FM1NlsQa4Bc4xl6nHx+bU=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/ReportKit.framework/Headers/RKComponentView.h</key>
@@ -4482,70 +4454,59 @@
 			IvaWzORkKPZ7gu+av4oNTbuRn3Lt8sVVTEYVfKCCxbA=
 			</data>
 		</dict>
-		<key>ios-arm64_x86_64-simulator/ReportKit.framework/Headers/RKCurrencySpelledOutValueFormatter.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			CxjWsNxDG+qeBC2BgkfJPeKaBqY=
-			</data>
-			<key>hash2</key>
-			<data>
-			m4nlEbBZo6fddHyW6AmL0AZAY3GF/em59DHCc/U1yyI=
-			</data>
-		</dict>
 		<key>ios-arm64_x86_64-simulator/ReportKit.framework/Headers/RKCustomComponentView.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			piDLqE7M9T2dw9wzuNssX6DgsfM=
+			NqX6CEclOR+fANRGRwhMfgabXPw=
 			</data>
 			<key>hash2</key>
 			<data>
-			5VKl92GCHoF5Hmu1vaMWD1LAXJzYllkpIt4X4u6Lwaw=
+			sss4VANGtfZuie60thnxRPulQ9AquBbSIOJlEqWJgHU=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/ReportKit.framework/Headers/RKCustomViewComponentTemplate.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			q4+i1DI7UjTOkCbGCXtoIEoZwUs=
+			QT0OFLonJxYN9s0H//dN8YQ6yeQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			xPSKV4aqi6oPNTY2YBaBofmQ5+WdgT+KfyKzFFOwl7k=
+			/e3tVshPoQmqrVvgMGx4N36S59XoPj/VbOHDfCkzgVc=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/ReportKit.framework/Headers/RKDataAwareComponentTemplate.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			PzEcDKWmGi6tJRSCs8mkv4A5Di4=
+			Sf6MHkMXi9y88l0HDOMyhsweUiM=
 			</data>
 			<key>hash2</key>
 			<data>
-			PtCwXTk1eyBTlf4Os1fEzF1nU9RuXliVgsZRMfVtCpU=
+			UMJT/7/ei/XiktaIESmeA/KR5S6UExtDepGJ6HfUjNg=
 			</data>
 		</dict>
-		<key>ios-arm64_x86_64-simulator/ReportKit.framework/Headers/RKDateTimeValueFormatter.h</key>
+		<key>ios-arm64_x86_64-simulator/ReportKit.framework/Headers/RKDocumentAttributes.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			UjN10QAUU7xuuEz9QdIhcFsfRew=
+			eke1YgarrtpJYH5gY9KnVdvY068=
 			</data>
 			<key>hash2</key>
 			<data>
-			quvx2IcxhU1eiYM8KTd9d/6jyKEKfEjMrf/S3vggTKU=
+			oD4V/E1r8m2toVyfoPzQ5tR21AUxvkvZGxqqOaTGA1A=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/ReportKit.framework/Headers/RKExpandableTextComponentView.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			EHUkvrq1sT2JEGQXYf7vp9ffMao=
+			jibRa5qUh3MZnAugvTJucoBklRE=
 			</data>
 			<key>hash2</key>
 			<data>
-			toz6FEEIUA6rxnt/nEwXRLmFNyh12f2lNsOYf+BS7Hk=
+			cOxhjn8GvVZEgvUrbsf12J1cLqhxrVWvglC4vr8gark=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/ReportKit.framework/Headers/RKFontInformation.h</key>
@@ -4557,17 +4518,6 @@
 			<key>hash2</key>
 			<data>
 			3zsi68wvXICjqfPbGaRBKz7xqfKc5NYH9svg05XXSi8=
-			</data>
-		</dict>
-		<key>ios-arm64_x86_64-simulator/ReportKit.framework/Headers/RKGlobalDefinitions.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			4VDp2DEFlblGg85Cmu/TpQ9FL24=
-			</data>
-			<key>hash2</key>
-			<data>
-			q+orerplV/jdqX+mWh466xHxxDVK7vSRgImi/eZhJoc=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/ReportKit.framework/Headers/RKGroupIdentifier.h</key>
@@ -4596,22 +4546,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			aFoTetHy/1jAS92wYSP85OfEJ6I=
+			HMtkVgxl2opHx8C1j7WpmBxCrek=
 			</data>
 			<key>hash2</key>
 			<data>
-			DeEVqflyHrHKHElTC89EClSHbT3re6j6SvAz7V4vBqo=
+			HyteMHBi2FqG8JOt1PgvGHuZ07imSvO12wUAaxQPL+4=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/ReportKit.framework/Headers/RKHorizontalLineComponentTemplate.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			2XWxgN53fArqH4AaWI7Hz73XVf0=
+			aU4ZmnNafk+0I/jDjapImxqNcp4=
 			</data>
 			<key>hash2</key>
 			<data>
-			albX9P+HBrshkwLb+8FhhhrZ7nzUb/9TVA1LWPvJDxI=
+			4L22MrBk8ajdJyybY5OadtJ4bjh+BdXaueFm02RvxqE=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/ReportKit.framework/Headers/RKHorizontalLineComponentView.h</key>
@@ -4629,11 +4579,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			MWF/f0DB3+HChlSj1O7WA21wFms=
+			p+jMrqvK9xo3YN2i2tz2A3j6dUg=
 			</data>
 			<key>hash2</key>
 			<data>
-			MAU6NeeyNOxLQhZaeceLYw14kanGu2aQWunVYhiIsUQ=
+			CaQUe1qislxtPgxCcVL9mLF0NAYL9AB2xBNGPg/mBOA=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/ReportKit.framework/Headers/RKImageComponentView.h</key>
@@ -4647,92 +4597,48 @@
 			5tPNUC2FjNMJVEEFQVQd8IHGa9Pvh1ncE+4wdlMcDkQ=
 			</data>
 		</dict>
-		<key>ios-arm64_x86_64-simulator/ReportKit.framework/Headers/RKIntrospector.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			Q2UKdkJPpoZMeMUPKsXdNTic8as=
-			</data>
-			<key>hash2</key>
-			<data>
-			aeNmNu+sLN3TAlVjtjxMgQHJvoJbkvyKppt0O1mb6jk=
-			</data>
-		</dict>
 		<key>ios-arm64_x86_64-simulator/ReportKit.framework/Headers/RKLineChartComponentTemplate.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			2JOdGy+zE8+2B7xkKY3nabcqLDg=
+			go1Apa7COLWHaVSHVXIUmeF7HpI=
 			</data>
 			<key>hash2</key>
 			<data>
-			zC0kaWFHZIfhNRVSFyfX4JQ1BRik1p0T5S6qNufThvs=
+			B8J2QhV/4U0yKLVv27KUa1SEF+6iV9qRPw3RdYCXTU8=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/ReportKit.framework/Headers/RKLineChartComponentView.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			DznHb+vXE/vb47ztt16ai20CE2c=
+			aKfHZ8ffXIbp1+0vLSxWy0jiWZ4=
 			</data>
 			<key>hash2</key>
 			<data>
-			ldolBWgG3TsCKHiL/T6qDeruR5oqnVcg1zvCCgmUVjE=
-			</data>
-		</dict>
-		<key>ios-arm64_x86_64-simulator/ReportKit.framework/Headers/RKLineUtilities.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			3dIdoeoFc6JyipTElPq9wTl/oY4=
-			</data>
-			<key>hash2</key>
-			<data>
-			vNSreX4ZYiceSjAN77p3p+zLyXhQaAYtjMaPaIQo/1c=
-			</data>
-		</dict>
-		<key>ios-arm64_x86_64-simulator/ReportKit.framework/Headers/RKNamedColor.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			8lT7Q+66irWrL5yk1TIfQAq1ScM=
-			</data>
-			<key>hash2</key>
-			<data>
-			ssESE0UOQE2Ea9SUqySSbO0IZ4fOnZ8UEbui/wxNWKQ=
+			UmwWNh0mE01c+HsQnW3bzIjTfyP1Lr2LXESPvGkbR+Q=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/ReportKit.framework/Headers/RKNegativeBarChartComponentTemplate.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			IJ1luOeHnp9Dcqs+b5ciKpSaRIk=
+			pVPDxWE1zPbvPkKq4n95NebinEk=
 			</data>
 			<key>hash2</key>
 			<data>
-			LMH2IWQe5TIqNoFBxejFH7AEKvNB+B+Soslht9LodcI=
-			</data>
-		</dict>
-		<key>ios-arm64_x86_64-simulator/ReportKit.framework/Headers/RKNumberValueFormatter.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			dzUALCSUUMZLXYR+JTQnDLDShws=
-			</data>
-			<key>hash2</key>
-			<data>
-			39B/VCWYbeLQUBkVr0GdJbdjTsaS2wblId+FnGvwgW4=
+			2PXCxMyh9BQeszrOhGh2THLr4UZdA3glfHXEmYMsOFQ=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/ReportKit.framework/Headers/RKOvalComponentTemplate.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			UBkiTsFq3y4b6sIfR0Rp5QnqoEI=
+			RmKzYHQWgVqNGI7As4cRY5XuOXQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			KAUcRhVEB411jfwokbnHZJ2hRqprLkttrSzCuw1X35I=
+			ZkmfkKIHr6V8FW8QkjjFYuw6XZcL6Sie1R3SdJuk6f8=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/ReportKit.framework/Headers/RKOvalComponentView.h</key>
@@ -4761,11 +4667,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			3U7xJz1DZFtfEUTH7Bvl0lt3ShU=
+			Abx1CU/mp1Fqw3tIUY1C/MmNB/s=
 			</data>
 			<key>hash2</key>
 			<data>
-			i7Tyssi/BjCrCtIz5osTZHJXNK8zEkcVemQpd53f4vA=
+			kve8WlDoZtMAYPEcQwg5EMwzv/lyrHj/0kpsViyay9E=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/ReportKit.framework/Headers/RKPageView.h</key>
@@ -4794,77 +4700,77 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			70UUJ1cpiLKCsF3j3kRViKStEZQ=
+			i6NqknasiGzwNx4QR9M7gILg+tA=
 			</data>
 			<key>hash2</key>
 			<data>
-			OFQJG9dSwz13P0v9hKFuBbEbz+O+a/PdCrZKW7OMZAQ=
+			n5a1BmSFOLjYNc3X+79gRClFTMbs7MgWNZTrl9CRhiU=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/ReportKit.framework/Headers/RKPieChartComponentView.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			OqBVJKMZqa6YbWqI/xTL+UyMduc=
+			aacxJSqwOn6UEmQ1WT03lOZ2xg4=
 			</data>
 			<key>hash2</key>
 			<data>
-			qdNwr/DOhOvclVHk4a8mbiMFqONKdtHHOBqrUjK8dYA=
+			wRDN0ljSUQLSEyilfp5H1OMq0RpzSQqJja+Om9DMqzA=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/ReportKit.framework/Headers/RKPieRadarChartComponentTemplate.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			LO2kOT1+TmwybwUDCQXQcuR5GFA=
+			J5jVI1EyccEgTlw4I3ujvGnXOuM=
 			</data>
 			<key>hash2</key>
 			<data>
-			OLjR0pOxZZ9bLEsfjMM+C63sqCZEEdMYDOSF5+eFZTU=
+			DmukC0O/HRNiVn3L9QRtu8Tj8d1My9tWsHefXOHMSzo=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/ReportKit.framework/Headers/RKPieRadarComponentView.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			01ypXApy1AvR2L6LGwsJSpIN+DQ=
+			OZr3EVRUU0NCKreWDl72hLjQW5w=
 			</data>
 			<key>hash2</key>
 			<data>
-			IWPI3Ug0whyE7HeXtywvoFz7jmVqUmAJk5HPZhMVhy8=
+			t/Zp0tMh8neJO/aFIrIBykaLQq2Z9p5Ur8Yxayb5fAM=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/ReportKit.framework/Headers/RKRadarChartComponentTemplate.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			QwJEb4/kChE2psfgHbjEKTkDmU4=
+			gy8LmCRKlfc+qxFnNakK/geaSIE=
 			</data>
 			<key>hash2</key>
 			<data>
-			jGXinfWduB1H4gW0qZ1hsFzrQGi1LanUd8POT+GEx24=
+			b0VwmWA6v3uGPX8b825xwZUwVVo/4SaZ6+h3+GAY/9U=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/ReportKit.framework/Headers/RKRadarChartComponentView.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			tXmXwdWExlCg2VGEaZT/ipqupcw=
+			L5+SvPW46a25wWTdZKq9du3mJFw=
 			</data>
 			<key>hash2</key>
 			<data>
-			48T7GLJKn0XsnN2JJtIcNahbpxci6WL8kx0XPi4ui2A=
+			QIPLRLwd02QmQn7MSV+m9SqfVCAttAP4jP8UgOY2TZw=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/ReportKit.framework/Headers/RKRectangleComponentTemplate.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Pf1Yg9/ZFVvRVrwd2TcPTe8iXcY=
+			KFvohBUJH/w/Z4GBZ/qnCRLD19M=
 			</data>
 			<key>hash2</key>
 			<data>
-			1BByIZjchGndCGRuxZxQvr4HU8cWVKT0tVdyztBTzoo=
+			ek4XIOoq3Rru9/y3qmm/zR9BIodJNQ1D9qfZNAsra+Y=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/ReportKit.framework/Headers/RKRectangleComponentView.h</key>
@@ -4882,22 +4788,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			oIsD9Qldw6oRSsLAtoEZ5qpdt7I=
+			Y/QOZeuITDb5mRmXiJbm9N99lWY=
 			</data>
 			<key>hash2</key>
 			<data>
-			fjpJmDdvMeX66JfTImxa9XK8cs3LhaL7BfZNUUHGXk8=
-			</data>
-		</dict>
-		<key>ios-arm64_x86_64-simulator/ReportKit.framework/Headers/RKReportBuilderProject.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			HVged6nCP0I/WD/mBDo9dIirrLs=
-			</data>
-			<key>hash2</key>
-			<data>
-			Dmc6hTuis3n5Qkm7vBNkK+v6vq04ghLTpPu9BOGG1SA=
+			0m2sVp+GUENNpzqhT4KoMigS12Xy5C9Z8LOfvztZTyg=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/ReportKit.framework/Headers/RKReportBuilderProjectModel.h</key>
@@ -4915,11 +4810,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			RvA2T2cmtbzCtrRkcYxjBxfv44I=
+			Gbm6kMmZirlRisJS5Bd5cdKZTNc=
 			</data>
 			<key>hash2</key>
 			<data>
-			N5FFERVu1wVwVRUhsBfO5GdTms0lKTds3L0AXs9DDU0=
+			m9MkwwVYSDYDXNDZNe4YCF+6IJ0FycA7s/PBtQN2YXY=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/ReportKit.framework/Headers/RKReportDataSource.h</key>
@@ -4959,11 +4854,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			7cQCIrAWaQbMVphUhp3iMg+TV+4=
+			nnZp/0ef2TzUjAZWE3r7fTc6FZU=
 			</data>
 			<key>hash2</key>
 			<data>
-			GeC00rWkpFcj4oyR+mPmot34NKbsJ7Ahq/4LfCenams=
+			4eKjPkAk4BQm1a/ncZuJGk5aWhsx8vxcL7GeBEjaNCI=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/ReportKit.framework/Headers/RKReportMessage.h</key>
@@ -4977,26 +4872,15 @@
 			dn90tqU2MzVm7kc2/gofxuX6uA/2PQxoMh2y8b6NxX4=
 			</data>
 		</dict>
-		<key>ios-arm64_x86_64-simulator/ReportKit.framework/Headers/RKReportProperties.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			mUnXql+pxvlgw35ABTKUVbPdbQE=
-			</data>
-			<key>hash2</key>
-			<data>
-			Dhz2bQeNFAKi+soImYqgD9qnE7n7RRbzouHTN3W/FFY=
-			</data>
-		</dict>
 		<key>ios-arm64_x86_64-simulator/ReportKit.framework/Headers/RKRotatedTextComponentTemplate.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Lk1N2MzCBbehNuwd8Z44lASAhK8=
+			bcIgdIGsnJC7s2/U3JD/qFzvx6c=
 			</data>
 			<key>hash2</key>
 			<data>
-			aMkmT68m2sh+QduB205F2ibKcAxpRwC0fULbh8+0xvI=
+			23BGn8MnGUBjh4y7ITSqQ1WKzdPOMmDZzvkoAt4smwU=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/ReportKit.framework/Headers/RKRotatedTextComponentView.h</key>
@@ -5014,33 +4898,33 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			URZlRupimw/FDghos7dpOSZKHBI=
+			Get9DN3cMP//Jm+J0PIFLIiX8xk=
 			</data>
 			<key>hash2</key>
 			<data>
-			Xzl1bJBo6uQ7ujZzAdDkYenEeQoXZ47N/NHnwCvs1v4=
+			D+UFl+jQCT2tL7OU9bFx5qAjdX6rJqzasYtpyqsuepU=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/ReportKit.framework/Headers/RKScatterChartComponentView.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			joBZ2ApD0JLXfjd5HKyB0z0y968=
+			Lam8AotXBqnHC6FBQLSVAmIocrM=
 			</data>
 			<key>hash2</key>
 			<data>
-			4GeAlih/f0F3onAojQL5+yDYMrbmzNFDxblPEw71kcc=
+			WyePlpvkoqdDJIzA5Zi9z6zJCgi4MEo/+E88uL14IXs=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/ReportKit.framework/Headers/RKShapeComponentTemplate.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			OZAhdu314HPPBry07yOmWbBLZn0=
+			oRNM7VYH80KK07u5AGP/Hsua7ss=
 			</data>
 			<key>hash2</key>
 			<data>
-			MJ6MstdcNQRAFFzlIKeJyJQxisfB/A68crdSBgV2QdY=
+			7W+XIX0XPn33+EgpTiBWqUNxLVxCNPpX9fGPPTaWJL0=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/ReportKit.framework/Headers/RKShapeComponentView.h</key>
@@ -5058,11 +4942,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			lx9QT3SJdh/4gFjjYhRbNyMCirw=
+			fbzAWGjDtVds9/Dod0+e0apTJbE=
 			</data>
 			<key>hash2</key>
 			<data>
-			VI1oc3xE9s285s9q41VB2IutX0vwWagzaOAZOKFD74E=
+			uhoIlKLf/l67PFz0ugcAVh+xfYAP6U66C8D46r6QJnE=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/ReportKit.framework/Headers/RKSubreportComponentView.h</key>
@@ -5080,11 +4964,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			fF9vjKFXhKqXnkTYgxCnc0zOREk=
+			a63j/a+j+vy8I6NDwATyDe9/VMo=
 			</data>
 			<key>hash2</key>
 			<data>
-			xdu2zpo8F/7QXYPsmFCLQloxBaR3S4byNNj3HLXvHnc=
+			KL2CEbiO8a2erq5+67Sf+mlVw9bz+42Zl8hfvTC2BAg=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/ReportKit.framework/Headers/RKSystemTextComponentView.h</key>
@@ -5102,11 +4986,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			xBmOw2HHSyi9PrWJ+KoOFRzX/z4=
+			bsKsJ9XwwelbmSdQHndQM8ygbD8=
 			</data>
 			<key>hash2</key>
 			<data>
-			PQqqfTyiypNzqzPq8R+zFYdWgHIA3nXV4QW3V9mPaAU=
+			rV1hUoWPL8h1JxnTHE+0iwmDFnDFN1BZLxfVPECKv7U=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/ReportKit.framework/Headers/RKTextComponentView.h</key>
@@ -5124,11 +5008,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			n7K8JRPGEkllePeGHJ9bPc6ukXM=
+			/qq7kozqByqV8GGso/bDC4qLFBQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			s01t4GMZyLUgio0APzQ8zMQXNIU9klElrXBE+akhdIo=
+			DnFZmjxb0unhzOZ9tree3I5azKO1R4Tep/VlS2xLtUs=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/ReportKit.framework/Headers/RKTextViewComponentView.h</key>
@@ -5157,11 +5041,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			VlxIX/onQVrJ5emONNbCXvFHV/o=
+			tbjBSU3+1H6rdwEmu08Syi5zY74=
 			</data>
 			<key>hash2</key>
 			<data>
-			iIpMFekgp8g6Q1nw/0A2+6L4RZkyU5tWriYOyGp32cc=
+			9JVHGXQYQIWzaU6v83umTB5gr9HuAj7Z+eA4Iw5lBSg=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/ReportKit.framework/Headers/RKVerticalLineComponentView.h</key>
@@ -5190,11 +5074,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			eu3mu9Ak2Zbr5ynaKZwpVK68KK8=
+			503MTmbZXhBpeQuwTQgOPdDzlfk=
 			</data>
 			<key>hash2</key>
 			<data>
-			S3Egrm3qGmLIxlDnBdYNaNcjA8NwKzf8bqCbEdleNlU=
+			L4pxwssaLVPVFbb3YaNU4vsNCl+LKzxrXgKlzPgFCbo=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/ReportKit.framework/Info.plist</key>
@@ -5219,26 +5103,147 @@
 			S+CNozEHLDMiX3YX3SSGQT8lofNvvBIHswwUznOIngA=
 			</data>
 		</dict>
+		<key>ios-arm64_x86_64-simulator/ReportKit.framework/PrivateHeaders/RKBarcode+Private.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			W5WAiyatFCgycS/+vlnX7fWPaeM=
+			</data>
+			<key>hash2</key>
+			<data>
+			+5tcQRCDrvXceAOZAFYZRixfnKYhJQVFU7PLyEC1atU=
+			</data>
+		</dict>
+		<key>ios-arm64_x86_64-simulator/ReportKit.framework/PrivateHeaders/RKBarcode.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			khVCaX7R7r2vDDciYWQGXX/37Ww=
+			</data>
+			<key>hash2</key>
+			<data>
+			I9PLaYoOqjArR+1FZVeaC0TUKw5zzDc8Cp3xJSk8q5A=
+			</data>
+		</dict>
+		<key>ios-arm64_x86_64-simulator/ReportKit.framework/PrivateHeaders/RKBooleanValueFormatter.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			fbvjsbyriNuxTdt+MBafTeGu4g8=
+			</data>
+			<key>hash2</key>
+			<data>
+			TyK7CaaaIL/OODWa/3uoBMjIk58JtJNrMGB/oRA4ql8=
+			</data>
+		</dict>
+		<key>ios-arm64_x86_64-simulator/ReportKit.framework/PrivateHeaders/RKColorUtilities.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			8rTE4gMvUFpgrz8JUiiFR/y1xsM=
+			</data>
+			<key>hash2</key>
+			<data>
+			FWz22QrEofqIH6Lm7/bXXpzkcBwB2nx/Qy5E9Lkrfwo=
+			</data>
+		</dict>
+		<key>ios-arm64_x86_64-simulator/ReportKit.framework/PrivateHeaders/RKCurrencySpelledOutValueFormatter.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			CxjWsNxDG+qeBC2BgkfJPeKaBqY=
+			</data>
+			<key>hash2</key>
+			<data>
+			m4nlEbBZo6fddHyW6AmL0AZAY3GF/em59DHCc/U1yyI=
+			</data>
+		</dict>
+		<key>ios-arm64_x86_64-simulator/ReportKit.framework/PrivateHeaders/RKDateTimeValueFormatter.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			UjN10QAUU7xuuEz9QdIhcFsfRew=
+			</data>
+			<key>hash2</key>
+			<data>
+			quvx2IcxhU1eiYM8KTd9d/6jyKEKfEjMrf/S3vggTKU=
+			</data>
+		</dict>
+		<key>ios-arm64_x86_64-simulator/ReportKit.framework/PrivateHeaders/RKIntrospector.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Q2UKdkJPpoZMeMUPKsXdNTic8as=
+			</data>
+			<key>hash2</key>
+			<data>
+			aeNmNu+sLN3TAlVjtjxMgQHJvoJbkvyKppt0O1mb6jk=
+			</data>
+		</dict>
+		<key>ios-arm64_x86_64-simulator/ReportKit.framework/PrivateHeaders/RKLineUtilities.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			3dIdoeoFc6JyipTElPq9wTl/oY4=
+			</data>
+			<key>hash2</key>
+			<data>
+			vNSreX4ZYiceSjAN77p3p+zLyXhQaAYtjMaPaIQo/1c=
+			</data>
+		</dict>
+		<key>ios-arm64_x86_64-simulator/ReportKit.framework/PrivateHeaders/RKNamedColor.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			8lT7Q+66irWrL5yk1TIfQAq1ScM=
+			</data>
+			<key>hash2</key>
+			<data>
+			ssESE0UOQE2Ea9SUqySSbO0IZ4fOnZ8UEbui/wxNWKQ=
+			</data>
+		</dict>
+		<key>ios-arm64_x86_64-simulator/ReportKit.framework/PrivateHeaders/RKNumberValueFormatter.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			dzUALCSUUMZLXYR+JTQnDLDShws=
+			</data>
+			<key>hash2</key>
+			<data>
+			39B/VCWYbeLQUBkVr0GdJbdjTsaS2wblId+FnGvwgW4=
+			</data>
+		</dict>
+		<key>ios-arm64_x86_64-simulator/ReportKit.framework/PrivateHeaders/RKReportBuilderProject.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			HVged6nCP0I/WD/mBDo9dIirrLs=
+			</data>
+			<key>hash2</key>
+			<data>
+			Dmc6hTuis3n5Qkm7vBNkK+v6vq04ghLTpPu9BOGG1SA=
+			</data>
+		</dict>
 		<key>ios-arm64_x86_64-simulator/ReportKit.framework/ReportKit</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			3N3GMncUmPOC2PEuCTjZoVWs0hk=
+			0W/mnVcyNnAwk1dJtyyA+u0kc+E=
 			</data>
 			<key>hash2</key>
 			<data>
-			3nRfh26VwhFZptAbiDBSbnB91CQ2rGveB2MF09hKb2M=
+			ymxZYsPvsvr98DEJXNVJ7MuF5H8Qhbx464w+U4mpmk8=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/ReportKit.framework/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			bSspmxfbc9xZMB++z7jb8TTaKQs=
+			HiPZejRTSkyj/fJwJ3L/efky7LU=
 			</data>
 			<key>hash2</key>
 			<data>
-			Z9gbCHamqLLTbdH6r/r24TA7FzkJwzq2etr2AxF9bwI=
+			/OZjJ1eRARBWYqkBUFOKyvTejh6V+sQRW4HW7wkVt+s=
 			</data>
 		</dict>
 		<key>macos-arm64_x86_64/ReportKit.framework/Headers</key>
@@ -5250,6 +5255,11 @@
 		<dict>
 			<key>symlink</key>
 			<string>Versions/Current/Modules</string>
+		</dict>
+		<key>macos-arm64_x86_64/ReportKit.framework/PrivateHeaders</key>
+		<dict>
+			<key>symlink</key>
+			<string>Versions/Current/PrivateHeaders</string>
 		</dict>
 		<key>macos-arm64_x86_64/ReportKit.framework/ReportKit</key>
 		<dict>
@@ -5342,22 +5352,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			+a/tnlt1p2j3iQ7+iyxhGzwP8c4=
+			qrTFWq62jS5cXvZZ4k+QX59b/8M=
 			</data>
 			<key>hash2</key>
 			<data>
-			KdDIGQteu9UxOS1sLgpQn+boTI7ZSkHqXUuEcHvJSdI=
+			tqNlcjNf7bhQmopaIQGe8QlxTY7pN+5uN/mLNm+fRN8=
 			</data>
 		</dict>
 		<key>macos-arm64_x86_64/ReportKit.framework/Versions/A/Headers/RKBandTemplate.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			eznESOmtkUFfekWpWP+p7/gTxCw=
+			YzLZYi8FpDnguficC6CIh7jzavU=
 			</data>
 			<key>hash2</key>
 			<data>
-			IBgQ5efSI/Fc7P/h4lAxU+y5lnkYxlhFctkEfq2gv6E=
+			etiqmKFNdXFYe8vvyMbdLSmv60sZLLNTXaWvc+xD2K0=
 			</data>
 		</dict>
 		<key>macos-arm64_x86_64/ReportKit.framework/Versions/A/Headers/RKBandView.h</key>
@@ -5375,66 +5385,55 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			HJhi8UO84uJzcVe8TZGDfXr+Ybc=
+			ckZccpwZNpzlUGbjW/uRsPSiDAc=
 			</data>
 			<key>hash2</key>
 			<data>
-			LKuDzgtAGkGz5wMexfJVLEfXVIJFmxuSsa6LHfAvtMY=
+			HHrQCqys7XoHrTg34vgQrhfpzw0FtLzcEji+q3tCCEg=
 			</data>
 		</dict>
 		<key>macos-arm64_x86_64/ReportKit.framework/Versions/A/Headers/RKBarChartComponentView.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			RgacQbn1LHK51SEeng4nYH5E8og=
+			7h4UDiF0V0blFt5F41B3g+S6Gz8=
 			</data>
 			<key>hash2</key>
 			<data>
-			xVqngLiDxdyoOxEyoHNpvQXkT811IkBJc1GP/n9hiIs=
+			coUqwO4+E1p4l+N9I8ASlO6FPIJpZ7bSuS40JQRH3z4=
 			</data>
 		</dict>
 		<key>macos-arm64_x86_64/ReportKit.framework/Versions/A/Headers/RKBarLineChartComponentTemplate.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Rx4/GkV7DEVjAEK/p6ekcJpGEzw=
+			4/gl3uc/Yf1Sc7mnRttCIijecks=
 			</data>
 			<key>hash2</key>
 			<data>
-			qmp/ORr75oIHR1YIpw1qZME7iRPRWLlvqn7aw8c7A0g=
+			TeEWycjJ+enSKDhF0xkKHHVaghaIQwQ3GsfWCKqujSE=
 			</data>
 		</dict>
 		<key>macos-arm64_x86_64/ReportKit.framework/Versions/A/Headers/RKBarLineChartComponentView.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			WnTgpaFCDO/V/hO9swNqAuNcbu4=
+			PP6V3ogz4E7eUHoDvmjpKcBQwkc=
 			</data>
 			<key>hash2</key>
 			<data>
-			TFPviKHw1Sp+b/6T/osFC21HLPRmRcQRNwoKyA6ESmk=
-			</data>
-		</dict>
-		<key>macos-arm64_x86_64/ReportKit.framework/Versions/A/Headers/RKBarcode.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			BhqWQtSuJ66M1g5cgUOwa8fX0Vk=
-			</data>
-			<key>hash2</key>
-			<data>
-			/n0knyNadrQC32NKgIJ+rHuns/TX7J1fV2YTUiMWtZY=
+			4karr3TxzXJxU7Uz60ViK2Rny3h/OCUvAKjZzaQs9DI=
 			</data>
 		</dict>
 		<key>macos-arm64_x86_64/ReportKit.framework/Versions/A/Headers/RKBarcodeComponentTemplate.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			K6W+F3T+oI1ZOEpq0Me1pGogk4g=
+			AbsoIIo1RXmdmw6rnlZR9Ucw5pU=
 			</data>
 			<key>hash2</key>
 			<data>
-			F2w+DEt6swSXSfKKgx4au4j8BbSxuSykK2p0WCeVOrs=
+			Twjnh3o/N4hxaDT6PIaUYjw9HqVEtdU4n3vJbkJsiz8=
 			</data>
 		</dict>
 		<key>macos-arm64_x86_64/ReportKit.framework/Versions/A/Headers/RKBarcodeComponentView.h</key>
@@ -5452,44 +5451,44 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			kJhvwrFb0jkEXkEgqydSDFi0bjk=
+			Pzd0Dyr6X0EMrbmiT1yh7H80snM=
 			</data>
 			<key>hash2</key>
 			<data>
-			11AqFGmzso8idXQWO4lhgrk6neYmlW4v7umpAc1bISw=
+			nhtk+5k9cFAxt32pPhEFCxJcmrdvLRyJoOImqHuG+sI=
 			</data>
 		</dict>
 		<key>macos-arm64_x86_64/ReportKit.framework/Versions/A/Headers/RKBasicChartComponentTemplate.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Slrxu1IUZEOOagKuMshHlbM4aUo=
+			av3xA1WBuqh08rRAxrF3q0HeW80=
 			</data>
 			<key>hash2</key>
 			<data>
-			ecPYIZGmdqHsGuGYVY/yaB8CkRcWPtPyJULuc2qbmLI=
+			LJ24N9NVlwHVZ71HoFCwNDlCy3EGH7E14RKpvKKpnoA=
 			</data>
 		</dict>
 		<key>macos-arm64_x86_64/ReportKit.framework/Versions/A/Headers/RKBasicXYAxisChartComponentTemplate.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			FTBAV3rdWyk6Eq9DD1GqK+L5YYY=
+			LBUBYkXDmuGdGVuckZ9IPC8fDVY=
 			</data>
 			<key>hash2</key>
 			<data>
-			vZZyX48vzQjb3G5QlA/J1WiCQ2djtghju3HAhibCt5E=
+			gIapnF/24g0C7l3UcXyUD8oVNR2fZ5ia7ZgAuQoKMSY=
 			</data>
 		</dict>
 		<key>macos-arm64_x86_64/ReportKit.framework/Versions/A/Headers/RKBasicXYAxisChartComponentView.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			MJI3d7GY91SeELOnstlFFKGPaLo=
+			CKo/oA1npbIBmu7bjBL8XJMOrUE=
 			</data>
 			<key>hash2</key>
 			<data>
-			s40FMp7YCGS9mIxrsG7c5ASbUdvew4LntgA0yUM1ABo=
+			D6uqsXn2U91nWIkr+ewzznUFKweJ+cJaFoCs8xIdBys=
 			</data>
 		</dict>
 		<key>macos-arm64_x86_64/ReportKit.framework/Versions/A/Headers/RKBezierPath+ReportKit.h</key>
@@ -5503,59 +5502,48 @@
 			Kf+/UODmiN4x05mRwoSrdwHNcZ6PUgrsTGsoXcoZGF8=
 			</data>
 		</dict>
-		<key>macos-arm64_x86_64/ReportKit.framework/Versions/A/Headers/RKBooleanValueFormatter.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			wIjHnXXtsgkL59SJ/Ab0jr8BFLA=
-			</data>
-			<key>hash2</key>
-			<data>
-			ijl50n2CSEO6ZdMQzNv/4BnUI0J77cKC7wo2EOf2U9M=
-			</data>
-		</dict>
 		<key>macos-arm64_x86_64/ReportKit.framework/Versions/A/Headers/RKBubbleChartComponentTemplate.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			cOJiNSTFCB1XqUFni/uViRTvj0E=
+			7VUPR80JAsrUQVjS9JDs3DZsPDo=
 			</data>
 			<key>hash2</key>
 			<data>
-			Gi21AphjET6BufgmsfQEAAOkoSnIneRD6VnB5nGtKXY=
+			otSEToVA1Q6UZ2+6PTJEQCKBTLLAbYu1MHlNLyaMOCw=
 			</data>
 		</dict>
 		<key>macos-arm64_x86_64/ReportKit.framework/Versions/A/Headers/RKBubbleChartComponentView.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			d09fMxGyRPPWqUTSU22tZTuwVmU=
+			ukFvzyz58Q/dMh0HxuSRoWDJGl8=
 			</data>
 			<key>hash2</key>
 			<data>
-			oI0bnyMLUyDBJs3oEUnEZe5Qkkh+j+074TQk2ZnRI9o=
+			fmz5gE2LmUUAh2EJxH4T1p/nOTcb/7VZlgfbc8Pmtqg=
 			</data>
 		</dict>
 		<key>macos-arm64_x86_64/ReportKit.framework/Versions/A/Headers/RKCandleChartComponentTemplate.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			pzhuafCMxsOszaaPiwL/8ZcluiM=
+			e4QfswToESlXXtJwCSFMrdMEaEs=
 			</data>
 			<key>hash2</key>
 			<data>
-			TD01tfe2GMwMXMxdM8Mh8Yn7V63wZT8mT/9zFdSeU2E=
+			xTwr1uK9fOxizEBceQkTOrgl8UGjPmDXZsNhTLd1fi8=
 			</data>
 		</dict>
 		<key>macos-arm64_x86_64/ReportKit.framework/Versions/A/Headers/RKCandleChartComponentView.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			jRjxeCScMGnVzU8Su0nmH3cQT+8=
+			DGdnsi1czmRdDUS4Mcdvg3VJqqg=
 			</data>
 			<key>hash2</key>
 			<data>
-			R3WVS45rAuoUScj0EkHUFfmXoQEb/+qNJu4mNNNu/fY=
+			WICOFR7Ei5NVZIfUlXL2yFXtLdnkoXszYbywLoHwgfI=
 			</data>
 		</dict>
 		<key>macos-arm64_x86_64/ReportKit.framework/Versions/A/Headers/RKChartAxisValueFormatter.h</key>
@@ -5573,33 +5561,33 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			O95PX1AZ82Xo829Jn+Mq70jG0UM=
+			doqpE5hiEo/2+Zx53i/hJZQsXfM=
 			</data>
 			<key>hash2</key>
 			<data>
-			Pormj144cd3m5adeRvwX4T8OyYQOTDaGgcs0U3CoSnc=
+			1Ho7ROhwGB2B5cKRG4p2jy0RpCfbEICxQ//3cyJVi/Q=
 			</data>
 		</dict>
 		<key>macos-arm64_x86_64/ReportKit.framework/Versions/A/Headers/RKChartComponentView.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			GNqyJVTR0OtF5lYrKBf+LJp7ai4=
+			IbhdY229MCsw6lT7gC4LnY8anPQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			a3LARJqjpijHOkqvawHzcFwQ5KLMTBWzF9P9uVTqUN8=
+			Igt/4rsaXTXrvIStbON/fxIZ01GQDulOWREsUOviAUw=
 			</data>
 		</dict>
 		<key>macos-arm64_x86_64/ReportKit.framework/Versions/A/Headers/RKChartDataSetTemplate.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			auOF8k/j2GGZHH2cnfHYdmEeyIw=
+			uhLAHNZ4OaGUezKN8sa2Xkmb3rw=
 			</data>
 			<key>hash2</key>
 			<data>
-			PoBLUfxMhvtarrxKU38cx5Bi2LkO4MvaFZG5t7CM00s=
+			vxKeTqb+y2GXA7Bui0nehY/YH4y0ru3a0C2x0YKiE7g=
 			</data>
 		</dict>
 		<key>macos-arm64_x86_64/ReportKit.framework/Versions/A/Headers/RKChartValueFormatter.h</key>
@@ -5624,26 +5612,15 @@
 			QpqDeHHiwUIXCD61sE/ttjLKApCvZCmghyHfWCw99SA=
 			</data>
 		</dict>
-		<key>macos-arm64_x86_64/ReportKit.framework/Versions/A/Headers/RKColorUtilities.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			8rTE4gMvUFpgrz8JUiiFR/y1xsM=
-			</data>
-			<key>hash2</key>
-			<data>
-			FWz22QrEofqIH6Lm7/bXXpzkcBwB2nx/Qy5E9Lkrfwo=
-			</data>
-		</dict>
 		<key>macos-arm64_x86_64/ReportKit.framework/Versions/A/Headers/RKCombinedChartComponentTemplate.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			FWje9Yox4OM3k14LynzRa6frcPo=
+			wQpYF87itBURbYo+6HBI153kNlM=
 			</data>
 			<key>hash2</key>
 			<data>
-			TQ0x9/GSkfRJCIrKvuoL9XDAc50m49lneNFdQCaElHM=
+			aif8eADi6xc3X0rXq9NFCG9eTv9U7ByBxEMsF/8A8Hs=
 			</data>
 		</dict>
 		<key>macos-arm64_x86_64/ReportKit.framework/Versions/A/Headers/RKComponent.h</key>
@@ -5661,11 +5638,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			3xTLrsepv6JVNxMhWdRLLSypzlU=
+			FiF6te4uDLJ3PFul1eL4yrt8X/Q=
 			</data>
 			<key>hash2</key>
 			<data>
-			2/gaOBkZpQ9z1It5eJjczxOREEeeJC9l28nAvB2spHc=
+			ish047NlfPTtt0joW8sVr0FM1NlsQa4Bc4xl6nHx+bU=
 			</data>
 		</dict>
 		<key>macos-arm64_x86_64/ReportKit.framework/Versions/A/Headers/RKComponentView.h</key>
@@ -5679,70 +5656,59 @@
 			IvaWzORkKPZ7gu+av4oNTbuRn3Lt8sVVTEYVfKCCxbA=
 			</data>
 		</dict>
-		<key>macos-arm64_x86_64/ReportKit.framework/Versions/A/Headers/RKCurrencySpelledOutValueFormatter.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			CxjWsNxDG+qeBC2BgkfJPeKaBqY=
-			</data>
-			<key>hash2</key>
-			<data>
-			m4nlEbBZo6fddHyW6AmL0AZAY3GF/em59DHCc/U1yyI=
-			</data>
-		</dict>
 		<key>macos-arm64_x86_64/ReportKit.framework/Versions/A/Headers/RKCustomComponentView.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			piDLqE7M9T2dw9wzuNssX6DgsfM=
+			NqX6CEclOR+fANRGRwhMfgabXPw=
 			</data>
 			<key>hash2</key>
 			<data>
-			5VKl92GCHoF5Hmu1vaMWD1LAXJzYllkpIt4X4u6Lwaw=
+			sss4VANGtfZuie60thnxRPulQ9AquBbSIOJlEqWJgHU=
 			</data>
 		</dict>
 		<key>macos-arm64_x86_64/ReportKit.framework/Versions/A/Headers/RKCustomViewComponentTemplate.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			q4+i1DI7UjTOkCbGCXtoIEoZwUs=
+			QT0OFLonJxYN9s0H//dN8YQ6yeQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			xPSKV4aqi6oPNTY2YBaBofmQ5+WdgT+KfyKzFFOwl7k=
+			/e3tVshPoQmqrVvgMGx4N36S59XoPj/VbOHDfCkzgVc=
 			</data>
 		</dict>
 		<key>macos-arm64_x86_64/ReportKit.framework/Versions/A/Headers/RKDataAwareComponentTemplate.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			PzEcDKWmGi6tJRSCs8mkv4A5Di4=
+			Sf6MHkMXi9y88l0HDOMyhsweUiM=
 			</data>
 			<key>hash2</key>
 			<data>
-			PtCwXTk1eyBTlf4Os1fEzF1nU9RuXliVgsZRMfVtCpU=
+			UMJT/7/ei/XiktaIESmeA/KR5S6UExtDepGJ6HfUjNg=
 			</data>
 		</dict>
-		<key>macos-arm64_x86_64/ReportKit.framework/Versions/A/Headers/RKDateTimeValueFormatter.h</key>
+		<key>macos-arm64_x86_64/ReportKit.framework/Versions/A/Headers/RKDocumentAttributes.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			UjN10QAUU7xuuEz9QdIhcFsfRew=
+			eke1YgarrtpJYH5gY9KnVdvY068=
 			</data>
 			<key>hash2</key>
 			<data>
-			quvx2IcxhU1eiYM8KTd9d/6jyKEKfEjMrf/S3vggTKU=
+			oD4V/E1r8m2toVyfoPzQ5tR21AUxvkvZGxqqOaTGA1A=
 			</data>
 		</dict>
 		<key>macos-arm64_x86_64/ReportKit.framework/Versions/A/Headers/RKExpandableTextComponentView.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			EHUkvrq1sT2JEGQXYf7vp9ffMao=
+			jibRa5qUh3MZnAugvTJucoBklRE=
 			</data>
 			<key>hash2</key>
 			<data>
-			toz6FEEIUA6rxnt/nEwXRLmFNyh12f2lNsOYf+BS7Hk=
+			cOxhjn8GvVZEgvUrbsf12J1cLqhxrVWvglC4vr8gark=
 			</data>
 		</dict>
 		<key>macos-arm64_x86_64/ReportKit.framework/Versions/A/Headers/RKFontInformation.h</key>
@@ -5754,17 +5720,6 @@
 			<key>hash2</key>
 			<data>
 			3zsi68wvXICjqfPbGaRBKz7xqfKc5NYH9svg05XXSi8=
-			</data>
-		</dict>
-		<key>macos-arm64_x86_64/ReportKit.framework/Versions/A/Headers/RKGlobalDefinitions.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			4VDp2DEFlblGg85Cmu/TpQ9FL24=
-			</data>
-			<key>hash2</key>
-			<data>
-			q+orerplV/jdqX+mWh466xHxxDVK7vSRgImi/eZhJoc=
 			</data>
 		</dict>
 		<key>macos-arm64_x86_64/ReportKit.framework/Versions/A/Headers/RKGroupIdentifier.h</key>
@@ -5793,22 +5748,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			aFoTetHy/1jAS92wYSP85OfEJ6I=
+			HMtkVgxl2opHx8C1j7WpmBxCrek=
 			</data>
 			<key>hash2</key>
 			<data>
-			DeEVqflyHrHKHElTC89EClSHbT3re6j6SvAz7V4vBqo=
+			HyteMHBi2FqG8JOt1PgvGHuZ07imSvO12wUAaxQPL+4=
 			</data>
 		</dict>
 		<key>macos-arm64_x86_64/ReportKit.framework/Versions/A/Headers/RKHorizontalLineComponentTemplate.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			2XWxgN53fArqH4AaWI7Hz73XVf0=
+			aU4ZmnNafk+0I/jDjapImxqNcp4=
 			</data>
 			<key>hash2</key>
 			<data>
-			albX9P+HBrshkwLb+8FhhhrZ7nzUb/9TVA1LWPvJDxI=
+			4L22MrBk8ajdJyybY5OadtJ4bjh+BdXaueFm02RvxqE=
 			</data>
 		</dict>
 		<key>macos-arm64_x86_64/ReportKit.framework/Versions/A/Headers/RKHorizontalLineComponentView.h</key>
@@ -5826,11 +5781,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			MWF/f0DB3+HChlSj1O7WA21wFms=
+			p+jMrqvK9xo3YN2i2tz2A3j6dUg=
 			</data>
 			<key>hash2</key>
 			<data>
-			MAU6NeeyNOxLQhZaeceLYw14kanGu2aQWunVYhiIsUQ=
+			CaQUe1qislxtPgxCcVL9mLF0NAYL9AB2xBNGPg/mBOA=
 			</data>
 		</dict>
 		<key>macos-arm64_x86_64/ReportKit.framework/Versions/A/Headers/RKImageComponentView.h</key>
@@ -5844,92 +5799,48 @@
 			5tPNUC2FjNMJVEEFQVQd8IHGa9Pvh1ncE+4wdlMcDkQ=
 			</data>
 		</dict>
-		<key>macos-arm64_x86_64/ReportKit.framework/Versions/A/Headers/RKIntrospector.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			Q2UKdkJPpoZMeMUPKsXdNTic8as=
-			</data>
-			<key>hash2</key>
-			<data>
-			aeNmNu+sLN3TAlVjtjxMgQHJvoJbkvyKppt0O1mb6jk=
-			</data>
-		</dict>
 		<key>macos-arm64_x86_64/ReportKit.framework/Versions/A/Headers/RKLineChartComponentTemplate.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			2JOdGy+zE8+2B7xkKY3nabcqLDg=
+			go1Apa7COLWHaVSHVXIUmeF7HpI=
 			</data>
 			<key>hash2</key>
 			<data>
-			zC0kaWFHZIfhNRVSFyfX4JQ1BRik1p0T5S6qNufThvs=
+			B8J2QhV/4U0yKLVv27KUa1SEF+6iV9qRPw3RdYCXTU8=
 			</data>
 		</dict>
 		<key>macos-arm64_x86_64/ReportKit.framework/Versions/A/Headers/RKLineChartComponentView.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			DznHb+vXE/vb47ztt16ai20CE2c=
+			aKfHZ8ffXIbp1+0vLSxWy0jiWZ4=
 			</data>
 			<key>hash2</key>
 			<data>
-			ldolBWgG3TsCKHiL/T6qDeruR5oqnVcg1zvCCgmUVjE=
-			</data>
-		</dict>
-		<key>macos-arm64_x86_64/ReportKit.framework/Versions/A/Headers/RKLineUtilities.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			3dIdoeoFc6JyipTElPq9wTl/oY4=
-			</data>
-			<key>hash2</key>
-			<data>
-			vNSreX4ZYiceSjAN77p3p+zLyXhQaAYtjMaPaIQo/1c=
-			</data>
-		</dict>
-		<key>macos-arm64_x86_64/ReportKit.framework/Versions/A/Headers/RKNamedColor.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			8lT7Q+66irWrL5yk1TIfQAq1ScM=
-			</data>
-			<key>hash2</key>
-			<data>
-			ssESE0UOQE2Ea9SUqySSbO0IZ4fOnZ8UEbui/wxNWKQ=
+			UmwWNh0mE01c+HsQnW3bzIjTfyP1Lr2LXESPvGkbR+Q=
 			</data>
 		</dict>
 		<key>macos-arm64_x86_64/ReportKit.framework/Versions/A/Headers/RKNegativeBarChartComponentTemplate.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			IJ1luOeHnp9Dcqs+b5ciKpSaRIk=
+			pVPDxWE1zPbvPkKq4n95NebinEk=
 			</data>
 			<key>hash2</key>
 			<data>
-			LMH2IWQe5TIqNoFBxejFH7AEKvNB+B+Soslht9LodcI=
-			</data>
-		</dict>
-		<key>macos-arm64_x86_64/ReportKit.framework/Versions/A/Headers/RKNumberValueFormatter.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			dzUALCSUUMZLXYR+JTQnDLDShws=
-			</data>
-			<key>hash2</key>
-			<data>
-			39B/VCWYbeLQUBkVr0GdJbdjTsaS2wblId+FnGvwgW4=
+			2PXCxMyh9BQeszrOhGh2THLr4UZdA3glfHXEmYMsOFQ=
 			</data>
 		</dict>
 		<key>macos-arm64_x86_64/ReportKit.framework/Versions/A/Headers/RKOvalComponentTemplate.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			UBkiTsFq3y4b6sIfR0Rp5QnqoEI=
+			RmKzYHQWgVqNGI7As4cRY5XuOXQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			KAUcRhVEB411jfwokbnHZJ2hRqprLkttrSzCuw1X35I=
+			ZkmfkKIHr6V8FW8QkjjFYuw6XZcL6Sie1R3SdJuk6f8=
 			</data>
 		</dict>
 		<key>macos-arm64_x86_64/ReportKit.framework/Versions/A/Headers/RKOvalComponentView.h</key>
@@ -5958,11 +5869,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			3U7xJz1DZFtfEUTH7Bvl0lt3ShU=
+			Abx1CU/mp1Fqw3tIUY1C/MmNB/s=
 			</data>
 			<key>hash2</key>
 			<data>
-			i7Tyssi/BjCrCtIz5osTZHJXNK8zEkcVemQpd53f4vA=
+			kve8WlDoZtMAYPEcQwg5EMwzv/lyrHj/0kpsViyay9E=
 			</data>
 		</dict>
 		<key>macos-arm64_x86_64/ReportKit.framework/Versions/A/Headers/RKPageView.h</key>
@@ -5991,77 +5902,77 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			70UUJ1cpiLKCsF3j3kRViKStEZQ=
+			i6NqknasiGzwNx4QR9M7gILg+tA=
 			</data>
 			<key>hash2</key>
 			<data>
-			OFQJG9dSwz13P0v9hKFuBbEbz+O+a/PdCrZKW7OMZAQ=
+			n5a1BmSFOLjYNc3X+79gRClFTMbs7MgWNZTrl9CRhiU=
 			</data>
 		</dict>
 		<key>macos-arm64_x86_64/ReportKit.framework/Versions/A/Headers/RKPieChartComponentView.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			OqBVJKMZqa6YbWqI/xTL+UyMduc=
+			aacxJSqwOn6UEmQ1WT03lOZ2xg4=
 			</data>
 			<key>hash2</key>
 			<data>
-			qdNwr/DOhOvclVHk4a8mbiMFqONKdtHHOBqrUjK8dYA=
+			wRDN0ljSUQLSEyilfp5H1OMq0RpzSQqJja+Om9DMqzA=
 			</data>
 		</dict>
 		<key>macos-arm64_x86_64/ReportKit.framework/Versions/A/Headers/RKPieRadarChartComponentTemplate.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			LO2kOT1+TmwybwUDCQXQcuR5GFA=
+			J5jVI1EyccEgTlw4I3ujvGnXOuM=
 			</data>
 			<key>hash2</key>
 			<data>
-			OLjR0pOxZZ9bLEsfjMM+C63sqCZEEdMYDOSF5+eFZTU=
+			DmukC0O/HRNiVn3L9QRtu8Tj8d1My9tWsHefXOHMSzo=
 			</data>
 		</dict>
 		<key>macos-arm64_x86_64/ReportKit.framework/Versions/A/Headers/RKPieRadarComponentView.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			01ypXApy1AvR2L6LGwsJSpIN+DQ=
+			OZr3EVRUU0NCKreWDl72hLjQW5w=
 			</data>
 			<key>hash2</key>
 			<data>
-			IWPI3Ug0whyE7HeXtywvoFz7jmVqUmAJk5HPZhMVhy8=
+			t/Zp0tMh8neJO/aFIrIBykaLQq2Z9p5Ur8Yxayb5fAM=
 			</data>
 		</dict>
 		<key>macos-arm64_x86_64/ReportKit.framework/Versions/A/Headers/RKRadarChartComponentTemplate.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			QwJEb4/kChE2psfgHbjEKTkDmU4=
+			gy8LmCRKlfc+qxFnNakK/geaSIE=
 			</data>
 			<key>hash2</key>
 			<data>
-			jGXinfWduB1H4gW0qZ1hsFzrQGi1LanUd8POT+GEx24=
+			b0VwmWA6v3uGPX8b825xwZUwVVo/4SaZ6+h3+GAY/9U=
 			</data>
 		</dict>
 		<key>macos-arm64_x86_64/ReportKit.framework/Versions/A/Headers/RKRadarChartComponentView.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			tXmXwdWExlCg2VGEaZT/ipqupcw=
+			L5+SvPW46a25wWTdZKq9du3mJFw=
 			</data>
 			<key>hash2</key>
 			<data>
-			48T7GLJKn0XsnN2JJtIcNahbpxci6WL8kx0XPi4ui2A=
+			QIPLRLwd02QmQn7MSV+m9SqfVCAttAP4jP8UgOY2TZw=
 			</data>
 		</dict>
 		<key>macos-arm64_x86_64/ReportKit.framework/Versions/A/Headers/RKRectangleComponentTemplate.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Pf1Yg9/ZFVvRVrwd2TcPTe8iXcY=
+			KFvohBUJH/w/Z4GBZ/qnCRLD19M=
 			</data>
 			<key>hash2</key>
 			<data>
-			1BByIZjchGndCGRuxZxQvr4HU8cWVKT0tVdyztBTzoo=
+			ek4XIOoq3Rru9/y3qmm/zR9BIodJNQ1D9qfZNAsra+Y=
 			</data>
 		</dict>
 		<key>macos-arm64_x86_64/ReportKit.framework/Versions/A/Headers/RKRectangleComponentView.h</key>
@@ -6079,22 +5990,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			oIsD9Qldw6oRSsLAtoEZ5qpdt7I=
+			Y/QOZeuITDb5mRmXiJbm9N99lWY=
 			</data>
 			<key>hash2</key>
 			<data>
-			fjpJmDdvMeX66JfTImxa9XK8cs3LhaL7BfZNUUHGXk8=
-			</data>
-		</dict>
-		<key>macos-arm64_x86_64/ReportKit.framework/Versions/A/Headers/RKReportBuilderProject.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			HVged6nCP0I/WD/mBDo9dIirrLs=
-			</data>
-			<key>hash2</key>
-			<data>
-			Dmc6hTuis3n5Qkm7vBNkK+v6vq04ghLTpPu9BOGG1SA=
+			0m2sVp+GUENNpzqhT4KoMigS12Xy5C9Z8LOfvztZTyg=
 			</data>
 		</dict>
 		<key>macos-arm64_x86_64/ReportKit.framework/Versions/A/Headers/RKReportBuilderProjectModel.h</key>
@@ -6112,11 +6012,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			RvA2T2cmtbzCtrRkcYxjBxfv44I=
+			Gbm6kMmZirlRisJS5Bd5cdKZTNc=
 			</data>
 			<key>hash2</key>
 			<data>
-			N5FFERVu1wVwVRUhsBfO5GdTms0lKTds3L0AXs9DDU0=
+			m9MkwwVYSDYDXNDZNe4YCF+6IJ0FycA7s/PBtQN2YXY=
 			</data>
 		</dict>
 		<key>macos-arm64_x86_64/ReportKit.framework/Versions/A/Headers/RKReportDataSource.h</key>
@@ -6156,11 +6056,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			7cQCIrAWaQbMVphUhp3iMg+TV+4=
+			nnZp/0ef2TzUjAZWE3r7fTc6FZU=
 			</data>
 			<key>hash2</key>
 			<data>
-			GeC00rWkpFcj4oyR+mPmot34NKbsJ7Ahq/4LfCenams=
+			4eKjPkAk4BQm1a/ncZuJGk5aWhsx8vxcL7GeBEjaNCI=
 			</data>
 		</dict>
 		<key>macos-arm64_x86_64/ReportKit.framework/Versions/A/Headers/RKReportMessage.h</key>
@@ -6174,26 +6074,15 @@
 			dn90tqU2MzVm7kc2/gofxuX6uA/2PQxoMh2y8b6NxX4=
 			</data>
 		</dict>
-		<key>macos-arm64_x86_64/ReportKit.framework/Versions/A/Headers/RKReportProperties.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			mUnXql+pxvlgw35ABTKUVbPdbQE=
-			</data>
-			<key>hash2</key>
-			<data>
-			Dhz2bQeNFAKi+soImYqgD9qnE7n7RRbzouHTN3W/FFY=
-			</data>
-		</dict>
 		<key>macos-arm64_x86_64/ReportKit.framework/Versions/A/Headers/RKRotatedTextComponentTemplate.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Lk1N2MzCBbehNuwd8Z44lASAhK8=
+			bcIgdIGsnJC7s2/U3JD/qFzvx6c=
 			</data>
 			<key>hash2</key>
 			<data>
-			aMkmT68m2sh+QduB205F2ibKcAxpRwC0fULbh8+0xvI=
+			23BGn8MnGUBjh4y7ITSqQ1WKzdPOMmDZzvkoAt4smwU=
 			</data>
 		</dict>
 		<key>macos-arm64_x86_64/ReportKit.framework/Versions/A/Headers/RKRotatedTextComponentView.h</key>
@@ -6211,33 +6100,33 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			URZlRupimw/FDghos7dpOSZKHBI=
+			Get9DN3cMP//Jm+J0PIFLIiX8xk=
 			</data>
 			<key>hash2</key>
 			<data>
-			Xzl1bJBo6uQ7ujZzAdDkYenEeQoXZ47N/NHnwCvs1v4=
+			D+UFl+jQCT2tL7OU9bFx5qAjdX6rJqzasYtpyqsuepU=
 			</data>
 		</dict>
 		<key>macos-arm64_x86_64/ReportKit.framework/Versions/A/Headers/RKScatterChartComponentView.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			joBZ2ApD0JLXfjd5HKyB0z0y968=
+			Lam8AotXBqnHC6FBQLSVAmIocrM=
 			</data>
 			<key>hash2</key>
 			<data>
-			4GeAlih/f0F3onAojQL5+yDYMrbmzNFDxblPEw71kcc=
+			WyePlpvkoqdDJIzA5Zi9z6zJCgi4MEo/+E88uL14IXs=
 			</data>
 		</dict>
 		<key>macos-arm64_x86_64/ReportKit.framework/Versions/A/Headers/RKShapeComponentTemplate.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			OZAhdu314HPPBry07yOmWbBLZn0=
+			oRNM7VYH80KK07u5AGP/Hsua7ss=
 			</data>
 			<key>hash2</key>
 			<data>
-			MJ6MstdcNQRAFFzlIKeJyJQxisfB/A68crdSBgV2QdY=
+			7W+XIX0XPn33+EgpTiBWqUNxLVxCNPpX9fGPPTaWJL0=
 			</data>
 		</dict>
 		<key>macos-arm64_x86_64/ReportKit.framework/Versions/A/Headers/RKShapeComponentView.h</key>
@@ -6255,11 +6144,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			lx9QT3SJdh/4gFjjYhRbNyMCirw=
+			fbzAWGjDtVds9/Dod0+e0apTJbE=
 			</data>
 			<key>hash2</key>
 			<data>
-			VI1oc3xE9s285s9q41VB2IutX0vwWagzaOAZOKFD74E=
+			uhoIlKLf/l67PFz0ugcAVh+xfYAP6U66C8D46r6QJnE=
 			</data>
 		</dict>
 		<key>macos-arm64_x86_64/ReportKit.framework/Versions/A/Headers/RKSubreportComponentView.h</key>
@@ -6277,11 +6166,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			fF9vjKFXhKqXnkTYgxCnc0zOREk=
+			a63j/a+j+vy8I6NDwATyDe9/VMo=
 			</data>
 			<key>hash2</key>
 			<data>
-			xdu2zpo8F/7QXYPsmFCLQloxBaR3S4byNNj3HLXvHnc=
+			KL2CEbiO8a2erq5+67Sf+mlVw9bz+42Zl8hfvTC2BAg=
 			</data>
 		</dict>
 		<key>macos-arm64_x86_64/ReportKit.framework/Versions/A/Headers/RKSystemTextComponentView.h</key>
@@ -6299,11 +6188,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			xBmOw2HHSyi9PrWJ+KoOFRzX/z4=
+			bsKsJ9XwwelbmSdQHndQM8ygbD8=
 			</data>
 			<key>hash2</key>
 			<data>
-			PQqqfTyiypNzqzPq8R+zFYdWgHIA3nXV4QW3V9mPaAU=
+			rV1hUoWPL8h1JxnTHE+0iwmDFnDFN1BZLxfVPECKv7U=
 			</data>
 		</dict>
 		<key>macos-arm64_x86_64/ReportKit.framework/Versions/A/Headers/RKTextComponentView.h</key>
@@ -6321,11 +6210,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			n7K8JRPGEkllePeGHJ9bPc6ukXM=
+			/qq7kozqByqV8GGso/bDC4qLFBQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			s01t4GMZyLUgio0APzQ8zMQXNIU9klElrXBE+akhdIo=
+			DnFZmjxb0unhzOZ9tree3I5azKO1R4Tep/VlS2xLtUs=
 			</data>
 		</dict>
 		<key>macos-arm64_x86_64/ReportKit.framework/Versions/A/Headers/RKTextViewComponentView.h</key>
@@ -6354,11 +6243,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			VlxIX/onQVrJ5emONNbCXvFHV/o=
+			tbjBSU3+1H6rdwEmu08Syi5zY74=
 			</data>
 			<key>hash2</key>
 			<data>
-			iIpMFekgp8g6Q1nw/0A2+6L4RZkyU5tWriYOyGp32cc=
+			9JVHGXQYQIWzaU6v83umTB5gr9HuAj7Z+eA4Iw5lBSg=
 			</data>
 		</dict>
 		<key>macos-arm64_x86_64/ReportKit.framework/Versions/A/Headers/RKVerticalLineComponentView.h</key>
@@ -6387,11 +6276,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			eu3mu9Ak2Zbr5ynaKZwpVK68KK8=
+			503MTmbZXhBpeQuwTQgOPdDzlfk=
 			</data>
 			<key>hash2</key>
 			<data>
-			S3Egrm3qGmLIxlDnBdYNaNcjA8NwKzf8bqCbEdleNlU=
+			L4pxwssaLVPVFbb3YaNU4vsNCl+LKzxrXgKlzPgFCbo=
 			</data>
 		</dict>
 		<key>macos-arm64_x86_64/ReportKit.framework/Versions/A/Modules/module.modulemap</key>
@@ -6405,15 +6294,136 @@
 			S+CNozEHLDMiX3YX3SSGQT8lofNvvBIHswwUznOIngA=
 			</data>
 		</dict>
+		<key>macos-arm64_x86_64/ReportKit.framework/Versions/A/PrivateHeaders/RKBarcode+Private.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			W5WAiyatFCgycS/+vlnX7fWPaeM=
+			</data>
+			<key>hash2</key>
+			<data>
+			+5tcQRCDrvXceAOZAFYZRixfnKYhJQVFU7PLyEC1atU=
+			</data>
+		</dict>
+		<key>macos-arm64_x86_64/ReportKit.framework/Versions/A/PrivateHeaders/RKBarcode.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			khVCaX7R7r2vDDciYWQGXX/37Ww=
+			</data>
+			<key>hash2</key>
+			<data>
+			I9PLaYoOqjArR+1FZVeaC0TUKw5zzDc8Cp3xJSk8q5A=
+			</data>
+		</dict>
+		<key>macos-arm64_x86_64/ReportKit.framework/Versions/A/PrivateHeaders/RKBooleanValueFormatter.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			fbvjsbyriNuxTdt+MBafTeGu4g8=
+			</data>
+			<key>hash2</key>
+			<data>
+			TyK7CaaaIL/OODWa/3uoBMjIk58JtJNrMGB/oRA4ql8=
+			</data>
+		</dict>
+		<key>macos-arm64_x86_64/ReportKit.framework/Versions/A/PrivateHeaders/RKColorUtilities.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			8rTE4gMvUFpgrz8JUiiFR/y1xsM=
+			</data>
+			<key>hash2</key>
+			<data>
+			FWz22QrEofqIH6Lm7/bXXpzkcBwB2nx/Qy5E9Lkrfwo=
+			</data>
+		</dict>
+		<key>macos-arm64_x86_64/ReportKit.framework/Versions/A/PrivateHeaders/RKCurrencySpelledOutValueFormatter.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			CxjWsNxDG+qeBC2BgkfJPeKaBqY=
+			</data>
+			<key>hash2</key>
+			<data>
+			m4nlEbBZo6fddHyW6AmL0AZAY3GF/em59DHCc/U1yyI=
+			</data>
+		</dict>
+		<key>macos-arm64_x86_64/ReportKit.framework/Versions/A/PrivateHeaders/RKDateTimeValueFormatter.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			UjN10QAUU7xuuEz9QdIhcFsfRew=
+			</data>
+			<key>hash2</key>
+			<data>
+			quvx2IcxhU1eiYM8KTd9d/6jyKEKfEjMrf/S3vggTKU=
+			</data>
+		</dict>
+		<key>macos-arm64_x86_64/ReportKit.framework/Versions/A/PrivateHeaders/RKIntrospector.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Q2UKdkJPpoZMeMUPKsXdNTic8as=
+			</data>
+			<key>hash2</key>
+			<data>
+			aeNmNu+sLN3TAlVjtjxMgQHJvoJbkvyKppt0O1mb6jk=
+			</data>
+		</dict>
+		<key>macos-arm64_x86_64/ReportKit.framework/Versions/A/PrivateHeaders/RKLineUtilities.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			3dIdoeoFc6JyipTElPq9wTl/oY4=
+			</data>
+			<key>hash2</key>
+			<data>
+			vNSreX4ZYiceSjAN77p3p+zLyXhQaAYtjMaPaIQo/1c=
+			</data>
+		</dict>
+		<key>macos-arm64_x86_64/ReportKit.framework/Versions/A/PrivateHeaders/RKNamedColor.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			8lT7Q+66irWrL5yk1TIfQAq1ScM=
+			</data>
+			<key>hash2</key>
+			<data>
+			ssESE0UOQE2Ea9SUqySSbO0IZ4fOnZ8UEbui/wxNWKQ=
+			</data>
+		</dict>
+		<key>macos-arm64_x86_64/ReportKit.framework/Versions/A/PrivateHeaders/RKNumberValueFormatter.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			dzUALCSUUMZLXYR+JTQnDLDShws=
+			</data>
+			<key>hash2</key>
+			<data>
+			39B/VCWYbeLQUBkVr0GdJbdjTsaS2wblId+FnGvwgW4=
+			</data>
+		</dict>
+		<key>macos-arm64_x86_64/ReportKit.framework/Versions/A/PrivateHeaders/RKReportBuilderProject.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			HVged6nCP0I/WD/mBDo9dIirrLs=
+			</data>
+			<key>hash2</key>
+			<data>
+			Dmc6hTuis3n5Qkm7vBNkK+v6vq04ghLTpPu9BOGG1SA=
+			</data>
+		</dict>
 		<key>macos-arm64_x86_64/ReportKit.framework/Versions/A/ReportKit</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			+edHmP+8eOpvDTEIhyftOPEl2P0=
+			Qk0W+RR1zpsi/PsJVxvq83DlhdY=
 			</data>
 			<key>hash2</key>
 			<data>
-			ZcTCurpO28vy3aK3APTVwaIxddLzAU7q6R62KSs9OB4=
+			nWceiHKFPABcizys5+ANUCfnuXPBecsc/3qLvZd/Lao=
 			</data>
 		</dict>
 		<key>macos-arm64_x86_64/ReportKit.framework/Versions/A/Resources/Info.plist</key>

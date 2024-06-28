@@ -22,7 +22,7 @@
 NS_ASSUME_NONNULL_BEGIN
 
 /**
- The `RKTextComponentTemplate` object contains the properties used to define a report text field component.
+ The `RKTextComponentTemplate` object contains the design-time properties used to create text field component.
  */
 @interface RKTextComponentTemplate : RKDataAwareComponentTemplate
 

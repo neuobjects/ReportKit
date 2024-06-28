@@ -10,7 +10,7 @@
 NS_ASSUME_NONNULL_BEGIN
 
 /**
- The `RKPieRadarComponentView` class contains the properties and methods that are common to pie and radar chart components.
+ The `RKPieRadarComponentView` class contains the properties and methods that are common to draw pie and radar chart components.
  */
 @interface RKPieRadarComponentView : RKChartComponentView
 

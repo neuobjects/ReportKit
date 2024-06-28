@@ -10,7 +10,7 @@
 NS_ASSUME_NONNULL_BEGIN
 
 /**
- The `RKLineChartComponentView` class contains the properties and methods required to render a line chart for a report.
+ The `RKLineChartComponentView` class draws the printed line chart component.
  */
 @interface RKLineChartComponentView : RKBarLineChartComponentView
 

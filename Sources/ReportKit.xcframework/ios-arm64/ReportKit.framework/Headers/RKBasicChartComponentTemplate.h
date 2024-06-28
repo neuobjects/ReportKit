@@ -13,7 +13,7 @@
 NS_ASSUME_NONNULL_BEGIN
 
 /**
- The `RKBasicChartComponentTemplate` class contains additional properties to the standard chart.
+ The `RKBasicChartComponentTemplate` class contains additional design-time properties for the standard chart.
  */
 @interface RKBasicChartComponentTemplate : RKChartComponentTemplate
 
