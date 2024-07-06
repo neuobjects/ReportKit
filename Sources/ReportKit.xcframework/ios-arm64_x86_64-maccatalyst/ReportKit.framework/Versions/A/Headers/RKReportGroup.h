@@ -35,10 +35,15 @@
  */
 @property (nonatomic, strong) id groupObject;
 /**
- the objects associated with the content of the group.
+ The objects associated with the content of the group.
  */
 @property (nonatomic, strong) id contentObjects;//array of data elements
 
 //-(instancetype) initWithParentGroup:(RKReportGroup *) parentGroup;
 //-(NSString *) identifier;
+
+/**
+ This will return the parent's content objects, if this belongs to a parent group.
+ */
+-(id) parentContentObjects;
 @end

@@ -42,7 +42,7 @@
  A report can be generated for one or more primary records. A primary record is the object we're reporting on. For example, if we're generating a report for a list of customers, the customer is considered the primary record.
  */
 -(void) didPrepareReport:(RKReport *) report
- forPrimaryRecordAtIndex:(NSInteger) recordIndex;//when to call this - after all reports are generated (and the PDFs are generated) or as they've been prepared?
+ forReportEntryAtIndex:(NSInteger) recordIndex;//when to call this - after all reports are generated (and the PDFs are generated) or as they've been prepared?
 
 /**
  Called when the reporting engine is about to prepare a new page for the given record.
@@ -53,8 +53,8 @@
  The `page` parameter contains minimal information since the page has not yet been generated. The `pageNumber` and `recordPageNumber` properties are available at this point in the process.
  */
 -(void) report:(RKReport *) report
-forPrimaryRecordAtIndex:(NSInteger) recordIndex
-willPreparePage:(RKPage *) page;//pass 2
+willPreparePage:(RKPage *) page
+forReportEntryAtIndex:(NSInteger) recordIndex;
 
 /**
  Called when the given band is about to be prepared.
@@ -204,21 +204,21 @@ didApplyChartProperties:(RKComponent *) component;
 willPositionBand:(RKBand *) band
 onProposedPage:(RKPage *) proposedPage
          group:(RKReportGroup *) group
-primaryRecordIndex:(NSInteger) recordIndex;
+reportEntryIndex:(NSInteger) recordIndex;
 /**
  Tells the delegate the band has been positioned on the report.
  @param report The report that is getting generated.
  @param band The band that is getting positioned
  @param page The page the band is getting positioned on.
  @param group The group the band belongs to.
- @param recordIndex The index of the primary record that's being processed.
+ @param reportEntryIndex The index of the primary record that's being processed.
 
  */
 -(void) report:(RKReport *) report
 didPositionBand:(RKBand *) band
         onPage:(RKPage *) page
          group:(RKReportGroup *) group
-primaryRecordIndex:(NSInteger) recordIndex;
+reportEntryIndex:(NSInteger) reportEntryIndex;
 /**
  Tells the delegate that the given band has been prepared.
  @param report The report that is currently getting generated.

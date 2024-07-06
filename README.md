@@ -43,3 +43,4 @@
 1.3.19 Added flexible property and logic to subreports
 1.3.20 Provided default # of report entries for the report controller
 1.3.21 Made Formatter classes public again
+1.3.22 Added parentContentObjects method
