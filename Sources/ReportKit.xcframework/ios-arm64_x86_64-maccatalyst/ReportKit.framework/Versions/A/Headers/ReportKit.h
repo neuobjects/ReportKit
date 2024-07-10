@@ -121,6 +121,8 @@ FOUNDATION_EXPORT const unsigned char ReportKitVersionString[];
 
 @interface ReportKit : NSObject
 
-+(RKReportBuilderProjectModel * _Nullable) loadProjectModel:(NSURL * _Nonnull) fileURL;
++(RKReportBuilderProjectModel * _Nullable) loadProjectModelFromURL:(NSURL * _Nonnull) fileURL;
++(RKReportBuilderProjectModel * _Nullable) loadProjectModelNamed:(NSString * _Nonnull) reportName
+                                                      fromBundle:(NSBundle * _Nonnull) bundle;
 
 @end

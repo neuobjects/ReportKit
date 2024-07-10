@@ -44,4 +44,8 @@
 1.3.20 Provided default # of report entries for the report controller
 1.3.21 Made Formatter classes public again
 1.3.22 Added parentContentObjects method
+
 1.3.23 Synced this version with git version
+
+1.3.24 Added new ReportKit method to load report from the given bundle
+
