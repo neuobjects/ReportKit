@@ -94,3 +94,5 @@
 1.3.24 Added new ReportKit method to load report from the given bundle
 
 1.3.25 Fixed parentContentObject method
+
+1.3.25 Added logging to parentContentObject method to debug issue
