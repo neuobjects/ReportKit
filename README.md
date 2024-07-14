@@ -95,4 +95,4 @@
 
 1.3.25 Fixed parentContentObject method
 
-1.3.25 Added logging to parentContentObject method to debug issue
+1.3.26 Added logging to parentContentObject method to debug issue
