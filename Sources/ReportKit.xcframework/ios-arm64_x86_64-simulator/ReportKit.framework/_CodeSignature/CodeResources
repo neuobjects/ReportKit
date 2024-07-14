@@ -386,7 +386,7 @@
 		</data>
 		<key>Headers/ReportKit.h</key>
 		<data>
-		ANWviF69vJR/muDoJQGD7Ys/pvo=
+		HFgA8Xzn98g2eZbsW15Ud91La0s=
 		</data>
 		<key>Info.plist</key>
 		<data>
@@ -398,7 +398,7 @@
 		</data>
 		<key>PrivateHeaders/RKBarcode+Private.h</key>
 		<data>
-		W5WAiyatFCgycS/+vlnX7fWPaeM=
+		6TZeSr3eAlyLLdW9G8N2vckUxAk=
 		</data>
 		<key>PrivateHeaders/RKBarcode.h</key>
 		<data>
@@ -1096,7 +1096,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			FyMXv8jqx9CrYgBN1+jOTW7c39+2dAxtK60PUnQdMDk=
+			F6MueWn6oDJwCSiWI9Wk+vmHLZpswj1u3QioU4pB3o8=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -1110,7 +1110,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			+5tcQRCDrvXceAOZAFYZRixfnKYhJQVFU7PLyEC1atU=
+			CYL3NZISnOdzuCQF8YP8/OBjodSbYufkyASF5Y8S2FI=
 			</data>
 		</dict>
 		<key>PrivateHeaders/RKBarcode.h</key>

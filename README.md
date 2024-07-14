@@ -96,3 +96,5 @@
 1.3.25 Fixed parentContentObject method
 
 1.3.26 Added logging to parentContentObject method to debug issue
+
+1.3.27 Resolved stupid error with 1.3.25 (failed to actually replace the framework!)

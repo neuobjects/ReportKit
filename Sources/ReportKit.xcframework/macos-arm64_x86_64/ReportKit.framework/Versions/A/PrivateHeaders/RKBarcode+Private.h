@@ -8,7 +8,7 @@
 #import <Foundation/Foundation.h>
 #import <ReportKit/RKReportKitDataTypes.h>
 #import <ReportKit/RKBarcodeFormat.h>
-#import <RKBarcode.h>
+#import "RKBarcode.h"
 
 @interface RKBarcode (Private)
 /**
