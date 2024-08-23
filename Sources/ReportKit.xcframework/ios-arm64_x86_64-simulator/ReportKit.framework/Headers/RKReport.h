@@ -26,7 +26,7 @@
  As the report is being gererated, this method can be used to retrieve the index of the given primary record. This is especially useful when combining multiple instances of a report into a single PDF
  @return the index of the primary record
 */
--(NSInteger) currentPrimaryRecordIndex;
+-(NSInteger) primaryRecordIndex;
 
 /**
  Generates the PDF

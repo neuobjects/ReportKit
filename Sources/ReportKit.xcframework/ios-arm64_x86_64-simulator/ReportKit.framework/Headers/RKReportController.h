@@ -15,12 +15,12 @@
 @class RKDocumentAttributes;
 @class RKReportBuilderProjectModel;
 /**
- `RKBaseReportController` The methods an object adopts to generate a report.
+ The `RKReportController` is a controller that specializes in the generation of a report.
  
- ## RKReportDelegate Delegate
+ ## RKReportDelegate
  This delegate provides methods to allow you to populate the report.
  
- ## RKReportDataSource Delegate
+ ## RKReportDataSource
  This delegate provides methods that are called during the generation of the report. method names correspond to events within the reporting engine - willPrepareReport:, didPrepareReport:, etc.
  */
 //NS_ASSUME_NONNULL_BEGIN
