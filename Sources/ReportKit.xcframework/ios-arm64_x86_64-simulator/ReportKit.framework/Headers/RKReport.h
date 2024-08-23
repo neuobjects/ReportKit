@@ -23,7 +23,7 @@
 @property (readonly, nonatomic, strong) RKDocumentAttributes * _Nonnull documentAttributes;
 
 /**
- As the report is being gererated, this method can be used to retrieve the index of the given primary record. This is especially useful when combining multiple instances of a report into a single PDF
+ As the report is being generated, this method can be used to retrieve the index of the current primary record. This is especially useful when combining multiple instances of a report into a single PDF
  @return the index of the primary record
 */
 -(NSInteger) primaryRecordIndex;
