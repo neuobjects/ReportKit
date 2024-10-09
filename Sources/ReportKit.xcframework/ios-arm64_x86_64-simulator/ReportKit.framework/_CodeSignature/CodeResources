@@ -286,7 +286,7 @@
 		</data>
 		<key>Headers/RKReportBuilderProjectModel.h</key>
 		<data>
-		VPUB7PDuGBRpMsK/ZqJl0FBPq3w=
+		4z3INKuBNY1pDBV6d6WPzzn+4lU=
 		</data>
 		<key>Headers/RKReportController.h</key>
 		<data>
@@ -298,7 +298,7 @@
 		</data>
 		<key>Headers/RKReportDelegate.h</key>
 		<data>
-		am3qdgJDSjOnQa9AsdsMQUsuQPU=
+		0wcrsAljQTt9pGKS1htyVVzPJaU=
 		</data>
 		<key>Headers/RKReportGroup.h</key>
 		<data>
@@ -306,7 +306,7 @@
 		</data>
 		<key>Headers/RKReportKitDataTypes.h</key>
 		<data>
-		nnZp/0ef2TzUjAZWE3r7fTc6FZU=
+		qBwyrJo6Ih8nqdKrQe1HYS19F6k=
 		</data>
 		<key>Headers/RKReportMessage.h</key>
 		<data>
@@ -386,11 +386,11 @@
 		</data>
 		<key>Headers/ReportKit.h</key>
 		<data>
-		HFgA8Xzn98g2eZbsW15Ud91La0s=
+		vtZuo4EvxQ6Ru5KZqWZdMtgEUrw=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		tfPJNnzgXWdjU7pmv89w1GEFMgs=
+		zW+kGVMxPDnpjYzMWHrVIUWbbDw=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -407,10 +407,6 @@
 		<key>PrivateHeaders/RKColorUtilities.h</key>
 		<data>
 		8rTE4gMvUFpgrz8JUiiFR/y1xsM=
-		</data>
-		<key>PrivateHeaders/RKIntrospector.h</key>
-		<data>
-		Q2UKdkJPpoZMeMUPKsXdNTic8as=
 		</data>
 		<key>PrivateHeaders/RKLineUtilities.h</key>
 		<data>
@@ -921,7 +917,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			AcVvU5PwXjlr5Y8XKhh7Tfg6crkZQlsTSS8m1WsmF9k=
+			wQXMhzDOGi2UtwhFhkxcqfIqUOwS3Ob+WVGaFfQAOak=
 			</data>
 		</dict>
 		<key>Headers/RKReportController.h</key>
@@ -942,7 +938,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			S197Ck32Evbq5Lj5kPaI/F31aXN7HeLfS438ER5q4b0=
+			LpPaCC/mSj3Vi1UYDBeEJW6jkeqLyJbD2Aoi2EtqmxQ=
 			</data>
 		</dict>
 		<key>Headers/RKReportGroup.h</key>
@@ -956,7 +952,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			4eKjPkAk4BQm1a/ncZuJGk5aWhsx8vxcL7GeBEjaNCI=
+			RSGQrMXHcWXPquoK92yS1RVqiayPWGbZ3KyfqCpCghA=
 			</data>
 		</dict>
 		<key>Headers/RKReportMessage.h</key>
@@ -1096,7 +1092,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			F6MueWn6oDJwCSiWI9Wk+vmHLZpswj1u3QioU4pB3o8=
+			eJViPlmXVy+YJJFwWUsdRQaEyWN02acx+85+GMc24Zs=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -1125,13 +1121,6 @@
 			<key>hash2</key>
 			<data>
 			FWz22QrEofqIH6Lm7/bXXpzkcBwB2nx/Qy5E9Lkrfwo=
-			</data>
-		</dict>
-		<key>PrivateHeaders/RKIntrospector.h</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			aeNmNu+sLN3TAlVjtjxMgQHJvoJbkvyKppt0O1mb6jk=
 			</data>
 		</dict>
 		<key>PrivateHeaders/RKLineUtilities.h</key>

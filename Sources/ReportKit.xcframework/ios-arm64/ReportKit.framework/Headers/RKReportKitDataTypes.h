@@ -70,11 +70,11 @@ typedef void (^RKGenerateViewHandler)(RKView *view, BOOL success, NSArray<RKRepo
 /**
  The clamping location specifies the positioning behavior of a component when it's band is resized.
  
- • RKComponentClampingLocationTop - The component retains the same margin as was designed.
+ • RKComponentClampingLocationTop - The component retains the same top margin as was designed.
  
  • RKComponentClampingLocationCenter - The component retains it's position relative to the center of the band that's resized.
  
- • RKComponentClampingLocationBottom - The component retains the same margin as was designed.
+ • RKComponentClampingLocationBottom - The component retains the same bottom margin as was designed.
  
  • RKComponentClampingLocationTopAndBottom - The component is resized to retain both the top and bottom margin, relative to be the band edges.
  

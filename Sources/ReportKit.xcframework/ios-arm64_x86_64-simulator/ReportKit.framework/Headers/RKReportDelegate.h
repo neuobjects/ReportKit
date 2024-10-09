@@ -26,12 +26,12 @@
 
 @optional
 /**
- Called during `generateReport` when the report is about to prepared. The preparation process includes all the work required to generate and layout the individual components, bands and pages that make up the final report.
+ Called during `prepareReport` when the report is about to prepared. The preparation process includes all the work required to generate and layout the individual components, bands and pages that make up the final report.
  @param report The instance of the generated report. For this method, the `report` property only contains the Report Properties that were assigned in Report Builder.
  */
 -(void) willPrepareReport:(RKReport *) report;
 /**
- Called at the the end of `generateReport` when the report has been fully-generated.
+ Called at the the end of `prepareReport` when the report has been fully-generated.
  @param report The instance of the generated report. When this method is called, `report` contains the finished report.
  */
 -(void) didPrepareReport:(RKReport *) report;//called from generateReport and subreportToPdf
