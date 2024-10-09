@@ -123,14 +123,14 @@ FOUNDATION_EXPORT const unsigned char ReportKitVersionString[];
 /**
  Load the report model from the given URL.
  */
-/*
+
 +(RKReportBuilderProjectModel * _Nullable) loadProjectModelFromURL:(NSURL * _Nonnull) fileURL;
 /**
  Load the report model from the bundle
  @param reportName The report to load. Example: MyReport.rbreport
  @param bundle The bundle that contains the report.
- * /
+ */
 +(RKReportBuilderProjectModel * _Nullable) loadProjectModelNamed:(NSString * _Nonnull) reportName
                                                       fromBundle:(NSBundle * _Nonnull) bundle;
-*/
+
 @end
