@@ -6,6 +6,22 @@
 	<array>
 		<dict>
 			<key>BinaryPath</key>
+			<string>ReportKit.framework/Versions/A/ReportKit</string>
+			<key>LibraryIdentifier</key>
+			<string>ios-arm64-maccatalyst</string>
+			<key>LibraryPath</key>
+			<string>ReportKit.framework</string>
+			<key>SupportedArchitectures</key>
+			<array>
+				<string>arm64</string>
+			</array>
+			<key>SupportedPlatform</key>
+			<string>ios</string>
+			<key>SupportedPlatformVariant</key>
+			<string>maccatalyst</string>
+		</dict>
+		<dict>
+			<key>BinaryPath</key>
 			<string>ReportKit.framework/ReportKit</string>
 			<key>LibraryIdentifier</key>
 			<string>ios-arm64</string>
@@ -31,22 +47,6 @@
 			</array>
 			<key>SupportedPlatform</key>
 			<string>macos</string>
-		</dict>
-		<dict>
-			<key>BinaryPath</key>
-			<string>ReportKit.framework/Versions/A/ReportKit</string>
-			<key>LibraryIdentifier</key>
-			<string>ios-arm64-maccatalyst</string>
-			<key>LibraryPath</key>
-			<string>ReportKit.framework</string>
-			<key>SupportedArchitectures</key>
-			<array>
-				<string>arm64</string>
-			</array>
-			<key>SupportedPlatform</key>
-			<string>ios</string>
-			<key>SupportedPlatformVariant</key>
-			<string>maccatalyst</string>
 		</dict>
 		<dict>
 			<key>BinaryPath</key>
