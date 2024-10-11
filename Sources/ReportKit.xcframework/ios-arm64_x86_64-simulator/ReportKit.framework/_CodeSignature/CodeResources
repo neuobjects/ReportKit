@@ -132,6 +132,10 @@
 		<data>
 		oY7LVRA/h8AsUy8VNXKeJrkkcx4=
 		</data>
+		<key>Headers/RKColorUtilities.h</key>
+		<data>
+		5ffUzk6Xob/iPQWN6uaoa01hkHU=
+		</data>
 		<key>Headers/RKCombinedChartComponentTemplate.h</key>
 		<data>
 		wQpYF87itBURbYo+6HBI153kNlM=
@@ -215,6 +219,14 @@
 		<key>Headers/RKLineChartComponentView.h</key>
 		<data>
 		aKfHZ8ffXIbp1+0vLSxWy0jiWZ4=
+		</data>
+		<key>Headers/RKLineUtilities.h</key>
+		<data>
+		3dIdoeoFc6JyipTElPq9wTl/oY4=
+		</data>
+		<key>Headers/RKNamedColor.h</key>
+		<data>
+		840dWQG2T/DAjQUIVoQUeKPWLro=
 		</data>
 		<key>Headers/RKNegativeBarChartComponentTemplate.h</key>
 		<data>
@@ -386,11 +398,11 @@
 		</data>
 		<key>Headers/ReportKit.h</key>
 		<data>
-		V+TBOazpefabnTvF2KM3mMzWXXI=
+		gf4ZIpORo+hf2/0bpRu+ml8Plwc=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		zW+kGVMxPDnpjYzMWHrVIUWbbDw=
+		OgdYrHFUw6FkgYUZU6piy4PVfI4=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -403,22 +415,6 @@
 		<key>PrivateHeaders/RKBarcode.h</key>
 		<data>
 		khVCaX7R7r2vDDciYWQGXX/37Ww=
-		</data>
-		<key>PrivateHeaders/RKColorUtilities.h</key>
-		<data>
-		8rTE4gMvUFpgrz8JUiiFR/y1xsM=
-		</data>
-		<key>PrivateHeaders/RKLineUtilities.h</key>
-		<data>
-		3dIdoeoFc6JyipTElPq9wTl/oY4=
-		</data>
-		<key>PrivateHeaders/RKNamedColor.h</key>
-		<data>
-		8lT7Q+66irWrL5yk1TIfQAq1ScM=
-		</data>
-		<key>PrivateHeaders/RKReportBuilderProject.h</key>
-		<data>
-		HVged6nCP0I/WD/mBDo9dIirrLs=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -647,6 +643,13 @@
 			QpqDeHHiwUIXCD61sE/ttjLKApCvZCmghyHfWCw99SA=
 			</data>
 		</dict>
+		<key>Headers/RKColorUtilities.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			gn0PhL48IyjAxaXuyZgJ5wcCa/xUrgf388JsES6ySl0=
+			</data>
+		</dict>
 		<key>Headers/RKCombinedChartComponentTemplate.h</key>
 		<dict>
 			<key>hash2</key>
@@ -792,6 +795,20 @@
 			<key>hash2</key>
 			<data>
 			UmwWNh0mE01c+HsQnW3bzIjTfyP1Lr2LXESPvGkbR+Q=
+			</data>
+		</dict>
+		<key>Headers/RKLineUtilities.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			vNSreX4ZYiceSjAN77p3p+zLyXhQaAYtjMaPaIQo/1c=
+			</data>
+		</dict>
+		<key>Headers/RKNamedColor.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			hUxYDsDX6PFVtguYHi8eCqjqG8WUShGhJdCkOSZqqc8=
 			</data>
 		</dict>
 		<key>Headers/RKNegativeBarChartComponentTemplate.h</key>
@@ -1092,7 +1109,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			kA5HJUcqIy+ij+lwoB9BMlOGUimSrDd/MER4P9Q7WuY=
+			pcwftju/AklYkp9OTesviXiY71v8AzWIMgoliNnEDsQ=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -1114,34 +1131,6 @@
 			<key>hash2</key>
 			<data>
 			I9PLaYoOqjArR+1FZVeaC0TUKw5zzDc8Cp3xJSk8q5A=
-			</data>
-		</dict>
-		<key>PrivateHeaders/RKColorUtilities.h</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			FWz22QrEofqIH6Lm7/bXXpzkcBwB2nx/Qy5E9Lkrfwo=
-			</data>
-		</dict>
-		<key>PrivateHeaders/RKLineUtilities.h</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			vNSreX4ZYiceSjAN77p3p+zLyXhQaAYtjMaPaIQo/1c=
-			</data>
-		</dict>
-		<key>PrivateHeaders/RKNamedColor.h</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			ssESE0UOQE2Ea9SUqySSbO0IZ4fOnZ8UEbui/wxNWKQ=
-			</data>
-		</dict>
-		<key>PrivateHeaders/RKReportBuilderProject.h</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			Dmc6hTuis3n5Qkm7vBNkK+v6vq04ghLTpPu9BOGG1SA=
 			</data>
 		</dict>
 	</dict>

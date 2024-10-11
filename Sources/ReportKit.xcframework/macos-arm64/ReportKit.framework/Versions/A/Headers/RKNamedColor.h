@@ -31,7 +31,7 @@ NS_ASSUME_NONNULL_BEGIN
 /**
  The green component of the color.
  */
-@property (readonly, nonatomic) CGFloat green;
+@property (readonly, nonatomic) CGFloat green;  
 /**
  The blue component of the color.
  */

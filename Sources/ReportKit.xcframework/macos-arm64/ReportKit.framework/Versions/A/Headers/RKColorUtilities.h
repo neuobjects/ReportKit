@@ -17,7 +17,7 @@ NS_ASSUME_NONNULL_BEGIN
  */
 @interface RKColorUtilities : NSObject
 
-+(NSArray *) colorsForTheme:(RKChartColorTheme) theme;
++(NSArray<RKColor *> *) colorsForTheme:(RKChartColorTheme) theme;
 
 @end
 

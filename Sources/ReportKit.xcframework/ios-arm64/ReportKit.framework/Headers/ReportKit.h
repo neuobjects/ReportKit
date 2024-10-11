@@ -55,9 +55,9 @@ FOUNDATION_EXPORT const unsigned char ReportKitVersionString[];
 #import <ReportKit/RKScatterChartComponentTemplate.h>
 #import <ReportKit/RKCustomViewComponentTemplate.h>
 #import <ReportKit/RKSubreportComponentTemplate.h>
-//private #import <ReportKit/RKNamedColor.h>
-//private #import <ReportKit/RKColorUtilities.h>
-//private #import <ReportKit/RKLineUtilities.h>
+#import <ReportKit/RKNamedColor.h>
+#import <ReportKit/RKColorUtilities.h>
+#import <ReportKit/RKLineUtilities.h>
 #import <ReportKit/RKColor+ReportKit.h>
 #import <ReportKit/RKView+ReportKit.h> //see if we can move this one when/if we combine the frameworks
 #import <ReportKit/RKBezierPath+ReportKit.h> //see if we can move this one when/if we combine the frameworks
@@ -117,6 +117,7 @@ FOUNDATION_EXPORT const unsigned char ReportKitVersionString[];
 #import <ReportKit/RKDocumentAttributes.h>
 #import <ReportKit/RKReportController.h>
 #import <ReportKit/RKReportMessage.h>
+#import <ReportKit/RKChartValueFormatter.h>
 
 @interface ReportKit : NSObject
 
