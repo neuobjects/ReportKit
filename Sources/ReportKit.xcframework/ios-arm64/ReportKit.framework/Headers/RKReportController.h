@@ -21,7 +21,7 @@
  This delegate provides methods to allow you to populate the report.
  
  ## RKReportDataSource
- This delegate provides methods that are called during the generation of the report. method names correspond to events within the reporting engine - willPrepareReport:, didPrepareReport:, etc.
+ This delegate provides methods that are called during the generation of the report. Method names correspond to events within the reporting engine - `willPrepareReport:`, `didPrepareReport:`, etc.
  */
 //NS_ASSUME_NONNULL_BEGIN
 

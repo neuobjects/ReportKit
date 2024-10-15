@@ -33,7 +33,7 @@
  @param completionHandler Includes the generated PDF and a flag to indicate whether the PDF was successfully created. A list of repprt messages will also get returned. This list includes warning and errors that were encountered while generating the PDF.
  
  */
--(void) generatePdfWithCompletionHandler:(RKGeneratePdfHandler _Nonnull) completionHandler;
+-(void) generatePDFWithCompletionHandler:(RKGeneratePdfHandler _Nonnull) completionHandler;
 /**
  Converts the report to a PDF.
  @return The PDF for the generated report
