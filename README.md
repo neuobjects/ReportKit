@@ -1,10 +1,4 @@
-<p align="center">
-<a href="https://www.reportbuilderx.com">
-<img src="https://reportbuilderx.com/reportkit-resources/FrameworkToolbox@2x.png" height="100" alt="ReportKit">
-</a>
-<p align="center"><strong>The unofficial reporting framework for iOS and macOS applications</strong></p>
-</p>
-
+![ReportKit](https://reportbuilderx.com/reportkit-resources/ReportKitLogo.png)
 
 # Summary
 [![Swift Package Manager compatible](https://img.shields.io/badge/spm-compatible-brightgreen.svg?style=flat)](https://swift.org/package-manager)
