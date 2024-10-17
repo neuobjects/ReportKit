@@ -1,4 +1,4 @@
-![ReportKit](https://reportbuilderx.com/reportkit-resources/ReportKitLogo.png)
+![ReportKit](https://reportbuilderx.com/reportkit-resources/ReportKitLogoWithText.png)
 
 # Summary
 [![Swift Package Manager compatible](https://img.shields.io/badge/spm-compatible-brightgreen.svg?style=flat)](https://swift.org/package-manager)
