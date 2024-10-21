@@ -64,7 +64,7 @@
   #define RKApplication UIApplication
 #endif
 
-typedef void (^RKGeneratePdfHandler)(PDFDocument *document, BOOL success, NSArray<RKReportMessage *> *reportMessages);
+typedef void (^RKGeneratePDFHandler)(PDFDocument *document, BOOL success, NSArray<RKReportMessage *> *reportMessages);
 typedef void (^RKGenerateViewHandler)(RKView *view, BOOL success, NSArray<RKReportMessage *> *reportMessages);
 
 /**

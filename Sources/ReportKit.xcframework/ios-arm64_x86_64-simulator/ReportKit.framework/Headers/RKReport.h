@@ -33,7 +33,8 @@
  @param completionHandler Includes the generated PDF and a flag to indicate whether the PDF was successfully created. A list of repprt messages will also get returned. This list includes warning and errors that were encountered while generating the PDF.
  
  */
--(void) generatePDFWithCompletionHandler:(RKGeneratePdfHandler _Nonnull) completionHandler;
+
+-(void) generatePDFWithCompletionHandler:(RKGeneratePDFHandler _Nonnull) completionHandler;
 /**
  Converts the report to a PDF.
  @return The PDF for the generated report
@@ -62,13 +63,13 @@
  */
 //-(RKReportProperties *) reportProperties;
 /**
-  Preparation errors occur when the pages are getting generation. These errors become available after calling prepareReport or prepareSubreport
-  @return An array of errors that occurred while preparing the report.
+  Preparation errors occur when the pages are getting generation. These errors become available after calling prepareReport or prepareSubreport.
+  @return An array of warnings and errors that occurred while preparing the report.
  */
 -(NSArray<RKReportMessage *> * _Nonnull) preparationErrors;
 /**
- Generation errors occur when the report is getting turned into NS/UIView objects. These errors become available after calling generateReport or generateSubreport
- @return An array of errors that occurred while generating the report.
+ Generation errors occur when the report is getting turned into NS/UIView objects. These errors become available after calling generateReport or generateSubreport.
+ @return An array of warnings and errors that occurred while generating the report.
  */
 -(NSArray<RKReportMessage *> * _Nonnull) generationErrors;
 
