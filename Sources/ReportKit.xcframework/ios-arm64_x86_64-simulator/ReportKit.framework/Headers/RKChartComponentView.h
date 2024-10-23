@@ -1,21 +1,19 @@
 //
 //  RKChartComponentView.h
-//  ReportBuilderPrototypeApp
+//  ReportBuilder
 //
 //  Created by Brian Lazarz on 4/28/22.
+//  Copyright © 2024 neuObjects Incorporated. All rights reserved.
 //
 
 #import <ReportKit/RKComponentView.h>
-//#import <ReportKit/ReportKit.h>
 #import <ReportKit/RKReportKitDataTypes.h>
-//@import Charts;
-//@import Charts;
-////@import DGCharts;
 @class ChartViewBase;
+
 NS_ASSUME_NONNULL_BEGIN
 
 /**
- The `RKChartComponentView` class contains the properties needed to draw a chart view
+ The `RKChartComponentView` class contains the properties needed to draw a chart view.
  */
 @interface RKChartComponentView : RKComponentView
 /**
@@ -23,7 +21,7 @@ NS_ASSUME_NONNULL_BEGIN
  */
 @property (readonly, weak) ChartViewBase *chartView;
 /**
- An array of colors that belong to the assigned theme
+ An array of colors that belong to the assigned theme.
  */
 @property (readonly, nonatomic, strong) NSArray<RKColor *> *themeColors;
 

@@ -1,8 +1,9 @@
 //
 //  RKCustomView.h
-//  ReportBuilderPrototypeApp
+//  ReportBuilder
 //
 //  Created by Brian Lazarz on 7/20/22.
+//  Copyright © 2024 neuObjects Incorporated. All rights reserved.
 //
 
 #import <ReportKit/RKComponentView.h>

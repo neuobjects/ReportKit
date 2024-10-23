@@ -1,8 +1,9 @@
 //
 //  RKVerticalLineComponentView.h
-//  ReportBuilderPrototypeApp
+//  ReportBuilder
 //
 //  Created by Brian Lazarz on 3/4/22.
+//  Copyright © 2024 neuObjects Incorporated. All rights reserved.
 //
 
 #import <ReportKit/RKShapeComponentView.h>

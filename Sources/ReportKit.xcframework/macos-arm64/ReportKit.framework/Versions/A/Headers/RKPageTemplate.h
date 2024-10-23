@@ -1,5 +1,5 @@
 //
-//  PageModel.h
+//  RKPageTemplate.h
 //  ReportBuilder
 //
 //  Created by Brian Lazarz on 11/18/21.
@@ -58,11 +58,11 @@ NS_ASSUME_NONNULL_BEGIN
  */
 @property (readonly, nonatomic, strong) RKColor *backgroundColor;
 /**
- REMOVE THIS
+ The name of the paper entry in the Layout Size popup button.
  */
 @property (readonly, nonatomic, copy) NSString *paperName;
 /**
- The page orientation - Portrait or Landscape
+ The page orientation - Portrait or Landscape.
  */
 @property (readonly, nonatomic) RKPageOrientation orientation;
 /**
@@ -85,14 +85,6 @@ NS_ASSUME_NONNULL_BEGIN
  The frame rectangle of the page.
  */
 @property (readonly, nonatomic) CGRect frame;
-/**
- REMOVE THIS
- */
-//@property (readonly, nonatomic, copy) NSString<Optional> *themeName;
-/**
- REMOVE THIS
- */
-//@property (readonly, nonatomic) CGFloat themeAlpha;
 /**
  The array of bands used in the report.
  */
@@ -127,19 +119,33 @@ NS_ASSUME_NONNULL_BEGIN
  */
 @property (readonly, nonatomic) BOOL overlayEnabled;
 
-//-(void) addBand:(RKBandTemplate *) band;
 /**
- 
- */
-/* REMOVE these. aren't used?
- -(RKGroupIdentifier *) contentGroupIdentifier;
+   Returns an array of the report header bands.
  */
 -(NSArray<RKBandTemplate *> *) reportHeaderBands;
+/**
+   Returns an array of the page header bands.
+ */
 -(NSArray<RKBandTemplate *> *) pageHeaderBands;
+/**
+   Returns an array of the group header bands for the given identifier.
+ */
 -(NSArray<RKBandTemplate *> *) groupHeaderBandsForIdentifier:(NSString *) identifier;
+/**
+   Returns an array of the content bands.
+ */
 -(NSArray<RKBandTemplate *> *) groupContentBands;
+/**
+   Returns an array of the group footer bands for the given identifier
+ */
 -(NSArray<RKBandTemplate *> *) groupFooterBandsForIdentifier:(NSString *) identifier;
+/**
+   Returns an array of the page footer bands.
+ */
 -(NSArray<RKBandTemplate *> *) pageFooterBands;
+/**
+   Returns an array of the report footer bands.
+ */
 -(NSArray<RKBandTemplate *> *) reportFooterBands;
 
 @end

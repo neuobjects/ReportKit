@@ -3,6 +3,7 @@
 //  ReportKitFramework
 //
 //  Created by Brian Lazarz on 2/11/24.
+//  Copyright © 2024 neuObjects Incorporated. All rights reserved.
 //
 
 #import <Foundation/Foundation.h>
@@ -34,6 +35,9 @@ NS_ASSUME_NONNULL_BEGIN
  */
 @property (nonatomic, copy) NSArray<NSString *> *keywords;
 
+/**
+ Returns a list of comma-delimited keywords.
+ */
 -(NSString *) reportKeywordString;
 
 @end

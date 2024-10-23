@@ -1,5 +1,5 @@
 //
-//  CustomViewComponentModel.h
+//  RKCustomViewComponentTemplate.h
 //  ReportBuilder
 //
 //  Created by Brian Lazarz on 6/13/22.

@@ -27,7 +27,7 @@ NS_ASSUME_NONNULL_BEGIN
                          size:(CGSize) size;
 /**
  Creates an image of the barcode.
- @param format The barcode format
+ @param format The barcode format.
  @param error An object describing the error that occurred while generating the barcode.
  @return An image containing the barcode.
  */

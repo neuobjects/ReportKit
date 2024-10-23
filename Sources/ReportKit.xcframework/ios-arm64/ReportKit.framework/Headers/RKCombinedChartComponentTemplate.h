@@ -1,5 +1,5 @@
 //
-//  CombinedChartComponentModel.h
+//  RKCombinedChartComponentTemplate.h
 //  ReportBuilder
 //
 //  Created by Brian Lazarz on 11/19/21.
@@ -16,7 +16,7 @@ NS_ASSUME_NONNULL_BEGIN
 @interface RKCombinedChartComponentTemplate : RKBarLineChartComponentTemplate
 
 /**
- the loction relative to the bar to draw the values.
+ The location relative to the bar to draw the values.
  */
 @property (readonly, nonatomic) NSInteger valueLocation;
 /**

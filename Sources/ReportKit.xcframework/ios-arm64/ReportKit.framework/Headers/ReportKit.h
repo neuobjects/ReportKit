@@ -21,16 +21,13 @@ FOUNDATION_EXPORT const unsigned char ReportKitVersionString[];
 #import <ReportKit/JSONKeyMapper.h>
 #import <ReportKit/RKReportKitDataTypes.h>
 #import <ReportKit/RKFontInformation.h>
-//private #import <ReportKit/RKReportBuilderProject.h>
 #import <ReportKit/RKReportBuilderProjectModel.h>
 #import <ReportKit/RKPageTemplate.h>
 #import <ReportKit/RKBandTemplate.h>
 #import <ReportKit/RKComponentTemplate.h>
 #import <ReportKit/RKDataAwareComponentTemplate.h>
 #import <ReportKit/RKTextComponentTemplate.h>
-#import <ReportKit/RKTextViewComponentTemplate.h>
 #import <ReportKit/RKSystemTextComponentTemplate.h>
-#import <ReportKit/RKRotatedTextComponentTemplate.h>
 #import <ReportKit/RKShapeComponentTemplate.h>
 #import <ReportKit/RKHorizontalLineComponentTemplate.h>
 #import <ReportKit/RKVerticalLineComponentTemplate.h>
@@ -59,22 +56,18 @@ FOUNDATION_EXPORT const unsigned char ReportKitVersionString[];
 #import <ReportKit/RKColorUtilities.h>
 #import <ReportKit/RKLineUtilities.h>
 #import <ReportKit/RKColor+ReportKit.h>
-#import <ReportKit/RKView+ReportKit.h> //see if we can move this one when/if we combine the frameworks
-#import <ReportKit/RKBezierPath+ReportKit.h> //see if we can move this one when/if we combine the frameworks
+#import <ReportKit/RKView+ReportKit.h>
+#import <ReportKit/RKBezierPath+ReportKit.h>
 #import <ReportKit/NSDateFormatter+ReportKit.h>
-//#import <ReportKit/RKIntrospector.h> //see if we can make this private and move this one when/if we combine the frameworks
-#import <ReportKit/RKValueFormattingOptions.h> //See if we can make this private when we combine the frameworks. I don't like this class. can we split it out into different subclasses? it's a catch-all
+#import <ReportKit/RKValueFormattingOptions.h> 
 #import <ReportKit/RKNumberValueFormatter.h>
 #import <ReportKit/RKCurrencySpelledOutValueFormatter.h>
 #import <ReportKit/RKDateTimeValueFormatter.h>
 #import <ReportKit/RKBooleanValueFormatter.h>
-//not needed ? #import <ReportKit/RKCurrency.h>
 #import <ReportKit/RKBarcodeFormat.h>
-//#import <ReportKit/RKBarcode.h> made private
 #import <ReportKit/RKGroupIdentifier.h>
 #import <ReportKit/RKGroupIdentifierList.h>
-//ReportKit IDE above
-//private #import <ReportKit/RKGlobalDefinitions.h>//move the definitions when we merge frameworks
+
 #import <ReportKit/RKComponent.h>
 #import <ReportKit/RKComponentView.h>
 #import <ReportKit/RKBandView.h>
@@ -95,13 +88,11 @@ FOUNDATION_EXPORT const unsigned char ReportKitVersionString[];
 #import <ReportKit/RKPieRadarComponentView.h>
 #import <ReportKit/RKRadarChartComponentView.h>
 #import <ReportKit/RKRectangleComponentView.h>
-#import <ReportKit/RKRotatedTextComponentView.h>
 #import <ReportKit/RKScatterChartComponentView.h>
 #import <ReportKit/RKShapeComponentView.h>
 #import <ReportKit/RKSubreportComponentView.h>
 #import <ReportKit/RKSystemTextComponentView.h>
 #import <ReportKit/RKTextComponentView.h>
-#import <ReportKit/RKTextViewComponentView.h>
 #import <ReportKit/RKVerticalLineComponentView.h>
 #import <ReportKit/RKPageView.h>
 #import <ReportKit/RKReportDataSource.h>
@@ -109,10 +100,10 @@ FOUNDATION_EXPORT const unsigned char ReportKitVersionString[];
 #import <ReportKit/RKChartValueFormatter.h>
 #import <ReportKit/RKChartAxisValueFormatter.h>
 #import <ReportKit/RKPageableTextContainer.h>
-#import <ReportKit/RKReportGroup.h> //revisit
-#import <ReportKit/RKGroupTemplate.h> //revisit
-#import <ReportKit/RKBand.h> //revisit
-#import <ReportKit/RKPage.h> //revisit
+#import <ReportKit/RKReportGroup.h>
+#import <ReportKit/RKGroupTemplate.h>
+#import <ReportKit/RKBand.h>
+#import <ReportKit/RKPage.h>
 #import <ReportKit/RKReport.h>
 #import <ReportKit/RKDocumentAttributes.h>
 #import <ReportKit/RKReportController.h>
@@ -127,7 +118,7 @@ FOUNDATION_EXPORT const unsigned char ReportKitVersionString[];
 
 +(RKReportBuilderProjectModel * _Nullable) loadProjectModelFromURL:(NSURL * _Nonnull) fileURL;
 /**
- Load the report model from the bundle
+ Load the report model from the bundle.
  @param reportName The report to load. Example: MyReport.rbreport
  @param bundle The bundle that contains the report.
  */

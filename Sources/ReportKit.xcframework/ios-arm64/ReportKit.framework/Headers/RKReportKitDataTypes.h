@@ -4,8 +4,9 @@
 //
 //  Created by Brian Lazarz on 10/18/23.
 //  Copyright © 2023 neuObjects Incorporated. All rights reserved.
-// typedefs allow the types to be recognized by Swift
-// #defines allow us to define a single category for both the AppKit and UIKKit classes
+//
+//  typedefs allow the types to be recognized by Swift
+//  #defines allow us to define a single category for both the AppKit and UIKKit classes
 //
 #import <TargetConditionals.h>
 
@@ -321,18 +322,6 @@ typedef enum RKComponentBorderOptions : NSInteger{
   RKComponentBorderOptionsNone = (1 << 5)
 } RKComponentBorderOptions;
 
-//START HERE: REMOVE THIS!
-/*
-moved to ApplicationClasses
-typedef enum RKComponentBorderPosition : NSInteger{
-  RKComponentBorderPositionTop,
-  RKComponentBorderPositionBottom,
-  RKComponentBorderPositionBottomDouble,
-  RKComponentBorderPositionTopBottom,
-  RKComponentBorderPositionAll,
-  RKComponentBorderPositionNone
-} RKComponentBorderPosition;
-*/
 typedef enum RKLineStyle : NSInteger {
   RKLineStyleNone,
   RKLineStyleSolid,
@@ -396,12 +385,8 @@ typedef enum RKLineCapStyle : NSInteger
 typedef enum RKFontType : NSInteger
 {
   RKFontTypeNone,
-  //LATER RKFontTypeAssetCatalog,
-  //LATER RKFontTypeSystem,
   RKFontTypeCustom,
   RKFontTypeProject
-  //RKFontTypeLater1,
-  //RKFontTypeLater2,
 } RKFontType;
 
 typedef enum RKChartType : NSInteger
@@ -418,7 +403,7 @@ typedef enum RKChartType : NSInteger
   RKChartTypeBarChartNegativeStacked,
   RKChartTypeBarChartPositiveNegative,
   RKChartTypeCombinedChart,
-  RKChartTypeMultipleSelections//for the chart type popup button
+  RKChartTypeMultipleSelections
 } RKChartType;
 
 typedef enum RKBarLineChartType : NSInteger
@@ -505,14 +490,6 @@ typedef enum RKMessageType : NSInteger
 typedef enum : NSUInteger
 {
   RKContentTypeUnknown,
-  //RKContentTypeSubreport,
   RKContentTypeDetail,
   RKContentTypeGroup
 } RKContentType;
-
-/*
-@protocol ChartAxisValueFormatter
-@end
-@protocol ChartValueFormatter
-@end
-*/

@@ -1,12 +1,12 @@
 //
 //  RKReportDataSource.h
-//  ReportBuilderPrototypeApp
+//  ReportBuilder
 //
 //  Created by Brian Lazarz on 7/28/22.
+//  Copyright © 2024 neuObjects Incorporated. All rights reserved.
 //
 
 #import <Foundation/Foundation.h>
-//#import <ReportKit/ReportKit.h>
 #import <ReportKit/RKReportKitDataTypes.h>
 #import <ReportKit/RKChartValueFormatter.h>
 #import <ReportKit/RKChartAxisValueFormatter.h>
@@ -21,18 +21,21 @@
 
 /**
  The `RKReportDataSource` protocol defines a set of methods to be used to populate a report.
+ 
+ > Important: Most of these methods are @optional. For some reason, DocC is marking many of the optional methods as _Required_. The only required methods are the following:
+ 
+ ### Required Methods
+ `func numberOfReportEntries(for: RKPageTemplate!) -> Int`
+
+ `func report(RKReport!, numberOfGroupRowsIn: RKReportGroup!) -> Int`
+ 
+ `func report(RKReport!, numberOfDetailRowsIn: RKReportGroup!) -> Int`
+
  */
 
 @protocol RKReportDataSource <NSObject>
 
-/* *
- Provide a dictionary of values that are available report-wide.
- @param pageTemplate The design-time page template of the report getting produced.
- @return the number of records that will be printed for this report.
- 
- @discussion TODO - FINISH
- */
-/*!
+/**
  Return the number of records for the given page template
  @param pageTemplate The design-time page template of the report getting produced.
  @return The number of records that will be printed for this report.
@@ -40,15 +43,12 @@
  
  When a report has 0 primary records, the report will still generate with the Report and Page header and footer bands.
  */
--(NSInteger) numberOfReportEntriesForPageTemplate:(RKPageTemplate *) pageTemplate;//CONSIDER renaming to numberOfRecordsForPageTemplate (PrimaryRecords?)
+-(NSInteger) numberOfReportEntriesForPageTemplate:(RKPageTemplate *) pageTemplate;
 /**
  Provide the number of group rows that will be generated for this group.
  @param report The report getting generated.
  @param group The group that contains the detail rows.
  @return the number of group rows for the given group
-
- @discussion TODO - FINISH This is called before valuesForGroupHeader: is called and BEFORE loadDataIntoGroup
- TODO - I think we really need to have the report row here - NO?, this is the number of group rows
  */
 -(NSInteger) report:(RKReport *) report
 numberOfGroupRowsInGroup:(RKReportGroup *) group;
@@ -63,13 +63,10 @@ numberOfGroupRowsInGroup:(RKReportGroup *) group;
 numberOfDetailRowsInGroup:(RKReportGroup *) group;
 
 @optional
-//-(NSDictionary<NSString *, NSObject *> *) valueDictionaryForReport:(RKGeneratedReport *) report;
 /**
  Provide a dictionary of values that are available report-wide.
  @param report The report to provide values for.
  @return a dictionary of values that can be mapped to the report components on any band.
- 
- TODO: review this - rename? the name suggests we're providing all the report data
  */
 -(NSDictionary<NSString *, NSObject *> *) valuesForReport:(RKReport *) report;
 /**
@@ -195,7 +192,6 @@ subreportViewForComponent:(RKComponent *) component;
 
  The value formatter should conform to the ChartAxisValueFormatter protocol.
  */
-//-(NSObject <ChartAxisValueFormatter> *) report:(RKReport *) report
 -(NSObject <RKChartAxisValueFormatter> *) report:(RKReport *) report
                                             band:(RKBand *) band
                       axisValueFormatterForChart:(RKComponent *) chartComponent
@@ -209,7 +205,6 @@ subreportViewForComponent:(RKComponent *) component;
 
  The value formatter should conform to the ChartAxisValueFormatter protocol.
  */
-//-(NSObject <ChartValueFormatter> *) report:(RKReport *) report
 -(NSObject <RKChartValueFormatter> *) report:(RKReport *) report
                                         band:(RKBand *) band
                datasetValueFormatterForChart:(RKComponent *) chartComponent
@@ -219,5 +214,3 @@ subreportViewForComponent:(RKComponent *) component;
                            band:(RKBand *) band
             xAxisLabelsForChart:(RKComponent *) chartComponent;
 @end
-
-//START HERE: create a swift package for ReportKit ! Include the licensing logic (although if we push it to a private repository, we'll be fine. monit

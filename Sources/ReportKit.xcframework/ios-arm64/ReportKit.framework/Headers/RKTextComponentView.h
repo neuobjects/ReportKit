@@ -1,8 +1,9 @@
 //
 //  RKTextComponentView.h
-//  ReportBuilderPrototypeApp
+//  ReportBuilder
 //
 //  Created by Brian Lazarz on 1/24/22.
+//  Copyright © 2024 neuObjects Incorporated. All rights reserved.
 //
 
 #import <ReportKit/RKExpandableTextComponentView.h>
@@ -23,10 +24,9 @@
  */
 @property (nonatomic, copy) NSAttributedString *attributedStringValue;
 /**
+ Contains the text value after the value has been supplied by the report controller.
  */
-@property (nonatomic, copy) NSString *preparedText;//may be truncated(?) We have a preparedObjectValue and preparedText. make sure we document the difference. We may not need this one. What about the formatted value? should we use it for this? that's going to get confusing - so much (sort of) redundancy. it's messy.
-//THE FOLLOWING PROPERTIES ARE NATIVE VERSIONS OF RB*ComponentModel
-//RKDataAwareComponentObject
+@property (nonatomic, copy) NSString *preparedText;
 /**
  The model or key that the reporting engine uses to map the value to the component.
  
@@ -56,7 +56,7 @@
  */
 @property (nonatomic) RKTextVerticalAlignment verticalAlignment;//
 /**
- The space between the textField and the content frame. This should only get applied when the textfield frame is shorter than the component frame
+ The space between the textField and the content frame. This should only get applied when the textfield frame is shorter than the component frame.
  */
 @property (nonatomic) CGFloat verticalContentMargin;//
 /**
@@ -64,10 +64,6 @@
  @discussion When a text component expands, it may cause the band to increase in size as well.
  */
 @property (nonatomic) BOOL flexible;
-/**
- REMOVE THIS?
- */
-@property (nonatomic, strong) NSFormatter *valueFormatter;
 /**
  A number of value options used by the reporting engine to format the component value.
  */
@@ -101,7 +97,5 @@
  */
 @property (readonly, nonatomic, strong, readonly) RKTextField *textField;
 
-//-(CGFloat) recalculateFrameAndContentsBasedOnRequiredSizeFittingWithinContentHeight:(CGFloat) contentHeight;
-//NOT CALLED !?! -(void) formatPreparedObjectValue:(RKComponent *) component;
 
 @end

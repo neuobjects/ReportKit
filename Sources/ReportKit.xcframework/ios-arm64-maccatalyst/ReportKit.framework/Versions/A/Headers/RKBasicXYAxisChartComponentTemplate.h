@@ -1,5 +1,5 @@
 //
-//  BasicXYAxisChartComponentModel.h
+//  RKBasicXYAxisChartComponentTemplate.h
 //  ReportBuilder
 //
 //  Created by Brian Lazarz on 5/3/22.
@@ -97,7 +97,7 @@ NS_ASSUME_NONNULL_BEGIN
  */
 @property (readonly, nonatomic) BOOL xAxisAutoCalculateAxisMinimum;
 /**
- The maximum value along the x axis
+ The maximum value along the x axis.
  */
 @property (readonly, nonatomic) CGFloat xAxisAxisMaximum;
 /**

@@ -9,16 +9,12 @@
 #import <Foundation/Foundation.h>
 @protocol RKChartAxisValueFormatter;
 @protocol RKChartValueFormatter;
-//@protocol ChartAxisValueFormatter;
-//@protocol ChartValueFormatter;
-//@import DGCharts;
 
 NS_ASSUME_NONNULL_BEGIN
 
 /**
  The `RKCurrencySpelledOutValueFormatter` object contains the properties used to formatting currency values. This class adheres to the `ChartAxisValueFormatter` and `ChartValueFormatter` protocols used by the chart components.
  */
-//@interface RKCurrencySpelledOutValueFormatter : NSNumberFormatter <ChartAxisValueFormatter, ChartValueFormatter>
 @interface RKCurrencySpelledOutValueFormatter : NSNumberFormatter <RKChartAxisValueFormatter, RKChartValueFormatter>
 
 /**

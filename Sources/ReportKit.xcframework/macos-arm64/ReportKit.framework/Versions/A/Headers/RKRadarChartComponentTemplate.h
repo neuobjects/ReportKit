@@ -1,5 +1,5 @@
 //
-//  RadarChartComponentModel.h
+//  RKRadarChartComponentTemplate.h
 //  ReportBuilder
 //
 //  Created by Brian Lazarz on 11/19/21.

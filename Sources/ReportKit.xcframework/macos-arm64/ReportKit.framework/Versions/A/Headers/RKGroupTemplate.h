@@ -1,12 +1,12 @@
 //
 //  RKGroupTemplate.h
-//  ReportBuilderPrototypeApp
+//  ReportBuilder
 //
 //  Created by Brian Lazarz on 4/14/22.
+//  Copyright © 2024 neuObjects Incorporated. All rights reserved.
 //
 
 #import <Foundation/Foundation.h>
-//#import <ReportKit/RKGlobalDefinitions.h>
 #import <ReportKit/ReportKit.h>
 
 /**
@@ -36,7 +36,7 @@
  */
 @property (readonly, nonatomic, strong) NSMutableArray<RKBandTemplate *> *footerBands;
 /**
- The parent group (if applicable)
+ The parent group (if applicable).
  */
 @property (readonly, nonatomic, strong) RKGroupTemplate *parentGroupTemplate;
 /**
@@ -44,10 +44,9 @@
  */
 @property (readonly, nonatomic) BOOL enabled;
 /**
- REMOVE THIS?!
+ Not used.
  */
 @property (readonly, nonatomic) NSInteger groupRowIndex; //maybe? NEEDED?
-
 
 @end
 

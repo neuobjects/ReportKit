@@ -1,14 +1,13 @@
 //
 //  RKImageComponentView.h
-//  ReportBuilderPrototypeApp
+//  ReportBuilder
 //
 //  Created by Brian Lazarz on 3/4/22.
+//  Copyright © 2024 neuObjects Incorporated. All rights reserved.
 //
 
 #import <ReportKit/RKComponentView.h>
 #import <ReportKit/ReportKit.h>
-
-//NS_ASSUME_NONNULL_BEGIN
 
 /**
  The `RKImageComponentView` class contains the properties and methods required to render an image for a report.
@@ -44,4 +43,3 @@
 
 @end
 
-//we may not return an image ! NS_ASSUME_NONNULL_END

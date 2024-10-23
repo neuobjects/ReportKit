@@ -3,7 +3,7 @@
 //  ReportKit
 //
 //  Created by Brian Lazarz on 5/31/24.
-//  Copyright © 2024 Brian Lazarz. All rights reserved.
+//  Copyright © 2024 neuObjects Incorporated. All rights reserved.
 //
 
 #import <Foundation/Foundation.h>

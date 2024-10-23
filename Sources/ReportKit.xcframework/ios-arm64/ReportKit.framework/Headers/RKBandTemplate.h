@@ -1,5 +1,5 @@
 //
-//  BandModel.h
+//  RKBandTemplate.h
 //  ReportBuilder
 //
 //  Created by Brian Lazarz on 11/18/21.
@@ -123,5 +123,4 @@
  */
 @property (readonly, nonatomic, strong) RKFontInformation *defaultFont;
 
--(void) addComponent:(RKComponentTemplate *) component;
 @end

@@ -1,5 +1,5 @@
 //
-//  PieChartComponentModel.h
+//  RKPieChartComponentTemplate.h
 //  ReportBuilder
 //
 //  Created by Brian Lazarz on 11/19/21.
@@ -29,7 +29,7 @@ NS_ASSUME_NONNULL_BEGIN
  */
 @property (readonly, nonatomic, strong) RKColor<Optional> *holeTransparencyColor;
 /**
- The size of the hole in the center of the chart
+ The size of the hole in the center of the chart.
  */
 @property (readonly, nonatomic) CGFloat holeRadiusPercent;
 /**
@@ -49,7 +49,7 @@ NS_ASSUME_NONNULL_BEGIN
  */
 @property (readonly, nonatomic, strong) RKColor<Optional> *holeColor;
 /**
- the maximum angle of the pie.
+ The maximum angle of the pie.
  */
 @property (readonly, nonatomic) CGFloat maxAngle;
 

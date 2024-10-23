@@ -1,9 +1,9 @@
 //
 //  RKReport.h
-//  ReportBuilderPrototypeApp
+//  ReportBuilder
 //
 //  Created by Brian Lazarz on 4/13/22.
-//
+//  Copyright © 2024 neuObjects Incorporated. All rights reserved.
 
 #import <Foundation/Foundation.h>
 #import <PDFKit/PDFKit.h>
@@ -29,7 +29,7 @@
 -(NSInteger) primaryRecordIndex;
 
 /**
- Generates the PDF
+ Generates the PDF.
  @param completionHandler Includes the generated PDF and a flag to indicate whether the PDF was successfully created. A list of repprt messages will also get returned. This list includes warning and errors that were encountered while generating the PDF.
  
  */
@@ -77,4 +77,5 @@
  Returns the size of the first page. Defaults to 8.5 x 11" if there are no pages.
  */
 -(CGSize) pageSize;
+
 @end

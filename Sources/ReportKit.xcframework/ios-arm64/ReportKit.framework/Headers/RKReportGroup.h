@@ -1,8 +1,9 @@
 //
 //  RKGroupData.h
-//  ReportBuilderPrototypeApp
+//  ReportBuilder
 //
 //  Created by Brian Lazarz on 7/26/22.
+//  Copyright © 2024 neuObjects Incorporated. All rights reserved.
 //
 
 #import <Foundation/Foundation.h>
@@ -21,9 +22,12 @@
  Contains the design-time group properties including the header and footer bands for the group.
  */
 @property (readonly, nonatomic, strong) RKGroupTemplate *groupTemplate;//design-time group properties
-@property (readonly, nonatomic) NSInteger groupRowIndex; //maybe?
 /**
- This will contain the parent group on a multi-group report,
+ Not used.
+ */
+@property (readonly, nonatomic) NSInteger groupRowIndex;
+/**
+ This will contain the parent group on a multi-group report.
  */
 @property (readonly, nonatomic, strong) RKReportGroup *parentReportGroup;
 /**
@@ -39,11 +43,9 @@
  */
 @property (nonatomic, strong) id contentObjects;//array of data elements
 
-//-(instancetype) initWithParentGroup:(RKReportGroup *) parentGroup;
-//-(NSString *) identifier;
-
 /**
  This will return the parent's content objects, if this belongs to a parent group.
  */
 -(id) parentContentObjects;
+
 @end

@@ -1,12 +1,11 @@
 //
-//  BarLineChartComponentModel.h
+//  RKBarLineChartComponentTemplate.h
 //  ReportBuilder
 //
 //  Created by Brian Lazarz on 11/19/21.
 //  Copyright © 2023 neuObjects Incorporated. All rights reserved.
 //
 
-//#import "BasicChartComponentModel.h"
 #import <ReportKit/RKReportKitDataTypes.h>
 #import <ReportKit/RKBasicXYAxisChartComponentTemplate.h>
 #import <ReportKit/RKFontInformation.h>
@@ -18,10 +17,6 @@ NS_ASSUME_NONNULL_BEGIN
  */
 @interface RKBarLineChartComponentTemplate : RKBasicXYAxisChartComponentTemplate
 
-/**
- GET RID OF THIS
- */
-//@property (readonly, nonatomic) RKLineStyle borderLineStyle;
 /**
  The line style to use for the left axis grid line.
  */

@@ -1,8 +1,9 @@
 //
 //  RKRadarChartComponentView.h
-//  ReportBuilderPrototypeApp
+//  ReportBuilder
 //
 //  Created by Brian Lazarz on 5/3/22.
+//  Copyright © 2024 neuObjects Incorporated. All rights reserved.
 //
 
 #import <ReportKit/RKPieRadarComponentView.h>
@@ -14,7 +15,6 @@ NS_ASSUME_NONNULL_BEGIN
  */
 @interface RKRadarChartComponentView : RKPieRadarComponentView
 
-//-(void) assignXAxisLabels:(NSArray<NSString *> *) axisLabels;
 @end
 
 NS_ASSUME_NONNULL_END

@@ -1,5 +1,5 @@
 //
-//  CircleComponentModel.h
+//  RKOvalComponentTemplate.h
 //  ReportBuilder
 //
 //  Created by Brian Lazarz on 11/18/21.
@@ -23,7 +23,7 @@ NS_ASSUME_NONNULL_BEGIN
  The color of the oval.
  */
 @property (readonly, nonatomic, strong) RKColor *fillColor;//
-//@property (readonly, nonatomic, copy) NSString *fillColor;
+
 @end
 
 NS_ASSUME_NONNULL_END

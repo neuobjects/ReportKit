@@ -1,16 +1,15 @@
 //
 //  RKBand.h
-//  ReportBuilderTestApp
+//  ReportBuilder
 //
 //  Created by Brian Lazarz on 12/13/21.
-//  Copyright © 2021 Brian Lazarz. All rights reserved.
+//  Copyright © 2021 neuObjects Incorporated. All rights reserved.
 //
 
 #import <Foundation/Foundation.h>
 #import <ReportKit/ReportKit.h>
 @class RKBandView;
 @class RKComponent;
-//@class RKReportGroup;
 NS_ASSUME_NONNULL_BEGIN
 
 /**
@@ -36,7 +35,6 @@ NS_ASSUME_NONNULL_BEGIN
 /**
  An array of component objects on the page. These components contain the design-time properties of the components as well as the generated NS/UIView of the component.
  */
-//REFACTOR THIS - NSArray
 @property (readonly, nonatomic, strong) NSMutableArray<RKComponent *> *components;
 /**
  The generated NS/UIView of the band.
@@ -110,17 +108,10 @@ NS_ASSUME_NONNULL_BEGIN
 @property (readonly, nonatomic) NSInteger rowNumber;//do we really need this? the bandView needs it to alternate row colors. it's nice to know - if we want to print 10 lines per page EXCEPT. it won't be accurate until we hit didPrepareBand!
 
 /**
- Returns the NS/UIView instance of the generated band.
- */
-//-(RKBandView *) toView;
-
-/**
  Returns the component having the given identifier.
  @param identifier the identifier of the component.
  */
 -(RKComponent *) componentWithIdentifier:(NSString *) identifier;
-
-//-(NSString *) debugLine;
 
 @end
 

@@ -1,9 +1,9 @@
 //
-//  RKSubreportView.h
-//  ReportKitFramework
+//  RKSubreportComponentView.h
+//  ReportKit
 //
 //  Created by Brian Lazarz on 3/3/24.
-//
+//  Copyright © 2024 neuObjects Incorporated. All rights reserved.
 
 #import <ReportKit/ReportKit.h>
 
@@ -19,7 +19,7 @@ NS_ASSUME_NONNULL_BEGIN
  */
 @property (nonatomic) BOOL flexible;//not used?
 /**
- The subreport view
+ The subreport view.
  */
 @property (nonatomic, strong) RKView *subreportView;
 

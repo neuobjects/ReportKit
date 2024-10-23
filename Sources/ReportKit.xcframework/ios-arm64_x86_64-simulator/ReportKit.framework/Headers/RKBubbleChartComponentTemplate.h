@@ -1,5 +1,5 @@
 //
-//  BubbleChartComponentModel.h
+//  RKBubbleChartComponentTemplate.h
 //  ReportBuilder
 //
 //  Created by Brian Lazarz on 11/19/21.

@@ -16,12 +16,12 @@
 NS_ASSUME_NONNULL_BEGIN
 
 /**
- The `RKNamedColor` object contains the properties used to define a report text field component.
+ The `RKNamedColor` object contains the properties used to define named color in a chart component.
  */
 @interface RKNamedColor : NSObject
 
 /**
- 
+ The name of the color.
  */
 @property (readonly, nonatomic, copy) NSString *name;
 /**
@@ -50,14 +50,6 @@ NS_ASSUME_NONNULL_BEGIN
  */
 +(NSArray<RKNamedColor *> *) arrayOfNamedColors;
 
-//-(instancetype) initWithName:(NSString *) name
-//                    hexColor:(NSString *) hexColor;
-
-//-(NSString *) colorCode;
-
-//-(RKNamedColor *) nearestColor;
-
-//-(DCDominantColor) dominantColor;
 @end
 
 NS_ASSUME_NONNULL_END

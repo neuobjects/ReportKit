@@ -1,9 +1,9 @@
 //
 //  RKComponent.h
-//  ReportBuilderTestApp
+//  ReportBuilder
 //
 //  Created by Brian Lazarz on 1/12/22.
-//  Copyright © 2022 Brian Lazarz. All rights reserved.
+//  Copyright © 2022 neuObjects Incorporated. All rights reserved.
 //
 
 #import <Foundation/Foundation.h>
@@ -70,8 +70,9 @@
  */
 -(CGFloat) xLocation;
 /**
- @return `true` if the component frame has been adjusted by the reporting engine to fit the expanded size of the band.
+ Returns `true` if the component frame has been adjusted by the reporting engine to fit the expanded size of the band.
  */
 -(BOOL) hasBeenAdjustedToFitAvailableSpace;
+
 @end
 

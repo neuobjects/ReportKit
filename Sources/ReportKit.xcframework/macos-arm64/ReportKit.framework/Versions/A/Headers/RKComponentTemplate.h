@@ -1,5 +1,5 @@
 //
-//  ComponentModel.h
+//  RKComponentTemplate.h
 //  ReportBuilder
 //
 //  Created by Brian Lazarz on 11/17/21.

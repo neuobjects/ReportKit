@@ -32,19 +32,6 @@ NS_ASSUME_NONNULL_BEGIN
                          color:(RKColor *) color
                          width:(CGFloat) lineWidth
                  borderOptions:(RKComponentBorderOptions) borderOptions;
-/**
- Draws the borders around the given frame.
- @param lineStyle The border line style.
- @param color The stroke color.
- @param lineWidth The stroke width.
- @param borderOptions The flags used to determine which sides the borders should be drawn on.
- */
-/*
--(void) drawBordersWithLineStyle:(RKLineStyle) lineStyle
-                           color:(RKColor *) color
-                           width:(CGFloat) lineWidth
-                  borderPosition:(RKComponentBorderPosition) borderOptions;
-*/
 @end
 
 NS_ASSUME_NONNULL_END

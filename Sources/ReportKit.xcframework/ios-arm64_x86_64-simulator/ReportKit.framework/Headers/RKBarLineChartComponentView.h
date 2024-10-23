@@ -1,8 +1,9 @@
 //
 //  RKBarLineChartComponentView.h
-//  ReportBuilderPrototypeApp
+//  ReportBuilder
 //
 //  Created by Brian Lazarz on 5/6/22.
+//  Copyright © 2024 neuObjects Incorporated. All rights reserved.
 //
 
 #import <ReportKit/RKBasicXYAxisChartComponentView.h>
@@ -14,7 +15,6 @@ NS_ASSUME_NONNULL_BEGIN
  */
 @interface RKBarLineChartComponentView : RKBasicXYAxisChartComponentView
 
-//moved to private -(void) applyBarLineChartDatasetPropertiesFromModel;
 
 @end
 

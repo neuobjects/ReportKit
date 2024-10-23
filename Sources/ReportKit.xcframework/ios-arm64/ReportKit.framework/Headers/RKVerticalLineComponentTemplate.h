@@ -1,5 +1,5 @@
 //
-//  VerticalLineComponentModel.h
+//  RKVerticalLineComponentTemplate.h
 //  ReportBuilder
 //
 //  Created by Brian Lazarz on 11/18/21.

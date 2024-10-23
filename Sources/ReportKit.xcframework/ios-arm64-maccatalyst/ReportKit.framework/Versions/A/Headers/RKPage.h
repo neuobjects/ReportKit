@@ -1,8 +1,9 @@
 //
 //  RKPage.h
-//  ReportBuilderPrototypeApp
+//  ReportBuilder
 //
 //  Created by Brian Lazarz on 2/3/22.
+//  Copyright © 2024 neuObjects Incorporated. All rights reserved.
 //
 
 #import <Foundation/Foundation.h>
@@ -12,7 +13,13 @@
 
 @interface RKPage : NSObject
 
+/**
+ The frame rectangle for the page.
+ */
 @property (readonly, nonatomic) CGRect frame;
+/**
+ The page orientation - Portrait or Landscape.
+*/
 @property (readonly, nonatomic) RKPageOrientation orientation;
 
 /**
@@ -90,11 +97,9 @@
  */
 -(RKPageView *) toView;
 /**
- REVIEW THIS !
+ Identical to toView method.
  */
 -(RKPageView *) toSubreportView;
-//we might want to have an option to leave the report header section empty on page 2+ (instead of bumping up the page header)
-//-(CGFloat) overflowYForPageNumber:(NSInteger) pageNumber;
 
 /**
  Returns the page template containing the page designed from the Report Builder IDE.

@@ -1,5 +1,5 @@
 //
-//  RKBFont.h
+//  RKFontInformation.h
 //  ReportBuilder
 //
 //  Created by Brian Lazarz on 11/19/21.
@@ -24,11 +24,11 @@ NS_ASSUME_NONNULL_BEGIN
  */
 @property (nonatomic, copy) NSString *fontName;
 /**
- The family name of the font (“Times”, “Helvetica.”, etc.)
+ The family name of the font (“Times”, “Helvetica.”, etc.).
  */
 @property (nonatomic, copy) NSString *familyName;
 /**
- For future use.
+ Reserved for future use.
  */
 @property (nonatomic, copy) NSString *presetName;
 /**

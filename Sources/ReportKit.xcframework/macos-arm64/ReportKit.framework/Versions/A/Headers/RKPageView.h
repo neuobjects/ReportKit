@@ -1,9 +1,11 @@
 //
 //  RKPageView.h
-//  ReportBuilderPrototypeApp
+//  ReportBuilder
 //
 //  Created by Brian Lazarz on 1/14/22.
+//  Copyright © 2024 neuObjects Incorporated. All rights reserved.
 //
+
 #import <TargetConditionals.h>
 #if TARGET_OS_OSX
   #import <Cocoa/Cocoa.h>
@@ -11,7 +13,6 @@
   #import <UIKit/UIKit.h>
 #endif
 #import <ReportKit/ReportKit.h>
-//#import "RBPageTemplate.h"
 @class RKPage;
 NS_ASSUME_NONNULL_BEGIN
 

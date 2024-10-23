@@ -1,5 +1,5 @@
 //
-//  PieRadarComponentModel.h
+//  RKPieRadarChartComponentTemplate.h
 //  ReportBuilder
 //
 //  Created by Brian Lazarz on 11/19/21.
@@ -17,7 +17,7 @@ NS_ASSUME_NONNULL_BEGIN
 @interface RKPieRadarChartComponentTemplate : RKBasicChartComponentTemplate
 
 /**
- The type of chart (Pie or radar)
+ The type of chart (Pie or radar).
  */
 @property (readonly, nonatomic) RKPieRadarChartType pieRadarChartType;
 /**
@@ -32,6 +32,7 @@ NS_ASSUME_NONNULL_BEGIN
  A boolean value indicating whether the values inside the chart are drawn as a percent.
  */
 @property (readonly, nonatomic) BOOL usePercent;
+
 @end
 
 NS_ASSUME_NONNULL_END

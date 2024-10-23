@@ -1,12 +1,12 @@
 //
 //  RKGroupContentReportDelegate.h
-//  ReportBuilderPrototypeApp
+//  ReportBuilder
 //
 //  Created by Brian Lazarz on 4/5/22.
+//  Copyright © 2024 neuObjects Incorporated. All rights reserved.
 //
 
 #import <Foundation/Foundation.h>
-//#import <ReportKit/ReportKit.h>
 
 @class RKReport;
 @class RKBand;
@@ -21,6 +21,9 @@
 
 /**
  The `RKReportDelegate` protocol defines a set of optional methods that can be called during the generation of a report.
+ 
+ > Important: All of these methods are @optional. For some reason, DocC is marking many of these as _Required_.
+ 
  */
 @protocol RKReportDelegate <NSObject>
 
@@ -37,12 +40,13 @@
 -(void) didPrepareReport:(RKReport *) report;//called from generateReport and subreportToPdf
 /**
  Called when each report has finished generating the report for a given primary record.
+ @param report The instance of the generated report. When this method is called, `report` contains the finished report.
  @param recordIndex The index of the primary record that's been prepared.
  
  A report can be generated for one or more primary records. A primary record is the object we're reporting on. For example, if we're generating a report for a list of customers, the customer is considered the primary record.
  */
 -(void) didPrepareReport:(RKReport *) report
- forReportEntryAtIndex:(NSInteger) recordIndex;//when to call this - after all reports are generated (and the PDFs are generated) or as they've been prepared?
+   forReportEntryAtIndex:(NSInteger) recordIndex;//when to call this - after all reports are generated (and the PDFs are generated) or as they've been prepared?
 
 /**
  Called when the reporting engine is about to prepare a new page for the given record.
@@ -232,15 +236,20 @@ didPrepareBand:(RKBand *) band
         onPage:(RKPage *) page
          group:(RKReportGroup *) group;
 
-//if we want to manually create a report definition
-//DELETE !-(NSArray<RKGroupIdentifier *> *) groupIdentifiersForReport:(RKGeneratedReport *) report;
-/*
--(void) didGeneratePdfPage:(PDFPage *) page
-                 forReport:(RKReport *) report;
-*/
+/**
+ Tells the delegate that the given page is about to get generated.
+ @param pageNumber The page number that will be generated.
+ @param totalPages The total number of pages in the report.
+ */
 -(void) willGeneratePageNumber:(NSInteger) pageNumber
                             of:(NSInteger) totalPages;
+/**
+ Tells the delegate that the given page has been generated.
+ @param pageNumber The page number that will be generated.
+ @param totalPages The total number of pages in the report.
+ */
 -(void) didGeneratePageNumber:(NSInteger) pageNumber
                            of:(NSInteger) totalPages;
+
 
 @end

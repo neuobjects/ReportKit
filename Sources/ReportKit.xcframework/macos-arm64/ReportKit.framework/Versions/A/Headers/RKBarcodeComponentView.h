@@ -1,8 +1,9 @@
 //
 //  RKBarcodeComponentView.h
-//  ReportBuilderPrototypeApp
+//  ReportBuilder
 //
 //  Created by Brian Lazarz on 3/4/22.
+//  Copyright © 2024 neuObjects Incorporated. All rights reserved.
 //
 
 #import <ReportKit/RKComponentView.h>
@@ -19,7 +20,7 @@ NS_ASSUME_NONNULL_BEGIN
  */
 @property (nonatomic, copy) NSString *title;
 /** 
- The barcode format
+ The barcode format.
  */
 @property (nonatomic) RKBarcodeFormat barcodeFormat;
 @end

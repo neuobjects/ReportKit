@@ -1,6 +1,6 @@
 //
 //  NSBezierPath+LineStyles.h
-//  ReportBuilderTestApp
+//  ReportBuilder
 //
 //  Created by Brian Lazarz on 8/26/20.
 //  Copyright © 2023 neuObjects Incorporated. All rights reserved.

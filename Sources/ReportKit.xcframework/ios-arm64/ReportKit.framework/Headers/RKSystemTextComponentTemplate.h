@@ -1,15 +1,13 @@
 //
-//  SystemTextComponentModel.h
+//  RKSystemTextComponentTemplate.h
 //  ReportBuilder
 //
 //  Created by Brian Lazarz on 4/26/22.
 //  Copyright © 2023 neuObjects Incorporated. All rights reserved.
 //
 
-//#import <ReportBuilderFramework/ReportBuilderFramework.h>
 #import <ReportKit/JSONModel.h>
 #import <ReportKit/RKTextComponentTemplate.h>
-//#import "DataAwareComponentModel.h"
 #import <ReportKit/RKReportKitDataTypes.h>
 #import <ReportKit/RKFontInformation.h>
 #include <TargetConditionals.h>
