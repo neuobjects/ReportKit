@@ -1,3 +1,65 @@
-All Rights Reserved.
+ReportKit End User License Agreement:
 
-Copyright 2024, neuObjects Incorporated.
+This End-User License Agreement (“EULA”) is a legal agreement between
+you (the “Licensee”) and neuObjects Incorporated (“Licensor”) for the
+use of ReportKit (the “Software”). By downloading, installing, or using
+the Software, the Licensee agrees to be bound by the terms of this EULA.
+
+1. Grant of License
+   Licensor grants Licensee a non-exclusive, non-transferable license to
+   install, integrate, and distribute the Software for use as intended by
+   Licensor, solely for lawful purposes and in accordance with this EULA.
+
+2. Permitted Use
+   The Software is licensed for the following intended purposes:
+
+   * To be integrated into applications or projects developed by the Licensee.
+   * To be used and redistributed in compiled form as part of larger
+     applications or software products created by the Licensee.
+   * To allow end-users to use the compiled applications that include the
+     Software, provided they do not attempt to use, extract, or modify the
+     Software independently.
+
+3. Prohibited Use
+   Licensee is expressly prohibited from:
+
+   * Decompiling, Reverse Engineering, or Disassembling: Licensee shall not
+     attempt to decompile, reverse engineer, or disassemble the Software in any
+     form.
+   * Modification: Licensee shall not modify or create derivative works based
+     on the Software except through authorized interfaces or APIs provided by
+     Licensor.
+   * Removal of Notices: Licensee shall not remove or alter any proprietary
+     notices, labels, or trademarks on or embedded within the Software.
+   * Unauthorized Redistribution: Licensee shall not distribute the Software in
+     a form other than permitted herein or share it as a stand-alone component.
+
+4. Redistribution
+   Licensee may distribute the Software as part of compiled applications or
+   projects, provided:
+
+   * A copy of this EULA is included with any distribution, and end-users are
+     made aware of and agree to the restrictions herein.
+   * The Software remains unmodified, and its proprietary notices are
+   preserved.
+
+5. Termination
+   This license is effective until terminated. Licensee’s rights under this
+   license will terminate automatically without notice if Licensee fails to
+   comply with any provision of this EULA. Upon termination, Licensee must
+   cease all use and distribution of the Software.
+
+6. Disclaimer of Warranties and Limitation of Liability
+   * Disclaimer of Warranties: The Software is provided “as-is” without any
+     warranties of any kind, either express or implied, including, but not
+     limited to, implied warranties of merchantability, fitness for a
+     particular purpose, or non-infringement.
+   * Limitation of Liability: In no event shall Licensor be liable for any
+     damages (including, without limitation, lost profits, business
+     interruption, or lost information) arising out of Licensee’s use of or
+     inability to use the Software, even if Licensor has been advised of the
+     possibility of such damages.
+
+7. Governing Law
+   This EULA shall be governed by and construed in accordance with the laws
+   of Illinois, USA.
