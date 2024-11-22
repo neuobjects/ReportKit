@@ -669,6 +669,13 @@
 			e8UsaaxyCnHjtV2fA6Rf+GuHVocA1j5rLscpH8fF5uQ=
 			</data>
 		</dict>
+		<key>Headers/ReportKit-Swift.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			gwVMW1Paen047omlHoxxwACkY+Dto+6hFTqg7fSAWNg=
+			</data>
+		</dict>
 		<key>Headers/ReportKit.h</key>
 		<dict>
 			<key>hash2</key>
@@ -676,11 +683,53 @@
 			C0z7+gYOOujAaaeWiZlLDO2YQvJYvLlwr+tlFwIpJkU=
 			</data>
 		</dict>
+		<key>Modules/ReportKit.swiftmodule/Project/arm64-apple-ios-macabi.swiftsourceinfo</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			D/zFU1EaoDw2ht+6VKYXGbzOI4KuVPrd6nA9EbqqAXg=
+			</data>
+		</dict>
+		<key>Modules/ReportKit.swiftmodule/arm64-apple-ios-macabi.abi.json</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			UgQ4Q6Py8wT5kIxv59s8svulMC8THGwriilfgEgI6Xw=
+			</data>
+		</dict>
+		<key>Modules/ReportKit.swiftmodule/arm64-apple-ios-macabi.private.swiftinterface</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			q7EUOrQ9/EMEnknTRm/6GCzgfybbAob6riuzKEOZ78Q=
+			</data>
+		</dict>
+		<key>Modules/ReportKit.swiftmodule/arm64-apple-ios-macabi.swiftdoc</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			ZtEmGwwyZwaxtsviIol/m32WNqXk+hXb4uJxEVbi2fs=
+			</data>
+		</dict>
+		<key>Modules/ReportKit.swiftmodule/arm64-apple-ios-macabi.swiftinterface</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			q7EUOrQ9/EMEnknTRm/6GCzgfybbAob6riuzKEOZ78Q=
+			</data>
+		</dict>
+		<key>Modules/ReportKit.swiftmodule/arm64-apple-ios-macabi.swiftmodule</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			eO+E/1OZJwHvUpcLWjSCHa1CW/vv70YD1V4LVg8g/ws=
+			</data>
+		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			S+CNozEHLDMiX3YX3SSGQT8lofNvvBIHswwUznOIngA=
+			fxmpEb8A8/Xizhx3LrPJBOpka4BLKW1qO3UU8qE80UY=
 			</data>
 		</dict>
 		<key>PrivateHeaders/RKBarcode+Private.h</key>

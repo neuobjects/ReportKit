@@ -380,6 +380,10 @@
 		<data>
 		sF1ODB441Xqjq+Ly8pvBNIVl1bY=
 		</data>
+		<key>Headers/ReportKit-Swift.h</key>
+		<data>
+		lE5+cmL/wUaaGuojjJUC9U3qv5E=
+		</data>
 		<key>Headers/ReportKit.h</key>
 		<data>
 		hFql2qxp0ZCebtBG8z8Py5dn7/A=
@@ -388,9 +392,33 @@
 		<data>
 		nb15LydTs5k/Nq33yQOWw2S33Hk=
 		</data>
+		<key>Modules/ReportKit.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
+		<data>
+		97oZ1D/0ThKwwEw2lCWpSy+9Qag=
+		</data>
+		<key>Modules/ReportKit.swiftmodule/arm64-apple-ios.abi.json</key>
+		<data>
+		ylJxYgRhgtxyWt1YMX70WLYGeJk=
+		</data>
+		<key>Modules/ReportKit.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
+		<data>
+		9l3wsozI8f7PtTaGtWjFYvwX0m4=
+		</data>
+		<key>Modules/ReportKit.swiftmodule/arm64-apple-ios.swiftdoc</key>
+		<data>
+		XYES37UOdJW6ZgEqC/nrroJfmLQ=
+		</data>
+		<key>Modules/ReportKit.swiftmodule/arm64-apple-ios.swiftinterface</key>
+		<data>
+		9l3wsozI8f7PtTaGtWjFYvwX0m4=
+		</data>
+		<key>Modules/ReportKit.swiftmodule/arm64-apple-ios.swiftmodule</key>
+		<data>
+		Zf0mAC17AP+yZMRHUUObCcWPWoc=
+		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
-		YKjjy8TDDifzuTN3CxO3K75GEJc=
+		zn02kPNqZa0XkK1Xn10uM6HYEO8=
 		</data>
 		<key>PrivateHeaders/RKBarcode+Private.h</key>
 		<data>
@@ -1061,6 +1089,13 @@
 			e8UsaaxyCnHjtV2fA6Rf+GuHVocA1j5rLscpH8fF5uQ=
 			</data>
 		</dict>
+		<key>Headers/ReportKit-Swift.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			gwVMW1Paen047omlHoxxwACkY+Dto+6hFTqg7fSAWNg=
+			</data>
+		</dict>
 		<key>Headers/ReportKit.h</key>
 		<dict>
 			<key>hash2</key>
@@ -1068,11 +1103,53 @@
 			C0z7+gYOOujAaaeWiZlLDO2YQvJYvLlwr+tlFwIpJkU=
 			</data>
 		</dict>
+		<key>Modules/ReportKit.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			qgxiyZ/0ExRNThiNvxWoLaxCU5E2l8Iiv4Y/Q4ZPypk=
+			</data>
+		</dict>
+		<key>Modules/ReportKit.swiftmodule/arm64-apple-ios.abi.json</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			UgQ4Q6Py8wT5kIxv59s8svulMC8THGwriilfgEgI6Xw=
+			</data>
+		</dict>
+		<key>Modules/ReportKit.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			2RLUk/QxPOmkMrgOvPuQMxFlQ9o10kK5AcoPZIaEG8c=
+			</data>
+		</dict>
+		<key>Modules/ReportKit.swiftmodule/arm64-apple-ios.swiftdoc</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			WaG/IS7oQ5N1WowaUP6B9uPEQv4+wKnBcjISUQFzks4=
+			</data>
+		</dict>
+		<key>Modules/ReportKit.swiftmodule/arm64-apple-ios.swiftinterface</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			2RLUk/QxPOmkMrgOvPuQMxFlQ9o10kK5AcoPZIaEG8c=
+			</data>
+		</dict>
+		<key>Modules/ReportKit.swiftmodule/arm64-apple-ios.swiftmodule</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			RpSAWHG3dc2CcabPaGS3Szj/0FS5va8zF0u6mllq82E=
+			</data>
+		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			S+CNozEHLDMiX3YX3SSGQT8lofNvvBIHswwUznOIngA=
+			fxmpEb8A8/Xizhx3LrPJBOpka4BLKW1qO3UU8qE80UY=
 			</data>
 		</dict>
 		<key>PrivateHeaders/RKBarcode+Private.h</key>
