@@ -20,13 +20,18 @@ let package = Package(
         .library(
             name: "ReportKit",
             targets: ["ReportKit"]),        
+        .library(
+            name: "ReportKitCustomCharts",
+            targets: ["ReportKitCustomCharts"]),
     ],
     targets: [
-      .binaryTarget(name: "ReportKit", path: "./Sources/ReportKit.xcframework")
+      .binaryTarget(name: "ReportKit", path: "./Sources/ReportKit.xcframework"),
+      .binaryTarget(name: "ReportKitCustomCharts", path: "./Sources/ReportKitCustomCharts.xcframework")
     ]
        
 )  
 ```
+The package includes 2 frameworks. ReportKit.xcframework embeds the DGCharts.framework. In most cases, you should add this framework to the target of your project. If you would like to [add the DGCharts framework to your project separately](https://support.reportbuilderx.com/portal/en/kb/articles/using-reportkit-with-the-dgcharts-framework), use ReportKitCustomCharts.  
 
 ### Documentation
 
