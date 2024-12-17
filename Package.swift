@@ -11,7 +11,8 @@ let package = Package(
             targets: ["ReportKit"]),        
     ],
     targets: [
-      .binaryTarget(name: "ReportKit", path: "./Sources/ReportKit.xcframework")
+      .binaryTarget(name: "ReportKit", path: "./Sources/ReportKit.xcframework"),
+      .binaryTarget(name: "ReportKitCustomCharts", path: "./Sources/ReportKitCustomCharts.xcframework")
     ]
        
 )  

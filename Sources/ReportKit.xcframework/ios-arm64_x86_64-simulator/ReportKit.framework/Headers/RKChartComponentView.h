@@ -17,9 +17,10 @@ NS_ASSUME_NONNULL_BEGIN
  */
 @interface RKChartComponentView : RKComponentView
 /**
- The instance of the DGCharts chart view that's used to render the chart.
+ The instance of the DGCharts chart view that's used to render the chart. 
  */
 @property (readonly, weak) ChartViewBase *chartView;
+//@property (readonly, weak) id chartView;
 /**
  An array of colors that belong to the assigned theme.
  */

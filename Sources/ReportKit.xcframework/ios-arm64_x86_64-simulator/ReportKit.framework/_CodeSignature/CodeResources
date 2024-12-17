@@ -4,6 +4,22 @@
 <dict>
 	<key>files</key>
 	<dict>
+		<key>Frameworks/DGCharts.framework/DGCharts</key>
+		<data>
+		UNx9DyHHekTpJuLwM5yjHq/b/0k=
+		</data>
+		<key>Frameworks/DGCharts.framework/Info.plist</key>
+		<data>
+		TslBPLhclnvHUeKzC4q0UyYawJ8=
+		</data>
+		<key>Frameworks/DGCharts.framework/PrivacyInfo.xcprivacy</key>
+		<data>
+		i3YpomTpJHpRGpdt+oGaesmknBg=
+		</data>
+		<key>Frameworks/DGCharts.framework/_CodeSignature/CodeResources</key>
+		<data>
+		GCgVGfdswU4ThowBQDMebM1ySgs=
+		</data>
 		<key>Headers/JSONKeyMapper.h</key>
 		<data>
 		2NCXcgFIMFgOzec5PT2DHqfTorI=
@@ -118,7 +134,7 @@
 		</data>
 		<key>Headers/RKChartComponentView.h</key>
 		<data>
-		Tsk64d01+pWZNMVZCv1s/RbVdhA=
+		fQni0RQ7csUHxpQqpf7DC35bXn8=
 		</data>
 		<key>Headers/RKChartDataSetTemplate.h</key>
 		<data>
@@ -314,7 +330,7 @@
 		</data>
 		<key>Headers/RKReportGroup.h</key>
 		<data>
-		vW0b/ztF/EEd6UN422vjVE96OJs=
+		zFnDwWg7yHK9GUfqFR6FV7w8PO0=
 		</data>
 		<key>Headers/RKReportKitDataTypes.h</key>
 		<data>
@@ -390,15 +406,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		iFcAVeoWZwIe9Uxnb6Y0+/3Oxbk=
-		</data>
-		<key>Modules/ReportKit.swiftmodule/Project/arm64-apple-ios-simulator.swiftsourceinfo</key>
-		<data>
-		qp0wbo1sZbESLS0vhMTipZhxZc4=
-		</data>
-		<key>Modules/ReportKit.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
-		<data>
-		fzPStzibaVzf/7SJALAISYrZkFQ=
+		pOSTUhsngSMJNPSAl1kAS1p5+F8=
 		</data>
 		<key>Modules/ReportKit.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -418,7 +426,7 @@
 		</data>
 		<key>Modules/ReportKit.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		zp5Gib6NnDncsETIBvBK4ixrqQw=
+		eBU4NnhpUEeg0zz4ZcROcKwCUSE=
 		</data>
 		<key>Modules/ReportKit.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -438,7 +446,7 @@
 		</data>
 		<key>Modules/ReportKit.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		Hhu27LGN6XU17hE0WlpaeTbasEk=
+		Ipj1s1nefQHfw24gg7ZSMOfM9+c=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -455,6 +463,34 @@
 	</dict>
 	<key>files2</key>
 	<dict>
+		<key>Frameworks/DGCharts.framework/DGCharts</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			cecRfaPb9KsByBFZVY7NWVjnKd73XVlaLgCPy8RhG6k=
+			</data>
+		</dict>
+		<key>Frameworks/DGCharts.framework/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			j2FbXBmcipl4z5/gVXMzVsWnrXGuXDtqHFFWauuEXcI=
+			</data>
+		</dict>
+		<key>Frameworks/DGCharts.framework/PrivacyInfo.xcprivacy</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			jWXQtDoSYs/inoM5bACz25T7Eg1E0RiNknNB8UpsIjw=
+			</data>
+		</dict>
+		<key>Frameworks/DGCharts.framework/_CodeSignature/CodeResources</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			61hSgjNf8/nRSlwSheTKr0N5EbsnUAWNksrOMtZ1ENU=
+			</data>
+		</dict>
 		<key>Headers/JSONKeyMapper.h</key>
 		<dict>
 			<key>hash2</key>
@@ -655,7 +691,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			6jeh48F9mdLVKnQvjdfdVD9M0Y1u3A/S13lIRmUwIhc=
+			bJ6bEByIVyW2LQeTcGrNx1HhZ+68u0nqx8rAzoZbUaY=
 			</data>
 		</dict>
 		<key>Headers/RKChartDataSetTemplate.h</key>
@@ -998,7 +1034,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			M3tWuSb7+ZiFgZQItXN0DaoytJRmZmQvmVMDq6yZSNI=
+			kJtIXzssMhJzW/pcIHmzoU4Oo1fH7Ro390c3FBz/ljE=
 			</data>
 		</dict>
 		<key>Headers/RKReportKitDataTypes.h</key>
@@ -1127,20 +1163,6 @@
 			C0z7+gYOOujAaaeWiZlLDO2YQvJYvLlwr+tlFwIpJkU=
 			</data>
 		</dict>
-		<key>Modules/ReportKit.swiftmodule/Project/arm64-apple-ios-simulator.swiftsourceinfo</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			jhzA9/1rjqiMtqY1CLNPvKccTxjx3D7ODxm44ReXJfc=
-			</data>
-		</dict>
-		<key>Modules/ReportKit.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			RhgaE6sUOolVQt3csnFCxkC/hlJrnpyRQTr0ea2agW0=
-			</data>
-		</dict>
 		<key>Modules/ReportKit.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
@@ -1173,7 +1195,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			jV1kmgGRD2PHKC6q8nbtScfCRwi49TbqrcceE1SEA1c=
+			VA/Zn1ddS0cKuWxXupUSFRRXu/gx8XRECISuQJ94WoY=
 			</data>
 		</dict>
 		<key>Modules/ReportKit.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
@@ -1208,7 +1230,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			PM7YmJEaogwr8gLdqISTeKNSg3UZfKoCP4g25n5NmGQ=
+			pvdEzdBJ8JMF9lNib/h10tCR63bhNf0AcU20Y1Z30dk=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

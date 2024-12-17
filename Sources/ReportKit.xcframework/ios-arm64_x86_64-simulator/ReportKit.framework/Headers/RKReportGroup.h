@@ -10,7 +10,7 @@
 @class RKGroupTemplate;
 
 /**
- The `RKReportGroup` class 
+ The `RKReportGroup` class allows you to generate reports for hierarchical information. Each group has it's own group header and group footer however, just the inner-most group contains a detail band.
  */
 @interface RKReportGroup : NSObject
 

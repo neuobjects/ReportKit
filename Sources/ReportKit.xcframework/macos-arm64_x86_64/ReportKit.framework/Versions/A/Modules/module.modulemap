@@ -1,0 +1,11 @@
+framework module ReportKit {
+  umbrella header "ReportKit.h"
+  export *
+
+  module * { export * }
+}
+
+module ReportKit.Swift {
+  header "ReportKit-Swift.h"
+  requires objc
+}

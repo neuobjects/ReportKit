@@ -4,6 +4,22 @@
 <dict>
 	<key>files</key>
 	<dict>
+		<key>Frameworks/DGCharts.framework/DGCharts</key>
+		<data>
+		3FErk0KA8iveAEFWthW19DDE6Ks=
+		</data>
+		<key>Frameworks/DGCharts.framework/Info.plist</key>
+		<data>
+		Co9r/8Q7kVcn9ibYUTofZMh8MGM=
+		</data>
+		<key>Frameworks/DGCharts.framework/PrivacyInfo.xcprivacy</key>
+		<data>
+		i3YpomTpJHpRGpdt+oGaesmknBg=
+		</data>
+		<key>Frameworks/DGCharts.framework/_CodeSignature/CodeResources</key>
+		<data>
+		jqCUNPUMDXbib4WFllrCyiubhvE=
+		</data>
 		<key>Headers/JSONKeyMapper.h</key>
 		<data>
 		2NCXcgFIMFgOzec5PT2DHqfTorI=
@@ -118,7 +134,7 @@
 		</data>
 		<key>Headers/RKChartComponentView.h</key>
 		<data>
-		Tsk64d01+pWZNMVZCv1s/RbVdhA=
+		fQni0RQ7csUHxpQqpf7DC35bXn8=
 		</data>
 		<key>Headers/RKChartDataSetTemplate.h</key>
 		<data>
@@ -314,7 +330,7 @@
 		</data>
 		<key>Headers/RKReportGroup.h</key>
 		<data>
-		vW0b/ztF/EEd6UN422vjVE96OJs=
+		zFnDwWg7yHK9GUfqFR6FV7w8PO0=
 		</data>
 		<key>Headers/RKReportKitDataTypes.h</key>
 		<data>
@@ -390,11 +406,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		nb15LydTs5k/Nq33yQOWw2S33Hk=
-		</data>
-		<key>Modules/ReportKit.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
-		<data>
-		97oZ1D/0ThKwwEw2lCWpSy+9Qag=
+		vqUlLQ7h7euOmE4jewvla5tNcGY=
 		</data>
 		<key>Modules/ReportKit.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
@@ -414,7 +426,7 @@
 		</data>
 		<key>Modules/ReportKit.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		Zf0mAC17AP+yZMRHUUObCcWPWoc=
+		o73hWS7erxLCdXySTEO7Mi/apus=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -431,6 +443,34 @@
 	</dict>
 	<key>files2</key>
 	<dict>
+		<key>Frameworks/DGCharts.framework/DGCharts</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			3KNMhhbWqFtp5L29tlzq5BU3pahvMyLP+xAI3+StwTQ=
+			</data>
+		</dict>
+		<key>Frameworks/DGCharts.framework/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			c8WBdY5hf/0w0i+0rLT6zU3p1URy52sgph1GTCk+EN8=
+			</data>
+		</dict>
+		<key>Frameworks/DGCharts.framework/PrivacyInfo.xcprivacy</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			jWXQtDoSYs/inoM5bACz25T7Eg1E0RiNknNB8UpsIjw=
+			</data>
+		</dict>
+		<key>Frameworks/DGCharts.framework/_CodeSignature/CodeResources</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			gjzDQdnM8y72hGg6SzoOSJUWba8Ffk3jhNBENfwyjaY=
+			</data>
+		</dict>
 		<key>Headers/JSONKeyMapper.h</key>
 		<dict>
 			<key>hash2</key>
@@ -631,7 +671,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			6jeh48F9mdLVKnQvjdfdVD9M0Y1u3A/S13lIRmUwIhc=
+			bJ6bEByIVyW2LQeTcGrNx1HhZ+68u0nqx8rAzoZbUaY=
 			</data>
 		</dict>
 		<key>Headers/RKChartDataSetTemplate.h</key>
@@ -974,7 +1014,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			M3tWuSb7+ZiFgZQItXN0DaoytJRmZmQvmVMDq6yZSNI=
+			kJtIXzssMhJzW/pcIHmzoU4Oo1fH7Ro390c3FBz/ljE=
 			</data>
 		</dict>
 		<key>Headers/RKReportKitDataTypes.h</key>
@@ -1103,13 +1143,6 @@
 			C0z7+gYOOujAaaeWiZlLDO2YQvJYvLlwr+tlFwIpJkU=
 			</data>
 		</dict>
-		<key>Modules/ReportKit.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			qgxiyZ/0ExRNThiNvxWoLaxCU5E2l8Iiv4Y/Q4ZPypk=
-			</data>
-		</dict>
 		<key>Modules/ReportKit.swiftmodule/arm64-apple-ios.abi.json</key>
 		<dict>
 			<key>hash2</key>
@@ -1142,7 +1175,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			RpSAWHG3dc2CcabPaGS3Szj/0FS5va8zF0u6mllq82E=
+			Z9eLplrShpwwSvt/QVAxgoLrKMlxehGeUccwB+39JQQ=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
