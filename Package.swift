@@ -9,6 +9,9 @@ let package = Package(
         .library(
             name: "ReportKit",
             targets: ["ReportKit"]),        
+        .library(
+            name: "ReportKitCustomCharts",
+            targets: ["ReportKitCustomCharts"]),
     ],
     targets: [
       .binaryTarget(name: "ReportKit", path: "./Sources/ReportKit.xcframework"),
