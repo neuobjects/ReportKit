@@ -19,15 +19,15 @@ NS_ASSUME_NONNULL_BEGIN
 /**
  A boolean value to indicate whether the oval is filled in.
  */
-@property (readonly, nonatomic) BOOL filled;
+@property (nonatomic) BOOL filled;
 /**
  The fill color of the rectangle.
  */
-@property (readonly, nonatomic, strong) RKColor *color;
+@property (nonatomic, strong) RKColor *color;
 /**
  A value that rounds the edges of the component.
  */
-@property (readonly, nonatomic) CGFloat cornerRadius;
+@property (nonatomic) CGFloat cornerRadius;
 
 @end
 

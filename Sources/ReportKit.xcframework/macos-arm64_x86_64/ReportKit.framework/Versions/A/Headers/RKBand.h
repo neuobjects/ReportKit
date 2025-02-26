@@ -83,15 +83,15 @@ NS_ASSUME_NONNULL_BEGIN
 /**
  If any of the band edges are bordered, this will be the stroke color for the border.
  */
-@property (readonly, nonatomic, strong) RKColor *strokeColor;
+@property (nonatomic, strong) RKColor *strokeColor;
 /**
  This value specifies the type of border that should appear at the edges of the band.
  */
-@property (readonly, nonatomic) RKComponentBorderOptions borderOptions;
+@property (nonatomic) RKComponentBorderOptions borderOptions;
 /**
  If any of the band edges are bordered, this will be the line style of the border.
  */
-@property (readonly, nonatomic) RKLineStyle lineStyle;
+@property (nonatomic) RKLineStyle lineStyle;
 /**
  The page number the band appears on.
  */

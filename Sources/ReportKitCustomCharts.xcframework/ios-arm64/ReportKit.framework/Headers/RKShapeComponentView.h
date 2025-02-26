@@ -18,7 +18,7 @@ NS_ASSUME_NONNULL_BEGIN
 /**
  If any of the component edges are bordered, this will be the line style of the border.
  */
-@property (readonly, nonatomic) RKLineStyle lineStyle;
+@property (nonatomic) RKLineStyle lineStyle;
 /**
  If any of the component edges are bordered, this will contain the stroke width of the border.
  */
@@ -26,7 +26,7 @@ NS_ASSUME_NONNULL_BEGIN
 /**
  If any of the component edges are bordered, this will be the stroke color for the border.
  */
-@property (readonly, nonatomic, strong) RKColor *strokeColor;
+@property (nonatomic, strong) RKColor *strokeColor;
 
 @end
 

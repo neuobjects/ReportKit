@@ -16,11 +16,11 @@ NS_ASSUME_NONNULL_BEGIN
 /**
  A boolean value indicating whether the oval is filled.
  */
-@property (readonly, nonatomic) BOOL filled;
+@property (nonatomic) BOOL filled;
 /**
  The fill color of the oval.
  */
-@property (readonly, nonatomic, strong) RKColor *fillColor;
+@property (nonatomic, strong) RKColor *fillColor;
 
 @end
 

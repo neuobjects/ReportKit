@@ -6,11 +6,11 @@
 	<dict>
 		<key>Frameworks/DGCharts.framework/DGCharts</key>
 		<data>
-		3FErk0KA8iveAEFWthW19DDE6Ks=
+		oOiVbd1XAlaTZQDWbjW8flYzu7A=
 		</data>
 		<key>Frameworks/DGCharts.framework/Info.plist</key>
 		<data>
-		Co9r/8Q7kVcn9ibYUTofZMh8MGM=
+		qCm5K29JWWY8sgSKaTEZL3KSbJw=
 		</data>
 		<key>Frameworks/DGCharts.framework/PrivacyInfo.xcprivacy</key>
 		<data>
@@ -18,7 +18,7 @@
 		</data>
 		<key>Frameworks/DGCharts.framework/_CodeSignature/CodeResources</key>
 		<data>
-		jqCUNPUMDXbib4WFllrCyiubhvE=
+		xrFi8j10UJZg02ZQd7nqrcEAcvU=
 		</data>
 		<key>Headers/JSONKeyMapper.h</key>
 		<data>
@@ -50,7 +50,7 @@
 		</data>
 		<key>Headers/RKBand.h</key>
 		<data>
-		OqYWfScSYKHCUbg9e8D8ivtQVIg=
+		7yvN5ttnAfr8OSF6C3HVKEiZdmc=
 		</data>
 		<key>Headers/RKBandTemplate.h</key>
 		<data>
@@ -258,7 +258,7 @@
 		</data>
 		<key>Headers/RKOvalComponentView.h</key>
 		<data>
-		tDVAAC9scj2fyuB9DHrYCU4YLg4=
+		XswLtL6Sf0z6riBVR9+H4//plGU=
 		</data>
 		<key>Headers/RKPage.h</key>
 		<data>
@@ -306,7 +306,7 @@
 		</data>
 		<key>Headers/RKRectangleComponentView.h</key>
 		<data>
-		xy7Qw9m8lPiPpAWOM1ISdo1uRsI=
+		gUfiJqE9yWBEmyK83ycBwoGJ0mc=
 		</data>
 		<key>Headers/RKReport.h</key>
 		<data>
@@ -354,7 +354,7 @@
 		</data>
 		<key>Headers/RKShapeComponentView.h</key>
 		<data>
-		xzm60qEDzf7cKQZ+qyWuGHA1j+M=
+		Tu7IwLss17VJiIB14aFqtmTd1Xo=
 		</data>
 		<key>Headers/RKSubreportComponentTemplate.h</key>
 		<data>
@@ -406,7 +406,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		vqUlLQ7h7euOmE4jewvla5tNcGY=
+		2HsupYAs+CbH/moy/RNNyZJvdmY=
 		</data>
 		<key>Modules/ReportKit.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
@@ -447,14 +447,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			3KNMhhbWqFtp5L29tlzq5BU3pahvMyLP+xAI3+StwTQ=
+			qvRc6DAgEAqxAq7EKaEyXhGJFULR63t/U7db4A2v7zQ=
 			</data>
 		</dict>
 		<key>Frameworks/DGCharts.framework/Info.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			c8WBdY5hf/0w0i+0rLT6zU3p1URy52sgph1GTCk+EN8=
+			wrc4IWlOOK8uZgfzdi1eZ8Lv8OFKsUx+KSyFCJolCsg=
 			</data>
 		</dict>
 		<key>Frameworks/DGCharts.framework/PrivacyInfo.xcprivacy</key>
@@ -468,7 +468,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			gjzDQdnM8y72hGg6SzoOSJUWba8Ffk3jhNBENfwyjaY=
+			eTAAf6aJ4e/K+qGp0QH6pZPf+T+64yZsakuc29vOnQo=
 			</data>
 		</dict>
 		<key>Headers/JSONKeyMapper.h</key>
@@ -524,7 +524,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ZNJsW0hzEbBI3zdNNnkQYZlxlJFEEUiP1zr7VwnKWlQ=
+			g0ioFI5XwE5INMo2CtFxKqoZsbnW/2f9SRQJDHHnD3M=
 			</data>
 		</dict>
 		<key>Headers/RKBandTemplate.h</key>
@@ -888,7 +888,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			L6paNm8frCkbPfLIlZn16hWFGZ2+mSjNIjaTGAgjBuY=
+			9Q2Gw8KEYyirWLWbPFvCTE2RhFHzvUobNEfPuJ1Olg8=
 			</data>
 		</dict>
 		<key>Headers/RKPage.h</key>
@@ -972,7 +972,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			SFm1sNswuGr1RDYCHHqvOD3cTf/CPUh65hRKxYOqSeE=
+			gYRUc6XhuzW4v8NSI1M629EAcpN8EGwZ7ecvhkHAAcI=
 			</data>
 		</dict>
 		<key>Headers/RKReport.h</key>
@@ -1056,7 +1056,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			pVSK1LO7Xr6JwNjf/pRbgl7dFkF/rwIhvdhn+MV43gY=
+			jpFkvcVI+kdBmmf5OYkq+oXsyqws4qy+bk51o6jZ9bI=
 			</data>
 		</dict>
 		<key>Headers/RKSubreportComponentTemplate.h</key>
