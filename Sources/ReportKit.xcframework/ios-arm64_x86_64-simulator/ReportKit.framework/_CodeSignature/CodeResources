@@ -6,11 +6,11 @@
 	<dict>
 		<key>Frameworks/DGCharts.framework/DGCharts</key>
 		<data>
-		FkT3LEoqgih+oikUCNOdalaGBlE=
+		T/E9C8ZM02TuKB/F4ImYCzd0gOU=
 		</data>
 		<key>Frameworks/DGCharts.framework/Info.plist</key>
 		<data>
-		Nh/GAQ2h/u8MyiYPoPVJR0OGggQ=
+		Rlvyi8Mz5Tq6cvQ0FBvqGTHHm8o=
 		</data>
 		<key>Frameworks/DGCharts.framework/PrivacyInfo.xcprivacy</key>
 		<data>
@@ -18,7 +18,7 @@
 		</data>
 		<key>Frameworks/DGCharts.framework/_CodeSignature/CodeResources</key>
 		<data>
-		mPxtFgWsJ3HYiLrcGooGJPe05Jw=
+		DeB1m91c0ki/gtT0UrnlICt+vGo=
 		</data>
 		<key>Headers/JSONKeyMapper.h</key>
 		<data>
@@ -406,7 +406,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		duG+wcRkE/Kv9CsKlGo8xjpRcUE=
+		RrBU2IsWUwZmqn12QC3EHmkuAOg=
 		</data>
 		<key>Modules/ReportKit.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -467,14 +467,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			XtTbqQgsSOKxWgPoxorVk7las4UIF/m3rTP7rDfNL6w=
+			HGtiKJBAoIQ+S/uIbFMoeX7tk60MacYG+yam9fZhq1o=
 			</data>
 		</dict>
 		<key>Frameworks/DGCharts.framework/Info.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			gqbqYLyligIj+uLu4c2T9ex2UtDiRHYv54uBKxIjG88=
+			48/lVJUxIY1Okd3+mNoal/TakvSkkaa8qRFu+ocDLYI=
 			</data>
 		</dict>
 		<key>Frameworks/DGCharts.framework/PrivacyInfo.xcprivacy</key>
@@ -488,7 +488,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			85Se1WDmgmOSyLASUU82AiP9kAauHeseEHUcPQrtEMA=
+			woDeKApAxNj+XSieAYc+Ba85L63+9AJqUL5bHfnZZag=
 			</data>
 		</dict>
 		<key>Headers/JSONKeyMapper.h</key>

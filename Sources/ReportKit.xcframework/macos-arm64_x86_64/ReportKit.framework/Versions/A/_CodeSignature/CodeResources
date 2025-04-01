@@ -6,7 +6,7 @@
 	<dict>
 		<key>Resources/Info.plist</key>
 		<data>
-		3tMzPrcoyy7b241bcPBbzasRsf0=
+		Hbbh6eHOMES150hXBz2ln0ZGRgE=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -15,7 +15,7 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			qSFIYfUhgBJVeUY63fgjbffKaS0=
+			A7OpfCYPq0wUupHqJDD+MZJuLu4=
 			</data>
 			<key>requirement</key>
 			<string>identifier "com.dcg.Charts" and anchor apple generic and certificate leaf[subject.CN] = "Apple Development: brian lazarz (UNA2MFC697)" and certificate 1[field.1.2.840.113635.100.6.2.1] /* exists */</string>
@@ -787,7 +787,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			3rT07aV/W5ux6Gm24X81PA6MYIVU7negfrcBWlhWPxI=
+			FqiCwGAIMjbq1XB2yD04lkAyrlGHnq0utuK6vKKpzlg=
 			</data>
 		</dict>
 	</dict>
